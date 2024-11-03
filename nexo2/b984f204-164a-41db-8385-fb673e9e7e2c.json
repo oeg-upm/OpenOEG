@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2018.10.NII.pptx: Diapositiva {14}\nWe use frames:\nA frame is “a data-structure for representing a stereotyped situation” (Minsky, 1975)\nWe will build frames for representing the different events that can affect to the status of a contract:\nEstablishment\nRescission\nDuress\nThen we will populate these frames.\nRepresent them in a standard way.\nOutput them as PROLEG facts.",
+  "speaker": "SYSTEM",
+  "uuid": "b984f204-164a-41db-8385-fb673e9e7e2c"
+}

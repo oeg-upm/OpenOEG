@@ -27,7 +27,7 @@ class PineconeUploader:
         
         self.nexo_path = "./tfg/nexo2/"
         
-        self.pc = Pinecone(api_key=open_file('./tfg/key_pinecone.txt'))
+        self.pc = Pinecone(api_key=open_file('../key_pinecone.txt'))
         
         
         self.index = self._setup_pinecone_index()

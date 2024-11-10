@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Introduction-SemanticWeb.pdf: Página 24\n©Asunción Gómez-Pérez\n- 24\nTravel\nrdfs:Literal\nrdfs:Class\nCompany-name\nsingleFare\nunits:currencyQuantity\nrdfs:range\nrdfs:range\nrdfs:domain\nrdfs:domain\nrdf:Type\ndepartureDate\nrdfs:domain\ntime:Date\nrdfs:range\narrivalDate\nrdfs:range\nrdfs:domain\nrdf:Property\nrdf:Type\nrdf:Type\nrdf:Type\nrdf:Type\nRDF\nRDFS\nIB-4321\n“Iberia”\n500 euros\n10/11/2005\nsingleFare\ndepartureDate\narrivalDate\nCompany-name\nrdf:Type\nrdf:Type\nrdf:Type\nrdf:Type\n",
+  "speaker": "SYSTEM",
+  "uuid": "138a7a88-f4ca-43e2-9822-81b51968a8b0"
+}

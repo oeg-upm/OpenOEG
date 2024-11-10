@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PURE.pdf: Página 14\n●The query Q is insecure because there is one insecure \nrewriting Q’ of Q with respect to secrecies S\nS1(X,W):-has(X,Y),disease(Y,'PAC'),\n    is_characterized_by(Y,Z),five_year_rate(Z,W)\nQ(N,B,Z,G,R):-patient(N,B,Z,G),has(N,Y),disease(Y,'PAC'), \nis_characterized_by(Y,Z),five_year_rate(Z,R).\nQ can be rewritten using the secrecy S1:\nQ’(N,B,Z,G,R):-patient(N,B,Z,G),S1(N,R).\nPURE: Queries\n14\n",
+  "speaker": "SYSTEM",
+  "uuid": "b0ca53ec-dfdd-477e-9ed8-e52645c9d1c1"
+}

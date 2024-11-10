@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ahmad.Numeric-Typology-based_semantic_labeling_in_tabular_data.pdf: Página 25\nTypology-based Semantic Labeling of Numerical Tabular Data\nDetection\n25\nDetection Order:\n1-Ordinal: 1,2,3,4\n2-Categorical: 1,1,1,2,2\n3-Sequential: 7000 - 9000\n4-Hierarchical: 2-88-12-3-1-1234\n5-Counts: 1,5,14,124\n6-Other: 169,173,181\n?-Random: 1239231,209,938423\n          : ath percentile\n: bth Quartile\n",
+  "speaker": "SYSTEM",
+  "uuid": "be5d3003-7764-4eac-9254-1f8e3f342e1e"
+}

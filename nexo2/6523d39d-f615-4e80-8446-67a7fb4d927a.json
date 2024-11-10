@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA.pdf: Página 99\n99\nALGORITMO AO*\n6. Crear un conjunto de nodos simples, C,\nconteniendo sólo el nodo n\n7. Hasta que C esté vacío, hacer:\n8. Eliminar de C un nodo m tal que no tenga sucesores en G que \naparezcan en C\n9. Revisar el coste g(m) del siguiente modo: Para cada arco dirigido\ndesde m a un conjunto de nodos (n1, ..., nn), calcular gi(m) =\nci(n1i)+...+g(nmi).\nEl valor de g(nji) ha sido calculado en un paso previo en este ciclo o, si\nestá en el primer paso, fue calculado en el paso 6. Colocar g(m) en el\nmínimo de todos los arcos de salida de gi(m) y marcar el arco a través\nde los que se alcanza este mínimo, borrando las marcas previas si\nson diferentes.\n",
+  "speaker": "SYSTEM",
+  "uuid": "6523d39d-f615-4e80-8446-67a7fb4d927a"
+}

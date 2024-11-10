@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ODPs-v6.pdf: Página 13\n13\nODPs Reuse: Methodological Guidelines (IV)\n13\nDSP_PC7: What devices exist? \nDisplay, touchscreen, balise, keyboard, trackball, pulse oximeter,  \nglucose meter, environmental temperature sensor, environmental \nhumidity/pressure sensor, Anemometer, CO2 level sensor, printer, \ncamera, GPS Receiver, short distance communication module  \n(NFC. ZigBee, Bluetooth), long distance communication module \n(GPRS, UMTS, WiFi), processing module, memory module, \nloudspeaker, microphone and reading/writing module NFC\nDSP_PC61: What \nare the components \nof a printer? ...\nDSP_PC71: What \nare the components \nof a camera? ...\nDSP_PC83: What are \nthe components of a \nGPS receiver? ...\n",
+  "speaker": "SYSTEM",
+  "uuid": "284e11a1-44df-496b-9783-1a5381b8de04"
+}

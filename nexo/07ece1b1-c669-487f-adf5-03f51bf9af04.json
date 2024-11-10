@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 5\nDeep Reinforcement Learning [3]\nNo models, labels, demonstrations, or any other \nhuman-provided supervision signal.\nRepresentation has been a challenge/missing in RL.\nDRL combines deep neural networks with RL\nLearn to act from high-dimensional sensory inputs.\nIs a noisy, sparse, and delayed reward signal sufficient \nfor training deep networks? \n5\n",
+  "speaker": "SYSTEM",
+  "uuid": "07ece1b1-c669-487f-adf5-03f51bf9af04"
+}

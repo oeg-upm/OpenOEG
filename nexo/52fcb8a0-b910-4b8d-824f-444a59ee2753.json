@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: Infraestructura\n\nSVN:\nhttp://delicias.dia.fi.upm.es/repos/zaragoza/\nJIRA:\nhttp://jira.oeg-upm.net/browse/ZARLD\nInstancia de Virtuoso de pre-producción:\nhttp://zaragoza.linkeddata.es:8892/\n(también es linkeddata2.dia.fi.upm.es:8892)\nSPARQL endpoint asociado a este Virtuoso:\nhttp://zaragoza.linkeddata.es/sparql\nEjemplo de API Linked Data:\nhttp://zaragoza.linkeddata.es/restaurante/restaurantes",
+  "speaker": "SYSTEM",
+  "uuid": "52fcb8a0-b910-4b8d-824f-444a59ee2753"
+}

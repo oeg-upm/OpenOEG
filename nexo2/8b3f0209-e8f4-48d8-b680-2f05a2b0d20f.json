@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: TIC-vigilance-en-v0%28maria%29.pdf: Página 2\nPilot project on ontologies for TIC vigilance\n• Collaboration with the Secretary of State for \nTelecommunications and Information Society \n• Problem:\n• Different organizations and locations use different schemes \n(CPV, UNSPSC, ad-hoc…) and classification for products\nand services. \n• Heterogeneity through dataset annotated with different \nschemes\n• Need for query translation (when using another schema)\n• Reuse:\n• Ontological resources\n• foaf, org, GoodRelations, SKOS…\n• Non-Ontological resources\n• propietary database\n• csv files\n2\n",
+  "speaker": "SYSTEM",
+  "uuid": "8b3f0209-e8f4-48d8-b680-2f05a2b0d20f"
+}

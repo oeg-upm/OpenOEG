@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ISSGC08.pdf: Página 18\n©<Miembro Grupo>\n19\nHigh Throughput Computing\n• Provide to the users a high amount of computational resources\n– Goal: be able to maintain a high number of processes running with high \nperformance and reliability\n– Reliability is a key question in these systems\n• High amount of resources \n• High availability of these resources\n– The greater the degree of replication of resources, the better the ability \nof the system to maintain high reliability and performance\n• Principal unity of control\n– One unit that leads the goal of all resources working together\n• Transparency for the user\n– Remember VOs?\n• Component autonomy\n– The resources are independent of allowing or not the use of their \ncapabilities\n",
+  "speaker": "SYSTEM",
+  "uuid": "ef6094d6-668f-4182-888e-6c44e3b7e12d"
+}

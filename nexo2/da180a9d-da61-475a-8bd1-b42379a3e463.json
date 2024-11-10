@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 30\nATHENS 2010 \n© Raúl García Castro et al. \nExercise 2.a. StickyNote.rdf \nevent1 \nevent2 \nevent3 \nevent4 \nLocal_event \nEvent \nPersonal_event \nResearcher \nProfessor \nCaroleGoble \nOscarCorcho \nPinarAlper \nevent5 \nrdf:type \nrdf:type \nrdf:type \nrdf:type \nrdf:type \nrdf:type \nrdf:type \nrdf:type \ninvolves \ninvolves \ninvolves \ninvolves \n15/05/2006 \n16/05/2006 \n15/05/2006 \neventDate \neventDate \neventDate \n30 \n",
+  "speaker": "SYSTEM",
+  "uuid": "da180a9d-da61-475a-8bd1-b42379a3e463"
+}

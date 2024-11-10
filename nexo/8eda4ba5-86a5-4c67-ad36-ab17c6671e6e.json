@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 33\nRNNs 5 [10]  \nData is more complex\nconsider a time series or sensor data as input, time \ngives an extra dimension\nthe value at position (i,j,k) is the jth value at the kth \ntime step of the ith example \n33\n",
+  "speaker": "SYSTEM",
+  "uuid": "8eda4ba5-86a5-4c67-ad36-ab17c6671e6e"
+}

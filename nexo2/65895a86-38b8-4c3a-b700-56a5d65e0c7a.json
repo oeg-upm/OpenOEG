@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_SPARQL.pdf: Página 49\n•  General Idea: Answer Queries with implicit answers \n•  E.g. Graph/Ontology: \nfoaf:Person rdfs:subClassOf foaf:Agent . \nfoaf:Person rdfs:subclassOf  \n  \n [ a owl:Restriction ; \n   owl:onProperty :hasFather ; \n owl:someValuesFrom foaf:Person ] . \nfoaf:knows rdfs:range foaf:Person.  \n   \n  :jeff a Person . \n  :jeff foaf:knows :aidan  \n \nSELECT ?X { ?X a foaf:Person } \n \n•  Pure SPARQL 1.0 returns only :Jeff,  \nshould also return :aidan \n \n57 \nOntological Engineering Group \nOWL2 and SPARQL1.1 \n",
+  "speaker": "SYSTEM",
+  "uuid": "65895a86-38b8-4c3a-b700-56a5d65e0c7a"
+}

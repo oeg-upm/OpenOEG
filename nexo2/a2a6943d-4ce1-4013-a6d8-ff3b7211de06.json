@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Protege-Pizzas-v5.pdf: Página 2\n© O. Corcho, MC Suárez de Figueroa Baonza\n2\nOWL and SWRL\nNamed Classes (I)\nAn ontology contains classes – indeed, the main building blocks of\nan OWL ontology are classes.\nAn empty ontology contains one class called Thing.\nOWL classes are interpreted as sets of individuals or sets of\nobjects. The class Thing is the class that represents the set\ncontaining all individuals.\nBecause of this all classes are subclasses of Thing.\n",
+  "speaker": "SYSTEM",
+  "uuid": "a2a6943d-4ce1-4013-a6d8-ff3b7211de06"
+}

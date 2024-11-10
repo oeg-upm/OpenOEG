@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 3._Metodolog%C3%ADa-1-v1%28asun%29.pdf: Página 8\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n9\nOntological Engineering\nTOVE Methodology\nIdentify intuitively possible \napplications and  solutions\nIdentify Queries:\n• Answers:   Axioms\nFormal definitions\n• Questions: Terminology\nConditions under which\nthe solutions to the questions \nare complete\nMotivating\nScenarios\nInformal\nCompetency\nQuestions\nFormal \nTerminology\nFormal\nCQ\nFormal \nAxioms\nCompleteness\nTheorems\nAs an entailment \nof consistency problems \nwith respect to\nthe axioms in the ontology\nDefined as a first-order sentence\nusing the predicates of the ontology\nObjects\nAttributes\nRelations\nConstants \nVariables\nFunctions\nPredicates\nKIF\nUschold, M.; Grüninger, M.  \nONTOLOGIES: Principles, Methods and Applications.  \nKnowledge Engineering Review. \nVol. 11; N. 2; June 1996.\n",
+  "speaker": "SYSTEM",
+  "uuid": "f519753b-7015-4a41-af67-5ca73c5eca12"
+}

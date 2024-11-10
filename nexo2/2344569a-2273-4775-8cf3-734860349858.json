@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 21\n•21\nRDF inference. Examples (II)\n•\nQuery: “Tell me which are the relationships between \nOscar and Asun”\noeg:Oscar\noeg:Asun\n?\n•\nResult: oeg:hasColleague\n•\nQuery: “Tell me the homepage of Oscar colleagues”\noeg:Oscar\nperson:hasHomePage\nperson:hasColleague\n•\nResult: “http://www.fi.upm.es/”\n?\nperson:hasHomePage\n42\nRDF inference. Entailment rules\n43\n",
+  "speaker": "SYSTEM",
+  "uuid": "2344569a-2273-4775-8cf3-734860349858"
+}

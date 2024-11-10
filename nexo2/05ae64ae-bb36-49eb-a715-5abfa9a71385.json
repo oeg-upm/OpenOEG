@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 05_OWL.pdf: Página 89\n© O. Corcho, MC Suárez de Figueroa Baonza\n69\nOWL 2\nExistential Restrictions (I)\nAn existential restriction describes a class of individuals that have\nat least one (some) relationship along a specified property to an\nindividual that is a member of a specified class.\nExistential restrictions are also known as Some Restrictions, or as some values from\nrestrictions.\nAdding a restriction to Pizza that specifies a Pizza must have a\nPizzaBase\n(hasBase\nsome\nPizzaBase).\nYou\nare\ncreating\na\nnecessary condition.\nA Pizza is a subclass of the things that have at \nleast one PizzaBase\n",
+  "speaker": "SYSTEM",
+  "uuid": "05ae64ae-bb36-49eb-a715-5abfa9a71385"
+}

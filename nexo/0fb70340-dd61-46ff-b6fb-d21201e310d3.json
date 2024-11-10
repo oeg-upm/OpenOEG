@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS_Terminology_in_ontologies_15-11-2010.pdf: Página 13\n14\nRelations between concepts:\nhierarchical relations\nClose relation between a concept and its characteristics \nA. GENERIC RELATIONS (genus-species relation) IS_A\n• One of the concepts includes another concept\n•\nvertical: hypernym- hyponym; superordinate –subordinate\n•\nhorizontal: two specific ideas of the same generic concept with some \ndistinguishing characteristics\n• In thesaurus\n–\nBroader than (BT)\n–\nNarrower than (NT)\n–\nAssociated to (AT)\nB. PARTITIVE RELATIONS (part-whole relation) PART_OF\n• These relations are also called meronimic (HAS_PART)\n–\nCar: wheels, seats, doors, boot, stearing wheel, gearbox…\n- Different types of meronimic relations\n",
+  "speaker": "SYSTEM",
+  "uuid": "0fb70340-dd61-46ff-b6fb-d21201e310d3"
+}

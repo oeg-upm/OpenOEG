@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 20200423_EOSC.pdf: Página 14\nOpen Science Update\nHow do we eat our own dog food at OEG-UPM?\n\nWhich research artefacts do we handle at OEG-UPM?\no Papers (sure, chedk them at http://oa.upm.es/)\no Data Management Plans (using DMPOnline)\no Datasets \n• Normally in GitHub, e.g. https://github.com/oeg-upm/btn100\no Software source code \n• Normally in GitHub: http://www.github.com/oeg-upm\no Docker images, models and APIs\n• Normally in DockerHub: https://hub.docker.com/u/oegupm/\no Ontologies, thesauri, etc. \n• Normally in GitHub, e.g., \nhttps://github.com/CiudadesAbiertas/vocab-sector-publico-\nagenda-municipal\n• And published online, e.g., \nhttp://vocab.ciudadesabiertas.es/def/sector-publico/agenda-\nmunicipal/\no …\n",
+  "speaker": "SYSTEM",
+  "uuid": "99ed645e-032b-44c8-8036-614b169cb46a"
+}

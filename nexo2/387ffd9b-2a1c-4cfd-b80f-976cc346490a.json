@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion.pdf: Página 79\nPlanificación\nSe desea construir un sistema automático que\ncontrole los satélites para tomar imágenes o\nmediciones de G objetivos diarios, teniendo en\ncuenta que los objetivos vienen descritos por las\ncoordenadas\ndel\nespacio\ndonde\nestán\n(tres\nparámetros), e información sobre el objetivo\n(imagen y tipo de imagen o medición y tipo de\nmedición). Al comienzo de cada día se conoce\ndonde\napunta\ncada\nsatélite\n(mediante\ncoordenadas). Formalizar dicho objetivo según\nSTRIPS:\n",
+  "speaker": "SYSTEM",
+  "uuid": "387ffd9b-2a1c-4cfd-b80f-976cc346490a"
+}

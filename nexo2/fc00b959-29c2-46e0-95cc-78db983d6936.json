@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ResearchPlan2014_slides.pdf: Página 7\nAlejandro Llaves - Research Plan 2014\n7\nPreliminary hypothesis & RQs\n●PH1: Given a RDF streaming engine, a SPARQL query, a set of RDF \ndata streams, and finite computing resources, it is possible to define a \nprocessing strategy that optimizes the time and resources used to \nprovide a response in near real-time.\n●PH2: Using an adaptive query processing strategy, a RDF streaming \nengine offers better performance against varying input data rates, \nrequests, and system conditions.\n●RQ1: What technologies are suited to optimize query processing over \nRDF data streams?\n●RQ2: Which set of query operators are optimizable in the context of \nLinked Stream Data? \n●Bonus Question: Are there features of Linked Geospatial Data that \nmake its processing more parallelizable?\n",
+  "speaker": "SYSTEM",
+  "uuid": "fc00b959-29c2-46e0-95cc-78db983d6936"
+}

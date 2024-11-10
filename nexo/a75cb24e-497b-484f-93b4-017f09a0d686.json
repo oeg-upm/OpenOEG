@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Metodolog%C3%ADa-2-v2.pdf: Página 49\nHow to use the software library?\nTh\n3\nfi\ni\nfil\n•\nThere are 3 configuartion files:\n– nor.xml, for describing the non-ontological resource.\n– prnor xml for describing the pattern for re-engineering\nprnor.xml, for describing the pattern for re engineering.\n– or.xml, for describing the ontology generated.\n•\nThere is a batch file\n– prnor.bat, for performing the transformation\n•\nRequirements\n– Java runtime environment (tested in 1 5)\nJava runtime environment (tested in 1.5)\n– You should set tha JAVA_HOME to the location of the \ninstallation directory. \n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón-Terrazas\n49\nOntological Engineering\n",
+  "speaker": "SYSTEM",
+  "uuid": "a75cb24e-497b-484f-93b4-017f09a0d686"
+}

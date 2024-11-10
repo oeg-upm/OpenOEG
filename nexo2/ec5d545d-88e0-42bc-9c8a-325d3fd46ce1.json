@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 04_OWL.pdf: Página 51\n© O. Corcho, MC Suárez de Figueroa Baonza \n55 \nOWL 2 \nTransitive Properties \nIf a property is transitive, and the property relates individual a to \nindividual b, and also individual b to individual c, then we can infer \nthat individual a is related to individual c via the property. \nhasAncestor is transitive \n",
+  "speaker": "SYSTEM",
+  "uuid": "ec5d545d-88e0-42bc-9c8a-325d3fd46ce1"
+}

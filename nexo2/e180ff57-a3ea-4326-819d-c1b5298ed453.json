@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 05_OWL.pdf: Página 95\n© O. Corcho, MC Suárez de Figueroa Baonza\n75\nOWL 2\nInferring Ontology Class Hierarchy\nThe ontology can be ‘sent to the reasoner’ to automatically\ncompute the classification hierarchy.\nThe ‘manually constructed’ class hierarchy is called the asserted hierarchy.\nThe class hierarchy that is automatically computed by the reasoner is called the inferred\nhierarchy.\nProtege 3.4. Pellet 1.5.1\n",
+  "speaker": "SYSTEM",
+  "uuid": "e180ff57-a3ea-4326-819d-c1b5298ed453"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA.pdf: Página 6\n6\nBASE DE REGLAS\n1)\n(X,Y / X < 4) → (4,Y)\nllenar A\n2)\n(X,Y / Y < 3) → (X,3)\nllenar B\n3)\n(X,Y / X > 0) → (0,Y)\nvaciar A\n4)\n(X,Y / Y > 0) → (X,0)\nvaciar B\n5)\n(X,Y / X + Y ≥4 ∩ Y > 0) → (4,Y – (4 - X)) pasar de B \na A, hasta llenar A\n6)\n(X,Y / X + Y ≥3 ∩ X > 0) → (X - (3 - Y), 3) pasar de A \na B, hasta llenar B\n7)\n(X,Y / X + Y ≤4 ∩ Y > 0) → (X + Y, 0) volcar B en A\n8)\n(X,Y / X + Y ≤3 ∩ X > 0) → (0, Y + X) volcar A en B\n",
+  "speaker": "SYSTEM",
+  "uuid": "216c5acf-41d9-44d8-b009-207f21b03e52"
+}

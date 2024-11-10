@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OntoDDB.pdf: Página 17\n12/11/2009\nPROTÉGÉ - PLUGIN OWL-DB\n• Backend plug-in for Protégé: change in storage format\n– Ontology repository instead of OWL file\n– Changes in loading and storing processes\n• Statements as means of communication between Protégé \nand repository\n• Two storing modes:\n– Save all\n• Removal of previous statements from the database\n• Insertion of all the statements of the ontology\n– Save changes\n• Detection of changes made in the ontology\n• Update of names in the database\n• Insertion of new statements (statements comparison)\n• Removal of old statements\n",
+  "speaker": "SYSTEM",
+  "uuid": "7daf150a-3c81-4729-9a81-1cd7ee95f7f6"
+}

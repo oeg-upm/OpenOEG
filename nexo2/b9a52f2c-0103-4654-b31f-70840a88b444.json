@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 05_OWL.pdf: Página 79\n© O. Corcho, MC Suárez de Figueroa Baonza\n59\nOWL 2\nInverse Functional Properties\nIf a property is inverse functional then it means that the inverse\nproperty is functional. For a given individual, there can be at most\none individual related to that individual via the property.\nisBirthMotherOf is inverse functional\nThis is the inverse property of\nhasBirthMother — since hasBirthMother is functional, \nisBirthMotherOf is inverse functional\n",
+  "speaker": "SYSTEM",
+  "uuid": "b9a52f2c-0103-4654-b31f-70840a88b444"
+}

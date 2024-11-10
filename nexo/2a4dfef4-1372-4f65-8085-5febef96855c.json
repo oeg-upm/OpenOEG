@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 23\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nFormalización en lógica de predicados de primer orden                                                                        \nMariano Fernández López\nDeducción (II)\nSe trata de saber si una fórmula Q es cierta conociendo:\n1) Los axiomas lógicos, es decir, axiomas que son válidos sea cual sea el significado de los \nsímbolos)\nPor ejemplo, F F\n2) Los axiomas no lógicos, es decir, los que son válidos sólo suponiendo ciertos significados \nde los símbolos.\n3) Las reglas de inferencia\nPor ejemplo (modus ponens)\nP Q\nP\n----------\nQ\n",
+  "speaker": "SYSTEM",
+  "uuid": "2a4dfef4-1372-4f65-8085-5febef96855c"
+}

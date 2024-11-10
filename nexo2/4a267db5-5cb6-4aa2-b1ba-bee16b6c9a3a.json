@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: EfficientClustering.pdf: Página 13\n13\nApproach 2: RDC\nRanking on Dirichlet-based Clustering (RDC)\n•  Only considering the top n topics from the ranked list of probability distribu7ons [29] \n•  Based on the assump7on that the highest weighted topics have a high inﬂuence in the \nrest of topics when calcula7ng distances  \n \n \n \n \n  \n0.23 \n0.18 \n0.33 \n0.13 \n 0.13 \nn=2, P =  \n2 \n0 \nR =  \n1 \n0 \n2 \n3 \n4 \n",
+  "speaker": "SYSTEM",
+  "uuid": "4a267db5-5cb6-4aa2-b1ba-bee16b6c9a3a"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 42\nPreparing the evaluation execution \nDeploying the evaluation description (I) \n• Physical deployment: Making the BPEL process that \nimplements the evaluation description available in the same \ncontainer as the RES Core. \n– Copy evaluation description service assembly (res-itest-ed-sa-1.1-\nSNAPSHOT.zip) to RES Worker hot deploy directory \n(%FUSE_CORE%\\deploy) \n \n• Logical deployment: Inform the RES Core about the endpoint \nfrom which the BPEL process that implements the evaluation \ndescription is accessible. \n– Invoke the DeployEvaluationDescription of the Evaluation Description \nDeployer Service of the RES Core. \n \n \nESWC 2011, 29/05/2011 \n42 \n",
+  "speaker": "SYSTEM",
+  "uuid": "79024f0b-2d65-454f-9d36-3a496b75d973"
+}

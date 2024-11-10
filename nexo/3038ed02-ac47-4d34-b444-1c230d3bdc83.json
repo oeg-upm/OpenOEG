@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: NLP.Dissociating_language_and_thought_in_large_language_models.pdf: Página 14\n3. The success of LLMs in acquiring formal \nlinguistic competence\nPresentación LLMs (1/2)\nBrevísima introducción sobre modelos estadísticos y la creencia de que la \nestadística nunca sería suficiente; los LLMs cambiaron eso.\n¿Cómo funcionan los Transformers (>100B parámetros)?\n3 características clave:\n- Muchas capas\n- Mecanismos de atención\n- Todas las palabras se pasan al mismo tiempo  interesante! No \ncomo humanos!\n",
+  "speaker": "SYSTEM",
+  "uuid": "3038ed02-ac47-4d34-b444-1c230d3bdc83"
+}

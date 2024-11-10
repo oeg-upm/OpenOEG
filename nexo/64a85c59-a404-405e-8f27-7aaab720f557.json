@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion-2013.pdf: Página 30\nPlanificación \n \n \nBúsqueda del plan en STRIPS \nSe comprueba \nsi la meta de \nla cima es \ncierta en el \nestado inicial \nM = encima (C, B) ^ en-mesa (A) ^ R \nencima (C, B) \nen-mesa (A) \nR \nA \nB \nC \nEstado inicial \n",
+  "speaker": "SYSTEM",
+  "uuid": "64a85c59-a404-405e-8f27-7aaab720f557"
+}

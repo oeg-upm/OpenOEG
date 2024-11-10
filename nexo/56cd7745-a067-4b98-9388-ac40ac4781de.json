@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 37\nThe Problem of Long-Term Dependencies 2 [8]\nSometimes more context is needed…\nE.g. “I grew up in France…[long text]… I speak \nfluent French.”\nas that gap grows, RNNs become unable to learn \nto connect the information\nRNNs do not handle “long-term dependencies”\n37\n",
+  "speaker": "SYSTEM",
+  "uuid": "56cd7745-a067-4b98-9388-ac40ac4781de"
+}

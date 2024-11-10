@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 6._GC_Metodolog%C3%ADa-1-v1%28asun%29.pdf: Página 59\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n60\nOntological Engineering\nClassification Scheme Data Models (I)\n•\nPath Enumeration Data Model is defined as \na model that stores for each node the path (as \na string) from the root to the node. \nWater area\n20000\nEnvironmental \narea\n20000.21000\nJurisdiction \narea\n20000.24020\nFishing\nStatistical area\n20000.22000\nInland/marine\n20000.21000.21001\n1\n2\n3\n1\n2\n3\n•\nAdjacency  List is a recursive structure for \nhierarchy representations that comprises a list \nof nodes with a linking column to their parent \nnodes.\nWater area\n20000\nEnvironmental \narea\n21000\nJurisdiction \narea\n24020\nFishing\nStatistical area\n22000\nInland/marine\n21001\nOcean\n21002\nNorth/South/\nEquatorial\n21003\nFAO statistical \narea\n22001\nAreal \ngrid system\n22002\nFAO statistical area\n20000.22000.22001\nAreal grid system\n20000.22000.22002\nOcean\n20000.21000.21002\nNorth/South/\nEquatorial\n20000.21000.21003\n",
+  "speaker": "SYSTEM",
+  "uuid": "e8c209bd-e1ed-43ac-bfaf-6472cf05c6c4"
+}

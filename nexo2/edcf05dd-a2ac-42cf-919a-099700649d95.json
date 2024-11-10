@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 26\n•26\nExercise 2.a. StickyNote.rdf\n52\nAnother example\nevent1\nevent2\nlocal_event\nevent\nrdf:type\nrdf:type\n/\n/\nevent3\nevent4\nPersonal_event\nevent5\nrdf:type\nrdf:type\nrdf:type\ninvolves\ninvolves\n15/05/2006\n16/05/2006\n15/05/2006\nresearcher\nprofessor\nCaroleGoble\nOscarCorcho\nPinarAlper\nrdf:type\nrdf:type\nrdf:type\ninvolves\ninvolves\n",
+  "speaker": "SYSTEM",
+  "uuid": "edcf05dd-a2ac-42cf-919a-099700649d95"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 60\nCurrent Status of PROLEG Projects(continued)\n• Implementing the full JUF theory in PROLEG:\nWe have implemented more than 2500 rules in civil law and supreme\ncourt cases by Todai law school graduates.\n• Answering yes/no question of Japanese Bar Exams:\nAs a part of Japanese Bar Exams, there are multiple choice ques-\ntions to choose two or three correct statements among ﬁve.\nEach choice can be regarded as yes/no questions.\nWe are now starting a project to solve these yes/no questions by a\ncombination of natural language processing and PROLEG to solve\nsubsumption problem and provide a correct explanation why the\nstatment is correct/incorrect.\n60\n",
+  "speaker": "SYSTEM",
+  "uuid": "0f2f615f-cec6-47bc-9807-4ea375882a47"
+}

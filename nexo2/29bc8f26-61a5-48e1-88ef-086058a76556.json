@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 26\n© O. Corcho, R.García-Castro, O. Muñoz-García\n26\nRDF and RDF Schema\nRDF Serialisations\n•\nNormative\n–\nRDF/XML (www.w3.org/TR/rdf-syntax-grammar/)\n•\nAlternative (for human consumption)\n–\nN3 (http://www.w3.org/DesignIssues/Notation3.html)\n–\nTurtle (http://www.dajobe.org/2004/01/turtle/)\n–\nTriX (http://www.w3.org/2004/03/trix/)\n–\n…\nImportant note: the order of RDF statements in a serialisation does \nnot affect the behaviour of a parser/application\n",
+  "speaker": "SYSTEM",
+  "uuid": "29bc8f26-61a5-48e1-88ef-086058a76556"
+}

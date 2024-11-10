@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 16\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nSignificado (II)\nFormalización en lógica de predicados de primer orden                                                                        \nMariano Fernández López\nUniverso del \ndiscurso\n•Sócrates\n•Aristóteles\n•Platón\nCONJUNTOS\nLPPO\n•a\n•b\n•c\nConstantes\nhombre = {Sócrates, Platón, Aristóteles}\nmortal = {Sócrates, Platón, Aristóteles}\nmaestroDe= {(Sócrates, Platón), (Platón, Aristóteles)}\n•h\n•m\n•t\nSímbolos de predicado\nx (h (x) m (x))\nx y (h (x) h (y) t(x, y)) \nh (a) h (b) h(c) \nFórmulas\nmortal hombre\nmaestroDe en el dominio de los hombres\nSócrates, Platón, Aristóteles hombre \n•Se puede establecer una correspondencia entre los símbolos lógicos y los objetos de un dominio \n(universo del discurso)\n",
+  "speaker": "SYSTEM",
+  "uuid": "a29ded84-4bc4-4e93-8a2e-4498b057660e"
+}

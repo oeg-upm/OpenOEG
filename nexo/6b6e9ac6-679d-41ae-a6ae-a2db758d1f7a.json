@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4._methodologies-Espec-OL.pdf: Página 8\nOntological Engineering \n©Asunción Gómez-Pérez,\nGetting terminology using Competency Questions\nIdentify intuitively possible\napplications and solutions\nIdentify Queries:\n• Answers:   Axioms\nFormal definitions\n• Questions: Terminology\nMotivating\nScenarios\nInformal\nCompetency\nQuestions\nFormal \nTerminology\nClasses\nRelations\nAttributes\nAxioms\nInstances\nUschold, M.; Grüninger, M.  \nONTOLOGIES: Principles, Methods and Applications.  \nKnowledge Engineering Review. \nVol. 11; N. 2; June 1996.\nFind documents written by Person P\nIdentify Queries:\n• Questions:  Document, Person, writes\n• Answers: Document D1 is written by P1\nClasses: Document, Person\nRelations: Writes, written by\nAttributes: ---\nAxioms\nInstances: P1, S1\n",
+  "speaker": "SYSTEM",
+  "uuid": "6b6e9ac6-679d-41ae-a6ae-a2db758d1f7a"
+}

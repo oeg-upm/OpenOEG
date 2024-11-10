@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 44\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nORG: Model and instances \n45 \ninstanceOf\ninstanceOf\ninstanceOf\ninstanceOf\ninstanceOf\noeg:Asun\norg:Post\norg:hasUnit/unitOf\norg:Organization\norg:OrganizationalUnit\nfoaf:Agent\norg:memberOf\norg:postIn/hasPost\noeg:MC\nfoaf:knows\nhttp://.../people/asun_oeg.png\nfoaf:img\nfoaf:firstName\nfoaf:surname\nfoaf:firstName\nfoaf:surname\n“Mari Carmen”\n“Suárez de Figueroa”\n“Asunción”\n“Gómez”\norg:headOf\norg:holds/heldBy\nunivEs:UPM\nskos:prefLabel\n“Universidad \nPolitécnica de \nMadrid”\nupm:FI\nskos:prefLabel\n“Facultad de \nInformática”\nfi:DIA\nskos:prefLabel\n“Departamento \nde Inteligencia \nArtificial”\norg:unitOf\norg:unitOf\norg:memberOf\norg:memberOf\norg:memberOf\norg:memberOf\norg:memberOf\norg:memberOf\norg:headOf\nfi:15\nskos:prefLabel\n“Director de \ndepartamento”\norg:postIn\norg:holds/heldBy\ninstanceOf\n",
+  "speaker": "SYSTEM",
+  "uuid": "170943aa-c092-4d63-938a-70c4d788cf1a"
+}

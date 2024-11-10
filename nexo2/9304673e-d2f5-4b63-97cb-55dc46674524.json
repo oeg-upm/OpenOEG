@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4._methodologies-Espec-OL.pdf: Página 31\nOntological Engineering \n©Asunción Gómez-Pérez,\nOntology Specification. Group CQs\nObjective: To extract a pre-glossary to be used in the \nconceptualization activity.\nOutput: A pre-glossary with the main terms used in \nthe CQs with their associated frecuency.\nRecommended Techniques: \n Terminology \nExtraction \n(automatic): terms are \nnames, adjectives and verbs.\n From CQs we will extract the conceptual model.\n From responses to CQs we will extract the \nUniverse of Discurse (the knowledge base).\nRecommended Tools: \n Terminology Extraction Tools.\n Terminology Frequency Tools.\n",
+  "speaker": "SYSTEM",
+  "uuid": "9304673e-d2f5-4b63-97cb-55dc46674524"
+}

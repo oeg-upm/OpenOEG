@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Presentacion_OEG26-02-2014.pdf: Página 5\nWhat am I working on?\n•Workflow representation\n•Plan/template representation\n•Provenance trace representation\n•Link between templates and traces\n•Creation of abstractions/motifs in scientific workflows\n•Abstraction catalog\n•Find how different workflows are related\n•Understandability and reuse of scientific workflows\n•Relation between the workflows involved in the same experiment \n(Research Objects)\n5\nCH1: Can we export an abstract template of the \nmethod being represented?\nCH2: How do we interoperate with other workflow \nresults?\nCH3: How do we access the workflow results?\nCH4: How do we link an abstract method with \nseveral implementations?\nCH5: How can we detect what are the typical \noperations in scientific workflows?\nCH6: How can we detect them automatically?\nCH7: Which workflow parts are related to other workflows?\nCH8: How do workflows depend on the other parts of the \nexperiments?\n",
+  "speaker": "SYSTEM",
+  "uuid": "7a486d45-dedb-47c2-8014-b69c46c286fa"
+}

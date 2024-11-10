@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 59\n© O. Corcho\n59\nOntological Engineering\nChunk 5. Formalisation in DL\n)\n.(\n.\n.\n)\n.\n.(\n.\n)\n.\n.(\n.\n.\nvan\nwhiteThing\ndrives\nman\nn\nwhiteVanMa\nbus\ndrives\nperson\nbusDriver\nvan\ndrives\nperson\nvanDriver\npany\nhaulageCom\npartOf\nworksFor\ntruck\ndrives\nperson\nckDriver\nhaulageTru\npany\nhaulageCom\npartOf\npany\nhaulageCom\nworksFor\nke\nhaulageWor\nlorry\ndrives\nperson\nr\nlorryDrive\nvehicle\ndrives\nperson\ndriver\nadult\ndriver\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "speaker": "SYSTEM",
+  "uuid": "bee771dc-245d-457b-a159-14d2a205ba5f"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 13_LDGeneration.pdf: Página 31\n18/12/12 \n31 \nPublishing Linked Data \nBoris Villazón-Terrazas. Oscar Corcho \nFacultad de Informática, Universidad Politécnica de Madrid \nCampus de Montegancedo sn, 28660 Boadilla del Monte, Madrid \nhttp://www.oeg-upm.net \nocorcho@fi.upm.es \nPhone: 34.91.3366605, Fax: 34.91.3524819 \n \nPublication - Virtuoso Open-source edition \n• \nhttp://sourceforge.net/projects/virtuoso/files/virtuoso/6.1.4/virtuoso-opensource-\nwin32-20111101.zip/download \n• \nUnzip to C:\\software \n• \nODBC Registration:  \n• \nSet up VIRTUOSO_HOME variable pointing out to virtuoso-opensource directory: \n• \ncd %VIRTUOSO_HOME%\\lib  \n• \nregsvr32 virtodbc.dll \n• \nCreating a Windows Service \n• \ncd %VIRTUOSO_HOME%\\database  \n• \nSET PATH=%PATH%;%VIRTUOSO_HOME%\\bin;%VIRTUOSO_HOME%\\lib  \n• \nvirtuoso-t -? //to verify  \n• \nvirtuoso-t +service screate +instance \"Instance Name\" +configfile virtuoso.ini  \n• \nvirtuoso-t +service list //to verify  \n• \nvirtuoso-t -I \"Instance Name\" +service start //start the service \n62 \n",
+  "speaker": "SYSTEM",
+  "uuid": "2248b594-ac73-4799-aac0-5bbeb49620ca"
+}

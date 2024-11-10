@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_OWL.pdf: Página 76\n© O. Corcho, MC Suárez de Figueroa Baonza\n76\nOWL and SWRL\nHands-on\n• To read an ontology in RDF(S) from two files:\n– GP_Santiago.rdf (conceptualization)\n– GP_Santiago.rdfs (instances)\n• To write the class hierarchy of the ontology, including the \ninstances of each class:\nClass Practica2:MedioTransporte \nClass Practica2:Tren \nClass Practica2:Bicicleta \nInstance Practica2:GP_Santiago_Instance_70 \nClass Practica2:Automovil \nClass Practica2:AutoBus \nClass Practica2:APie \nClass Practica2:InfraEstructuraTransporte \nClass Practica2:ViaFerrea \nClass Practica2:Sendero \nClass Practica2:Carretera \nInstance Practica2:A6 \n...\n",
+  "speaker": "SYSTEM",
+  "uuid": "e1092d51-b04e-4374-bd54-f7d183bbc448"
+}

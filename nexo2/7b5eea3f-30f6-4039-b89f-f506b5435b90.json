@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologias-Multilingualidad.pdf: Página 7\n©\n7\nInternacionalización\nLocalización\nContenido Léxico : caracteres y \nsímbolos manejados por el ordenador\n(ASCII encoding, UNICODE, etc.) \nContenido Léxico –terminológico: \ntérminos o palabras utilizadas para\ndenominar los elementos de la ontología\nContenido gramatical : caracteres, \nestructuras sintácticas & símbolos\nempleados en algunos lenguajes de \nontologías (RDF(S), OWL)\nContenido conceptual:  decisiones de \nconceptualización: granularidad, \nexpresividad, perspectiva, etc., \nespecialmente en las ontologías de \ndominio\nParadigma de representación: frames, \nsemantic networks, DL, (Ontologías)\nContenido pragmático: resultado final \ndel modelo (GUI, etc.)\nA nivel de diseño\nEn fase posterior\nInternacionalización y localización en \nontologías\n",
+  "speaker": "SYSTEM",
+  "uuid": "7b5eea3f-30f6-4039-b89f-f506b5435b90"
+}

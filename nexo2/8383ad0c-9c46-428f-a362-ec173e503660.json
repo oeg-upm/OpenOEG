@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SPARQL_optimization_slides.pdf: Página 7\nRelated Work: SPARQL Optimization\nData structures\nHistograms\nSimilar data items in buckets, count number of items\nSee Stocker et al., Neuman et al.\nQTree\ncombination of histogram and R-Tree, see Harth et al \n(2010)\nCompression techniques, e.g. Neuman et al.\nSee Görlitz et al. (2010)\n",
+  "speaker": "SYSTEM",
+  "uuid": "8383ad0c-9c46-428f-a362-ec173e503660"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 04_MGLD.pdf: Página 13\n22/10/12 \n13 \n25 \n•  Tool for generating RDF from geometrical information \n•  The geometry could be available in GML or WKT \n•  The RDF generated follows our Geometry Model \n \nhttp://www.oeg-upm.net/index.php/en/downloads/151-geometry2rdf \n \nGeneration \nGeoLinkedData - Transformation \nOracle STO UTIL package  \nSELECT  TO_CHAR(SDO_UTIL.TO_GML311GEOMETRY(geometry))  \n AS Gml311Geometry \nFROM \"BCN200\".\"BCN200_0301L_RIO\" c \nWHERE   c.Etiqueta='Arroyo' \n \n26 \nGeneration \nGeoLinkedData - Transformation \n",
+  "speaker": "SYSTEM",
+  "uuid": "9dddd949-b164-494e-a5e7-06980668d54c"
+}

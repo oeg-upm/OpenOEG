@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Designing_a_Text_Classification_System_using_Statistical_NLP.pdf: Página 23\nLearning Method \nIn our \nsystem  \neach query \nis a class \nBinary Classification \nMulticlass Classification \nOne vs All (One vs Rest) \nn classifiers \nPick the classifier with the highest \nconfidence score \nAll vs All (one vs one) \nn(n-1)/2 classifiers \nFor each class aggregate confidence scores \nand select the class with the maximum \n",
+  "speaker": "SYSTEM",
+  "uuid": "fdbf130f-df36-4403-8b18-18239731f481"
+}

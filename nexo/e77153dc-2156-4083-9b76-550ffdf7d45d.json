@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 14\nATHENS 2010 \n© Raúl García Castro et al. \nRDF Containers \n•  There is often the need to describe groups of things \n-  A book was created by several authors \n-  A lesson is taught by several persons \n-  etc. \n•  RDF provides a container vocabulary \n-  rdf:Bag  A group of resources or literals, possibly including \nduplicate members, where the order of members is not \nsignificant \n-  rdf:Seq  A group of resources or literals, possibly including \nduplicate members, where the order of members is significant \n-  rdf:Alt  A group of resources or literals that are alternatives \n(typically for a single value of a property) \noeg:Oscar \n“ocorcho@fi.upm.es” \n“oscar.corcho@upm.es” \nrdf:_1 \nperson:hasEmailAddress \nrdf:_2 \nrdf:Seq \nrdf:type \n14 \n",
+  "speaker": "SYSTEM",
+  "uuid": "e77153dc-2156-4083-9b76-550ffdf7d45d"
+}

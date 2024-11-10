@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SparqlDQPGrupo.pdf: Página 42\nSample Queries\nPREFIX p: <http://dbpedia.org/property/> \nSELECT ?dbpediaResource.player ?RDFResource.club  \nFROM dbpediaResource: <http://dbpedia.org/sparql> \nFROM RDFResource: <http://dbpedia.org/sparql> \nWHERE{\n?dbpediaResource.player p:cityofbirth <http://dbpedia.org/resource/Stryn>. \n?dbpediaResource.player p:countryofbirth  <http://dbpedia.org/resource/Norway> \nOPTIONAL {?RDFResource.player p:currentclub  ?RDFResource.club}}\nPREFIX p: <http://dbpedia.org/property/> \nSELECT ?dbpediaResource.player ?RDFResource.club \nFROM dbpediaResource: <http://dbpedia.org/sparql> \nFROM RDFResource: <http://dbpedia.org/sparql> \nWHERE{\" +\n?dbpediaResource.player p:cityofbirth <http://dbpedia.org/resource/Dublin>. \nOPTIONAL {?RDFResource.player p:currentclub  ?RDFResource.club}}\n",
+  "speaker": "SYSTEM",
+  "uuid": "817a3428-bcc9-4123-9b53-6ab3421953a9"
+}

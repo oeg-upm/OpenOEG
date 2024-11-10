@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 36\n© O. Corcho\n36\nOntological Engineering\nDL constructors\n3 hasChild, 1 hasMother\n{Colombia, Argentina, México, ...} MercoSur countries\nhasChild- (hasParent)\n2 hasChild.Female, 1 hasParent.Male\nOther:\nConcrete datatypes:  hasAge.(<21)\nTransitive roles: hasChild* (descendant)\nRole composition: hasParent o hasBrother (uncle)\nOWL is SHOIN(D+)\n",
+  "speaker": "SYSTEM",
+  "uuid": "21862f5c-ff45-47f2-8b7b-d11e48874e37"
+}

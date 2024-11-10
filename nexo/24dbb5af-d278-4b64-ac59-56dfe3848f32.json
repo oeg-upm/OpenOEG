@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Annotation.pdf: Página 36\nAttributeMap definition \n<attributemap-def name=\"http://esperonto/ff#Title\">\nBNF\n:\nBNF\n:\nExample:\nExample:\n<aftertransform>\n<operation oper-id=\"constant\">\n<arg-restriction on-param=\"const-val\">\n<has-column>fsb_ajut.titol</has-column>\n</arg-restriction>\n</operation>\n</aftertransform>\n</attributemap-def>\n© O. Corcho, B Villazón, A. Gómez-Pérez\n36\nAnnotation\n",
+  "speaker": "SYSTEM",
+  "uuid": "24dbb5af-d278-4b64-ac59-56dfe3848f32"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 05_OWL.pdf: Página 102\n© O. Corcho, MC Suárez de Figueroa Baonza\n82\nOWL 2\nAutomatic Classification and Open World Assumption (II)\nMargheritaPizza\nhas\nnot\nbeen\nclassified\nas\nsubclass\nof\nVegetarianPizza.\nReasoning in OWL (Description Logics) is based on what is known\nas the open world assumption (OWA). The open world assumption\nmeans that we cannot assume something does not exist until it is\nexplicitly stated that it does not exist.\nIn\nthe\ncase\nof\nour\npizza\nontology,\nwe\nhave\nstated\nthat\nMargheritaPizza has toppings that are kinds of MozzarellaTopping\nand also kinds of TomatoTopping. Because of the open world\nassumption, until we explicitly say that a MargheritaPizza only has\nthese kinds of toppings, it is assumed (by the reasoner) that a\nMargheritaPizza could have other toppings.\n",
+  "speaker": "SYSTEM",
+  "uuid": "7c600f5e-2409-482f-8b6d-912d2d57f904"
+}

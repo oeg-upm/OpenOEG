@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion.pdf: Página 24\nPlanificación\nFormalización de STRIPS. Ejemplo de descripción \nde operadores\nLEVANTAR(X)\nprecondiciones: en-mesa (X) ^ libre (X) ^ brazo-libre\nañadidos: sujeto (X)\nborrados: en-mesa (X) ^ brazo-libre\nX\nX\nDEJAR(X)\nprecondiciones: sujeto (X)\nañadidos: en-mesa (X) ^ brazo-libre\nborrados: sujeto (X)\nX\nX\n",
+  "speaker": "SYSTEM",
+  "uuid": "f471d332-26ab-4a7a-a684-ebb84ef3bb6f"
+}

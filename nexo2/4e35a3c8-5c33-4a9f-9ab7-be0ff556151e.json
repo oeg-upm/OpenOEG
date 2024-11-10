@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2._Ontolog%C3%ADas-long-RD.pdf: Página 50\n©Asunción Gómez-Pérez\n05/11/2024 12:27 - 52\nRDF and RDF Schema knowledge representation ontologies\nTable:  Property descriptions of the RDF(S) KR ontology.\nProperty name\ndomain\nrange\nrdf:type\nrdfs:Resource\nrdfs:Class\nrdf:subject\nrdf:Statement\nrdfs:Resource\nrdf:predicate\nrdf:Statement\nrdf:Property\nrdf:object\nrdf:Statement\nrdfs:Resource\nrdf:value\nrdfs:Resource\nrdfs:Resource\nrdf:first\nrdf:List\nrdfs:Resource\nrdf:rest\nrdf:List\nrdf:List\nrdfs:subClassOf\nrdfs:Class\nrdfs:Class\nrdfs:subPropertyOf\nrdf:Property\nrdf:Property\nrdfs:comment\nrdfs:Resource\nrdfs:Literal\nrdfs:label\nrdfs:Resource\nrdfs:Literal\nrdfs:seeAlso\nrdfs:Resource\nrdfs:Resource\nrdfs:isDefinedBy\nrdfs:Resource\nrdfs:Resource\nrdfs:member\nrdfs:Resource\nrdfs:Resource\nrdfs:domain\nrdf:Property\nrdfs:Class\nrdfs:range\nrdf:Property\nrdfs:Class\n",
+  "speaker": "SYSTEM",
+  "uuid": "4e35a3c8-5c33-4a9f-9ab7-be0ff556151e"
+}

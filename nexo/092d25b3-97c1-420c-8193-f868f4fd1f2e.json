@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: KGEOntologies.Elvira.pdf: Página 15\nEnhancing KGE with ontological information for fresh entity introduction\nFuture work\n15\nEvaluating the approach on different state-of-the-art \nsemantic matching models\nEmploy different word embedding models for\ninitialization (i.e. FastText, ElmO, BERT…)\nStudy the impact of word embedding initialization in \nterms of performance\n",
+  "speaker": "SYSTEM",
+  "uuid": "092d25b3-97c1-420c-8193-f868f4fd1f2e"
+}

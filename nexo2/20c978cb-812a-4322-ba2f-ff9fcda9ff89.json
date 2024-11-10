@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA.pdf: Página 125\n125\nOrden de generación de jugadas.-\nSin orden: las jugadas se generan al azar\nCon orden: Es necesario un orden, se suele emplear \nun h’(n) más sencilla que h(n); no se efectúa en los \nniveles más profundos. Se establece una \n“profundidad de cambio”, que establece a que \nprofundidad no se ordenan las jugadas\nEste orden puede ser:\n",
+  "speaker": "SYSTEM",
+  "uuid": "20c978cb-812a-4322-ba2f-ff9fcda9ff89"
+}

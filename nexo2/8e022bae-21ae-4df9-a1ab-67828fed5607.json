@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AMPER08_-_RDF%28S%29_access_APIs.pdf: Página 5\nRDF(S) Access APIs, May 2008\n5\n© García-Castro, Corcho, Muñoz-García\nSesame\n•\nA framework for storage, querying and inferencing of RDF and RDF \nSchema\n•\nA Java Library for handling RDF\n•\nA Database Server for (remote) access to repositories of RDF data\n•\nHighly expressive query and transformation languages\n– SeRQL, SPARQL\n•\nVarious backends\n– Native Store\n– RDBMS (MySQL, Oracle 10, DB2, PostgreSQL)\n– main memory\n•\nReasoning support\n– RDF Schema reasoner\n– OWL DLP (OWLIM)\n– domain reasoning (custom rule engine)\n",
+  "speaker": "SYSTEM",
+  "uuid": "8e022bae-21ae-4df9-a1ab-67828fed5607"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: II-Redes_Sem%C3%A1nticas-v5.pdf: Página 18\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nDefinition of Ontology\n“An ontology is a formal, explicit specification of a shared conceptualization”\nAbstract model and \nsimplified view of some \nphenomenon  in the world \nthat we want to represent\nMachine-readable \nConcepts, properties\nrelations, functions,\nconstraints, axioms, \nare explicitly defined\nConsensual \nKnowledge\nFrames and FoL\nSubclass of\nLiving Being\nAnimals\nPlants\nSubclass of\nSubclass of\nSubclass of\nMammals\nBirds\nOntologías\nXML\nRDF\nRDFS\nOWL\nRDF(S)\n",
+  "speaker": "SYSTEM",
+  "uuid": "81eb33e0-50bd-4db3-b8e7-b29383f9450c"
+}

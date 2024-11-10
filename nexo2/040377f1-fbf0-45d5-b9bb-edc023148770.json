@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Examples.pdf: Página 5\nSCOVO Example - Instances\ngeoes: http://geo linkeddata es/\ngeoes:ontology/Province\ngeoes: http://geo.linkeddata.es/\ngeoes:resource/Province/Madrid\ngeoes:resource/Province/Sevilla\ngeoes:resource/Province/Toledo\nrdf:type\nrdf:type\nrdf:type\ngeoes:ontology/Year\nrdf:type\nrdf:type\nrdf:type\ngeoes:resource/Year/2005\ngeoes:resource/Year/2006\ngeoes:resource/Year/2007\n5\n",
+  "speaker": "SYSTEM",
+  "uuid": "040377f1-fbf0-45d5-b9bb-edc023148770"
+}

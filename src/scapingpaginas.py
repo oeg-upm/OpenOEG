@@ -6,84 +6,85 @@
 # https://delicias.dia.fi.upm.es/wiki/index.php/Special:AllPages
 
 
-
-from selenium import webdriver #dependencia
+from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.firefox.service import Service #importar esto tambien TODO
+from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.firefox.options import Options
 import time
 
+class WikiAllPageScraper:
+    def __init__(self, username, password, geckodriver_path, output_file="./tfg/textos/paginas.txt"):
+        # Configuración de opciones de Firefox
+        self.output_file = output_file
+        self.username = username
+        self.password = password
 
-firefox_options = Options()
-firefox_options.add_argument("--headless") 
-firefox_options.add_argument("--no-sandbox")
-firefox_options.add_argument("--disable-dev-shm-usage")
+        # Configuración del navegador
+        firefox_options = Options()
+        firefox_options.add_argument("--headless")
+        firefox_options.add_argument("--no-sandbox")
+        firefox_options.add_argument("--disable-dev-shm-usage")
+        self.driver = webdriver.Firefox(service=Service(geckodriver_path), options=firefox_options)
 
+    def login(self):
+        """Realiza el inicio de sesión en el sitio wiki."""
+        login_url = "https://delicias.dia.fi.upm.es/wiki/index.php?title=Special:UserLogin&returnto=Main+Page&returntoquery="
+        self.driver.get(login_url)
+        time.sleep(2)
 
-geckodriver_path = 'C:/Users/Jaime Vázquez/AppData/Local/Programs/Python/Python313/geckodriver.exe'  # recordar estp TODO
+        # Completa los campos de inicio de sesión y envía el formulario
+        self.driver.find_element(By.ID, "wpName1").send_keys(self.username)
+        self.driver.find_element(By.ID, "wpPassword1").send_keys(self.password)
+        self.driver.find_element(By.ID, "wpLoginAttempt").click()
+        time.sleep(3)
 
+        # Verifica si la autenticación fue exitosa
+        return "Especial:Entrar" not in self.driver.current_url
 
-service = Service(geckodriver_path)
+    def scrape_and_save_urls(self, urls_to_scrape):
+        """Navega por cada URL de página wiki y guarda los enlaces en un archivo."""
+        # Limpia el archivo de salida antes de escribir nuevos enlaces
+        open(self.output_file, 'w').close()
 
+        # Itera sobre cada página de la lista
+        for wiki_url in urls_to_scrape:
+            self.driver.get(wiki_url)
+            time.sleep(2)
 
-driver = webdriver.Firefox(service=service, options=firefox_options)
+            # Obtiene todos los enlaces en la página
+            page_links = self.driver.find_elements(By.CSS_SELECTOR, 'ul.mw-allpages-chunk li a')
+            urls = [link.get_attribute('href') for link in page_links]
 
-# URL de inicio de sesión
-login_url = "https://delicias.dia.fi.upm.es/wiki/index.php?title=Special:UserLogin&returnto=Main+Page&returntoquery="  # Cambia esto según tu MediaWiki
-driver.get(login_url)
+            # Guarda los enlaces encontrados en el archivo
+            if urls:
+                with open(self.output_file, 'a', encoding='utf-8') as file:
+                    for url in urls:
+                        file.write(url + '\n')
+                print(f"URLs guardadas de {wiki_url}")
 
+    def close(self):
+        """Cierra el navegador."""
+        self.driver.quit()
 
-time.sleep(2)
-
-# campos de usuario, contraseña y el botón de inicio de sesión
-username_input = driver.find_element(By.ID, "wpName1")  
-password_input = driver.find_element(By.ID, "wpPassword1") 
-login_button = driver.find_element(By.ID, "wpLoginAttempt")  
-
-# credenciales
-username = "jaime.vrivera"
+# Uso de la clase
+""" username = "jaime.vrivera"
 password = "9rScwwFGLZDNfGz"
-username_input.send_keys(username)
-password_input.send_keys(password)
+geckodriver_path = 'C:/Users/Jaime Vázquez/AppData/Local/Programs/Python/Python313/geckodriver.exe'
 
-
-login_button.click()
-
-
-time.sleep(3)
-
-
-if "Especial:Entrar" not in driver.current_url:
+scraper = WikiPageScraper(username, password, geckodriver_path)
+if scraper.login():
     print("Inicio de sesión exitoso")
 
-    
-    wiki_url = "https://delicias.dia.fi.upm.es/wiki/index.php?title=Special:AllPages&from=Licencias" #dos veces el link, el primero fue https://delicias.dia.fi.upm.es/wiki/index.php/Special:AllPages
-    
-    driver.get(wiki_url)
+    # Páginas wiki para recorrer
+    wiki_urls = [
+        "https://delicias.dia.fi.upm.es/wiki/index.php/Special:AllPages",
+        "https://delicias.dia.fi.upm.es/wiki/index.php?title=Special:AllPages&from=Licencias"
+    ]
 
-    
-    time.sleep(2)
-
-   
-    page_links = driver.find_elements(By.CSS_SELECTOR, 'ul.mw-allpages-chunk li a')
-
-    
-    urls = [link.get_attribute('href') for link in page_links]
-
-    
-    print("Encontradas las siguientes URLs de las páginas:")
-    for url in urls:
-        print(url)
-
-    """ # Opcionalmente, puedes navegar a cada URL y realizar scraping adicional
-    for url in urls:
-        driver.get(url)
-        # Aquí puedes hacer scraping adicional si lo deseas
-        print(f"Accediendo a: {url}")
-        time.sleep(1) """
-
+    # Obtener y guardar URLs
+    scraper.scrape_and_save_urls(wiki_urls)
 else:
     print("Error en el inicio de sesión")
 
-
-driver.quit()
+# Cerrar el navegador
+scraper.close() """

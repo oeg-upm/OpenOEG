@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: EfficientClustering.pdf: Página 9\n9\n•  Each topic is a distribution over words\n•  Each document is a mixture of corpus-wide topics\n•  Each word is drawn from one of those topics\nProbabilistic Topic Models\n",
+  "speaker": "SYSTEM",
+  "uuid": "9111c23e-b86f-4c6d-ae96-5b79ea8979b2"
+}

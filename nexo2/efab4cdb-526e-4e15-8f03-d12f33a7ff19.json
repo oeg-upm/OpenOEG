@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01-ModelosRazonam_-_Intro_%26_DynaLearn_Nov2012.pdf: Página 7\nWhat is Spatial/Temporal Reasoning?\n• Spatio-temporal configurations can be described \nquantitatively by specifying the coordinates of the \nrelevant objects:\n• At time point 10.0 object A is at position (11.0, 1.0, 23.7)\n• Or qualitatively, with a finite vocabulary\n• Object A hit object B. Afterwards, object C arrived.\n• Sometimes we want to reason with such descriptions\n• Object C was not close to object A when it hit object B.\n-> Qualitative spacial/temporal reasoning\n",
+  "speaker": "SYSTEM",
+  "uuid": "efab4cdb-526e-4e15-8f03-d12f33a7ff19"
+}

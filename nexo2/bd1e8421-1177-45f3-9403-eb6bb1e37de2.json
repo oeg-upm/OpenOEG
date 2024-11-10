@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 74\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nData cubes \n•\nA cube can be considered a multidimensional extension of 2-D \ntables (as in geometry a cube is a three-dimensional extension \nof a square) \n•\nThe term hypercube is sometimes used, especially for data with \nmore than three dimensions \n•\nEach dimension represents some attribute in the database \n(such as sales, profits, expenses…) \n•\nThe cells in the data cube represent the measure of interest. For \nexample, they could contain a count for the number of times that \nattribute combination occurs in the database, or the minimum, \nmaximum, sum or average value of some attribute \n•\nQueries are performed on the cube to retrieve decision support \ninformation \n76 \n",
+  "speaker": "SYSTEM",
+  "uuid": "bd1e8421-1177-45f3-9403-eb6bb1e37de2"
+}

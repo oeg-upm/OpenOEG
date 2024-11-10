@@ -17,17 +17,17 @@ def save_json(filepath, payload):
 class PineconeUploader:
     def __init__(self):
         
-        self.index_name = "testingoeg"
+        self.index_name = "oegdb"
         self.client = OpenAI(
         base_url="http://localhost:1234/v1",
         api_key="lm-studio"
         )
         
-        self.model = "nomic-embed-text-v1.5"
+        self.model = "nomic-embed-text-v1.5" #revisar eso y el nº de tokens
         
-        self.nexo_path = "./tfg/nexo2/"
+        self.nexo_path = "./tfg/nexo/"
         
-        self.pc = Pinecone(api_key=open_file('../key_pinecone.txt'))
+        self.pc = Pinecone(api_key=open_file('C:/Users/Jaime Vázquez/Documents/Python/key_pinecone.txt'))
         
         
         self.index = self._setup_pinecone_index()
@@ -68,8 +68,8 @@ class PineconeUploader:
         self.index.upsert(payload)
         
         
-        message = '%s: %s' % ('SYSTEM', text)
-        metadata = {'speaker': 'SYSTEM', 'message': message, 'uuid': unique_id}
+        message = '%s: %s' % (rol, text)
+        metadata = {'speaker': rol, 'message': message, 'uuid': unique_id}
         save_json(self.nexo_path+'%s.json' % unique_id, metadata)
 
 
@@ -89,7 +89,7 @@ class PineconeUploader:
             metadata = {'speaker': 'SYSTEM', 'message': message, 'uuid': unique_id}
             save_json(self.nexo_path+'%s.json' % unique_id, metadata)
         
-       
+        #print(len(payload))
         self.index.upsert(payload)
 
         

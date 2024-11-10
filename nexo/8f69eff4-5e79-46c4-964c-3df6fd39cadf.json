@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ISSGC08.pdf: Página 38\n©<Miembro Grupo>\n39\nCondor\n•\nGrid middleware for HTC systems\n•\nInstalled in a large number of computer\n•\nKey concepts:\n– Matchmaker\n• Get an agreement between users of resources and providers of resources \n(machines)\n• Machine requirements: only jobs from OEG computers, only work from 6pm to \n4am\n• Users requirements: to be executed only on Linux machines, dual core \nprocessor\n• ClassAd file represents the state of jobs and machines\n– Submitting a job\n• Selecting the job universe (vanilla, Java, standard, MPI, etc.)\n• Using a job description file, possibility of monitoring jobs\n– Job dependencies (DAGMan)\n•\nHigh importance to the system reliability\n– Job checkpoints, parameter sweep management (clusters and processes)\n",
+  "speaker": "SYSTEM",
+  "uuid": "8f69eff4-5e79-46c4-964c-3df6fd39cadf"
+}

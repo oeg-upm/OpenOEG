@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01.Intro-GC-Web.pdf: Página 22\n©Asunción Gómez-Pérez \n- 22 \nTravel \nrdfs:Literal \nrdfs:Class \nCompany-name \nsingleFare \nunits:currencyQuantity \nrdfs:range \nrdfs:range \nrdfs:domain \nrdfs:domain \nrdf:Type \ndepartureDate \nrdfs:domain \nxsd:Date \nrdfs:range \narrivalDate \nrdfs:range \nrdfs:domain \nrdf:Property \nrdf:Type \nrdf:Type \nrdf:Type \nrdf:Type \nRDF \nRDFS \nOntology \nrdfs:Class rdf:ID=\"Travel\"> \n   <rdfs:comment>A journey from place to \n      place</rdfs:comment> \n</rdfs:Class> \n \t\n\r\n<rdf:Property rdf:ID=\"arrivalDate\"> \n  <rdfs:domain rdf:resource=\"#Travel\"/> \n  <rdfs:range rdf:resource=\"&xsd;date\"/> \n</rdf:Property> \n<rdf:Property rdf:ID=\"departureDate\"> \n  <rdfs:domain rdf:resource=\"#Travel\"/> \n  <rdfs:range rdf:resource=\"&xsd;date\"/> \n</rdf:Property> \n",
+  "speaker": "SYSTEM",
+  "uuid": "663aa7cb-6723-449f-9ce2-d724df1b762d"
+}

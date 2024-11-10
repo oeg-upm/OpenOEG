@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01.03_NonStandardOWLReasoning_ModularisationAndDebugging.pdf: Página 11\n11 \n•  Our knowledge base O uses the imported terms \nsafely if for all classes A, B built from the imported \nterms: \nIf   \n Ɛ’ ╞ A ⊆ B, \nthen \n O U Ɛ’ ╞ A ⊆ B \n•  Safety = preserving non-entailments \n•  Safety is also provided by locality (= sufficient \ncondition). \n21 \nContents \n•  Modularisation \n•  Scenarios for modularisation \n•  Modularisation for import/reuse \n•  Scenario and a working cycle   \n•  Properties of the modularisation algorithms \n•  Module coverage \n•  Safety \n•  Modularisation in OWL with Protégé \n•  Debugging \n•  Root and derived unsatisfiable classes \n•  Laconic and precise justifications \n•  Debugging in OWL with Protégé \n22 \n",
+  "speaker": "SYSTEM",
+  "uuid": "437ac9e8-1979-4814-b54e-48e312eb3115"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Fpriyatna-oeg-201403.pdf: Página 7\nExtension of trans function\n7\nIntroduction\nQuery Translation\nEvaluation\nConclusion\ntrans(tp)\n●\nStep1: Multiple mapped TriplesMaps\n●\nEx: :fred hasID ?fredID\n●\nTriplesMapStudent\n●\nTriplesMapResearcher\n●\nUNION of trans(tp, tm) \n●\nm is TriplesMap corresponding to the \ntriple pattern tp\n●\nStep2: Unbounded predicate\n●\nEx: :fred ?p ?o\n●\n:fred hasID ?o\n●\n:fred hasName ?o\n●\nUNION of trans(tp, tm, predicateURI) \n●\npredicateURI is the mapped predicate \ndefined in tm\ntrans(tp, tm, predicateURI) = \nSELECT genPRSQL(tp, beta, name)\nFROM alpha\nWHERE genCondSQL(tp)\n",
+  "speaker": "SYSTEM",
+  "uuid": "598a5df0-ba3c-4671-b4d7-44319de97606"
+}

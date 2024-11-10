@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 27\nSome solutions [12]  \nMethod\nPER (%)\nRandomly Initialized RNN\n26.1\nBayesian Triphone GMM-HMM\n25.6\nHidden Trajectory (Generative) Model\n24.8\nMonophone Randomly Initialized DNN\n23.4\nMonophone DBN-DNN\n22.4\nTriphone GMM-HMM with BMMI Training\n21.7\nMonophone DBN-DNN on fbank\n20.7\nConvolutional DNN\n20.0\nConvolutional DNN w. Heterogeneous \nPooling\n18.7\nEnsemble DNN/CNN/RNN\n18.2\nBidirectional LSTM\n17.9\n27\nResults for the TIMIT public corpus\n630 speakers from eight major dialects of American English, where each speaker reads \n10 sentences\n",
+  "speaker": "SYSTEM",
+  "uuid": "e4d1fb3a-246f-4b6a-b34a-da85946b7b55"
+}

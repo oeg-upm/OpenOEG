@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Marcos.pdf: Página 49\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nOrdenación Topológica: Paso III(1)\nDeterminar , para el conjunto de pares obtenidos en el paso 2, \nun átomo que aparezca como primer elemento de una o varias listas \ny nunca como segundo elemento.  \nUna vez localizado el átomo, se borran los pares de elementos \nen los que el átomo aparece como primer elemento\ny se incluye este átomo dentro de \nla lista de criterios de preferencia.  \nEl proceso continúa mientras haya  \nelementos en la lista de pares de elementos\n",
+  "speaker": "SYSTEM",
+  "uuid": "ebcc2ca9-d5d1-47fb-b6a4-3ec5bfdb5be4"
+}

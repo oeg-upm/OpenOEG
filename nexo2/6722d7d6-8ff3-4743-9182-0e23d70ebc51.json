@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Metodolog%C3%ADa-2.pdf: Página 26\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n26\nOntological Engineering\nReusing Ontology Statements. \nOntology Statement Assessment\nThe question here is: how to decide if a concrete ontology \nstatement is useful or not for the ontology network being \ndeveloped.\n\u0001 Check scope. \n\u0001 Check purpose.\n\u0001 Check clarity.\n\u0003 “Meat subclass of ‘_anon699’”\n\u0001 Check information content.\n\u0003 “Seafood is subclass of Root”\n\u0001 Assess \nthe \ncorrectness \nfrom \na \n(formal) \nmodeling \nperspective. \n\u0002 Check that the naming reflects the intended meaning.\n\u0003 “Conference is subclass of Pear” (conference = conferencePear)\n\u0002 Check if the ontology statement is not invalid from a formal \nperspective.\n\u0003 “Fruit is subclass of FruitSalad” (subclass of = part of)\n",
+  "speaker": "SYSTEM",
+  "uuid": "6722d7d6-8ff3-4743-9182-0e23d70ebc51"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Maven-Artifactory.pdf: Página 3\nIntroducción a Maven 2/5\nDefine un ciclo de vida para la construcción de software estándar y \npersonalizable\nDefine una serie de estructuras de proyecto estándares\nMaven archetypes\nProporciona una manera declarativa de definir las construcciones\nFichero POM\nProporciona una manera sencilla y automática de gestionar las dependencias de \nun proyecto\n<dependencies>\nAyuda a la automatización del testeo del software y de la generación de informes\nPlug-ins de testing y reporting\nAyuda a introducir el concepto de modularización en la construcción del \nsoftware\nHerencia y agregación\nAyuda a adoptar el proceso de Integración Contínua\nY mucho más…\n",
+  "speaker": "SYSTEM",
+  "uuid": "2241a770-7d62-4c0c-8b1d-fde25e82e2de"
+}

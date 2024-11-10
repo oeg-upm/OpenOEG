@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 3.RDF%28S%29.pdf: Página 21\n• 21 \nExercise \n• Objective \n•  Get used to the different syntaxes of RDF(S) \n• Tasks \n•  Take the text of an RDF(S) file and create its corresponding graph \n•  Take an RDF(S) graph and create its corresponding RDF/XML and N3 files  \n41 \nExercise 2.a. Create a graph from a file \n•  Open the files StickyNote.rdf and StickyNote.rdfs \n•  Create the corresponding graph from them \n•  Compare your graph with those of your colleagues \n42 \n",
+  "speaker": "SYSTEM",
+  "uuid": "9d730b15-5bf3-4e10-b655-b6fdf75c910d"
+}

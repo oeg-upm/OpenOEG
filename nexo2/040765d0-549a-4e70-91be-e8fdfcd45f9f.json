@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Protege-Pizzas-v5.pdf: Página 16\n© O. Corcho, MC Suárez de Figueroa Baonza\n16\nOWL and SWRL\nSymmetric Properties\nIf a property is symmetric, and the property relates individual a to\nindividual b then individual b is also related to individual a via the\nproperty.\nhasSibling is symmetric\n",
+  "speaker": "SYSTEM",
+  "uuid": "040765d0-549a-4e70-91be-e8fdfcd45f9f"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 24\n© O. Corcho, R.García-Castro, O. Muñoz-García\n24\nRDF and RDF Schema\nRDF (and other W3C Recommendations) and URIs\n•\nFor practical purposes, especially if handwritten, URIs are \nshortened using XML namespaces\n–\nxmlns:oeg=“http://www.oeg-upm.net/ontologies/people#”\n–\noeg:Oscar is equivalent to http://www.oeg-\nupm.net/ontologies/people#Oscar\noeg:Oscar\noeg:Asun\noeg:Raúl\n“http://www.fi.upm.es/”\nperson:hasHomePage\n“Oscar Corcho García”\nperson:hasName\nperson:hasColleague\nperson:hasColleague\n",
+  "speaker": "SYSTEM",
+  "uuid": "c7633f1a-755b-4d6c-9542-35026f35be39"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Marcos.pdf: Página 66\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nEjemplo\nMC Persona\n(*) Edad\n(*) Mayor de Edad\n(*) Puede Votar\nSi Necesito\nSi Modifico\nSi Añado\n$P.edad:= Fecha-$P.Fecha_Nacimiento\nSi $P.edad <18\nEntonces $P.Mayor-Edad:=no\nSino $P.Mayor-Edad :=sí\nSi $P.edad <18\nEntonces $P.Mayor-Edad:=no\nSino $P.Mayor-Edad :=sí\nSi $P.edad <18\nEntonces $P.Mayor-Edad:=no\nSino $P.Mayor-Edad :=sí\nSi  $P.Mayor-Edad:=no\nEntonces $P.PuedeVotar:= no\nSino $P.PuedeVotar:=sí\nSi  $P.Mayor-Edad:=no\nEntonces $P.PuedeVotar:= no\nSino $P.PuedeVotar:=sí\nPreguntar_Usuario\n($P.Mayor.edad)\n",
+  "speaker": "SYSTEM",
+  "uuid": "17149079-0543-4d84-ad28-8cabd1acbcb4"
+}

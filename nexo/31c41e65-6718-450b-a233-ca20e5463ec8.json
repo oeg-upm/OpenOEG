@@ -1,7 +1,0 @@
-{
-  "message": "ABIGAIL: Tuesday, October 29, 2024 at 01:40PM  - GPT3 error: Error code: 404 - {'error': {'message': 'No models loaded. Please load a model in the developer page or use the `lms load` command.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}",
-  "speaker": "ABIGAIL",
-  "time": 1730205614.2646556,
-  "timestring": "Tuesday, October 29, 2024 at 01:40PM ",
-  "uuid": "31c41e65-6718-450b-a233-ca20e5463ec8"
-}

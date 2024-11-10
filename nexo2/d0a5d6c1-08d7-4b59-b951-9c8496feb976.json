@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Marcos-II-asun.pdf: Página 14\nMarcos\nConocimientos Disjuntos y Razonamiento (II)\nMammal\nNúmero\nDisjoint\nDisjoint\nInstance-Of\nclass-Partition\nPerson\nDog\nCat\nPar\nImpar\nclass-Partition\nDisjoint\n4\nSubclass-Of\nCartoon Dog\nInstance-Of\nHas-Instance\nPluto\nInstance-Of\nPluto  no puede ser una instancia simultáneamente \nde Cartoon Dog y Cat porque son disjuntos.\nNo tiene problema en clasificar 4 como número\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nNo tiene problema en clasificar 4 como número\n",
+  "speaker": "SYSTEM",
+  "uuid": "d0a5d6c1-08d7-4b59-b951-9c8496feb976"
+}

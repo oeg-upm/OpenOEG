@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion-2013.pdf: Página 43\nPlanificación \n \n \nBúsqueda del plan en STRIPS \nbrazo-libre \nen-mesa (C) ^ libre (C) ^ brazo-libre \nLEVANTAR (C) \nlibre (B) ^ sujeto (C) \nPONER (C, B) \nen-mesa (A) \nR \nSe buscan operadores que añadan esta condición \nen-mesa (C) \nlibre (C) \nbrazo-libre \nen-mesa (C) ^ libre (C) ^ brazo-libre \nLEVANTAR (C) \nlibre (B) ^ sujeto (C) \nPONER (C, B) \nen-mesa (A) \nR \nA \nB \nC \nEstado E2 \n",
+  "speaker": "SYSTEM",
+  "uuid": "5faa11d0-2336-4cca-9ec1-f038e16e534a"
+}

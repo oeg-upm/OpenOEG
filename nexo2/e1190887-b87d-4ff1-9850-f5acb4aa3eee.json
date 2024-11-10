@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Course-Introduction.pdf: Página 6\n6\nContent and Schedule\nThursday 18th November. 9.00-14.00\nSection 3: Ontologies (theory: 2 hours, hands-on: 1 hour)\n(Raúl García-Castro)\n Languages used in ontology implementation (RDF(S) and OWL) as well as \nquery languages (SPARQL).\nSection 3: Ontologies (theory: 2 hours)\n(Raúl García-Castro)\n Tools used in building and storing ontologies (Sesame, Jena, Protégé, \nNeOn toolkit) as well as in ontology reasoning (Pellet, Racer).\n",
+  "speaker": "SYSTEM",
+  "uuid": "e1190887-b87d-4ff1-9850-f5acb4aa3eee"
+}

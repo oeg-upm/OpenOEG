@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GC-Redes_Sem%C3%A1nticas-v3.pdf: Página 3\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nCaracterísticas:\na)  La semántica depende de las etiquetas utilizadas\nb)  No tienen un vocabulario de representación\nc)  Fácil comprensión gráfica\nConceptos Básicos\nRepresentación Gráfica: Grafo Orientado etiquetado\nNodos\nConceptos, entidades\narcos unidireccionales\nPropiedades,    Relaciones\nEjemplo:\nLectura del Grafo:\nPepe\nInformático\nProfesión\nLenguaje Natural: Pepe es Informático\nLenguaje Formal: Profesión (Pepe) = Informático\nLÓGICA: PROFESIÓN  (Pepe, Informático)\n",
+  "speaker": "SYSTEM",
+  "uuid": "475b71dd-df28-4f8e-b8df-10ff9719b1b8"
+}

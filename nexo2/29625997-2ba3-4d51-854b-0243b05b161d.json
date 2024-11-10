@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 3._Metodolog%C3%ADa-1-v1%28asun%29.pdf: Página 54\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n56\nOntological Engineering\nSlide 56\nOntology Requirements Specification. \nTask 6\nInput: the set of grouped CQs\nObjective: to identify possible conflicts between\nCQs, missing CQs, and contradictions in CQs. To\ndecide if such CQs are valid or not\nOutput: a confirmation about the validity of the\nset of CQs\nCriteria:\nCorrectness.\nCompleteness.\nConsistent.\nVerificable.\nUnderstandable.\nNo Ambiguity.\nConciseness.\nRealism.\nModifiable.\nTraceable.\nCorrectness. Domain experts checked the correctness of each\ncompetency question, verifying that its formulation and answers\nwere correct.\nConsistent. Domain experts also verified that the competency\nquestions did not have any possible inconsistency.\n",
+  "speaker": "SYSTEM",
+  "uuid": "29625997-2ba3-4d51-854b-0243b05b161d"
+}

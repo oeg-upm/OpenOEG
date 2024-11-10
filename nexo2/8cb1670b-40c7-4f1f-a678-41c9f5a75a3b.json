@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: DataCube.pdf: Página 10\nQB4OLAP\n• QB4OLAP adds to Data Cube vocabulary (QB) the \ncapability of representing:\n• dimension levels\n• level members\n• rollup relations between levels and level members\n• associating aggregate functions to measures\n• It allows to represent OLAP cubes in RDF\n• It allows to implement OLAP operators (such as Roll-\nup, Slice, and Dice) as SPARQL queries directly on \nthis RDF representation\n10\nhttp://publishing-multidimensional-data.googlecode.com/git/index.html\n",
+  "speaker": "SYSTEM",
+  "uuid": "8cb1670b-40c7-4f1f-a678-41c9f5a75a3b"
+}

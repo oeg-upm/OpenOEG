@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SPARQL_optimization_slides.pdf: Página 16\nReferences\nOlaf Görlitz and Steffen Staab. Federated Data Management and Query \nOptimization for Linked Open Data. Book chapter to appear. 2010. \nHarth, A., Hose, K., Karnstedt, M., Polleres, A., Sattler, K., and Umbrich, J. \n2010. Data summaries for on-demand queries over linked data. In  WWW \n'10. \nNeumann, T. and Weikum, G. 2008. RDF-3X: a RISC-style engine for \nRDF. Proc. VLDB Endow. 1, 1 (Aug. 2008) \nJ. Pérez, M. Arenas, and C. Gutierrez. Semantics and complexity of \nSPARQL. In ISWC 2006.\nQuilitz, B. and Leser, U. Querying distributed RDF data sources with \nSPARQL. In ESWC 2008.\nM. Schmidt, M. Meier, and G. Lausen. Foundations of SPARQL query \noptimization. In ICDT2010.\nStocker, M., Seaborne, A., Bernstein, A., Kiefer, C., and Reynolds, D. \nSPARQL basic graph pattern optimization using selectivity estimation. \nIn WWW '08.\nStuckenschmidt, H., Vdovjak, R., Houben, G., and Broekstra, J. Index \nstructures and algorithms for querying distributed RDF repositories. In \nWWW '04. \n",
+  "speaker": "SYSTEM",
+  "uuid": "5360cef3-aa15-47b0-b10a-df3371e2d555"
+}

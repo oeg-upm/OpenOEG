@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Redes_Semanticas-v1.pdf: Página 14\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nRedes Semánticas\nEjemplo de Herencia\n¿De qué color es Dumbo?        Gris\n¿Qué puedo decir de Dumbo?\n• Necesita Oxigeno\n• Es Macho\n• Animal\n• Ser vivo\n• Elefante\n• Mamífero\n• De color Gris\nInstancia\nBallena\nGris\nTiburón\nDe_Color\nDe_Color\nDumbo\nElefante\nMael\nSubClase-de\nSubClase-de\nMacho\nMamífero\nHembra\nSubClase-de\nInstancia\nInstancia\nInstancia\nAnimal\nPlanta\nOxígeno\nSer_Vivo\nNecesita\nNecesita\nSubClase-de\nSubClase-de\nSubClase-de\nSubClase-de\nSubClase-de\nDe-Color\n",
+  "speaker": "SYSTEM",
+  "uuid": "fd74d69d-5ba9-4118-869f-0c684d2c6d1c"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 48\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nEjemplo \nR1: Si (envío $e $origen $destino) ^ (dia-entrega $e hoy ) ^ (coste $e $coste)  \n        Entonces Añadir (coste $e $coste + 1000) \n                        Borrar (coste $e $coste) \nBase de Reglas \nBase de Hechos \n( envío E-1 Madrid Barcelona) \n(dia-entrega E-1 hoy) \n(coste  E-1   700) \nEstrategia de Control \nCiclo 1:  \n$e= E1 \n$origen = Madrid \n$destino = Barcelona \n$coste = 700 \n( envío E-1 Madrid Barcelona) \n(dia-entrega E-1 hoy) \n(coste  E-1   700) \n(coste  E-1  1700) \nError: El principio de  Refracción,  \nno impide que se vuelve a ejecutar la regla  \n",
+  "speaker": "SYSTEM",
+  "uuid": "c9e06230-6d15-4b7d-bb5c-8c03bda6a9cb"
+}

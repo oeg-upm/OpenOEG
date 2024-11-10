@@ -17,7 +17,6 @@ class PPTXProcessor:
         """Extrae texto de las diapositivas de un archivo .pptx y organiza el contenido."""
         presentation = Presentation(os.path.join(self.pptx_dir, fichero))
         textos = []
-
         for slide_number, slide in enumerate(presentation.slides, start=1):
             for shape in slide.shapes:
                 if shape.has_text_frame:
@@ -25,15 +24,25 @@ class PPTXProcessor:
                     if len(text) > 2:  # Filtro para omitir textos breves o vacíos
                         texto_formateado = f"{fichero}: Diapositiva {{{slide_number}}}\n{text}"
                         textos.append(texto_formateado)
-        return textos
+        
+        
+        
+     
+        #return res #condensarlos todos en 1     
+        return textos 
 
     def analyze_and_upload(self, rol="SYSTEM"):
         """Procesa todos los archivos .pptx en el directorio y sube el contenido extraído a Pinecone."""
         ficheros = self.list_pptx()
-
+        res = ""
         for fichero in ficheros:
             textos = self.extract_text(fichero)
             if textos:  # Solo subir si hay textos válidos
+                """""
+                for texto in textos:
+                    res=res + " " + texto
+                """
+                #self.pcuploader.upload_text(res, "SYSTEM")
                 self.pcuploader.bulk_upload(textos, rol=rol)
                 print(f"Contenido de {fichero} subido correctamente.")
             else:

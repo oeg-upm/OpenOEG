@@ -47,23 +47,45 @@ class PDFProcessor:
         ficheros = self.listar_pdf()
 
         for fichero in ficheros:
-            document = fitz.open(fichero)
-            metadata = self.get_metadata(document)
             
+            if os.path.getsize(fichero) < 8192:  # 8 KB = 8192 bytes, es un archivo roto seguramente
+                print(f"Archivo omitido por ser roto: {os.path.basename(fichero)}")
+                continue
+            
+            
+            #res = ""
+            document = fitz.open(fichero)
+            metadata = os.path.basename(fichero) + " metadatos " + self.get_metadata(document)
             text_content = self.extract_text(document, os.path.basename(fichero))
             
+            if not text_content:
+                print(f"Archivo omitido por no tener texto: {os.path.basename(fichero)}")
+                document.close()
+                continue
+            #MuPDF error: format error: No default Layer config
+            #error a ignorar
+            """ 
+            for texto in text_content:
+                res=res + " " + texto  """
+            
             # Subir los metadatos y el contenido de texto a Pinecone
+            
+            
             self.pcuploader.upload_text(metadata, "SYSTEM")
+            #self.pcuploader.upload_text(res, "SYSTEM")
             self.pcuploader.bulk_upload(text_content, "SYSTEM")
-
+           
+            
             document.close()
             print(f"Procesado y subido: {os.path.basename(fichero)}")
+            
 
 
 
 
- # Ejemplo de uso
+"""  # Ejemplo de uso
 file_path = "C:/Users/Jaime Vázquez/Documents/Python/tfg/ptts2/"  # Cambiar esta ruta
 pdf_processor = PDFProcessor(file_path)
 #rint(pdf_processor.get_metadata("C:/Users/Jaime Vázquez/Documents/Python/tfg/ptts2/AMPER08_-_Introduction_to_SPARQL.pdf"))
-pdf_processor.analyze_and_upload()
+pdf_processor.analyze_and_upload() 
+ """

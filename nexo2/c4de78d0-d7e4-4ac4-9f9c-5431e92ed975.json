@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Chowlk_framework_slides.pdf: Página 37\nChowlk framework© María Poveda Villalón  & Serge Chávez-Feria\nThe Chowlk Converter\n38\n• The Architecture\nDetection\nModule\nXML \nFile\nAssociation\nModule\nWriting\nModule\nOWL \nOntology\n•\nWrite each element in TTL.\n•\nLabels automatically generated from URI.\n•\nInclude certain namespaces by default.\n•\nExport it also in RDF/XML.\n",
+  "speaker": "SYSTEM",
+  "uuid": "c4de78d0-d7e4-4ac4-9f9c-5431e92ed975"
+}

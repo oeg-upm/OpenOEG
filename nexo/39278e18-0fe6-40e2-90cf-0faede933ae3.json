@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: KGEOntologies.Elvira.pdf: Página 12\nEnhancing KGE with ontological information for fresh entity introduction\nProposed solution\n12\nFirstly, the performance was evaluated over the datasets FB13 and WN11. \nEntities with no ontological information available were removed, with\ninduced the removal of some of the relations\n0\n0,2\n0,4\n0,6\n0,8\nnationality\nprofession\ninstitution\ncause_of_death\nreligion\nethnicity\nTOTAL\nFB13\nWithout ontological information\nWith ontological information\n0\n0,1\n0,2\n0,3\n0,4\n0,5\n0,6\nmember_meronym\nmember_holonym\npart_of\nhas_part\ndomain_region\nsysnet_domain_topic\ndomain_topic\nTOTAL\nWN11\nWithout ontological information\nWith ontological information\n",
+  "speaker": "SYSTEM",
+  "uuid": "39278e18-0fe6-40e2-90cf-0faede933ae3"
+}

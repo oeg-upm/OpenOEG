@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: Ir a LinkedData\nContents\n[\nhide\n]\n1\nDescription\n2\nCode\n3\nTasks\n3.1\nInclusion of shape files on the visualization\n3.2\nGiven an ID (URI) provide an 303 request for doc, rdf, shpfile, gml, etc\n3.3\nImprove the faceted browser/search\n3.4\nOpen Sahara\nDescription\n\nCode\n\nGithub repos\nTasks\n\nInclusion of shape files on the visualization\n\nJonathan\nGiven an ID (URI) provide an 303 request for doc, rdf, shpfile, gml, etc\n\nImprove the faceted browser/search\n\nFilip\nBounding box\nOpen Sahara\n\nRDF Enabled",
+  "speaker": "SYSTEM",
+  "uuid": "65a0d24b-ca2f-4953-a6d4-bb843e2c7691"
+}

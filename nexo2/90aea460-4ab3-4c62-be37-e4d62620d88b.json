@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 30\n© O. Corcho, R.García-Castro, O. Muñoz-García\n30\nRDF and RDF Schema\nSPARQL Endpoints\n•\nSPARQL protocol services\n–\nEnables users (human or other) to query a knowledge base using SPARQL\n–\nResults are typically returned in one or more machine-processable formats.\n•\nList of SPARQL Endpoints\n–\nhttp://esw.w3.org/topic/SparqlEndpoints\n•\nProgrammatic access using libraries:\n–\nARC, RAP, Jena, Sesame, Javascript SPARQL, PySPARQL, etc.\n•\nExamples:\nProject\nEndpoint\nBBC Programmes and Music\nhttp://bbc.openlinksw.com/sparql/\nDBLP Bibliography \nDatabase \nhttp://www4.wiwiss.fu-\nberlin.de/dblp/sparql\nDBpedia\nhttp://dbpedia.org/sparql\nMusicbrainz\nhttp://dbtune.org/musicbrainz/sparql\nU.S. Census\nhttp://www.rdfabout.com/sparql\n",
+  "speaker": "SYSTEM",
+  "uuid": "90aea460-4ab3-4c62-be37-e4d62620d88b"
+}

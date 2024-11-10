@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Guiones.pdf: Página 5\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nLos Guiones\n3.  Representación del conocimiento\nGUIÓN RESTAURANTE\nCABECERA\nPapeles: El Cliente, el camarero, el cocinero, el propietario\nApoyos: El dinero, la comida, la carta, la mesa, las sillas\nPuntos de vista: El cliente\nCONDICIONES DE ENTRADA\nEl cliente tiene hambre\nEl cliente tiene dinero\nCONDICIONES DE SALIDA\nEl cliente ya no tiene hambre\nEl cliente tiene menos dinero\nEl propietario tiene más dinero\nESCENA   1\nEl cliente entra en el restaurante\nEl cliente busca sitio\nSi no hay sitio\nEntonces llama al camarero\nSentarse\nIr a escena 2\n",
+  "speaker": "SYSTEM",
+  "uuid": "9df03aa8-4c3b-4b27-a7a8-0ff3c84b42ac"
+}

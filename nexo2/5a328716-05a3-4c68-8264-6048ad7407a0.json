@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GeneralOntologies-v3_%28mariano%29.pdf: Página 35\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work\n35\nWHY TO REUSE GENERAL ONTOLOGIES?\nHowever, if we are aware of the formal properties (e.g., transitivity, antisymmetry, etc.) of the relationship \nisPartOf and we include such formal notions in the ontology (e.g., transitivity), then the aforementioned CQ \ncould be solved with this SPARQL  query:\n# SPARQL query SQ1\nPREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\nPREFIX ub: <http://www.NewOnto1.org/killer201004271447#>\nSELECT ?X\nWHERE\n{\n?X rdf:type ub:drug .\nub:iron ub:isPartOf ?X .\n}\nProcedural programming (e.g. Java)\nHow things are done\nDeclarative programming (e.g. OWL)\nWhat things are\nThe reasoner works instead of developers\n",
+  "speaker": "SYSTEM",
+  "uuid": "5a328716-05a3-4c68-8264-6048ad7407a0"
+}

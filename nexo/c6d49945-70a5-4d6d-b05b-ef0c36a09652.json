@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 33\n•33\nSample RDF APIs\n•\nRDF libraries for different languages: \n•\nJava, Python, C, C++, C#, .Net, Javascript, Tcl/Tk, PHP, Lisp, Obj-C, \nProlog, Perl, Ruby, Haskell\n•\nList in http://esw.w3.org/topic/SemanticWebTools\n•\nUsually related to a RDF repository\n•\nMultilanguage:\n•\nRedland RDF Application Framework (C, Perl, PHP, Python and Ruby): \nhttp://www.redland.opensource.ac.uk/\n•\nJava:\n•\nJena: http://jena.sourceforge.net/\n•\nSesame: http://www.openrdf.org/\np\np\ng\n•\nPHP:\n•\nRAP - RDF API for PHP: http://www4.wiwiss.fu-berlin.de/bizer/rdfapi/\n•\nPython:\n•\nRDFLib: http://rdflib.net/\n•\nPyrple: http://infomesh.net/pyrple/\n66\nJena\n• Java framework for building Semantic Web \napplications\n• Open source software from HP Labs\n• The Jena framework includes:\n• A RDF API\n• An OWL API\n• Reading and writing RDF in RDF/XML, N3 and N-Triples\n• In-memory and persistent storage\n• A rule based inference engine\n• SPARQL query engine\n67\n",
+  "speaker": "SYSTEM",
+  "uuid": "c6d49945-70a5-4d6d-b05b-ef0c36a09652"
+}

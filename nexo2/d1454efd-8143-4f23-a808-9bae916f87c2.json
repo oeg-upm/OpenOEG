@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: LinkedDataGeneration.pdf: Página 40\n40\nBeaches\nFuture Work\n• Generate more datasets from other domains, e.g. \nuniversities in Spain.\n• Identify more links to DBPedia and Geonames.\n• Cover complex geometrical information, i.e. not only \nPoint and LineString-like data; we will also treat \ninformation representation through polygons.\n",
+  "speaker": "SYSTEM",
+  "uuid": "d1454efd-8143-4f23-a808-9bae916f87c2"
+}

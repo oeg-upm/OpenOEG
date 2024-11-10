@@ -10,7 +10,7 @@ from pinecone import Pinecone, ServerlessSpec
 
 mi_model = "meta-llama-3.1-8b-instruct"
 mi_model_emb = "nomic-embed-text-v1.5"
-index_name = "oegdb-ppt"
+index_name = "oegdb"
 
 def open_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as infile:
@@ -103,10 +103,10 @@ def load_conversation(results): #esta es la clave TODO
     result = list()
     for m in results['matches']:
         try:
-            info = load_json('./tfg/nexo2/%s.json' % m['id']) #TODO cambie por nexo2
+            info = load_json('./tfg/nexo/%s.json' % m['id']) #TODO cambie por nexo2
             result.append(info)
         except:
-            print("Parece que " + './tfg/nexo2/%s.json' % m['id'] + " no esta" )
+            print("Parece que " + './tfg/nexo/%s.json' % m['id'] + " no esta" )
             continue
     #ordered = sorted(result, key=lambda d: d['time'], reverse=False)  # sort them all chronologically
     messages = [i['message'] for i in result]
@@ -118,11 +118,11 @@ def load_conversation(results): #esta es la clave TODO
 
 
 if __name__ == '__main__':
-    convo_length = 5
+    convo_length = 5 # se puede cambiar
     #openai.api_key = open_file('./tfg/openaiapikey.txt')
     
     pc = Pinecone(
-        api_key=open_file('./tfg/key_pinecone.txt')
+        api_key=open_file('C:/Users/Jaime Vázquez/Documents/Python/key_pinecone.txt')
     )
     # index_name = "mispruebas-index"
     # Now do stuff
@@ -186,16 +186,17 @@ if __name__ == '__main__':
         
         prev_conv = open_file('./tfg/textos/logs/%s' % filename)
         
-        
+        """ """ """
         print("\n\nSoy las conversacion previa, a ver que hay aquí \n \n")
         print(prev_conv)
         print("\n \n")
-        
+        """ """         """ 
         print("\n\nSoy los datos, a ver que hay aquí \n \n")
         print(wiki_data)
-        print("\n \n")
+        print("\n \n") 
+       
         
-        prompt = open_file('./tfg/textos/contexto.txt').replace('<<DATOS>>', wiki_data).replace('<<CONVERSACIÓN>>', prev_conv).replace('<<MENSAJE>>', a)
+        prompt = open_file('./tfg/textos/contexto.txt').replace('<<DATOS>>', wiki_data).replace('<<CONVERSACIÓN>>', prev_conv).replace('<<MENSAJE>>', a) #puede que sea demasiado largo, mirar
         #### generate response, vectorize, save, etc
         output = text_completion(prompt) #prompt
         timestamp = time()

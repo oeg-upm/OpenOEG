@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 08_LDFromDB.pdf: Página 47\nSitemap.xml example \n47 \n<?xml version=\"1.0\" encoding=\"UTF-8\"?> \n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/\n0.9\"> \n   <url> \n      <loc>http://yoursite/</loc> \n   </url> \n   <url> \n      <loc>http://yoursite/products/53546</loc> \n   </url> \n   <url> \n      <loc>http://yoursite/products/98421</loc> \n   </url> \n   <url> \n      <loc>http://yoursite/products/41003</loc> \n \n <lastmod>2010-06-24</lastmod> \n       <changefreq>daily</changefreq> \n   </url> \n</urlset>  \nOptional parts \n",
+  "speaker": "SYSTEM",
+  "uuid": "1255516a-a84e-4ef9-9197-3f50bb36f40b"
+}

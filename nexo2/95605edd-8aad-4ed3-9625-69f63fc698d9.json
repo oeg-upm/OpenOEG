@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_OWL.pdf: Página 45\n© O. Corcho, MC Suárez de Figueroa Baonza\n45\nOWL and SWRL\nWhen to use a classifier\n1.\nAt author time (pre-coordination): As a compiler\n–\nOntologies will be delivered as “pre-coordinated” ontologies to be used without a reasoner\n–\nTo make extensions and additions quick, easy, and responsive, distribute developments, \nempower users to make changes\n–\nPart of an ontology life cycle\n2.\nAt delivery time (post-coordination): as a normalisation service\n–\nMany fixed ontologies are too big and too small\n•\nToo big to find things; too small to contain what you need\n–\nCreate them on the fly\n–\nPart of an ontology service \n3.\nAt application time (inference): as a reasoner\n–\nDecision support, query optimisation,  schema integration, etc.\n–\nPart of a reasoning service \n",
+  "speaker": "SYSTEM",
+  "uuid": "95605edd-8aad-4ed3-9625-69f63fc698d9"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: MGPGLD-v3.pdf: Página 48\nGeoLinkedData – Data Cleansing\n48\nGeneration\n• Errors\n• Some resources, with the same name, were mixed. For \nexample, Granada municipality belongs to Granada \nprovince, and La Granada municipality belongs to Barcelona \nProvince.\n• Autonomous communities that only have one province, e.g., \nMurcia Region, missed some municipalities, but their \ncorresponding provinces, e.g., Murcia Province, have the \ncorrect number of municipalities.\n• Some hydrographical resources missed some parts of their \ngeometrical information.\n",
+  "speaker": "SYSTEM",
+  "uuid": "f16c3949-cc83-4719-b65b-8c4e7102f554"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 13_LDGeneration.pdf: Página 36\n18/12/12 \n36 \nsitemap4rdf \n•  Simple command line tool \n•  Sends a SPARQL query to list all URIs \n•  Generates sitemap \n•  run sitemap4rdf specifying the SPARQL endpoint \nand the prefix of the URLs to include in the Sitemap \nsitemap4rdf http://yoursite/sparql http://yoursite/resource/ \n \nExample:  \n \nsitemap4rdf http://geo.linkeddata.es/sparql http://geo.linkeddata.es/ \n71 \nSubmit the sitemap location - Sindice \n•  http://sindice.com/main/submit \n72 \n",
+  "speaker": "SYSTEM",
+  "uuid": "ecc63aaa-04d1-41b9-a69f-cb07643c6ee3"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 30\nJAVA Right Hand Side\n• public void doit(Document doc, Map bindings, AnnotationSet \nannotations, AnnotationSet inputAS, AnnotationSet outputAS, \nOntology ontology) throws JapeException\n• Each labeled section of the LHS results in an Annotation Set \nthat can be retrieved from the bindings map\n• AnnotationSet set = \n(AnnotationSet)bindings.get(\"labelname\");\n• All features of an annotation are stored in a map\n• FeatureMap map = annotation.getFeatures()\n• Each feature is accessed by name\n• Object obj = map.get(“featurename”)\n• New annotations should always be created in the outputAS\n• outputAS.add(start,end,label,features)\nJAPE RULES\n",
+  "speaker": "SYSTEM",
+  "uuid": "6165f662-ad44-4e6e-b4b3-0a708b114b7f"
+}

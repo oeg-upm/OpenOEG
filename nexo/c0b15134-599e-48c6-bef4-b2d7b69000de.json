@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Restricciones.pdf: Página 5\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nRestricciones\nComponentes básicos\nMarco Conceptual\n• Variables/Atributos: X1, X2, ... Xn\n• Dominio finito para cada atributo:   DXi = <Vi1, Vi2, ...., Vim>\n• Se pueden establecer prioridades entre atributos\nConjunto de Restricciones\nR = {R1, R2, ...., Rm}   /  Ri es ecuación o inecuación\nSe pueden establecer prioridades entre restricciones\nMotor de Inferencia\n•\nFiltrado de las restricciones  (Obtener combinaciones de valores de atributos que satisfacen R)\n•\nPropagación de restricciones de valores en las variables \n",
+  "speaker": "SYSTEM",
+  "uuid": "c0b15134-599e-48c6-bef4-b2d7b69000de"
+}

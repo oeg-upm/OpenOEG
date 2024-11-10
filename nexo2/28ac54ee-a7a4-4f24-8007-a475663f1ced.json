@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Jmora20100527.pdf: Página 10\nReasoning-by-planning\n• If the ontology is too big or too expressive saturation \nis not possible\n• Planning can be used to choose the inference steps \nto perform, this possibility should be explored\n• The selection performed by planning introduces a big \noverhead over the operations to perform\n• The operations should be grouped in bunches to reduce \noverhead\n• Planning-by-rewriting should be the planning method \nused, new operators should be added for the \ninference\n• These operators depend on the expressiveness of the \navailable ontologies\n10\n",
+  "speaker": "SYSTEM",
+  "uuid": "28ac54ee-a7a4-4f24-8007-a475663f1ced"
+}

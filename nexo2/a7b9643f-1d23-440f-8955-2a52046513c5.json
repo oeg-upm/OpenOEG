@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_OWL.pdf: Página 65\n© O. Corcho, MC Suárez de Figueroa Baonza\n65\nOWL and SWRL\nAnother data model\nhttp://.../JohnSmith\nJohn Smith\nSmith\nJohn\nvcard:Given\nvcard:Family\nvcard:FN\nvcard:N\n// some definitions \nString personURI = \"http://somewhere/JohnSmith\"; String givenName = \"John\"; \nString familyName = \"Smith\"; \nString fullName = givenName + \" \" + familyName; \n// create an empty \nModel Model model = ModelFactory.createDefaultModel(); \n// create the resource \n// and add the properties cascading style \nResource johnSmith = model.createResource(personURI) \n.addProperty(VCARD.FN, fullName) \n.addProperty(VCARD.N, model.createResource()   \n.addProperty(VCARD.Given, givenName)\n.addProperty(VCARD.Family, familyName)); \n",
+  "speaker": "SYSTEM",
+  "uuid": "a7b9643f-1d23-440f-8955-2a52046513c5"
+}

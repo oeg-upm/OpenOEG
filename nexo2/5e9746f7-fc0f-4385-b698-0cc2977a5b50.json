@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 74\nWeb Ontology Language\nReasoning\nQueries against the ontology\nA query is an anonymous class\nWe ask the reasoner how the entities of the ontology relate to such class \n(type, subclass, … )\nDefined classes can also be regarded as queries\n",
+  "speaker": "SYSTEM",
+  "uuid": "5e9746f7-fc0f-4385-b698-0cc2977a5b50"
+}

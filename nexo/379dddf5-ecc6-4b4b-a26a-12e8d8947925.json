@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 13\n©O. Corcho\n13\nOntological Engineering\nCopyright © 2005, The University of Manchester\nWhat are we missing?\n• This is not a semantically rich model\n• Apart from “is kind of” (subsumption) and “is not kind \nof” (disjoint), we currently don’t have any other \ninformation of interest\n• We want to say more about Pizza Individuals, such as \ntheir relationship with other Individuals\nPizza\nPizzaTopping\n= individual\n",
+  "speaker": "SYSTEM",
+  "uuid": "379dddf5-ecc6-4b4b-a26a-12e8d8947925"
+}

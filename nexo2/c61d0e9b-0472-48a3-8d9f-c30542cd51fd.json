@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 36\nGate – Supervised classification\nMachine Learning\nTraining data set\n(Documents annotated with\nThe annotation feature we \nwant to learn) \nTraining data set\n(Documents annotated with\nThe annotation feature we \nwant to learn)\nClassifier\nDocs(AnnotationFeatures \n,class – entity.type)\nEvaluation data set\n(Documents annotated with\nThe annotation feature we want to learn)\nEvaluation data set\n(Documents annotated with\nThe annotation feature we want to learn)\nInstances \n(AnnotationFeatures, \nclass –entity.type)\nNew Instance\nUnclassified\nNew Instance\nUnclassified\nDoc (Annotation.features)\nCalifornia Governor Schwarzenegger proposes…\nToken.String=“California”\nLookup.majorType=“Location \n” \nToken.String=“California”\nLookup.majorType=“Location \n”\nLookup.majorType\n=“Job”\nLookup.majorType\n=“Job”\nToken.category=“Verb \n” \nToken.category=“Verb \n”\nSchwarzenegger \nEntity.type \n=Person \nEntity.type \n=Person\n",
+  "speaker": "SYSTEM",
+  "uuid": "c61d0e9b-0472-48a3-8d9f-c30542cd51fd"
+}

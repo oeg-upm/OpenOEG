@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 07_Applications.pdf: Página 9\nKey Aspects: Ontological Engineering\n•\nWork on Semantic Web has concentrated on the definition of a\n•\nWork on Semantic Web has concentrated on the definition of a \ncollection or “stack” of languages. \n– Used to support the representation and use of metadata\nBasic machinery that we can use to represent the extra semantic\n– Basic machinery that we can use to represent the extra semantic \ninformation needed for the Semantic Web\nSWRL\nOWL\nInfe\nSWRL\nRDF(S)\nIntegra\nRDFS\nIntegra\nerence\n( )\nation\nRDF\nXML\nAnnotati\nation\nReasoning over the information we have\nCould be light-weight (taxonomy)\nCould be heavy weight (logic style)\nIntegrating information sources\nXML\non\nCould be heavy-weight (logic-style)\nAssociating metadata to resources (bindings) \n",
+  "speaker": "SYSTEM",
+  "uuid": "b75c2b60-891d-4a10-a93e-df0a3acbd142"
+}

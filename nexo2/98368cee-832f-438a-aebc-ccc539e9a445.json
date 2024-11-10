@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 9\n©O. Corcho\n9\nOntological Engineering\nCopyright © 2005, The University of Manchester\nDisjointness\n•\nIf we state that classes are disjoint\nMeatTopping\nVegetableTopping\n= individual\n►This means an individual cannot be both a MeatTopping and \na VegetableTopping at the same time\n►We must do this explicitly in the interface\n",
+  "speaker": "SYSTEM",
+  "uuid": "98368cee-832f-438a-aebc-ccc539e9a445"
+}

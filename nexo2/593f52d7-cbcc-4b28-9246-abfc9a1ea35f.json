@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 54\nRunning the evaluation scenario \nInspecting generated results  \n• Simple inspection  \n– With a browser: \n• FireFox (3.6.13) \n• REST Client add-on (1.3.3) \n \n• Complex inspection  \n– With shell commands (*nix shell or Cygwin on \nWindows platforms): \n• curl \n• unzip \nESWC 2011, 29/05/2011 \n54 \n",
+  "speaker": "SYSTEM",
+  "uuid": "593f52d7-cbcc-4b28-9246-abfc9a1ea35f"
+}

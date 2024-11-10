@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Marcos-II-asun.pdf: Página 24\nMarcos\nEjemplo\nAnimal racional: Sí\n(*) Nombre: Conjunto de caracteres\n(*) Edad: [0\n100]\nje p o\nMC-Persona\nMC-Fecha\n(*) Día: [1 ... 31]\n( ) Edad: [0 ... 100]\n(*) Nacionalidad: [Española, Argentina, ...]\n(*) Estado-Civil: [Soltero, Casado, Divorciado, Viudo]\n(*) Tipo-de-Matrimonio: [Civil, Iglesia, ...]\n(*) Religión: [Agnóstico, Ateo, Católico, Musulmán, ...]\n(*) F\nh d B d\n( )\na: [ ... 3 ]\n(*) Mes: [1 ... 12]\n(*) Año: [0 ... 99]\n(*) Fecha-de-Boda:\n(*) Fecha-de-Nacimiento:\nSubclase-de\nSubclase-de\nMC-Hombre\nCasado-Con:\nSexo: Varón\nMC-Mujer\nCasado-Con:\nSexo: Mujer\nInstancia\nMI-Juan\nInstancia\nMI-María\nNombre: María\nEdad: 30\nInstancia\nMI-Juan\nNombre: Juan\nEdad: 30\nNacionalidad: Española\nEstado-Civil: Casado\nC\nd\nC\nEdad: 30\nNacionalidad: Argentina, Española\nEstado-Civil: Casada\nTipo-de-Matrimonio: Civil\nFecha-de-Boda:\nC\nd\nC\nMI-Fecha-1\nDía: 1\nMes: 7\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nCasado-Con:\nCasado-Con:\nAño: 95\n",
+  "speaker": "SYSTEM",
+  "uuid": "7c2cf2c3-1e0b-4390-84d1-938a986e0cf7"
+}

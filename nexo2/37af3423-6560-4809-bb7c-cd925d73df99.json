@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_Introducci%C3%B3nLinkedData.pdf: Página 18\n18/09/12 \n18 \nIt would be better to make a data query… \n(football players from Albacete \nwho played Eurocup 2008) \nTaken from: Guillermo Alvaro Rey \nLinked Data enables such Web of Data \n36 \n \nMovieDB \nCIA \nWorld \nFactBook \nGlobal Identifier: URI (Uniform Resource Identifier), which is a string of characters used  \n \n to identify a name or a resource on the Internet. \n \nhttp://cia.../Bolivia \nhttp://imdb.../TLLuvia \nData Model: RDF (Resource Description Framework), which is a standard model  \n \n for data interchange on the Web \n \nhttp://.../population \nhttp://.../name \n8000000 \n“Even the Rain” \nAccess Mechanism: HTTP \n Connection: Typed Links \n \nhttp://.../filming_location \n© Slide adapted from “5min Introduction to Linked Data”- Olaf Hartig \n",
+  "speaker": "SYSTEM",
+  "uuid": "37af3423-6560-4809-bb7c-cd925d73df99"
+}

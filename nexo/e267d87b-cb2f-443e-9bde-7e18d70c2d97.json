@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologias-Multilingualidad.pdf: Página 31\n©\n31\nModelización.\nMetamodelo de ontología y modelo de mappings\n• Las ontologías son del mismo dominio, pero diferente lengua\n• Los mappings son de equivalencia entre los términos de las\ndistintas lenguas\n– Translate\n– Equivalence label\n• Esta opción no pretende ser metamodelo de multilingualidad\n• Modelo menos intituivo a nivel de abstracción\n• Otros tipos de mappings, por ejemplo, en C-OWL:\n– Igualdad, contiene a, contenido en, solapamiento, y sus\nnegaciones\n",
+  "speaker": "SYSTEM",
+  "uuid": "e267d87b-cb2f-443e-9bde-7e18d70c2d97"
+}

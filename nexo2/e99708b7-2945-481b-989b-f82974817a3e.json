@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GeneralOntologies-v3_%28mariano%29.pdf: Página 29\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work\n29\nTIME MODELING NOTIONS. OPTIONAL EXTENSIONS (III)\nTotal ordering means that, for every pair of temporal points t1 and t2, necessarily t1 < t2 or t2 < t1.\nThis feature eliminates models of time with branching futures and other conflations of time and possibility or \nlimited knowledge.\nModelling of infinite. An infinite interval is that which is not limited in the past or in the future.\n0\nInfinite interval through the past\nInfinite interval through the future\nb) Infinite pass: intervals without left point. Infinite future: intervals without right point\n0\nInfinite interval through the past\nInfinite interval through the future\na) Interval with a point in the infinite past and a point in the infinite future\nPoint in \nthe \ninfinite \npast\nPoint in \nthe \ninfinite \nfuture\nt1\nt2\nt3\n…\n",
+  "speaker": "SYSTEM",
+  "uuid": "e99708b7-2945-481b-989b-f82974817a3e"
+}

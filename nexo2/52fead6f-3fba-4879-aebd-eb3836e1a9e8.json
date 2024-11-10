@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ISSGC08.pdf: Página 12\n©<Miembro Grupo>\n13\nDistributed Systems Principles (problems)\n• Distributed systems problems\n– Lack of Knowledge\n• Due to technical reasons (latency, failures, tec.), human reasons \n(incomplete knowledge, lack of understanding, poor models)\n– Heterogeneity\n• Hardware heterogeneity (computer architectures, storage systems, input \ninstruments), OS heterogeneity, different implementations systems\n– Latency\n• It always be there (and probably it will get worse due to geographic scale, \nsystem complexity, processing time)\n– Unreliability\n• Failures can happen (Network outages, Power outages, software errors, \netc.)\n– Autonomy & Change\n• Changes on local systems, services\n",
+  "speaker": "SYSTEM",
+  "uuid": "52fead6f-3fba-4879-aebd-eb3836e1a9e8"
+}

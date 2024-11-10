@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4._methodologies-Concpt-REEng.pdf: Página 27\nOntological Engineering \n©Asunción Gómez-Pérez,\n3 Architectural Patterns (APs)\n• Taxonomy\n– A hierarchical structure of classes only related by subsumption relations.\n• Lightweight ontology. Taxonomy + the following features:\n– A class can be related to other classes through the disjointWith relation.\n– Object and datatype properties can be defined and used to relate classes.\n– A specific domain and range can be associated with defined object and \ndatatype properties.\n• Modular architecture\n– Structuring an ontology as a configuration of components, each having its \nown identity based on some design criteria. \n– When an ontology is committed to a huge domain of knowledge, a good \npractice is to decompose the domain into smaller subdomains which address \nsimpler tasks. Each subdomain can be then encoded in an ontology module, \nso as to provide the whole ontology with a modular architecture.\n",
+  "speaker": "SYSTEM",
+  "uuid": "e5ae0b80-e7d1-42a3-8e0f-a9e8fc75d249"
+}

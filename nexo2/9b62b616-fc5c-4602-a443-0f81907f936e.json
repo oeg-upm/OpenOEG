@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA-2011.pdf: Página 171\nOrden estático: las jugadas siempre se \nordenan de la misma forma y no se \ncambia el orden mientras que se \nestudian los nodos sucesores\nOrden dinámico: Las jugadas se \nordenan, se van estudiando una a una y \nsi  alguna devuelve un valor \ncompletamente diferente al esperado, y \nno se han estudiado todas las jugadas, \nse estudia si  se reordenan o no todas \nlas jugadas no exploradas.\n",
+  "speaker": "SYSTEM",
+  "uuid": "9b62b616-fc5c-4602-a443-0f81907f936e"
+}

@@ -15,13 +15,25 @@ class PPTtoPDFConverter:
             for archivo in os.listdir(self.directory)
             if archivo.lower().endswith('.ppt')
         ]
-
+    
     def convert_to_pdf(self):
         """Convierte cada archivo PPT en el directorio a PDF."""
         ppt_files = self.listar_ppt()
         
+
+        
+        #print(archivos_ppt_sin_pdf)
+        
         for ppt_file in ppt_files:
+            
             pdf_file = ppt_file.replace('.ppt', '.pdf')
+            
+            #print(pdf_file)
+            
+            if os.path.isfile(pdf_file):
+                print(f"Se ha ignorado, ya se encuentra el fichero {pdf_file}")
+                continue
+            
             try:
                 print(f"Convirtiendo {ppt_file} a {pdf_file}...")
                 deck = self.powerpoint.Presentations.Open(os.path.abspath(ppt_file))
@@ -35,8 +47,9 @@ class PPTtoPDFConverter:
         """Cierra la aplicación de PowerPoint."""
         self.powerpoint.Quit()
 
-# Ejemplo de uso
+""" # Ejemplo de uso
 file_path = r"C:/Users/Jaime Vázquez/Documents/Python/tfg/ptts2/"
 converter = PPTtoPDFConverter(file_path)
 converter.convert_to_pdf()
 converter.close()
+ """

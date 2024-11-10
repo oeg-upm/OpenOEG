@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SPARQL_optimization_slides.pdf: Página 10\nDARQ: Service Description\nData available\nSet of predicates with subject/object constraints\nAccess patterns\nRequired subject/object bindings\nStatistics\nND: Number of triples\nOptionally, for each predicate:\nnD(p): Number of triples with predicate\nsselD(p): Subject selectivity for p\noselD(p): Object selectivity for p\nProposed Improvements\nUse SPARQL1.1 service descriptions and standard vocabularies\nIdentify other useful statistics\nExtend for streaming sources\n",
+  "speaker": "SYSTEM",
+  "uuid": "9c013392-987e-4b36-9e4c-6951011f135c"
+}

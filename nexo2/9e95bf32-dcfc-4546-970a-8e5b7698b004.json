@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01.02.L%C3%B3gicaDescriptiva.pdf: Página 3\n3 \nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva \nStructure of DL Ontologies \n• \nA DL ontology can be divided into two parts: \n–  Tbox (Terminological KB): a set of axioms that describe the \nstructure of a domain : \n•  Doctor ⊆ Person \n•  Person ⊆ Man ∪ Woman \n•  HappyFather ⊆ Man ∩ ∀hasDescendant.(Doctor ∪ \n∀hasDescendant.Doctor) \n–  Abox (Assertional KB): a set of axioms that describe a specific \nsituation : \n•  John ∈ HappyFather  \n•  hasDescendant (John, Mary) \nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva \nDL constructors \n≥3 hasChild, ≤1 hasMother \n{Colombia, Argentina, México, ...} à MercoSur countries \n \n \nhasChild- (hasParent) \n≤2 hasChild.Female, ≥1 hasParent.Male \n \n \nOther: \nConcrete datatypes:  hasAge.(<21) \nTransitive roles: hasChild* (descendant) \nRole composition: hasParent o hasBrother (uncle) \n",
+  "speaker": "SYSTEM",
+  "uuid": "9e95bf32-dcfc-4546-970a-8e5b7698b004"
+}

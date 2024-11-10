@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 47\nATHENS 2010 \n© Raúl García Castro et al. \nDescription Logics \n•  A family of logic-based Knowledge Representation \nformalisms \n-  Descendants of semantic networks and KL-ONE \n-  Describe domain in terms of concepts (classes), roles \n(relationships) and individuals \n•  Specific languages characterised by the constructors and axioms used \nto assert knowledge about classes, roles and individuals. \n•  Example: ALC (the least expressive language in DL that is \npropositionally closed) \n•  Constructors: boolean (and, or, not) \n•  Role restrictions \n•  Distinguished by: \n-  Model theoretic semantics \n•  Decidable fragments of FOL \n•  Closely related to Propositional Modal & Dynamic Logics \n-  Provision of inference services \n•  Sound and complete decision procedures for key problems \n•  Implemented systems (highly optimised) \n47 \n",
+  "speaker": "SYSTEM",
+  "uuid": "44d2bbce-8826-465a-af07-31e74d0f0dc7"
+}

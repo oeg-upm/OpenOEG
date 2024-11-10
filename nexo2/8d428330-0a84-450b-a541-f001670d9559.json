@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 02_RDF%28S%29.pdf: Página 18\n18 \n© Raúl García Castro et al. \nDescribing properties \n35 \nperson:hasColleague \ndata:Raul \ndata:Asun \nperson:hasHomePage \nhttp://www.oeg-upm.net/ \nperson:hasColleague \ndata:Oscar \n“Óscar Corcho García” \nperson:hasName \nperson:AssociateProfessor \nperson:Professor \nperson:Person \nperson:InterimAssociateProfessor \nperson:FullProfessor \nperson:hasName \nrdfs:Literal \nrdfs:domain \nrdfs:range \nperson:hasHomePage \nrdfs:domain \nrdf:type \nrdf:type \nrdf:type \nrdfs:subClassOf \nrdfs:subClassOf \nrdfs:subClassOf \nrdf:Property \nrdfs:Class \nRDF(S) \nPerson \nData \nrdf:type \nrdf:type \nperson:hasColleague \nrdfs:domain \nrdfs:range \n© Raúl García Castro et al. \nAnnotating resources \n36 \ndata:Raul \nrdfs:label \n“Raúl” \nrdfs:comment \n“Resource for Raúl García Castro” \nrdfs:seeAlso \nhttp://delicias.dia.fi.upm.es/~rgarcia/ \nrdfs:isDefinedBy \nhttp://delicias.dia.fi.upm.es/~rgarcia/foaf.rdf \nrdfs:label \n“Raúl García” \n",
+  "speaker": "SYSTEM",
+  "uuid": "8d428330-0a84-450b-a541-f001670d9559"
+}

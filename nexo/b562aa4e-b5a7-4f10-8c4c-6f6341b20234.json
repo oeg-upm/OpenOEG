@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Helio-no_animations.pdf: Página 12\nSet your title here in Slide Master Options\nHelio core implementation status\n12\nSpecification\nElements\nImplemented\nHelio Specification\nConnector\nFederatedSparqlConnector,\nGetConnector,\nLocalFileConnector,\nTwitterConnector,\nURLConnector,\nDatasource\nCsvDatasource,\nHtmlDatasource,\nJsonDatasource,\nRDFDatasource,\nTextDatasource,\nXmlDatasource,\nTranslator\nHelio Virtualizer\nLinking\nHelio Linker\nRML* \n(proof of concept)\nConnector\nLocalFileConnector\nDatasource\nJsonDatasource\nTranslator\nHelio Virtualizer\nLinking\nHelio Linker\n",
+  "speaker": "SYSTEM",
+  "uuid": "b562aa4e-b5a7-4f10-8c4c-6f6341b20234"
+}

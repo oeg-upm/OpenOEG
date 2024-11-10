@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 15\n© O. Corcho, R.García-Castro, O. Muñoz-García\n15\nRDF and RDF Schema\n•\nMen and women are persons\n•\nA person can be married to another person\n•\nNobody can be a man and a woman at the same time\n•\nJohn, Paul and Michael are men\n•\nMary and Anne are women\n•\nJohn is married to Mary\n•\nPaul is married to Anne\nPerson\nDisjoint\nMarried-to\nWoman\nMan\nsubclassOf\nsubclassOf\ninstanceOf\ninstanceOf\nMary\nMarried-to\nAnne\nJohn\ninstanceOf\ninstanceOf\nPaul\nMarried-to\nMichael\ninstanceOf\nFrames. Example\n",
+  "speaker": "SYSTEM",
+  "uuid": "75892875-3445-4632-85fe-079977529850"
+}

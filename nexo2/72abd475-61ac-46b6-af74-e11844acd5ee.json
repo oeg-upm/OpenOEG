@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologies%26multilinguality%40wiki_24-01-08.pdf: Página 35\n©Guadalupe Aguado de Cea\n35\nA. Including multilingual information in \nthe ontology meta-model\n¾ Advantages:\n• Increase of other languages is easily done by including just \nlabels in the ontology.\n• Suitable for highly specialized domain ontologies: knowledge \nshareable among different linguistic community experts.\n¾ Disadvantages:\n• Linguistic information included in the ontology is limited.\n• Full synonym relation is assumed among labels in the different \nlanguages, but it is not true.\n",
+  "speaker": "SYSTEM",
+  "uuid": "72abd475-61ac-46b6-af74-e11844acd5ee"
+}

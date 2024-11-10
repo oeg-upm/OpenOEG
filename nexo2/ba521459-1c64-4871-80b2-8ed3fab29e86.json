@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 00_IntroductionSemanticWeb.pdf: Página 12\n© O. Corcho, A. Gómez-Pérez\n12\nA 10-minute Introduction to Ontologies and the Semantic Web\nOntology in Computer Science\n•\nAn ontology is an engineering artifact: \n– It is constituted by a specific vocabulary used to describe a certain reality, \nplus \n– a set of explicit assumptions regarding the intended meaning of the \nvocabulary. \n• Almost always including concepts and their classification\n• Almost always including properties between concepts\n• Similar to an object oriented model\n•\nThus, an ontology describes a formal specification of a certain \ndomain:\n– Shared understanding of a domain of interest\n– Formal and machine manipulable model of a domain of interest\n",
+  "speaker": "SYSTEM",
+  "uuid": "ba521459-1c64-4871-80b2-8ed3fab29e86"
+}

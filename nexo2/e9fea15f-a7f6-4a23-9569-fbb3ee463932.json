@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Intro-SemanticWeb.pdf: Página 25\n©Asunción Gómez-Pérez\n25\n<rdf:Description\n \nrdf:about='Asunción\n \nGómez-Pérez'> \n<rdf:type\n \nrdf:resource=‘Associate\n \nProf'/> \n<NS0:Full_Name>A. GomezPerez</NS0:Full_Name>\n<NS0:Belongs_To>UPM</NS0: Belongs_To\n \n> \n<NS0:e-mail>asun@fi.upm.es</NS0:e-mail> \nPerson\nOrganization\nHas_contact_Person\nBelongs_To\nAssociate\n \nProf.\nPartner\nSubclass\n \nof\nURL\nWeb Page\nxmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' \nxmlns:NS0='http://www.esperonto.net/semanticportal/RDFS/Person_Ontology#' \nxmlns:NS1='http://www.esperonto.net/semanticportal/RDFS/Organization_Ontology#' \n<rdf:Description\n \nrdf:about='UPM'> \n<rdf:type\n \nrdf:resource='Partner'/> \n<NS1:Acronym>UPM</NS1:Acronym>\n<NS1:Has_Contact_Person>Asunción Gómez-Pérez\n</NS1:Has_Contact_Person\n \n> \nInstance\n \nof\nInstance\n \nof\nSubclass\n \nof\nAnnotation\n(RDF)\nhttp://www.esperonto.net\nhttp://www.esperonto.net\nOntologies\n \nand\n \nMetadata\nOntologies\n",
+  "speaker": "SYSTEM",
+  "uuid": "e9fea15f-a7f6-4a23-9569-fbb3ee463932"
+}

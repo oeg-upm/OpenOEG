@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 32\nRNNs 4 [9]\nTraditional NNs and ConvNets have an API constrained\ninput is a fixed-sized vector  (e.g. an image) and output is a  fixed-\nsized vector as output (e.g. probabilities of different classes)\nRNNs allow us to operate over sequencesof vectors\nInput, output or both\n32\n(1) Vanilla mode of processing without RNN, from fixed-sized input to fixed-sized output (e.g. image \nclassification). (2) Sequence output (e.g. image captioning takes an image and outputs a sentence of \nwords). (3) Sequence input (e.g. sentiment analysis where a given sentence is classified as expressing positive \nor negative sentiment). (4) Sequence input and sequence output (e.g. Machine Translation: an RNN reads a \nsentence in English and then outputs a sentence in French). (5) Synced sequence input and output (e.g. video \nclassification where we wish to label each frame of the video). [9]\n",
+  "speaker": "SYSTEM",
+  "uuid": "738f0fe6-fbf6-4e11-8ce8-335c8f45d430"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_SPARQL.pdf: Página 27\nAssignments, Creating new values… \n \n33 \nOntological Engineering Group \nProject Expressions \nPREFIX ex: <http://example.org/>  \nSELECT ?Item ?NewP  \nWHERE { ?Item ex:price ?Pr FILTER (?NewP = ?Pr * 1.1) } \n@prefix ex: <http://example.org/> . \n \nex:lemonade1     ex:price 3 . \nex:beer1         ex:price 3. \nex:wine1         ex:price 3.50 . \n \n \nData: \nResults: \n?Item \n?NewP \nlemonade1 \n3.3 \nbeer1 \n3.3 \nwine1 \n3.85 \nliqueur1 \nLeaves errors unbound! \n",
+  "speaker": "SYSTEM",
+  "uuid": "6bb90cf1-8651-48c9-b82f-b821dc9dff37"
+}

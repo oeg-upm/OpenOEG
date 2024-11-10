@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 04_OntologyLanguages_RDF%28S%29.pdf: Página 26\nExercise 2.b. Create RDF/XML and N3 text files \nfrom an RDF(S) graph\n•\nTransform the following graph into RDF/XML and N3 syntaxes\nPersona\nSaber_1\nVer_1   \nObjeto\nAgente\nVoz\nPepe\nAgente\nObjeto\nMuseo\nrdf:type\nrdf:type\nrdf:type\n© O. Corcho, R.García-Castro, O. Muñoz-García\n51\nRDF and RDF Schema\nActiva\nPresente\nLuis\nTiempo\ng\nEl Prado\nMadrid\nLugar\nPasado\nTiempo\nActiva\nVoz\nTable of Contents\n1.\nAn introduction to knowledge representation formalisms\n2.\nResource Description Framework (RDF)\n2.\nResource Description Framework (RDF)\n2.1. RDF primitives\n2.2. Reasoning with RDF\n3.\nRDF Schema\n3.1 RDF Schema primitives\n3.2 Reasoning with RDFS\n© O. Corcho, R.García-Castro, O. Muñoz-García\n52\nRDF and RDF Schema\n4.\nRDF(S) management APIs\n5.\nRDF(S) query languages: SPARQL\n",
+  "speaker": "SYSTEM",
+  "uuid": "c7d562a6-39ad-4aee-b3a2-4f4826ff7a4b"
+}

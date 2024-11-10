@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: NOR2O%28v1-boris%29.pdf: Página 5\nDescription\nThe software library needs three configuration files:\n1. nor.xml that contains the description of the non-\nontological resource and includes:\n- The schema entities of the resource and the relationships \namong the entities are described in the Schema section.\n- The descriptions of the resource’s internal data model are \nincluded in the DataModel section.\n- The information needed to physically access the resource \nis defined in the Implementation section.\n5\n",
+  "speaker": "SYSTEM",
+  "uuid": "f6c0b8cc-89f6-419e-8d67-b41708275441"
+}

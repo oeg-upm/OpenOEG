@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 53\nTranslation from PROLOG(ASP) to PROLEG\nTheorem 2 Let P be a PROLOG program and tro(P) be a PRO-\nLEG program obtained by the above translation. Then, there is\nan answer set M of P if and only if there is an extension of\ntro(P) such that a set deleting newly introduced predicates from\nthe extension equals to M.\nSo this means that representation power of PROLEG is the\nsame as that of PROLOG.\n53\n",
+  "speaker": "SYSTEM",
+  "uuid": "3d0b517e-049c-49bb-89a8-48333ad0576c"
+}

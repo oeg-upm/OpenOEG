@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 33\nIntroduction\n• Typical supervised machine learning process \n(Classification):\n• We have items/instances and attributes/features\n• Car id=0001, brand=Ford, price=20000€, color=blue \n• Car id=0002, brand=Lexus, price=50000€, color=silver \n• We have classes: Car id=0001 -> Category = Sport \nCar id = 0002 -> Category = Luxury\n• Machine learning algorithm learns a relationship between the \nattributes and classes\n• Car id=003, brand=Citroen, price= 5000€, color=orange, \ncategory=?\nMachine Learning\nNew instance\nExisting \nclassified \ninstances\n",
+  "speaker": "SYSTEM",
+  "uuid": "77c2c980-9245-47f0-8c9d-01a809298ee4"
+}

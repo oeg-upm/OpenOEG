@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GeneralOntologies.pdf: Página 107\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work \n107 \nSTUDY CASE. INTEGRATING THE ONTOLOGY TO BE \nREUSED \nLinks between terms of the reused ontology and the ontology to be developed should be established. \nTo answer CQ4 (with which substances does Frenadol® interact?) we have added this rule to the ontology: \ninteractsWith(?x, ?y), part(?x, ?z) -> interactsWith(?z, ?y)  \nWe have added the axioms identified in task 1.1 (e.g. isMainActiveIngredient is subrelation of isPartOf)  \n",
+  "speaker": "SYSTEM",
+  "uuid": "4e551481-97c0-446e-b992-7cc2eeb749d2"
+}

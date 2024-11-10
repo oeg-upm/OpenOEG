@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_Introducci%C3%B3nLinkedData_Boris.pdf: Página 7\nLinked Data enables such Web of Data\nGlobal Identifier: URI (Uniform Resource Identifier), which is a string of characters used \nto identify a name or a resource on the Internet.\nData Model: RDF (Resource Description Framework), which is a standard model \nfor data interchange on the Web\nAccess Mechanism: HTTP\nConnection: Typed Links\nhttp://.../population\nhttp://.../name\n8000000\n“Even the Rain”\nhttp://cia.../Bolivia\nhttp://imdb.../TLLuvia\nhttp://.../filming_location\nMovieDB\nCIA\nWorld\nFactBook\n7\nFactBook\n© Slide adapted from “5min Introduction to Linked Data”- Olaf Hartig\n",
+  "speaker": "SYSTEM",
+  "uuid": "6d9f8c31-5a01-4b5e-80fe-457383aca3f5"
+}

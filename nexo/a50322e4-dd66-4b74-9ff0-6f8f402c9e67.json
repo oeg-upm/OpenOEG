@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: LinkedDataGeneration.pdf: Página 33\n33\n3. Generation of the RDF Data – Geometry2RDF\n3. Generation of the RDF data – RDF graphs\n•\nIGN\nINE\nBTN25\nBCN200\nIPI\n….\n5\nC\n00\nhttp://geo linkeddata es/dataset/IGN/BTN25 http://geo linkeddata es/dataset/IGN/BCN200\nhttp://geo linkeddata es/dataset/INE/IPI\n•\nSo far\n•\n7 RDF Named Graphs\n•\n1.412.248 triples\nhttp://geo.linkeddata.es/dataset/IGN/BTN25 http://geo.linkeddata.es/dataset/IGN/BCN200\nhttp://geo.linkeddata.es/dataset/INE/IPI\n",
+  "speaker": "SYSTEM",
+  "uuid": "a50322e4-dd66-4b74-9ff0-6f8f402c9e67"
+}

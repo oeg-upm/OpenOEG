@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01.Introduction.pdf: Página 23\n©Asunción Gómez-Pérez \n- 23 \nNeed to Add “Semantics” \n•  External agreement on meaning of annotations \n–  E.g., Dublin Core for annotation of library/bibliographic information \n•  Agree on the meaning of a set of annotation tags \n–  Problems with this approach \n•  Inflexible \n•  Limited number of things can be expressed \n•  Use Ontologies to specify meaning of annotations \n–  Ontologies provide a vocabulary of terms \n–  New terms can be formed by combining existing ones \n•  “Conceptual Lego” \n–  Meaning (semantics) of such terms is formally specified \n–  Can also specify relationships between terms in multiple ontologies \n",
+  "speaker": "SYSTEM",
+  "uuid": "91393540-48ed-4c10-8028-442363fde57a"
+}

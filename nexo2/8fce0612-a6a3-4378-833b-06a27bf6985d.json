@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AMPER08_-_RDF%28S%29_access_APIs.pdf: Página 14\nRDF(S) Access APIs, May 2008\n14\n© García-Castro, Corcho, Muñoz-García\nMultiple values in properties\n// add two nickname properties to vcard\nvcard.addProperty(VCARD.NICKNAME, \"Smithy\")   \n.addProperty(VCARD.NICKNAME, \"Adman\"); \n// set up the output \nSystem.out.println(\"The nicknames of \\\"\" + fullName + \"\\\" are:\");\n// list the nicknames \nStmtIterator iter = vcard.listProperties(VCARD.NICKNAME);\nwhile (iter.hasNext()) { \nSystem.out.println(\" \" + iter.nextStatement() .getObject() .toString()); \n} \n",
+  "speaker": "SYSTEM",
+  "uuid": "8fce0612-a6a3-4378-833b-06a27bf6985d"
+}

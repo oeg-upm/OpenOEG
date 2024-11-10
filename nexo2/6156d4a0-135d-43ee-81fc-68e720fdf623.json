@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 05_OWL.pdf: Página 10\n© O. Corcho, MC Suárez de Figueroa Baonza\n14\nOWL 2\nMost common axioms in definitions\n•\nClasses\n–\nSubclass\nC1 ⊆C2\nHuman ⊆Animal ∩Biped\n–\nEquivalence\nC1 ≡C2\nMan ≡Human ∩Male\n–\nDisjointness\nC1 ∩C2 ⊆⊥\nMale ∩Female ⊆⊥\n•\nProperties/roles\n–\nSubproperty\nP1 ⊆P2\nhasDaughter ⊆hasChild\n–\nEquivalence\nP1 ≡P2\ncost ≡price\n–\nInverse\nP1 ≡P2-\nhasChild ≡hasParent-\n–\nTransitive\nP+ ⊆P\nancestor+ ⊆ancestor\n–\nFunctional\nΤ ⊆≤1P\nT ⊆≤1hasMother\n–\nInverseFunctional\nΤ ⊆≤1P-\nT ⊆≤1hasPassportID-\n–\nAnd also... Reflexive, Irreflexive, Symmetric, Asymmetric\n•\nIndividuals\n–\nEquivalence\n{x1} ≡{x2}\n{oeg:OscarCorcho} ≡{img:Oscar}\n–\nDifferent\n{x1} ≡¬{x2}\n{john} ≡¬{peter}\n–\nNegative object property and datatype property assertions\n¬{P a1 a2}\n¬ {hasChild john peter}\n•\nMost axioms are reducible to inclusion (∪)\n–\nC ≡D iff both C ⊆D and D ⊆C  ; C disjoint D iff C ⊆¬D \n",
+  "speaker": "SYSTEM",
+  "uuid": "6156d4a0-135d-43ee-81fc-68e720fdf623"
+}

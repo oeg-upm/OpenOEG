@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Protege-Pizzas-v5.pdf: Página 14\n© O. Corcho, MC Suárez de Figueroa Baonza\n14\nOWL and SWRL\nInverse Functional Properties\nIf a property is inverse functional then it means that the inverse\nproperty is functional. For a given individual, there can be at most\none individual related to that individual via the property.\nisBirthMotherOf is inverse functional \nThis is the inverse property of\nhasBirthMother — since hasBirthMother is functional, \nisBirthMotherOf is inverse functional\n",
+  "speaker": "SYSTEM",
+  "uuid": "00b32958-c869-4301-b6af-08b5dbfe7f2c"
+}

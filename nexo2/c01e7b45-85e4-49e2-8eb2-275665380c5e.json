@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 04_OntologyLanguages_RDF%28S%29.pdf: Página 29\nExercise\n•Objective\n• Understand how to use an RDF(S) development tool to create RDF(S) ontologies\n•Tasks\n© O. Corcho, R.García-Castro, O. Muñoz-García\n57\nRDF and RDF Schema\n•Tasks\n• Create the previous ontologies in an RDF(S) development tool\nTravel\nrdfs:Literal\nrdfs:Class\nrdfs:range\nrdfs:domain\nrdfs:domain\nrdf:Type\ndepartureDate\nrdfs:domain\narrivalDate\nrdfs:domain\nRDFS\nrdf:Type\nRDF(S) Example\nCompany-name\nsingleFare\nunits:currencyQuantity\nrdfs:range\ntime:Date\nrdfs:range\nrdfs:range\nrdf:Property\nrdf:Type\nrdf:Type\nrdf:Type\nrdf:Type\nRDF\nCompany-name\nrdf:Type\nrdf:Type\n© O. Corcho, R.García-Castro, O. Muñoz-García\n58\nRDF and RDF Schema\nIB-4321\n“Iberia”\n500 euros\n10/11/2005\nsingleFare\ndepartureDate\narrivalDate\nrdf:Type\n",
+  "speaker": "SYSTEM",
+  "uuid": "c01e7b45-85e4-49e2-8eb2-275665380c5e"
+}

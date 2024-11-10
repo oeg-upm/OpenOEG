@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2018.10.NII.pptx: Diapositiva {17}\nStyle and complexity:\n“A sells a house to B.”  A tagged as a determiner\nRelevance: Possibilities, intentions, negations…\n“A would like to sell it to C for a higher price.”\nCoreferences:\n“A rescinded a contract. This rescission was later cancelled.”\nNesting and matching:\nDerive information from one clause to another.\n“A rescinded the contract with B because of B’s duress.”",
+  "speaker": "SYSTEM",
+  "uuid": "8b8bce8b-4505-4a24-9de3-23c428564852"
+}

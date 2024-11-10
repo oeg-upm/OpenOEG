@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 33\n© O. Corcho\n33\nOntological Engineering\nOWL\nWeb Ontology Language\nBuilt on top of RDF(S) and renaming DAML+OIL primitives\n3 layers:\n-OWL Lite: a small subset, easier for frame-based tools to transition to, easier \nreasoning\n-OWL DL: description logic, decidable reasoning\n-OWL Full: RDF extension, allows metaclasses\nSeveral syntaxes:\n-Abstract syntax: easier to read and write manually, closely corresponds to DL\n-RDF/XML: OWL can be parsed as an RDF document, more verbose\nDean M, Schreiber G. The OWL Web Ontology Language. W3C Recommendation. February 2004.\n",
+  "speaker": "SYSTEM",
+  "uuid": "13d592fa-77a5-4d3a-9d57-6d2b7b552d42"
+}

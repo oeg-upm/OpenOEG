@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PlanetData_SIMON_OEGPresentation_oct16.pdf: Página 11\nRDF stream compression (2/2)\nEvaluation\n⚫\nDatasets: streaming, statistical, and general static.\n⚫\nCompression ratio, compression time, and parsing \nthroughput (transmission + decompression)\n⚫\nComparison to other formats, such as N-Triples, \nTurtle, RDSZ, HDT, with different configurations of \nERI w.r.t. transmitted data block (1K – 4K) and the \npresence of dictionary.\n⚫\nConclusion: ERI produces state-of-the-art \ncompression for RDF streams and excels for \nregularly-structured static RDF datasets. ERI \ncompression ratios remain competitive in general \ndatasets and the time overheads for ERI \nprocessing are relatively low.\n",
+  "speaker": "SYSTEM",
+  "uuid": "9993976a-1417-4468-a94d-c1653c0e239b"
+}

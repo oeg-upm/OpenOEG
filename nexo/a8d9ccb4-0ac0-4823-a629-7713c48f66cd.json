@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA.pdf: Página 96\n96\nALGORITMO DE PODA ALFA-BETA\n12\n[-inf, 2]\n[-inf,14]\n3\n8\n2\n14\nMAX\nMAX\nMIN\n[3, 3]\n[3, +inf]\n12\n[-inf, 2]\n[2,2]\n3\n8\n2\n2\n5\n14\nMAX\nMAX\nMIN\n[3, 3]\n[3, 3]\nEs posible podar dos nodos, debido a que el máximo valor que\nse puede obtener en la rama central (2), no supera al actual de\nMAX (3), por lo que nunca se elegirá esa opción.\nLa decisión minimax después de la poda es la misma.\n",
+  "speaker": "SYSTEM",
+  "uuid": "a8d9ccb4-0ac0-4823-a629-7713c48f66cd"
+}

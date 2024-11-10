@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA-2011.pdf: Página 145\nALGORITMO AO*\nSi  todos los nodos sucesores a través de este \narco se etiquetan RESUELTOS, entonces el nodo \nm está RESUELTO\n10. Si  m ha sido etiquetado como RESUELTO \no \nsi  el coste revisado de m es distinto de su coste \nprevio, entonces añadir a C todos aquellos \npredecesores de m tales que m es uno de sus \nsucesores a través del arco marcado\n11. FIN\n",
+  "speaker": "SYSTEM",
+  "uuid": "55b2d962-5e18-4e22-bb64-f92df895af68"
+}

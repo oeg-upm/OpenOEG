@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Presentaci%C3%B3n_Everis.v1.pdf: Página 13\nExperimentación – RGAB: Ejemplos de uso (II)\n Recuperación de los contenidos de un repositorio\nRepository Service\nRepositoryAccess\nRepositoryFactory\nRepository\nDescription\nClass Service\nClassAccess\nClass\nDescription\nRepository Selector \nService\nRepositorySelectorAccess\nRepositorySelectorFactory\nRepository \nSelector\nDescription\nGT4 Java WS Core \nContainer\nClient\nRDF(S) \nResource\nGetRepositoryRequest(\n  repository-name\n)\nGetRepositoryResponse(\n  repository-contents\n)\nResult\nRDF/XML\nretrieve\n13\nMiguel Esteban Gutiérrez\n",
+  "speaker": "SYSTEM",
+  "uuid": "c3132bce-25c5-4c33-ad24-536ce6964cc0"
+}

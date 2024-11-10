@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 13\nS2O Mappings\n13\nEnabling  Ontology-based Access to Streaming Data Sources\n• R2O Mappings \n•\nSchema descriptions (probably mostly unused)\n<has-table name=\"raingauge\">\n<keycol-desc name=\"id\"/>\n<keycol-desc name=\"ts\"/>\n<nonkeycol-desc name=\"level\"/>\n</has-table>\n<has-stream name=\"windsamples\" streamType=\"push\">\n<keycol-desc name=\"id\"/>\n<keycol-desc name=\"ts\"/>\n<timestamp-desc name=\"ts\" />\n<nonkeycol-desc name=\"speed\"/>\n<nonkeycol-desc name=\"temperature\"/>\n<nonkeycol-desc name=\"direction\"/>\n</has-stream>\n",
+  "speaker": "SYSTEM",
+  "uuid": "18949f8d-990a-4532-af7d-259fa5bb19e1"
+}

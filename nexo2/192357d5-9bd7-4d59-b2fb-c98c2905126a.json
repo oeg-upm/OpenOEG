@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2.RDF%28S%29.pdf: Página 31\n• 31 \nAnother example \nevent1 \nevent2 \nevent3 \nevent4 \nlocal_event \nevent \nPersonal_event \nresearcher \nprofessor \nCaroleGoble \nOscarCorcho \nPinarAlper \nevent5 \nrdf:type \nrdf:type \nrdf:type \nrdf:type \nrdf:type \nrdf:type \nrdf:type \nrdf:type \ninvolves \ninvolves \ninvolves \ninvolves \n15/05/2006 \n16/05/2006 \n15/05/2006 \nlocal_event \nevent \nPersonal_event \nresearcher \nprofessor \nthing \nperson \nsubClassOf \nsubClassOf \nsubClassOf \nsubClassOf \nsubClassOf \nsubClassOf \ninvolves \n",
+  "speaker": "SYSTEM",
+  "uuid": "192357d5-9bd7-4d59-b2fb-c98c2905126a"
+}

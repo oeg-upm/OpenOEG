@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: FernandezM.Feb2019.pdf: Página 21\nResults and discussion\nResults concerning Objective 1 “Measure reuse, hard reuse and soft\nreuse” and Objective 2 “Measure reuse across the same domain”\nDuring the process of evaluating the variables, 386 out of the 558\nontologies available in the frozen SPARQL could be loaded\n1\nTimeout expiration during ontology loading (after 120 seconds) without\narising any other exception. (21 ontologies)\n2\nUnparsableOntologyException: This exception means that the ontology\nis not processable due to syntax errors. (46 ontologies)\n(It continues)\nPublic Domain, https://commons.wikimedia.org/w/index.php?curid=1565425\nFern´andez, Poveda, Su´arez, G´omez\nOntology reuse across the same domain\nFebruary 21, 2019\n21 / 43\n",
+  "speaker": "SYSTEM",
+  "uuid": "fba465b6-acac-45a0-ac61-ee0460e7fa04"
+}

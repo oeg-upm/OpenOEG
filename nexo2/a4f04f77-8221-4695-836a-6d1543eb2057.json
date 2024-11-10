@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 05_OWL.pdf: Página 31\n© O. Corcho, MC Suárez de Figueroa Baonza\n35\nOWL 2\nBasic Inference Tasks\n•\nSubsumption – check knowledge is correct (captures intuitions)\n–\nDoes C subsume D w.r.t. ontology O? (in every model I of O, CI ⊆DI )\n•\nEquivalence – check knowledge is minimally redundant (no unintended \nsynonyms)\n–\nIs C equivalent to D w.r.t. O? (in every model I of O, CI = DI )\n•\nConsistency – check knowledge is meaningful (classes can have instances)\n–\nIs C satisfiable w.r.t. O? (there exists some model I of O s.t. CI ≠∅)\n•\nInstantiation and querying\n–\nIs x an instance of C w.r.t. O? (in every model I of O, xI ∈CI )\n–\nIs (x,y) an instance of R w.r.t. O? (in every model I of O, (xI,yI) ∈RI )\n•\nAll reducible to KB satisfiability or concept satisfiability w.r.t. a KB\n•\nCan be decided using highly optimised tableaux reasoners\n",
+  "speaker": "SYSTEM",
+  "uuid": "a4f04f77-8221-4695-836a-6d1543eb2057"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Protege-Pizzas-v5.pdf: Página 4\n© O. Corcho, MC Suárez de Figueroa Baonza\n4\nOWL and SWRL\nDisjoint Classes (I)\nOWL Classes are assumed to ‘overlap’. We therefore cannot\nassume that an individual is not a member of a particular class\nsimply because it has not been asserted to be a member of that\nclass.\nIn order to ‘separate’ a group of classes we must make them\ndisjoint from one another. This ensures that an individual which\nhas been asserted to be a member of one of the classes in the group\ncannot be a member of any other classes in that group.\n",
+  "speaker": "SYSTEM",
+  "uuid": "996580d2-2c11-4525-bed6-515846ce21fa"
+}

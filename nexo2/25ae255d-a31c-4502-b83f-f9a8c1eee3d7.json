@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4._methodologies-Espec-OL.pdf: Página 17\nOntological Engineering \n©Asunción Gómez-Pérez,\nDefinitions\nOntology (Requirements) Specification is a collection of \nrequirements that the ontology should fulfill, e.g. reasons to \nbuild the ontology, target group, intended uses, possibly \nreached through a consensus process. \nRequirements are those necessities/needs that the ontology to be built \nshould represent/cover. \nCompetency Questions (CQs) are questions that the ontology to be built \nshould be able to answer.\n\nCQs are a way to represent requirements.\n\nCQs can be written in natural language (NL) and can be \nformalized in ontology query languages (e.g. SPARQL).\n",
+  "speaker": "SYSTEM",
+  "uuid": "25ae255d-a31c-4502-b83f-f9a8c1eee3d7"
+}

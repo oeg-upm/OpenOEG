@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AnaIglesiasMolina-MBC_TFM.pdf: Página 26\nUPM / Japan collaboration\nResults\n26\nOntology-based data access technology applied to Bio2RDF\n§\nCSVs are not always well formatted. We have encountered 2 \ncases:\n§\nThe field separators are different between fields and at the end of the line\n2 | Bacteria | Bacteria <prokaryotes> | scientific name |\n§\nThere are missing separators when there are blank fields at the end of the line\nCSV formatting\nGeneID\nSymbol\ntax_id\n1246500\nrepA1\n1246501\nGeneID,Symbol,tax_id\n1246500,repA1\n1246501\n",
+  "speaker": "SYSTEM",
+  "uuid": "9e1ace3d-379f-4f89-a36b-b315588eb307"
+}

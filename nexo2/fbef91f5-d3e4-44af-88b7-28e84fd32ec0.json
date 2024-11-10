@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: DbpProperties.RicoMay2016.pdf: Página 18\n18© M. Rico 2016\n© M. Rico 2016And \nAnd anotheranotherthing thing……•\n•Visualizing large Visualizing large datasets\ndatasets–\n–E.g. The E.g. The Java Java Compile\nCompile--Time Time Dependency \nDependency graphgraph•\n•Nodes are \nNodes are Java classes and Java classes and directed edges \ndirected edges are are compilecompile--time time dependencies between two \ndependencies between two classes. \nclasses. •\n•The \nThe data provided contains the data provided contains the dependencies for all classes under \ndependencies for all classes under the java.* packages for JDK \nthe java.* packages for JDK 1.4.21.4.2\nDirected graph\n- 1538 nodes\n- 8032 edges\n",
+  "speaker": "SYSTEM",
+  "uuid": "fbef91f5-d3e4-44af-88b7-28e84fd32ec0"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 74\n© O. Corcho, R.García-Castro, O. Muñoz-García\n74\nRDF and RDF Schema\nMultiple values in properties\n// add two nickname properties to vcard\nvcard.addProperty(VCARD.NICKNAME, \"Smithy\")   \n.addProperty(VCARD.NICKNAME, \"Adman\"); \n// set up the output \nSystem.out.println(\"The nicknames of \\\"\" + fullName + \"\\\" are:\");\n// list the nicknames \nStmtIterator iter = vcard.listProperties(VCARD.NICKNAME);\nwhile (iter.hasNext()) { \nSystem.out.println(\" \" + iter.nextStatement() .getObject() .toString()); \n} \n",
+  "speaker": "SYSTEM",
+  "uuid": "5f1313ef-8fa2-4a57-af80-a685063c8d47"
+}

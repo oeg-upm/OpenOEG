@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ISSGC08.pdf: Página 37\n©<Miembro Grupo>\n38\nSystem 1 Submit job file\n{\nExecutable: \"/bin/date\",\nArguments: [\"-v\", \"-d\"],\nEnvironment: [\"SHELL=/bin/bash\", \"JAVA_OPTS=-v\"],\nImports: [ \n{ File: myfile, To: uspaceFile },\n],\nExports: [ \n{ File: uspaceOutFile, To: \"localName\" },\n{ File: otherUspaceOutFile,\nTo: \"otherLocalName\"},\n],\nStage in: [\n{\nFrom: \"RBYTEIO:http://localhost:8080/XNJS/etcetc\",\nTo: \"uspaceFileName\"\n}\n],\nStage out: [\n{\nFrom: stdout,\nTo: \"RBYTEIO:http://someserver/someresource\"\n}\n],\nResources: {\nMemory: 128000000,\nCPUs: 32,\nNodes: 4,\nRuntime: 3600\n} \nUser name: fred,\nUser email: fred@fred.invalid\nName: my test job,\nDescription: a sample job,\n} \n",
+  "speaker": "SYSTEM",
+  "uuid": "f0d7a8c8-28ee-4c3e-b1c3-3d8b41db71f2"
+}

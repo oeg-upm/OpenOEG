@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 33\nSetting up the local infrastructure \nSEALS Repositories (IV) \n• Caveats: \n– Tomcat has to deploy the application wars before in \norder to expose the configuration files \n– Restart Tomcat whenever the configuration is updated \n– Regarding the local file store directories: \n• They have to be created manually \n• Their full names in the configuration files have to be \nencoded as valid Java strings: \n– D:\\SEALS\\repositories   \n» D:/SEALS/respositories \n» D:\\\\SEALS\\\\repositories \nESWC 2011, 29/05/2011 \n33 \n",
+  "speaker": "SYSTEM",
+  "uuid": "8d091a5c-ff46-4589-bc3c-574064b49ff6"
+}

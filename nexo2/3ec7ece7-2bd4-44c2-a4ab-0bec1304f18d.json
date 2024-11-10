@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: II-Redes_Sem%C3%A1nticas-v5.pdf: Página 13\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nRedes Semánticas\nSuceso-ver\nVer-? \nX?\nInst\nAgente\nMadrid\nMuseo\nObjeto\nLugar\nCONSULTA: ¿quién vió un museo en Madrid?\nEQUIPARACIÓN 1:\nVer-? = Ver-1\nX? = Pepe\nEQUIPARACIÓN 2:\nVer-? = Ver-3\nX? = María\n",
+  "speaker": "SYSTEM",
+  "uuid": "3ec7ece7-2bd4-44c2-a4ab-0bec1304f18d"
+}

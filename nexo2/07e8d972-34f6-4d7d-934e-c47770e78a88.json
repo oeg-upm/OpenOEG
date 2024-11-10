@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 04_OWL.pdf: Página 70\n© O. Corcho, MC Suárez de Figueroa Baonza \n74 \nOWL 2 \nUniversal Restrictions (I) \nAll of the restrictions that we have created so far have been \nexistenctial ones (some). \nHowever, existential restrictions do not mandate that the only \nrelationships for the given property that can exist must be to \nindividuals that are members of the specified filler class. To restrict \nthe relationships for a given property to individuals that are \nmembers of a specific class we must use a universal restriction. \nUniversal restrictions constrain the relationships along a given \nproperty to individuals that are members of a specific class.  \nFor example the universal restriction hasTopping \nMozzarellaTopping describes the individuals all of whose \nhasTopping relationships are to members of the class \nMozzarellaTopping. \n∀\n",
+  "speaker": "SYSTEM",
+  "uuid": "07e8d972-34f6-4d7d-934e-c47770e78a88"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 5\n© O. Corcho, R.García-Castro, O. Muñoz-García\n5\nRDF and RDF Schema\nKnowledge Representation Formalisms. A Summary\n•\nKnowledge representation\n–\nTo store knowledge so that programs can process it and achieve the verisimilitude \nof human intelligence\n•\nKnowledge representation formalisms/techniques\n–\nOriginated from theories of human information processing. \n–\nSince knowledge is used to achieve intelligent behavior, the fundamental goal of \nknowledge representation is to represent knowledge in a manner as to facilitate \ninferencing i.e. drawing conclusions from knowledge.\n–\nSome examples are:\n•\nFirst order logic\n•\nSemantic networks and conceptual maps\n•\nFrames\n•\nDescription logic\n•\nProduction rules\n•\nFuzzy logic\n•\nBayesian networks\n•\nEtc.\nThese are the ones that we will analyse\n",
+  "speaker": "SYSTEM",
+  "uuid": "d6e29617-7b87-4a32-ad0f-f51f520fcc5e"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2._Ontolog%C3%ADas-long-RD.pdf: Página 39\n©Asunción Gómez-Pérez\n07/11/2024 13:56 - 41\nflight\nA formation of\naircraft in flight\nAn instance of traveling by air\nA set or steps between one floor or \nlanding for him\nThe act of escaping physically\nOC1\nOC2\nOC3\nOC4\nA flock of flying birds\nThe path followed by a moving \nobject\nPassing above and beyond ordinary bounds\nA scheduled trip by plane between designated \nairports\nOC6\nOC7\nOC8\nOC9\nA unit of the US air force smaller \nthan a squadron\nOC5\n(define-class Flight (?X) \n  \"A journey by plane\"\n:axiom-def\n(and (Subclass-Of Flight Travel)\n  \n(Template-Facet-Value Cardinality\n                         flightNumber Flight 1))\n:class-slots ((transportMeans \"plane\")))\nflight\n",
+  "speaker": "SYSTEM",
+  "uuid": "7944c8a4-8183-4bf5-a10d-465ec037f7d9"
+}

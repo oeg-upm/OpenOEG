@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 02_MGLD_Boris.pdf: Página 32\nData Cleansing\nGeneration\n• To find possible errors, identified by Hogan et al.\n• http-level issues, such as accessibility and derefencability, \ne g\nHTTP URIs ret rn 40 /50 errors\ne.g., HTTP URIs return 40x/50x errors\n• reasoning issues such as namespace without vocabulary, \ne.g., rss:item term invented\n• malformed/incompatible datatypes, e.g., “true” as xsd:int\n• To fix the identified errors\nTo fix the identified errors\n32\n",
+  "speaker": "SYSTEM",
+  "uuid": "79c17e96-832d-4785-af3e-893d6eb7d83f"
+}

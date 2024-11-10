@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Jmora20100527.pdf: Página 11\nIntraDB planning\n• Planning so far decides the sources to query, the \ninformation to retrieve and the information to use\n• A higher granularity is possible and SQL queries \ncould be composed using planning\n• Planning-by-rewriting should be the planning method \nused, new operators should be added for the \ncomposition\n11\n",
+  "speaker": "SYSTEM",
+  "uuid": "dcd1719a-1f8a-41e7-b11f-e66b2909300b"
+}

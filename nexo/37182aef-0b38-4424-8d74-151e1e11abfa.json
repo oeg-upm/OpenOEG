@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AMPER08_-_Introduction_to_SPARQL.pdf: Página 3\nRDF(S) Access APIs, May 2008\n3\n© García-Castro, Corcho, Muñoz-García\nRDF(S) query languages\n•\nLanguages developed to allow accessing datasets expressed in RDF(S) (and in some cases OWL)\n•\nSupported by the most important language APIs\n–\nJena (HP labs)\n–\nSesame (Aduna)\n–\nBoca (IBM)\n–\n...\n•\nThere are some differences wrt languages like SQL, such as\n–\nCombination of different sources\n–\nTrust management\n–\nOpen World Assumption\nRelational\nDB\nApplicatio\nn\nSQL queries\nRDF(S)\nOWL\nApplicatio\nn\nRQL, RDQL, etc., queries\n",
+  "speaker": "SYSTEM",
+  "uuid": "37182aef-0b38-4424-8d74-151e1e11abfa"
+}

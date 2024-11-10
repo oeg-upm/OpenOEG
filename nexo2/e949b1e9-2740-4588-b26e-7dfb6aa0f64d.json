@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 4\n© O. Corcho, R.García-Castro, O. Muñoz-García\n4\nRDF and RDF Schema\nCommon Architecture of a Knowledge-based System\nOther interacting \nsystems:\n• Databases\n• ...\nInterface \nwith \nother \nsystems\nCONTROL\nKnowledge \nBase\nInference\nEngine\n• Knowledge-based system generation tools\n• Programming languages\nDevelopment Environment\nUser \nInterface\n- Explanation\n- Knowlege capture\n",
+  "speaker": "SYSTEM",
+  "uuid": "e949b1e9-2740-4588-b26e-7dfb6aa0f64d"
+}

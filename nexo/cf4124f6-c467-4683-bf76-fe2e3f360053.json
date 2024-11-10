@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Jmora20100527.pdf: Página 9\nReasoning – Saturation with ELHIO\n•\nPérez-Urbina shared the code to rewrite queries reasoning with \nDL- ELHIO¬\n•\nAFAIK, that has not been done in the ISI, the reasoning capabilities \nare quite restricted\n•\nI’ve worked with the code from Pérez-Urbina, now it considers the \navailability of predicates to rewrite to those retrievable\n•\nIt could be possible to join both systems and add reasoning \ncapabilities to the systems in ISI\n•\nIt could be possible to use different reasoning techniques that \nmaterialize the inferences from an ontology and perform query \nplanning from there\n•\nIt could be possible \n•\nIt may also be the case that they don’t use really complex \nontologies and reasoning is irrelevant, a lattice may be enough\n9\n",
+  "speaker": "SYSTEM",
+  "uuid": "cf4124f6-c467-4683-bf76-fe2e3f360053"
+}

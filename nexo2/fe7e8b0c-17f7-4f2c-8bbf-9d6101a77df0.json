@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 07_MGLD.pdf: Página 30\nOracle STO UTIL package  \nSELECT  TO_CHAR(SDO_UTIL.TO_GML311GEOMETRY(geometry))  \n AS Gml311Geometry \nFROM \"BCN200\".\"BCN200_0301L_RIO\" c \nWHERE   c.Etiqueta='Arroyo' \n \n30 \nGeneration \nGeoLinkedData - Transformation \n",
+  "speaker": "SYSTEM",
+  "uuid": "fe7e8b0c-17f7-4f2c-8bbf-9d6101a77df0"
+}

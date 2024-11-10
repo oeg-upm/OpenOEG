@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion-2013.pdf: Página 28\nPlanificación \n \n \nBúsqueda del plan en STRIPS \nPara el nodo inicial se \ncrean tantos sucesores \ncomo ordenaciones de \nmetas haya \nM = encima (C, B) ^ en-mesa (A) ^ R \nencima (C, B) \nen-mesa (A) \nR \nen-mesa (A) \nencima (C, B) \nR \n",
+  "speaker": "SYSTEM",
+  "uuid": "e94f4e66-3c14-4bc5-9e40-fd19c9ef9d86"
+}

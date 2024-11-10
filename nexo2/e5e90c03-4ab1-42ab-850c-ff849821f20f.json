@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Fpriyatna-oeg-201403.pdf: Página 2\nMotivation\n2\nSELECT p.label, o.price\nFROM product p\nLEFT JOIN offer o\nON p.nr=o.product\nWHERE product=1\nSELECT ?nombre  ?precio\nWHERE { \n:Product1 a bsbm:Product\n:Product1 rdfs:label ?nombre\nOPT {  :Product1 :hasPrice ?precio}\n}\nnr\nlabel\n1\npen\n2\nwater\nnr\nproduct\nprice\n1\n1\n1.5\n2\n2\n2.5\n<TMProduct> a rr:TriplesMap; \n  rr:logicalTable [ \n  rr:tableName  \"Product\" ];\n  \n  rr:subjectMap [ a rr:Subject; \n    rr:class bsbm:Product; \n    rr:template \n\"http://ex.com/Product{nr}\"; ];\n  rr:predicateObjectMap [ \n    rr:predicateMap [ rr:constant \nrdfs:label ]; \n    rr:objectMap [ rr:column \"label\"; \n]; ];\nIntroduction\nQuery Translation\nEvaluation\nConclusion\n",
+  "speaker": "SYSTEM",
+  "uuid": "e5e90c03-4ab1-42ab-850c-ff849821f20f"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: LPS_BIGGER-09.03.2017.pdf: Página 7\nTechnologies\n• REST Services\n• Command line\n• Graphical User Interface\nWe have tried/used these libraries\nIXAPipes 1.1.1 http://ixa2.si.ehu.es/ixa-pipes/\nFreeling 3.0 http://nlp.lsi.upc.edu/freeling/\nStanford CoreNLP 3.7.0 http://stanfordnlp.github.io/CoreNLP/\nOpenNLP 1.5.3 http://opennlp.apache.org\nWeka 3.6 - http://www.cs.waikato.ac.nz/ml/weka/\nJava API for WordNet Searching (JAWS) -http://lyle.smu.edu/~tspell/jaws/index.html\nWordNet 3.0 - http://wordnet.princeton.edu/wordnet/license/\nMallet 2.0.7 http://mallet.cs.umass.edu/\nIllinois POS 1.7.1 http://cogcomp.cs.illinois.edu/page/software\n7\n",
+  "speaker": "SYSTEM",
+  "uuid": "83c73efa-8ca8-40d3-92f7-cffd88a38b47"
+}

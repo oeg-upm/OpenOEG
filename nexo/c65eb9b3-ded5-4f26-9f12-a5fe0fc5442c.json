@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Metodolog%C3%ADa-2-v2.pdf: Página 22\nReusing Ontology Statements. Ontology \nStatement Comparison and Selection\nStatement Comparison and Selection\nThe question in this case is: how to decide between the\nuseful ontology statements which ones are the best / the\nmost\nconvenient\nfor\nthe\nontology\nnetwork\nbeing\nmost\nconvenient\nfor\nthe\nontology\nnetwork\nbeing\ndeveloped.\n Reuse one using the same naming convention as you, for\navoiding the work of adapting the statement to your ontology\ng\np\ng\ny\ngy\nnetwork.\nOntology Statement\nSame Naming \nCon ention\nConvention\n“ReadMeat is subclass of \nMeat”\nYes\n“Read Meat is subclass of\nNo\n“ReadMeat is subclass of Meat”\nRead-Meat is subclass of \nMeat”\nNo\n“Read_Meat is subclass of \nMeat”\nNo\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón-Terrazas\n22\nOntological Engineering\n",
+  "speaker": "SYSTEM",
+  "uuid": "c65eb9b3-ded5-4f26-9f12-a5fe0fc5442c"
+}

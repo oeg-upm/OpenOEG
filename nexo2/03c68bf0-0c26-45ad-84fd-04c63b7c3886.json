@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 04_MGLD.pdf: Página 6\n22/10/12 \n6 \nDefinition of the license \n•  Several possibilities \n•  The UK Open Government License \n•  Open Database License \n•  Public Domain Dedication and License \n•  Open Data Commons Attribution License \n•  The Creative Commons Licenses \n•  It is also possible to reuse and apply an existing \nlicense of the government data sources. \n \n•  GeoLinkedData: We reuse the original license of the \ngovernment data sources. IGN and INE data sources \nhave their own license, similar to Attribution-Share \nAlike 2.5 Generic License \n \n11 \nSpecification \nhttp://creativecommons.org/licenses/by-sa/2.5/ \nMethodology \nModelling \n• \nModelling of geospatial information \n• \nModelling of geometry \n• \nModelling of statistical information \n12 \n \nSpecification \nModelling \nRDF \nGeneration \nPublication \nExploitation \nLinks  \nGeneration \n",
+  "speaker": "SYSTEM",
+  "uuid": "03c68bf0-0c26-45ad-84fd-04c63b7c3886"
+}

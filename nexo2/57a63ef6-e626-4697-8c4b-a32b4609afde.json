@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 26\nATHENS 2010 \n© Raúl García Castro et al. \nRDF(S) Serialisations. N3 \n@base  <http://www.oeg-upm.net/ontologies/people > \n@prefix person: <http://www.ontologies.org/ontologies/people#> \nperson:hasColleague \n a rdf:Property; \n \n \n \n rdfs:domain person:Person; \n \n \n \n rdfs:range person:Person. \nperson:Professor rdfs:subClassOf person:Person. \nperson:Lecturer rdfs:subClassOf person:Person. \nperson:PhD rdfs:subClassOf person:Person. \n:Asun   a person:Professor; \n \n person:hasColleague :Raul ; \n \n person:hasHomePage “http://www.fi.upm.es/”. \n:Oscar  a person:Lecturer; \n \n person:hasColleague :Asun ; \n \n \n person:hasName “Óscar Corcho García”. \n:Raul \n a person:PhD. \na is equivalent to rdf:type \n26 \n",
+  "speaker": "SYSTEM",
+  "uuid": "57a63ef6-e626-4697-8c4b-a32b4609afde"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 6._GC_Metodolog%C3%ADa-1-v1%28asun%29.pdf: Página 32\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n32\nOntological Engineering\nSlide 32\nOntology Requirements Specification. \nTask 8\nInput: the list of identified CQs and their\nanswers\nObjective: to extract from the list of CQs a\npre-glossary to be used in the conceptualization\nactivity. Obtaining a list of the most used\nterms\nTechniques:\nterminology\nextraction\ntechniques\nand\ntools\nsupporting\nsuch\ntechniques\nFrom the requirements in form of competency\nquestions, we extract the terminology (names,\nadjectives and verbs) that will be formally\nrepresented\nin\nthe\nontology\nby\nmeans\nof\nconcepts, attributes and relations.\nFrom the answers to the CQs we extract the\nobjects in the universe of discourse that will be\nrepresented as instances.\n",
+  "speaker": "SYSTEM",
+  "uuid": "889d70d7-3c70-4440-b6ba-0b028e53b04b"
+}

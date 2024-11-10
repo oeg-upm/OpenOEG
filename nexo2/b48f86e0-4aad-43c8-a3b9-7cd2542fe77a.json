@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 10\n© O. Corcho, R.García-Castro, O. Muñoz-García\n10\nRDF and RDF Schema\nAnother data model\nhttp://.../JohnSmith\nJohn Smith\nSmith\nJohn\nvcard:Given\nvcard:Family\nvcard:FN\nvcard:N\n// some definitions \nString personURI = \"http://somewhere/JohnSmith\"; \nString givenName = \"John\"; \nString familyName = \"Smith\"; \nString fullName = givenName + \" \" + familyName; \n// create an empty \nModel Model model = ModelFactory.createDefaultModel(); \n// create the resource \n// and add the properties cascading style \nResource johnSmith = model.createResource(personURI) \n.addProperty(VCARD.FN, fullName) \n.addProperty(VCARD.N, model.createResource()   \n.addProperty(VCARD.Given, givenName)\n.addProperty(VCARD.Family, familyName)); \n",
+  "speaker": "SYSTEM",
+  "uuid": "b48f86e0-4aad-43c8-a3b9-7cd2542fe77a"
+}

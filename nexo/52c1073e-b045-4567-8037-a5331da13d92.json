@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 09_LDFromSpreadsheets.pdf: Página 20\nsitemap4rdf \n•  Simple command line tool \n•  Sends a SPARQL query to list all URIs \n•  Generates sitemap \n•  run sitemap4rdf specifying the SPARQL endpoint \nand the prefix of the URLs to include in the Sitemap \nsitemap4rdf http://yoursite/sparql http://yoursite/resource/ \n \nExample:  \n \nsitemap4rdf http://geo.linkeddata.es/sparql http://geo.linkeddata.es\n20 \nsitemap4rdf http://localhost:8890/sparql http://stats.ull.es/ \n",
+  "speaker": "SYSTEM",
+  "uuid": "52c1073e-b045-4567-8037-a5331da13d92"
+}

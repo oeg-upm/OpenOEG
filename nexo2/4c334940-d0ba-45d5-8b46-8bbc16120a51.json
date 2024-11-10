@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II.pdf: Página 11\nSistemas de Producción\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSintaxis\n• Cada elemento de condición debe ir encerrado entre paréntesis.\n• Los elementos de condición del antecedentes van unidos por el símbolo “and”\n• Los elementos de condición están formados por átomos\n• Un átomo puede ser una constante o una variable (precedido del símbolo “$”)\n($1 E $2)\n• Las variables utilizados en el consecuente, son reemplazados por los valores que tengan en el \nantecedente\n• Predicados del consecuente: Añadir y Borrar\n• Las acciones del consecuente van unidos por el símbolo “and”\n",
+  "speaker": "SYSTEM",
+  "uuid": "4c334940-d0ba-45d5-8b46-8bbc16120a51"
+}

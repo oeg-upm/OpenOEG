@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 18\nQuery Translation\n18\nEnabling  Ontology-based Access to Streaming Data Sources\n•\nQueries: \nSELECT ?y \nWHERE\n{ ?x a cd:Observation; \ncd:observationResult ?y. }\nSELECT ?y\nFROM STREAM < STREAM <http://www.semsorgrid4env.eu/ccometeo.srdf> \n[ NOW – 1 MINUTE TO NOW – 0 MINUTES ] >\nWHERE\n{ ?x a cd:Observation; \ncd:observationResult ?y. }\n",
+  "speaker": "SYSTEM",
+  "uuid": "f0d549e2-c688-40d2-979a-386a99a5c940"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Vidal.Sep19.pdf: Página 38\nPage 38\nGoal: Evaluate the impact of different subqueries--star-shaped groups \n(SSQs)-- on the performance of a query engine.\nExp I: Impact of Star-shaped Groups \nCI\nCI\nCI\nCI\nCII\nCII\nCIV\nCIV\nCIII\nCIV\nCIV\nCIV\nRDB scans a relation or a set of relations,\nwhile an RDF engine scans over all data. Thus, \nRDB engines outperform RDF engines\nRDB only has indexes on primary keys, while \nan RDF engine has indexes over combinations \nof subject, predicate, and object. Thus, RDF \nengines outperform RDB engines\n",
+  "speaker": "SYSTEM",
+  "uuid": "64f941c7-3539-4ce4-8c48-bb8c1fe989b2"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Control_de_versiones_con_Subversion_v1.2.pdf: Página 15\n5. Comprobar que el c´odigo que se va a enviar al repositorio compila y\nhacer pruebas sobre ´el.\n6. Actualizar los cambios realizados localmente en el repositorio.\nTODAS las actualizaciones realizadas en el repositorio deben incluir una\nexplicaci´on de los cambios realizados.\nA la hora de realizar cambios en el c´odigo de un proyecto, es altamente re-\ncomendable que dichos cambios traten sobre una misma cosa. Es preferible\nhacer muchos cambios peque˜nos que un cambio grande.\nPor ejemplo, si sobre una versi´on estable del proyecto (release-1.0) se corri-\nge un bug, si la actualizaci´on incluye ´unicamente la correcci´on de dicho bug\nse puede realizar instant´aneamente en todas las ramas del proyecto. Si la\ncorrecci´on del bug se hubiera realizado dentro de una mega-actualizaci´on,\nser´ıa muy dif´ıcil identiﬁcar qu´e cambios son los que corrigen el bug.\n14\n",
+  "speaker": "SYSTEM",
+  "uuid": "ef529395-3295-42f9-b8a0-04d474a2764d"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 6\n© O. Corcho, R.García-Castro, O. Muñoz-García\n6\nRDF and RDF Schema\nUniverse of \ndiscourse\n•Socrates\n•Aristotle\n•Plato\nSet theory\nFirst order \nlogic\n•a\n•b\n•c\nConstants\nperson = {Socrates, Plato, Aristotle}\nmortal = {Socrates, Plato, Aristotle}\nmasterOf = {(Socrates, Plato), (Plato, Aristotle)}\n•h\n•m\n•t\nPredicate symbols\n x (h (x) → m (x))\n x  y (h (x)  h (y)  t(x, y)) \nh (a)  h (b)  h(c) \nFormulae\nperson   mortal\nmasterOf   in the domain of persons\nSocrates, Plato, Aristotle  person\nWe can establish mappings between logical symbols and domain objects (universe of discourse)\nFirst order logic. Basic elements\n",
+  "speaker": "SYSTEM",
+  "uuid": "a55ae910-9297-4232-9374-3d9e9aab2fec"
+}

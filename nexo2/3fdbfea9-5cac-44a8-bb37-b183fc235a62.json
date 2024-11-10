@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 04_OntologyLanguages_RDF%28S%29.pdf: Página 16\nExercise 1.b. Create RDF/XML and N3 text files \nfrom an RDF graph\n•\nTransform the following graph into RDF/XML and N3 syntaxes\nP\nSaber_1\nVer_1   \nObjeto\nAgente\nVoz\nPepe\nActiva\nPresente\nLuis\nTiempo\nAgente\nEl Prado\nObjeto\nLugar\nTiempo\nActiva\nVoz\n© O. Corcho, R.García-Castro, O. Muñoz-García\n31\nRDF and RDF Schema\nMadrid\nPasado\nBlank nodes: structured property values\n•\nMost real-world data involves structures that are more complicated \nthan sets of RDF triple statements\nThis intermediate URI does not\noeg:Oscar\ncity:BoadillaDelMonte\nCampus de Montegancedo s/n\naddress:hasStreetName\n“Oscar Corcho García”\nperson:hasName\naddress:City\nperson:hasPostalAddress\nThis intermediate URI does not\nneed to have a name\n© O. Corcho, R.García-Castro, O. Muñoz-García\n32\nRDF and RDF Schema\n•\nIn RDF/XML, it is an <rdf:Description> node with no rdf:about\n•\nIn N3, it is an  _:oscarAddress\ny\np\ng\n",
+  "speaker": "SYSTEM",
+  "uuid": "3fdbfea9-5cac-44a8-bb37-b183fc235a62"
+}

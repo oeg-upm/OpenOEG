@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Vidal.Sep19.pdf: Página 46\nPage 46\nData Changes….\nPREFIX iasis:<http://iasis/vocab/>\nSELECT distinct ?id  \n WHERE {\n  ?bm  a  iasis:LungCancerBiomarker .\n  ?id iasis:associated ?bm .\n   }\nLung Cancer Biomarkers?\niasis:CYFRA-21-1\niasis:NSE\niasis:CEA\niasis:CA-125\n",
+  "speaker": "SYSTEM",
+  "uuid": "2c91fdac-6e53-46e8-a303-a73a518bc595"
+}

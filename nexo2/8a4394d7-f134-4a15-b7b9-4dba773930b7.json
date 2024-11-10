@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 1_Intro-Sweb-eng.pdf: Página 11\n©Asunción Gómez-Pérez\n- 11\nTravel\nrdfs:Literal\nrdfs:Class\nCompany-name\nsingleFare\nunits:currencyQuantity\nrdfs:range\nrdfs:range\nrdfs:domain\nrdfs:domai\nn\nrdf:Type\ndepartureDate\nrdfs:domai\nn\nxsd:Date\nrdfs:range\narrivalDate\nrdfs:range\nrdfs:domain\nrdf:Property\nrdf:Type\nrdf:Type\nrdf:Type\nrdf:Type\nRDF\nRDFS\nOntology in RDF(S)\nrdfs:Class rdf:ID=\"Travel\">\n<rdfs:comment>A journey from place to\nplace</rdfs:comment>\n</rdfs:Class>\n<rdf:Property rdf:ID=\"arrivalDate\">\n<rdfs:domain rdf:resource=\"#Travel\"/>\n<rdfs:range rdf:resource=\"&xsd;date\"/>\n</rdf:Property>\n<rdf:Property rdf:ID=\"departureDate\">\n<rdfs:domain rdf:resource=\"#Travel\"/>\n<rdfs:range rdf:resource=\"&xsd;date\"/>\n</rdf:Property>\n",
+  "speaker": "SYSTEM",
+  "uuid": "8a4394d7-f134-4a15-b7b9-4dba773930b7"
+}

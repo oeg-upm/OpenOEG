@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 60\n© O. Corcho, R.García-Castro, O. Muñoz-García\n60\nRDF and RDF Schema\nDomain description\n•\nUn lugar puede ser un lugar de interés.\n•\nLos lugares de interés pueden ser lugares turísticos o establecimientos, \npero no las dos cosas a la vez.\n•\nLos lugares turísticos pueden ser palacios, iglesias, ermitas y catedrales.\n•\nLos establecimientos pueden ser hoteles, hostales o albergues.\n•\nUn lugar está situado en una localidad, la cual a su vez puede ser una \nvilla, un pueblo o una ciudad.\n•\nUn lugar de interés tiene una dirección postal que incluye su calle y su \nnúmero.\n•\nLas localidades tienen un número de habitantes.\n•\nLas localidades se encuentran situadas en provincias.\n•\nCovarrubias es un pueblo con 634 habitantes de la provincia de Burgos.\n•\nEl restaurante “El Galo” está situado en Covarrubias, en la calle Mayor, \nnúmero 5.\n•\nUna de las iglesias de Covarrubias está en la calle de Santo Tomás.\n",
+  "speaker": "SYSTEM",
+  "uuid": "0d30a200-a696-4877-83da-094565ad4e3f"
+}

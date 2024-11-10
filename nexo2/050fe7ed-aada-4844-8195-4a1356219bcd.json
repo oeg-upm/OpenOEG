@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AnaIglesiasMolina-MBC_TFM.pdf: Página 29\nUPM / Japan collaboration\nResults\n29\nOntology-based data access technology applied to Bio2RDF\n§\nJust the datasets with data published as CSV have a size of more \nthan 20 GB\n§\nTwo bottlenecks:\n1.\nCreation of the database\n2.\nQuerying the database\n§\nDatabases can be created one by one. Then it becomes \nnecessary a federator to query all the resulting databases\nBig data\n",
+  "speaker": "SYSTEM",
+  "uuid": "050fe7ed-aada-4844-8195-4a1356219bcd"
+}

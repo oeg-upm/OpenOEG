@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01a.FormalismosRepresentaci%C3%B3n.pdf: Página 4\nUniverse of  \ndiscourse \n• Socrates \n• Aristotle \n• Plato \nSet theory \nFirst order logic \n• a \n• b \n• c \nConstants \nperson = {Socrates, Plato, Aristotle} \n \nmortal = {Socrates, Plato, Aristotle} \n \nmasterOf = {(Socrates, Plato), (Plato, Aristotle)} \n• h \n• m \n• t \nPredicate symbols \n∀ x (h (x) → m (x)) \n \n∃ x ∃ y (h (x) ∧ h (y) ∧ t(x, y))  \n \nh (a) ∧ h (b) ∧ h(c)  \nFormulae \nperson ⊂  mortal \nmasterOf ≠ ∅ in the domain of persons \nSocrates, Plato, Aristotle ∈ person \nWe can establish mappings between logical symbols and domain objects (universe of discourse) \nFirst order logic. Basic elements \n",
+  "speaker": "SYSTEM",
+  "uuid": "30fe5f0c-dbba-4d5b-b0dc-9ff68790b12e"
+}

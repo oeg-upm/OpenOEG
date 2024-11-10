@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: LinkedDataGenerationII%28v1-boris%29.pdf: Página 32\n32\nLinked Data \nGeneration II\nOscar Corcho, Asunción Gómez Pérez ({ocorcho, asun}@fi.upm.es)\nUniversidad Politécnica de Madrid\nCredits: Raúl García Castro, Guillermo Alvaro, Oscar Muñoz, Jose\nAngel Ramos Gargantilla, María del Carmen Suárez de Figueroa,\nBoris Villazón-Terrazas, Alex de León, Víctor Saquicela, Luis Vilches,\nMiguel Angel García, Manuel Salvadores, Juan Sequeda, Carlos Ruiz\nMoreno and many others\nWork distributed under the license Creative Commons\nAttribution-Noncommercial-Share Alike 3.0\nPráctica\n• Document.\n• Ontology/Vocabulary\n- owl file\n• RDF Instances\n- rdf file\n• Links\n- nt/rdf files\n• For using the map visualizator, you should include\nthe geolocalization information in your resources lat\nthe geolocalization information in your resources, lat. \nlong.\n• http://geo.linkeddata.es:8282/GeoLinkedData-\nDbPedia/?uri=http://dbpedia.org/resource/Madrid#da\nshboard\n64\n",
+  "speaker": "SYSTEM",
+  "uuid": "986b4b14-7192-4672-ac48-fa29339e9286"
+}

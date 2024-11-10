@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologias-Multilingualidad.pdf: Página 13\n©\n13\nAlgunos sistemas que incorporan \nmultilingualidad: Genoma-KB\n– Módulo ontológico: (MikroKosmos) 21 conceptos básicos:\nALL, OBJECT (physical, mental, social), EVENT (physical, \nmental, social),  PROPERTY (attribute, relation), etc.\n• Las relaciones descritas son: (Feliu 2004)\n– Similaridad, Hiponimia, Secuencialidad (lugar y tiempo)\n– Causalidad, Instrumentalidad, Meronimia, Asociación\n– Módulo terminológico\n• Multilingualidad, POS, contexto, fuentes, lema, información\nadministrativa\n– Módulo de corpus: textos multilingües\n– Módulo de entidades:\n• Módulo bibliográfico: refer. completas de textos y términos\n• Módulo factográfico: centros de invest. , personas, instituciones,\n",
+  "speaker": "SYSTEM",
+  "uuid": "6e76770d-c466-4009-a5f0-fe0664eefdfd"
+}

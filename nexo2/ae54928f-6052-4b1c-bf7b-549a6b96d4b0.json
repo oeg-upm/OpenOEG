@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01.Introduction.pdf: Página 53\n©Asunción Gómez-Pérez \n- 53 \nComparison between planning and product generation \n... \nInstr#n \n(RA_2) \nplanning \nDMOP_File#n(StartTime) \nDMOP_File#n(StopTime) \nDMOP_File#(n+1) \nStartTime \nDMOP#(n+1)_ \nFile \n(StopTime) \nDMOP_er  \n(ORBIT_NUMBER, \nELAPSED_TIME) \nInstr#1 \nplanning \nDURATION \nPRODUCT_FILE \nStart_time \n(SENSING_START) \nPRODUCT_FILE \nStop_time \n(SENSING_STOP) \n... \nInstr#n(RA_2) \nProduct \nGeneration \nRA2_CAL_1P \nStop_time \n(SENSING_STOP) \nRA2_CAL_1P \nStart_time \n(SENSING_START) \nPRODUCT_data_gap \n... \n... \n",
+  "speaker": "SYSTEM",
+  "uuid": "ae54928f-6052-4b1c-bf7b-549a6b96d4b0"
+}

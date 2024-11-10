@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: NeOn-Methodology-v1.pdf: Página 7\n7\nScenarios for Building Ontology Networks within the NeOn Methodology\nScenario 3: Reusing Ontological Resources\nDifferent\nways\nof\nreusing\nontological\nresources:\n▪ontologies can be reused as a whole;\n▪only one part or module can be reused;\nand\n▪ontology statements can be reused.\nUse existing ontological resources for\nbuilding ontology networks\nFor integrating the ontological resources to be reused, ontology developers can\ndecide:\n❑to reuse them such as they are in the ontology network being developed\nfollowing the activities of Scenario 1\n❑to perform a re-engineering process following Scenario 4\n❑to merge several ontological resources to obtain a new ontological resource\nfollowing Scenarios 5 or 6.\n",
+  "speaker": "SYSTEM",
+  "uuid": "88ab8ffa-4145-42f2-b9bb-dec0ebe573c4"
+}

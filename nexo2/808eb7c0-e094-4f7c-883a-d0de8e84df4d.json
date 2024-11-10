@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ClaseGLD-v3%28boris-asun%29.pdf: Página 24\nGeoLinkedData - URI design \n• Base URI \n \nhttp://linkeddata.es/ \n \nhttp://geo.linkeddata.es/ \n• TBox URIs \n \nhttp://geo.linkeddata.es/ontology/{concept|property} \n \nhttp://geo.linkeddata.es/ontology/Provincia \n• ABox URIs \n \nhttp://geo.linkeddata.es/resource/{r. type}/{r. name} \n \nhttp://geo.linkeddata.es/resource/Provincia/Madrid \n28 \nSpecification \n",
+  "speaker": "SYSTEM",
+  "uuid": "808eb7c0-e094-4f7c-883a-d0de8e84df4d"
+}

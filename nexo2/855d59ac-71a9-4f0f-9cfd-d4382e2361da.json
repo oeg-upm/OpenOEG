@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Annotation.pdf: Página 27\nOntology-based view over a relational model (I)\nOntología O2\nOntología O2\nCentro\nOntología O1\nOntología O1\nPunto Europeo\nPuntoGPS\nPuntoAsiatico\nPuntoEspañol\nEstación\nComunicaciones\nAeropuerto\nPuntoEspañol\nA\nt\nf (Aeropuertos)\n=\nf (Aeropuertos)\nPuntoEuropeo\n=\nAeropuerto\nf (Aeropuertos)\nRC(O2,M1)\nRC(O1,M1)\nAeropuertos\nModelo Relacional M1\nModelo Relacional M1\n© O. Corcho, B Villazón, A. Gómez-Pérez\n27\nAnnotation\n",
+  "speaker": "SYSTEM",
+  "uuid": "855d59ac-71a9-4f0f-9cfd-d4382e2361da"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AnaIglesiasMolina-MBC_TFM.pdf: Página 28\nUPM / Japan collaboration\nResults\n28\nOntology-based data access technology applied to Bio2RDF\n§\nThe need to create SQL Views, format CSVs when their format \nare wrong, and finding a way to upload data to avoid primary keys \nrelated errors makes it necessary to alter the data manually\n§\nThen, for each case the workflow changes\n§\nThe original proposal is to use this methodology is to provide a \nunified way to access data\n§\nAltering the data doesn’t fit with this purpose\nAd hoc data treatment\n",
+  "speaker": "SYSTEM",
+  "uuid": "9fbe41a8-3735-46d8-8017-938f7bfe0044"
+}

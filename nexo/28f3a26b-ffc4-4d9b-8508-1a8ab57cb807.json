@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Sparqlex.pdf: Página 16\nWith/without Inferencing\n• Give me the subclases of the class Lugar \n(Place)\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nSELECT ?x WHERE { ?x rdfs:subClassOf pr:Lugar. }\n• Give me the instances of the class Localidad \n(Town)\nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nSELECT ?x WHERE { ?x a pr:Localidad. }\n",
+  "speaker": "SYSTEM",
+  "uuid": "28f3a26b-ffc4-4d9b-8508-1a8ab57cb807"
+}

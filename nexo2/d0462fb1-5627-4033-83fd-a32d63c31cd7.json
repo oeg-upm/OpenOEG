@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 06_NonStandardOWLReasoning_ModularisationAndDebugging.pdf: Página 19\nCoverage. Formal definition and algorithm\n• The module Ɛ’ covers the knowledge base Ɛ for the \nspecified topic if for all classes A, B built from the \nspecified terms:\nif \nO U Ɛ ╞ A ⊆B,\nthen  \nO U Ɛ’╞ A ⊆B. \n• Coverage = preserving entailments (that is, no \ndifference between using Ɛ or Ɛ’)\n• In general, undecidable\n• Use a syntactic approximation\n• Fast!\n• Modules are not minimal in size, but guarantee coverage\n19\n",
+  "speaker": "SYSTEM",
+  "uuid": "d0462fb1-5627-4033-83fd-a32d63c31cd7"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 28\n©O. Corcho\n28\nOntological Engineering\nCopyright © 2005, The University of Manchester\nDefined Classes\n•\nWe’ve created a Defined Class, CheeseyPizza\n– It has a definition. That is at least one Necessary and Sufficient \ncondition\n– Classes, all of whose individuals satisfy this definition, can be inferred \nto be subclasses\n– Therefore, we can use it like a query to “collect” subclasses that \nsatisfy its conditions\n– Reasoners can be used to organise the complexity of our hierarchy\n•\nIt’s marked with an equivalence symbol in the interface\n•\nDefined classes are rarely disjoint\n",
+  "speaker": "SYSTEM",
+  "uuid": "ca045ce0-9728-4e3a-a2bb-77595bb0e63e"
+}

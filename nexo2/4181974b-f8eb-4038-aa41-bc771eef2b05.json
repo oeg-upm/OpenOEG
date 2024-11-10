@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: NLP_OEG.pdf: Página 6\nApplications\n6\n• Person\n• Company\n• Phone\nNumber\n• Direction\n• …\n1- Drug Name\nAsenapina 300 mg\n…………………………………\n……………………….\nSummary of Product characteristics\n4.1 Therapeutical information\nFor patients with schizophrenia.\n4.7 Adverse reactions\nMay produce headaches.\n…………………………………\n……………………….\nHigh noisy and unstructured texts:\n- Leaks, emails, phone tapping…\nSNOMED-CT\nCalleja, P., García-Castro, R., Aguado-de-Cea, L., Gómez-Pérez, A. (2017). Expanding SNOMED-CT through Spanish Drug \nSummaries of Product Characteristics. In Proceedings of the 9th International Conference on Knowledge Capture (K-CAP).\nCalleja, P., García-Castro, R., Aguado-de-Cea, L., Gómez-Pérez, A. (2017). Role-based model for Named Entity \nRecognition. In Proceedings of the 11th International Conference Recent Advances in Natural Language Processing (RANLP)\n",
+  "speaker": "SYSTEM",
+  "uuid": "4181974b-f8eb-4038-aa41-bc771eef2b05"
+}

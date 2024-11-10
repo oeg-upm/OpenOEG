@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: KGEOntologies_2021.pdf: Página 19\nAn Ontology-Based Deep Learning Approach for Triple Classification with Out-of-Knowledge-Base Entities\nStep 5: OOKB entity set generation\n19\nOut of the existing train, validation and test partitions\nwe need to extract an additional set containing OOKB \nentities\nEntity pool\nRandomly sampled\nN entities\nTrain, test and \nvalidation facts\nFacts containing\nselected entities\nOOKB entity\nevaluation set\nextraction\nrectification\n",
+  "speaker": "SYSTEM",
+  "uuid": "edfd71ed-e041-4551-a08a-4861ff8ce227"
+}

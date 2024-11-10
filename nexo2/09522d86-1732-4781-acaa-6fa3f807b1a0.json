@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AnaIglesiasMolina-MBC_TFM.pdf: Página 7\nUPM / Japan collaboration\nIntroduction\n7\nOntology-based data access technology applied to Bio2RDF\nSemantic Web\n@prefix obo: http://purl.obolibrary.org/obo/\n@prefix skos: http://www.w3.org/2004/02/skos/core#\n@prefix xsd: http://www.w3.org/2001/XMLSchema#\n“Gene” \nobo:SO_0000704\n“Synonym” \nxsd:string\nskos:altlabel\n“Transcript” \nobo:SO_0000673\nobo:SO_transcribed_from\n",
+  "speaker": "SYSTEM",
+  "uuid": "09522d86-1732-4781-acaa-6fa3f807b1a0"
+}

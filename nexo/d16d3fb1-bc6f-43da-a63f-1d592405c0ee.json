@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: MariaNavas_STLab_Research_Stay.pptx: Diapositiva {27}\nBased on a previous code by Víctor, \t\t           we code some Structure Extractor\t\t\t   for this kind of document. We extract:\nRaw text (no X.s, bullet points, weird symbols…)\nType (paragraph, title…)\nHierarchy (parent, depth)\n\n\n\n\n\n\n\n",
+  "speaker": "SYSTEM",
+  "uuid": "d16d3fb1-bc6f-43da-a63f-1d592405c0ee"
+}

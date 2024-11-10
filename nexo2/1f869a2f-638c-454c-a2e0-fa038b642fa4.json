@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AMPER08_-_Introduction_to_SPARQL.pdf: Página 32\nRDF(S) Access APIs, May 2008\n32\n© García-Castro, Corcho, Muñoz-García\nSPARQL query forms: ASK\n@prefix foaf:       <http://xmlns.com/foaf/0.1/> .\n_:a  foaf:name       \"Alice\" .\n_:a  foaf:homepage   <http://work.example.org/alice/> .\n_:b  foaf:name       \"Bob\" .\n_:b  foaf:mbox       <mailto:bob@work.example> .\nPREFIX foaf:    <http://xmlns.com/foaf/0.1/>\nASK\n{ ?x foaf:name  \"Alice\" }\nyes\nQuery result:\n",
+  "speaker": "SYSTEM",
+  "uuid": "1f869a2f-638c-454c-a2e0-fa038b642fa4"
+}

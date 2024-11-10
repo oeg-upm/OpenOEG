@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 45\nNLP\nInteractions between computers and human (natural) \nlanguages\nChallenges:\nnatural language understanding\nenabling computers to derive meaning from human or NL input\nnatural language generation\nClassical NLP involve hand coding of large sets of rules\nNLP based on machine learning and DL\ngeneral learning algorithms generate these rules automatically\nthey use large corpora of typical real-world examples \n(documents or sentences annotated with the correct values to be \nlearned)\nRecurrent neural networks, especially LSTM, are most \nappropriate for sequential data such as language\n45\n",
+  "speaker": "SYSTEM",
+  "uuid": "c7969619-f0b5-4d32-a113-971a545e38b8"
+}

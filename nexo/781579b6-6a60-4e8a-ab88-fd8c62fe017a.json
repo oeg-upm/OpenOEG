@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_SPARQL.pdf: Página 7\nAvoid Duplicates: keyword DISTINCT \nExample:  \n“Give me all names of co-authors or friends of Tim Berners-Lee” \n \n8 \nOntological Engineering Group \nPREFIX foaf: <http://xmlns.com/foaf/0.1/>  \nSELECT DISTINCT ?N  \nWHERE {  \n { [ foaf:maker <http://dblp.l3s.de/…/authors/Tim_Berners-Lee>,  \n                     [ foaf:name ?N ] ] . } \n       } \n \n \n \n?N \n\"Lalana Kagal\" \n\"Tim Berners-Lee\" \n\"Dan Connolly” \n\"Jim Hendler” \n… \nUNIONs of conjunctive queries… \n",
+  "speaker": "SYSTEM",
+  "uuid": "781579b6-6a60-4e8a-ab88-fd8c62fe017a"
+}

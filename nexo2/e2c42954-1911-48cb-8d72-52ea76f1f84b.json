@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 06b_DebuggingExperiment.pdf: Página 4\nMotivation (II)\n• Work hypotheses\n• The use of our guidelines, in combination with existing\ndebugging tools, reduces the time needed to debug an\nontology\n• The use of our guidelines will still allow debugging the\nontology in cases where the computation of justifications\ntakes too much time\n• The results obtained will be of better quality\n• Natural language definitions will be more precise and will\nalign better with formal definitions\n• The intended meaning of the final debugged ontology will\nstill remain the same as the one intended by the user\n4\n",
+  "speaker": "SYSTEM",
+  "uuid": "e2c42954-1911-48cb-8d72-52ea76f1f84b"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: DevTools.pdf: Página 11\nAdministrar «DevTools» : bootstrap\nREM   == ============================================ ==\nREM   == CHECKOUT OF PROJECTS SVN CONFIGURATION       ==\nREM   == ============================================ ==\nREM Variable MAVEN_COMMAND is useful only for errors messages\nREM\nSET MAVEN_COMMAND=STEP - SVN checkout/update DevTools configuration to \n%PROJECT_HOME%\nECHO [BOOTSTRAP] %MAVEN_COMMAND% >> %LOG_FILE%\nECHO [BOOTSTRAP] %MAVEN_COMMAND%\nIF NOT EXIST \"%PROJECT_HOME%\\.svn\" GOTO svncheckout\n:svnupdate\nCD /D %PROJECT_HOME%\nCALL svn.exe update --username=%SVNUSERNAME% --password=%SVNPASSWORD%\nGOTO :svnend\n:svncheckout\nCALL svn.exe checkout %CONNECTION_URL% %PROJECT_HOME% --username=%SVNUSERNAME% \n--password=%SVNPASSWORD%\nEjecución de un batch shell en 3 etapas (después de la descompresión)\n◼Etapa 1 : recuperación, vía SVN, de la configuración\ne:/projects\nprj-seals\nprj-XXX\nprj-YYY\n",
+  "speaker": "SYSTEM",
+  "uuid": "f51ec4a3-4864-4e08-908b-42afe8e9d07e"
+}

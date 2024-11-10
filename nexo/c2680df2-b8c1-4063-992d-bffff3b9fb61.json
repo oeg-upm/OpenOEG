@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: NLP.Dissociating_language_and_thought_in_large_language_models.pdf: Página 5\n1. Introducción\nDesde el test de Turing, se suele asimilar lenguaje e inteligencia.\nDos falacias:\n• “Good at Language => Good at thought”\n• Gente que considera GPT-3 AGI!\n• O incluso “sentient”, como Chalmers (ver referencias paper para recopilación \nnoticias)\n• Uncanny, nuestras heurísticas para entender qué hace el LLM están rotas.\n*  Similar “Bad at Language => Bad at thought” , la gente no nativa o con \ndesórdenes del lenguaje se percibe menos inteligente y menos instruida.\n• “Bad at thought => Bad at Language”:\n• “Como no son consistentes, son malas”.\n",
+  "speaker": "SYSTEM",
+  "uuid": "c2680df2-b8c1-4063-992d-bffff3b9fb61"
+}

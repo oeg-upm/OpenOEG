@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA-2011.pdf: Página 144\nALGORITMO AO*\n9. Revisar el coste g(m) del siguiente modo: Para \ncada arco dirigido desde m a un conjunto de \nnodos (n1, ..., nn), calcular gi(m) = ci(n1i)+...+g(nmi).\nEl valor de g(nji) ha sido calculado en un paso \nprevio en este ciclo o, si está en el primer paso, \nfue calculado en el paso 6. Colocar g(m) en el \nmínimo de todos los arcos de salida de gi(m) y \nmarcar el arco a través de los que se alcanza este \nmínimo, borrando las marcas previas si  son \ndiferentes.\n",
+  "speaker": "SYSTEM",
+  "uuid": "b5c11efa-d928-4a3b-aeb1-0eccd338c17e"
+}

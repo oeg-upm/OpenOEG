@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AMPER08_-_Introduction_to_SPARQL.pdf: Página 19\nRDF(S) Access APIs, May 2008\n19\n© García-Castro, Corcho, Muñoz-García\nOptional graph patterns\n@prefix foaf:       <http://xmlns.com/foaf/0.1/> .\n@prefix rdf:        <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n_:a  rdf:type        foaf:Person .\n_:a  foaf:name       \"Alice\" .\n_:a  foaf:mbox       <mailto:alice@example.com> .\n_:a  foaf:mbox       <mailto:alice@work.example> .\n_:b  rdf:type        foaf:Person .\n_:b  foaf:name       \"Bob\" .\nPREFIX foaf: <http://xmlns.com/foaf/0.1/>\nSELECT ?name ?mbox\nWHERE  { ?x foaf:name  ?name .\nOPTIONAL { ?x  foaf:mbox  ?mbox }\n}\nname  \nmbox\n\"Alice\"\n<mailto:alice@example.com>\n\"Alice\"\n<mailto:alice@work.example>\n“Bob\"\n",
+  "speaker": "SYSTEM",
+  "uuid": "73904872-82ee-4f17-bf75-e6b2ce48114b"
+}

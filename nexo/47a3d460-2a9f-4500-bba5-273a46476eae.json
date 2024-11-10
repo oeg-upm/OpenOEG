@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 4\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nArquitectura de los Sistemas de Producción \nBases de Hechos \nMemoria de Trabajo \nAlmacena los datos del problema \nEstrategia de Control \nMotor de Inferencias \nMáquina deductiva \nRealiza el razonamiento en  \nciclos que se van encadenando  \nBases de Reglas \nProducciones \nRepresenta conocimientos \nsobre la solución del problema \nSP: 〈BH, BR, EC〉 \nBH1 \nBH2 \n••• \nBHn-1 \nBHn \nRegla 1 \nRegla 2 \n... \nRegla  N \nCiclo 1 \nCiclo 2 \nCiclo n-1 \nRegla j \nRegla n \nRegla i \n",
+  "speaker": "SYSTEM",
+  "uuid": "47a3d460-2a9f-4500-bba5-273a46476eae"
+}

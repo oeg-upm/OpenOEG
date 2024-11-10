@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Slides-Everis-2009.pdf: Página 6\nSlide 6\nTask 1. Identify the use cases\nObjective\nTo gather information about the application from the business \nrequirements and to distil scenarios from this information\nTechnique\nTo select and adapt semantic-related scenarios from a catalogue \nof 5 use cases\nUse Cases Catalogue\n•Query Information\nTo obtain integrated information from several resources \ngiven a query\n•Search Resources\nTo obtain resources (annotated with the corresponding \nmetadata) related to a given query\n•Browse Resources\nTo navigate through categorised resources utilizing \nontologies as indexes\n•Extract Information\nTo extract meaningful information from a set of resources \nobtaining after performing a search\n•Manage Knowledge\nTo collaboratively construct and evolve shared knowledge \nby\n•Managing classes, properties, instances, mappings, \nannotations...\n•Learning or populating an ontology, ...\n",
+  "speaker": "SYSTEM",
+  "uuid": "d88c7385-f1b2-44a8-927a-8072068cd525"
+}

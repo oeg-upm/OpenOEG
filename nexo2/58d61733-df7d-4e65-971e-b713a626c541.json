@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Helio-no_animations.pdf: Página 22\nSet your title here in Slide Master Options\nConclusions\n22\n▪Helio\no Allows the generation of RDF form heterogeneus datas \nsources\no Allows the iteraction with those sources by genrating \nheterogeneus data from RDF\no Enables a Linked Data Service for third-party systems to \ninteract with the heterogeneuos data sources\n▪Extensibility\no By implementing an interface (Conector, Datasource, \nTranslator or Function) from the core project\no By implementing plugins\n▪Scope\no Has been tested in two European projects (VICINITY & \nDELTA)\no Has been used, and extended in 3 master thesis\no Has received colaboration from external users\n",
+  "speaker": "SYSTEM",
+  "uuid": "58d61733-df7d-4e65-971e-b713a626c541"
+}

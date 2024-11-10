@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 30\n•30\nRDF(S) limitations\n•\nRDFS too weak to describe resources in sufficient detail\n•\nNo localised range and domain constraints\n• Can’t say that the range of hasChild is person when applied to \npersons and elephant when applied to elephants\n•\nNo existence/cardinality constraints\n• Can’t say that all instances of person have a mother that is also a \nperson, or that persons have exactly 2 parents\n•\nNo boolean operators\n•\nCan’t say or, not, etc.\n•\nNo transitive, inverse or symmetrical properties\n• Can’t say that isPartOf is a transitive property, that hasPart is the \ninverse of isPartOf or that touches is symmetrical\n•\nDifficult to provide reasoning support\n•\nNo “native” reasoners for non-standard semantics\n•\nMay be possible to reason via FOL axiomatisation\n60\nExercise\n•Objective\n• Understand the features of RDF(S) for implementing ontologies, including its \n( )\np\ng\ng\ng\nlimitations\n•Tasks\n• Given a scenario description, build a simple ontology in RDF Schema\n61\n",
+  "speaker": "SYSTEM",
+  "uuid": "9347a003-9b75-4561-8446-02cff58e9831"
+}

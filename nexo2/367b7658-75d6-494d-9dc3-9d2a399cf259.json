@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 05.Annotation.pdf: Página 6\n• 6 \nTable of Contents \n1. \nOntology-based Annotation\n \n  \n \n  \n2. \nWeb Resource Annotation\n \n \n \n \n  \n3. \nDatabase Annotation\n \n \n \n \n  \n3.1  Approaches for database annotation \n3.2  R2O and ODEMapster \n3.3   Practical Example: NeOn Toolkit \nWeb Resource Annotation. Dimensions \n• \nSources \n•  Source type \n•  Text: HTML, XML, PDF, etc. \n•  Multimedia: images, video, audio \n•  Web Services \n•  Origin \n•  Static: files \n•  Dynamic: databases and forms \n•  Very dynamic: data streams \n• \nTechnologies \n•  Natural Language Processing \n•  Information Extraction \n•  Layout Analysis \n•  Clustering \n•  Topic identification \n•  Wrapper generation \n• \nAnnotation Process \n•  Maintenance (adaptivity to \nchanges in the sources) \n•  Verification \n•  Robustness \n•  Auto-adaptivity \n•  Annotation Supervision \n•  Manual \n•  Supervised (semi-automatic) \n•  Unsupervised (automatic) \n• \nDegree of formality \n• \nWeb 2.0 tagging \n• \nDublin-core based \n• \nThesauri \n• \nOntology-based \n",
+  "speaker": "SYSTEM",
+  "uuid": "367b7658-75d6-494d-9dc3-9d2a399cf259"
+}

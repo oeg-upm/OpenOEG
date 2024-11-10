@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 7\nATHENS 2010 \n© Raúl García Castro et al. \nRDF Serialisations. N3 \n@base  <http://www.oeg-upm.net/ontologies/people > \n@prefix person: <http://www.ontologies.org/ontologies/people#> \n:Asun   person:hasColleague :Raul ; \n \n person:hasHomePage “http://www.fi.upm.es/”. \n:Oscar  person:hasColleague :Asun ; \n  \n person:hasName “Óscar Corcho García”. \n7 \n",
+  "speaker": "SYSTEM",
+  "uuid": "9fcb9837-3ca7-4908-80b3-f70a3a6cfd8c"
+}

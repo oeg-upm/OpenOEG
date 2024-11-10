@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Chowlk_framework_slides.pdf: Página 42\nChowlk framework© María Poveda Villalón  & Serge Chávez-Feria\nFuture Work\n43\n§\nThe implementation of a plugin in diagrams.net to accelerate even more the construction\nof the ontology.\no Also to detect and correct syntax errors rapidly.\n§\nTo explore the usage of the tool with other visualizations by adapting the detection \nmodule.\n§\nTo explore the reverse process, from an ontology to a diagram in diagrams.net.\n§\nTo integrate it into OnToology?\n§\nSystematic comparisson of the visual notation with other existing ones + user-based \nevaluation. \n§\nSubmit Chowlk converter (+ lightweight description of notation) to ESWC resources\n",
+  "speaker": "SYSTEM",
+  "uuid": "113aa6c2-b17b-4264-b184-36813c26b162"
+}

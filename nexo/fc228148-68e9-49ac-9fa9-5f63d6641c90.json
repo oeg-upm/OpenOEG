@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Presentacion_OEG24-04-2014.pdf: Página 19\nResults \n19 \n•Data is ready to be consumed 10-15x faster. \n•Exchange time reduced. \n•Indexing burden on server = Lightweight client processing. \n•Competitive query performance. \n•Very fast on triple patterns. \n•Joins on the same scale of existing solutions. \n•This is useful for applications that… \n•need a fast, compact read-only in-memory RDF store. \n• consider a static view of RDF datasets \n•want to share self-queryable RDF dumps. \n•need fast download & query. \n \n \n",
+  "speaker": "SYSTEM",
+  "uuid": "fc228148-68e9-49ac-9fa9-5f63d6641c90"
+}

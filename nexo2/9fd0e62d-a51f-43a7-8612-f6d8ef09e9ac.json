@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 36\n© O. Corcho, R.García-Castro, O. Muñoz-García\n39\nRDF and RDF Schema\n@prefix foaf:  <http://xmlns.com/foaf/0.1/> .\n_:a  foaf:name   \"Alice\" .\n_:b  foaf:name   \"Bob\" .\nPREFIX foaf:   <http://xmlns.com/foaf/0.1/>\nSELECT ?x ?name\nWHERE  { ?x foaf:name ?name }\nx  \nname\n_:c\n\"Alice\"\n_:d\n\"Bob\"\nx  \nname\n_:r\n\"Alice\"\n_:s\n\"Bob\"\n=\nBasic graph patterns: Blank node labels in query results\n",
+  "speaker": "SYSTEM",
+  "uuid": "9fd0e62d-a51f-43a7-8612-f6d8ef09e9ac"
+}

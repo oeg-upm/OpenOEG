@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: WebNmas-EVERIS%28v2-boris%29.pdf: Página 9\n9\nComponente de Integración de Datos\n•\nInput\n• Una o más ontologías en OWL o RDF(S)\n• Un fichero de mappings\n• Uno o más handlers de base de datos\n• Una consulta\n•\nOutput\n• Un fichero RDF o una URL al lugar donde está el fichero\n",
+  "speaker": "SYSTEM",
+  "uuid": "2766aafb-ef66-4dbd-a79d-3e5cb6b8b24a"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 3._GC-Redes_Sem%C3%A1nticas-v3.pdf: Página 28\nRedes Semánticas  \nFacultad de Informática. Universidad Politécnica de Madrid \n© Asunción Gómez Pérez \nEjercicio Patrones de Diseño  \nSupóngase que una compañía desea formalizar las tareas implicadas en un plan. Los tipos de \ntareas son: tareas de gestión, tareas de investigación, tareas de marketing y tareas de \ncontrol. Los planes se clasifican en los mismos tipos que se han clasificado las tareas. Se \nsabe que: \n•\nlos planes y las tareas son disjuntos. \n•\nun plan de gestión tiene asociado una tarea de gestión, entre otras.   \n•\nlas tareas de control son únicamente: tareas de comienzo, de finalización y tareas \nsecuenciales. \n•\nuna tarea concreta solo puede estar en una de estas categorías.   \n•\nUn plan de investigación es parte de un proyecto de investigación y que el plan de \ninvestigación está compuesto por un plan teórico y experimental. \n•\nUn plan puede estar en uno de los siguientes estados: aceptado, rechazado, en proceso \nde revisión.  \n",
+  "speaker": "SYSTEM",
+  "uuid": "22beb709-1de6-4a65-9e58-5137bf25652c"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Semantic_Sensor_Networks_%28short_overview%29.pdf: Página 9\n9\nSemantic \nIntegrator\nStreaming \nData \nResource\nStored Data \nResource\nIntegrateAs (StrRes,StoRes,map)\nIntegratedRes\nSPARQLExecuteFactory(IntegratedRes, query)\nConsumer\nSNEEqlExecuteFactory(StreamingRes, querySNEEql)\naccess StreamingRes\nGetResponseItem(access StreamingRes)\nSQLExecuteFactory(StoredRes, querySQL)\nGetResponseItem(access IntegratedRes)\nresults\nresults\naccess IntegratedRes\nrepeat\nSemantic Integration Interactions\n9\nSemantic Integration Streaming Data Sources\n",
+  "speaker": "SYSTEM",
+  "uuid": "e3c5b292-0ab4-4c8e-a40a-4e2e0fe27fa9"
+}

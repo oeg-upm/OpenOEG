@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ISSGC08.pdf: Página 58\n©<Miembro Grupo>\n59\nConclusions (II)\n• Systems provide similar functionalities but:\n– UNICORE focused in large scale systems (high computing power)\n– Condor focused in high amount of jobs and computers\n– Globus focused in high amount of computers\n– gLite high amount of computers/large infrastructure\n• Same as data management in Grids:\n– Every problem (high rate of data generation, high amounts of data, high \ndistribution of data) has its own solution\n• Workflow systems allow to compose and submit complex jobs\n",
+  "speaker": "SYSTEM",
+  "uuid": "6bcf664e-0f0d-4330-9d1c-7fad0d4b65e7"
+}

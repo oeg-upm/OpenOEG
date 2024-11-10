@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: BUSQUEDA.pdf: Página 85\nBÚSQUEDA \n \n85 \nJ. Rubio / P.R. Muro / J. Bañares \n \nOctubre 2004 - Curso 2004-2005 \nFigura 4 \nLas flechas punteadas en las figuras 3 y 4 significan estados que han sido \ngenerados y de los que se ha calculado su valor heurístico, pero que han sido \ndesechados (no han llegado a ser incluidos en ABIERTOS). \nEn el árbol de búsqueda de la figura 6, se produce un empate entre los estados G y \nC. Hemos elegido (arbitrariamente) el estado más profundo (el que fue generado el \núltimo), decisión que, en este ejemplo concreto, ha retrasado ligeramente el hallazgo \ndel estado objetivo. \nI (10)\nC (6) \nA (11)\nB (5) \nE (4) \nF (3) \nG (6) \nO (0) \nH (8) \nJ (7) \n1 \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n9 \n \nFigura 5 \n \nI (10)\nC (6) \nA (11)\nB (5) \nE (4) \nF (3) \nG (6) \nO (0) \nH (8) \nJ (7) \n1 \n2 \n3 \n4 \n5 \n6 \n7 \n \nFigura 6 \n",
+  "speaker": "SYSTEM",
+  "uuid": "f91ecb2b-1c3a-4a4e-87d6-49c37159211d"
+}

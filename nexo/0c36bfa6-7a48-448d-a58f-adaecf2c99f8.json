@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AMPER08_-_Introduction_to_SPARQL.pdf: Página 37\nRDF(S) Access APIs, May 2008\n37\n© García-Castro, Corcho, Muñoz-García\nQueries on the model\n1) Get all the classes\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nSELECT ?x WHERE { ?x a rdfs:Class. }\n2) Get the subclasses of the class Establecimiento\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nSELECT ?x WHERE { ?x rdfs:subClassOf pr:Establecimiento. }\n3) Get the instances of the class Ciudad\nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nSELECT ?x WHERE { ?x a pr:Ciudad. }\n",
+  "speaker": "SYSTEM",
+  "uuid": "0c36bfa6-7a48-448d-a58f-adaecf2c99f8"
+}

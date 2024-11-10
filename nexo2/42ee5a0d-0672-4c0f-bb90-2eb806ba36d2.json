@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 04_OWL.pdf: Página 25\n© O. Corcho, MC Suárez de Figueroa Baonza \n25 \nOWL 2 \nOWL (1.0 and 1.1) \nFebruary 2004 \n \nWeb Ontology Language \n \nBuilt on top of RDF(S) \n \nThree layers: \n-  OWL Lite \n-  A small subset of primitives \n-  Easier for frame-based tools to transition to \n-  OWL DL \n-  Description logic \n-  Decidable reasoning \n-  OWL Full \n-  RDF extension, allows metaclasses \n \nSeveral syntaxes: \n-  Abstract syntax \n-  Manchester syntax \n-  RDF/XML \n",
+  "speaker": "SYSTEM",
+  "uuid": "42ee5a0d-0672-4c0f-bb90-2eb806ba36d2"
+}

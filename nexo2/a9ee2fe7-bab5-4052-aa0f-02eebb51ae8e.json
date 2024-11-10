@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Slides-Everis-2009.pdf: Página 11\nConclusions\n•\nOur main goal is to facilitate the development of semantic applications for \nnon-expert software engineers.\n•\nAdapting the Requirements Engineering and Design processes from SE. \n•\nAllowing to design the architecture of SA from scratch and to include semantic \ncomponents into traditional information systems.\n•\nThe techniques described are novel and specially oriented to the \nspecification and design of the semantic functionalities of an application.\n•\nThe semantic characteristics of an application will influence the whole \ndevelopment process.\n•\nThe use cases are useful to start analysing the application from concrete \nfunctional user needs.\n•\nThe system models are graphical representations of the macro-structure \nand environment of the application. We have provided architectural \npatterns that aim to facilitate the Architectural Design of the Semantic \nApplication.\n•\nThese architectural patterns are not bound to a particular implementation.\n11\nÓscar Muñoz-García, Raúl García Castro\n",
+  "speaker": "SYSTEM",
+  "uuid": "a9ee2fe7-bab5-4052-aa0f-02eebb51ae8e"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SparqlDQPGrupo.pdf: Página 33\nFuture Work (II)\n• Study the semantics of Sparql to create new \noptimisers\n• Create new optimisers based:\n• On SPARQL\n• How SQL optimisers work in SPARQL?\n• Create data workflows using other OGSA-DAI \nresources\n• Integrate in one single query queries to RDF stores \nand SQL DB?\n",
+  "speaker": "SYSTEM",
+  "uuid": "951969ae-700d-4069-ba5d-b5268c8a6469"
+}

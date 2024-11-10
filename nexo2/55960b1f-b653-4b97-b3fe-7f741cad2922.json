@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Marcos.pdf: Página 7\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nPrimitivas necesarias para modelizar\nconocimientos disjuntos en taxonomías\nclass-Partition: Conjunto de clases que son disjuntas entre sí\nDisjoint:  un conjunto de clases que son disjuntas entre sí son subclase de una clase padre\nExhaustive-Disjoint:  un conjunto de clases que son disjuntas entre sí son subclase de una clase padre \ny el conjunto de clases definen completamente a la clase padre.\n",
+  "speaker": "SYSTEM",
+  "uuid": "55960b1f-b653-4b97-b3fe-7f741cad2922"
+}

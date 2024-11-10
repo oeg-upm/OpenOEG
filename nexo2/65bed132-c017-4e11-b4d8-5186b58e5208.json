@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Redes_Semanticas-v1.pdf: Página 23\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nRDF: Resource Description Framework\n•\nW3C recommendation (http://www.w3.org/RDF)\n•\nRDF is graphical formalism ( + XML syntax + semantics)\n– for representing metadata\n– for describing the semantics of information in a machine- accessible way\n•\nRDF is a basic object-attribute-value language\n– Statements are represented as triples, consisting of a subject, predicate and object. \n[S, P, O]\n– Resources are described in terms of properties and property values using RDF \nstatements.\n•\nResources are identified by URIs\n–\nhttp://www.co-ode.org/people#hasColleague\nIB-4321\nIberia\nCompany-name\nsingleFare\n500 euros\ndepartureDate\n10/11/2005\narrivalDate\n(IB-4321 Company-name Iberia)\n(IB-4321 arrivalDate 10/11/2005)\n(IB-4321 departureDate10/11/2005)\n(IB-4321 singleFare 500euros)\n(IB-4321 company-name Iberia)\nCódigo RDF \nXML\nRDF\nRDFS\nOWL\nRDF(S)\n",
+  "speaker": "SYSTEM",
+  "uuid": "65bed132-c017-4e11-b4d8-5186b58e5208"
+}

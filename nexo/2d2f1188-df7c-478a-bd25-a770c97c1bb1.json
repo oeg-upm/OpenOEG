@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 20\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nNo son REGLAS \nProblema 5: Desde una regla nunca se puede lanzar otra regla \n \nRi:  Si Condición-1 Λ Condición-2 \nEntonces Rj \n \n \nSolución:  \n•       Introducir señalizadores que provoquen la ejecución de la regla Rj \n•       No olvidar borrar los señalizadores al ejecutar la regla Rj \n",
+  "speaker": "SYSTEM",
+  "uuid": "2d2f1188-df7c-478a-bd25-a770c97c1bb1"
+}

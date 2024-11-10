@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ISSGC08.pdf: Página 48\n©<Miembro Grupo>\n49\nSystem 5 Submit job file\n<jsdl:JobDefinition>\n<jsdl:JobDescription>\n<jsdl:JobIdentification>\n</jsdl:JobIdentification>\n<jsdl:Application>\n<jsdl-hpcp:HPCProfileApplication name=\"HostDate\" >\n<jsdl-hpcp:Executable>C:\\GridSchool\\sfk\\scan.bat\n</jsdl-hpcp:Executable>\n<jsdl-hpcp:Input></jsdl-hpcp:Input>\n<jsdl-hpcp:Output>output.txt</jsdl-hpcp:Output>\n</jsdl-hpcp:HPCProfileApplication>\n</jsdl:Application>\n<jsdl:Resources>\n<jsdl:ExclusiveExecution>false</jsdl:ExclusiveExecution>\n<jsdl:TotalCPUCount/>\n</jsdl:Resources>\n<jsdl:DataStaging>                      \n</jsdl:DataStaging>\n</jsdl:JobDescription>\n</jsdl:JobDefinition>\n",
+  "speaker": "SYSTEM",
+  "uuid": "0b49ecee-3f15-44c8-a893-d76070f5ead8"
+}

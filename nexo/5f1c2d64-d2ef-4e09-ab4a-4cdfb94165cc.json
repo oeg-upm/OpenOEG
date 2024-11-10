@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OntoDDB.pdf: Página 19\nPROBLEMS: Name changes\n• Resource name: common identifier between \ndatabase and Protégé \n• User allowed to modify the name\n• Solution \n– ChangeListener over Protégé frames\n– List of modified elements \n• Old and new names of each element\n– Names update on DB before storing\n• Update trigger on resr table update of stat table\n12/11/2009\n",
+  "speaker": "SYSTEM",
+  "uuid": "5f1c2d64-d2ef-4e09-ab4a-4cdfb94165cc"
+}

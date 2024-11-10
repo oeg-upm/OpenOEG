@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Metodolog%C3%ADa-1-v1%28asun%29.pdf: Página 34\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n37\nOntological Engineering\nOntology Specification: Uses\n5\nIntended Uses\n1. Publish CV. Job seeker places his/her CV on the PES \nPortal. \n2. Publish Job Offer. An Employer places a Job Offer on \nthe PES Portal.\n3. Search for Job Offers. The Employer looks for \ncandidates for the Job Offer through PES Portal.\n4. Search for Employment information. Job Seeker looks \nfor of general information about employment in a given \nlocation at the PES Portal.\n5. Provide Job Statistics. The PES Portal provides \nemployment statistics to the Job Seeker and Employer.\n Input: a set of ontological needs\n Objective: identifying the intended uses\n Techniques:\nphysical\nor\nvirtual\ninterviewers\nbetween them\n Output: a list of intended uses in the form of\nscenarios. The scenarios can be described in\nnatural language or expressed in UML as use\ncases. The list of scenarios will be included in the\ncorresponding slot of the OSRD template.\n",
+  "speaker": "SYSTEM",
+  "uuid": "0c97f906-eee6-4eb3-8126-92a723115ea8"
+}

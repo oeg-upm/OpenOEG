@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AMPER08_-_RDF%28S%29_access_APIs.pdf: Página 13\nRDF(S) Access APIs, May 2008\n13\n© García-Castro, Corcho, Muñoz-García\nNavigating a model\n// retrieve the John Smith vcard resource from the model \nResource vcard = model.getResource(johnSmithURI); \nThree ways of retrieving property values:\n// retrieve the value of the N property \nResource name = (Resource) vcard.getProperty(VCARD.N).getObject(); \n// retrieve the value of the N property \nResource name = vcard.getProperty(VCARD.N).getResource(); \n// retrieve the given name property \nString fullName = vcard.getProperty(VCARD.N).getString(); \n",
+  "speaker": "SYSTEM",
+  "uuid": "0b828262-9759-4e3b-9fa7-84da1b262129"
+}

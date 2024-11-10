@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4.metodologia-v1%28asun%29.pdf: Página 59\n© A. Gómez Pérez, M.C. Suarez de Figueroa, B. Villazón,  E.Montiel, G. Aguado, M. Espinoza\n59\nOntological Engineering\nLocal Ontologies Building Process\n•\nOption 1: Building Local Ontologies from the Reference Ontology.\nReference\nOntology\nSpecialize\nExtend\nResultant Local Ontology\nPrune\n•\nOption 2: Building Local Ontologies as a reverse engineering process \nfrom ES Data Sources. \nES Data Sources\nReverse \nEngineering\nResultant Local Ontology\n",
+  "speaker": "SYSTEM",
+  "uuid": "f789c0cf-187f-465b-a69d-05b16a4a3a0f"
+}

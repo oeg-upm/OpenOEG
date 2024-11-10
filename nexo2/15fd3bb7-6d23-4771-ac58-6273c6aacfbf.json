@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: BNE-UPMLinkedData2.pdf: Página 5\nData source set: Cervantes and surrounding data\n• MARC data selection involved 3 phases:\n• Phase 1: \n• Authority records: Cervantes + each record that \ncontained Cervantes as author (author-title, author-title-\nlang, etc.) –> 550 records\n• Bibliographic records: Associated to selected set of \nauthoritities →8552 records\n• Phase 2:\n• Authority records: Records associated to selected set \nof bibliographic records in Phase 1 →7351 records\n• Phase 3:\n• Authority records:  Authority records related within any \nfield with selected set in Phase 2. (Mainly themas and \nworks and expressions from authors  of phase 2) →\n53000 records\n5\n",
+  "speaker": "SYSTEM",
+  "uuid": "15fd3bb7-6d23-4771-ac58-6273c6aacfbf"
+}

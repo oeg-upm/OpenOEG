@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RicoMayo2018.pdf: Página 6\nMappings: typical errors\n• Language details\n• E.g. dbo:elevation and dbo:height\n• In English: elevation is for mountains, height is for persons\n• In many non-English languages:height can be also for mountains\n• Duplicated properties. Same semantics\n• E.g. dbo:formationYear and dbo:foundingYear\n• formationYear is used for music groups\n• foundingYear is used for companies\n• Level of specificity\n• E.g. dbo:code and dbo:postalCode\n",
+  "speaker": "SYSTEM",
+  "uuid": "9c66deac-151c-4e41-b519-35499584e494"
+}

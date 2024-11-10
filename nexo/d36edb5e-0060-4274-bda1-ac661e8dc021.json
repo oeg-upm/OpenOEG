@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_Terminolog%C3%ADa.pdf: Página 45\n© Guadalupe Aguado de Cea\n45\nHerramientas utilizadas en Termontography\n• Web crawler: recupera online documentos de un dominio, \n• Keyword extractor: informa al usuario del contenido del documento\n• Text converter: almacena texto en cualquier formato\n• Automatic aligner: alinea textos paralelos y sólo se procesa una versión en \nla fase de búsqueda\n• Similarity measuring tool: elimina versiones redundantes\n• Automatic term identifier: reconoce las unidades terminológicas extraidas \nen otros textos\n• Smart concordancer: resalta la importancia del contexto\n• Term extractor: propone candidatos a término, basándose en “mappings”\n• Translation extractor: encuentra la traducción equivalente en el corpus \nbilingüe\n",
+  "speaker": "SYSTEM",
+  "uuid": "d36edb5e-0060-4274-bda1-ac661e8dc021"
+}

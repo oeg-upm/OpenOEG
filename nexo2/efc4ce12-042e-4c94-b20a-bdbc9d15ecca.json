@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Maven-Artifactory.pdf: Página 8\nRelación entre Maven y el repositorio\nMaven trabaja con repositorios locales (en la propia \nestación de trabajo) y con repositorios remotos \n(intranet/internet) para la gestión de dependencias\nEn el almacenamiento, Maven define el siguiente \nlayout:\n groupId/artifactId/version/artifactId-version.packaging\nInstall → Es el Maven goal que sube un artefacto \nal repositorio local\nDeploy → Es el Maven goal que sube un artefacto al \nrepository remoto\n",
+  "speaker": "SYSTEM",
+  "uuid": "efc4ce12-042e-4c94-b20a-bdbc9d15ecca"
+}

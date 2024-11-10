@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 53\n© O. Corcho\n53\nOntological Engineering\nChunk 4. Formalize in DL, and then in OWL DL\n1. Concept definitions:\nA pet is a pet of something. An animal must eat something. A vegetarian is an animal \nthat does not eat animals nor parts of animals. Ducks, cats and tigers are animals.\nAn animal lover is a person who has at least three pets. A pet owner is a person who\nhas animal pets. A cat liker is a person who likes cats. A cat owner is a person who has\ncat pets. A dog liker is a person who likes dogs. A dog owner is a person who has dog pets.\n2. Restrictions:\nDogs are not cats, and cats are not dogs.\n3. Properties:\nHas pet is defined between persons and animals. Its inverse is is_pet_of.\n4. Individuals:\nDewey, Huey, and Louie are ducks.\nFluffy is a tiger.\nWalt is a person who has pets called Huey, Louie and Dewey.\n",
+  "speaker": "SYSTEM",
+  "uuid": "3136aa60-01e4-46aa-aa74-bcd949b41e38"
+}

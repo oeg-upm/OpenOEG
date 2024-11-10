@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 3.RDF%28S%29.pdf: Página 15\n• 15 \nIndex \n•  Resource Description Framework (RDF) \n•  RDF primitives \n•  Reasoning with RDF \n•  RDF Schema \n•  RDF Schema primitives \n•  Reasoning with RDFS \n•  RDF(S) Management APIs \n29 \nRDF inference. Graph matching techniques  \n•  RDF inference is based on graph matching \ntechniques \n•  Basically, the RDF inference process consists of the \nfollowing steps: \n•  Transform an RDF query into a template graph that has to \nbe matched against the RDF graph \n•  It contains constant and variable nodes, and constant \nand variable edges between nodes \n•  Match against the RDF graph, taking into account constant \nnodes and edges \n•  Provide a solution for variable nodes and edges \n30 \n",
+  "speaker": "SYSTEM",
+  "uuid": "69db4544-411b-4b9c-93c3-50274dbb2e6a"
+}

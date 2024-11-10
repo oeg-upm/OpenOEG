@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Metodolog%C3%ADa-1-v2%28asun%29.pdf: Página 8\nGetting terminology using \nCompetency Questions\nCompetency Questions\nMotivating\nInformal\nFormal\nMotivating\nScenarios\nCompetency\nQuestions\nFormal \nTerminology\nFind documents written by Person P\nIdentify intuitively possible \napplications and  solutions\nIdentify Queries:\n• Questions:  Document, Person, writes\n• Answers: Document D1 is written by P1\nIdentify Queries:\n• Answers:   Axioms\nFormal definitions\nQ estions: Terminolog\nClasses: Document Person\n• Questions: Terminology\nClasses\nRelations\nAttributes\nAxioms\nClasses: Document, Person\nRelations: Writes, written by\nAttributes: ---\nAxioms\nInstances: P1 D1\nInstances\nUschold, M.; Grüninger, M.  \nONTOLOGIES: Principles, Methods and Applications.  \nKnowledge Engineering Review. \nVol. 11; N. 2; June 1996.\nInstances: P1, D1\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n8\nOntological Engineering\n",
+  "speaker": "SYSTEM",
+  "uuid": "337e87e8-f769-4c13-96f3-d4e91014696a"
+}

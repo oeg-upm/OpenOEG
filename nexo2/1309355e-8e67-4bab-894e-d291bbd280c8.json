@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ODPs-v6.pdf: Página 20\n23\n23\nExample 2\nWe are going to model the following problem within the Anatomy \nOntology: \n\nA pressure ulcer has a certain stage at a certain point in time\n\nSuch stage can change to the next stage (higher or lower) later \nin time\nThe Logical Pattern for Modelling N-ary Relation Using Lists for Arguments in \nthe Relation (LP-NR-02) [7] has been reused for modelling sequences in the stages \na pressure ulcer can go through). \n",
+  "speaker": "SYSTEM",
+  "uuid": "1309355e-8e67-4bab-894e-d291bbd280c8"
+}

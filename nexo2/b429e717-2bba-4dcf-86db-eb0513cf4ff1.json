@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA.pdf: Página 108\n108\nProcedimiento de búsqueda en \nespacio de estados (SSS*)\nUn estado del SSS* tiene la estructura \n(n,e,h)\nn = nodo evaluado\ne = estado nodo (activado/estudiado)\nh = función heurística para el nodo n\n",
+  "speaker": "SYSTEM",
+  "uuid": "b429e717-2bba-4dcf-86db-eb0513cf4ff1"
+}

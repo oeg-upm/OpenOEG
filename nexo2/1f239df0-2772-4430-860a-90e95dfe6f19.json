@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GeoLinkedData%28v1-boris%29.pdf: Página 5\nLinked Data\n• Linked Data is a term used to describe a \nrecommended best practice for exposing sharing\nrecommended best practice for exposing, sharing, \nand connecting pieces of data using URIs and RDF.\n• Linked Data Principles\nLinked Data Principles\n1.\nUse URIs as names for things \n2.\nUse HTTP URIs so that people can look up those names. \n3.\nWhen someone looks up a URI, provide useful information, \nusing the standards (RDF, SPARQL) \n4\nInclude links to other URIs so that they can discover more\n4.\nInclude links to other URIs, so that they can discover more \nthings. \n5\n",
+  "speaker": "SYSTEM",
+  "uuid": "1f239df0-2772-4430-860a-90e95dfe6f19"
+}

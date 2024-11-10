@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Helio-no_animations.pdf: Página 8\nSet your title here in Slide Master Options\nPublishing RDF data\n8\n<Source1, RDF1, Links1, \nHash1>\n<Source…, RDF…, Links…, \nHash…>\n<SourceN, RDFN, LinksN, \nHashN>\nConnector\nDatasourc\ne\nSource\n1\nSource\n…\nSource\nN\nConnector\nDatasourc\ne\nConnector\nDatasourc\ne\nVirtualiser\nTranslator\n<<updates>\n>\nIntegrator \ncache\nMapping\nSerialisatio\nn\nGeneric\nMappin\ng\nObject\nLinker\nIntegrator\nPublisher\n",
+  "speaker": "SYSTEM",
+  "uuid": "d3e80e39-a3c9-4dae-ae0a-2cd900dbb53a"
+}

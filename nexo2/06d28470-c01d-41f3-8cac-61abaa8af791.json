@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA_grado-2013.pdf: Página 14\nBÚSQUEDA CON RETROCESO \nBASE DE REGLAS: \n \nR1j: i = 1 → (PONER REINA EN FILA 1, COL, j) (i = 2) \nR2j: i = 2 → (PONER REINA EN FILA 2, COL, j) (i = 3) \nR3j: i = 3 → (PONER REINA EN FILA 3, COL, j) (i = 4) \nR4j: i = 4 → (PONER REINA EN FILA 4, COL, j) (i = 5) \nR5: i = 5 →\n fin \n \n",
+  "speaker": "SYSTEM",
+  "uuid": "06d28470-c01d-41f3-8cac-61abaa8af791"
+}

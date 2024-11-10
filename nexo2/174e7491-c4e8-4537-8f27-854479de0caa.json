@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion.pdf: Página 6\nPlanificación\nPROCEDIMIENTOS DEL GPS\na) Procedimiento transformar x en y\n1. Identificar las diferencias relevantes entre los \nelementos. Si no existen, la transformación es \ncompleta\n2. Seleccionar el operador o más relevante de la tabla \nde conexiones\n3. Aplicar el operador o a x. Llamar al elemento \nresultante z\n4. Hacer x = z e ir a 1\n",
+  "speaker": "SYSTEM",
+  "uuid": "174e7491-c4e8-4537-8f27-854479de0caa"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Chowlk_framework_slides.pdf: Página 36\nChowlk framework© María Poveda Villalón  & Serge Chávez-Feria\nThe Chowlk Converter\n37\n• The Architecture\nDetection\nModule\nXML \nFile\nAssociation\nModule\nWriting\nModule\nOWL \nOntology\n•\nAssociation between elements detected.\n•\nConcept + relations + attributes.\n•\nNeed to disambiguate certain\nassociations.\nArrow\nstarts\nhere\n",
+  "speaker": "SYSTEM",
+  "uuid": "6dedeba4-317c-4b04-9d97-95a98033c7eb"
+}

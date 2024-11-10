@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 34\nSupervised classification\nMachine Learning\nTraining data set\n(Classified instances)\nTraining data set\n(Classified instances)\nCategory=familiar\nClassifier\nInstances (attributes,class)\nEvaluation data set\n(Classified instances)\nEvaluation data set\n(Classified instances)\nInstances (attributes, class)\nNew Instances\nUnclassified\nNew Instances\nUnclassified\nInstance( brand=Citroen, \nprice= 5000€, color=orange)\n",
+  "speaker": "SYSTEM",
+  "uuid": "6fa868a5-b2fb-4183-b919-b8ff1cfe732c"
+}

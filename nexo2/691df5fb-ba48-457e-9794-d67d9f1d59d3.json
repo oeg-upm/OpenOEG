@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01a.FormalismosRepresentaci%C3%B3n.pdf: Página 10\nFrames. Basic elements \nCONCEPTS \nInferences: \n• Property inheritance \n• Matching \n• Daemons \nFRAMES \nClass \nInstance \nSLOTS \nRelations \nsubclassOf \ninstanceOf \nSibling \nDisjoint \nNon Disjoint \nAd hoc \nProperties \nof Class \nof Instance \nFacets \nType \nMin cardinality \nMax cardinality \nMultivalued \nAllowed values \nDefault values \nPrecondition \nIfNeeded \nIfModified \nIfAdded \nIfRemoved \nFrame \nFacets \nDescription \nValue \nProcedure \nPointer \nProperties \nRelations \nF1 \nF2 \nFn \n... \nR1 \nRn \n",
+  "speaker": "SYSTEM",
+  "uuid": "691df5fb-ba48-457e-9794-d67d9f1d59d3"
+}

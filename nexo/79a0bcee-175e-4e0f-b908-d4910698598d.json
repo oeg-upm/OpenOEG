@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 29\nWeb Ontology Language\nOWL semantics\nFor example, we can state (In our ontology!) that in order to be \nhuman something must eat plants\nEating plants is a necessary condition to be human: all the \nhumans eat plants, but there are other organisms that also \neat plants that are not humans\nWe can also define a necessary and sufficient condition: \nproducing language is a unique quality of humans: if we find \nan individual (Organism) capable of producing language we \ncan infer that is human, since no other organism does it\n",
+  "speaker": "SYSTEM",
+  "uuid": "79a0bcee-175e-4e0f-b908-d4910698598d"
+}

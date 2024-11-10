@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: KGEOntologies_2021.pdf: Página 8\nAn Ontology-Based Deep Learning Approach for Triple Classification with Out-of-Knowledge-Base Entities\nOOKB entity introduction models\n8\nThere are a few existing proposals that focus on\novercoming this issue…puTransEDKGE\nEven though these approaches remove the need to\nretrain the model from scratch when a new entity is\nintroduced….\nStill require at least a partial retraining\nSome are based on computationally expensive\nparadigms such as graph neural networks\nAre designed for a particular model\n",
+  "speaker": "SYSTEM",
+  "uuid": "5e518ef9-40b0-45fd-b958-e6804b67a6e5"
+}

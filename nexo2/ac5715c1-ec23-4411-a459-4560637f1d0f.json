@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ISSGC08.pdf: Página 40\n©<Miembro Grupo>\n41\nGlobus\n•\nGlobus is a Grid middleware that provides means for building collaborative \nand distributed applications\n–\nIt is a middleware that solves the problem of heterogeneity between user \napplications and computing resources\n•\nCore runtime\n•\nSecurity (Authentication and authorization)\n–\nGSI (Grid Security Infrastructure), X509 standard, VOMS (Virtual Organization \nMembership Service)\n•\nExecution management\n–\nSupports the GRAM  interface (Grid Resource Allocation and Management)\n–\nIt provides a single protocol for communicating with different batch/cluster job \nschedulers.\n•\nData management\n–\nGridFTP (XIO), RFT, Replica Location Service, OGSA-DAI\n•\nMonitoring\n–\nMonitoring and Discovery System (MDS4): information providers, collective \nservices, clients\n",
+  "speaker": "SYSTEM",
+  "uuid": "ac5715c1-ec23-4411-a459-4560637f1d0f"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS-Applications-v5-boris.pdf: Página 63\nAttributeMap definition \nBNF\nBNF\n<attributemap-def name=\"http://esperonto/ff#Title\">\nBNF:\nBNF:\nExample:\nExample:\n<aftertransform>\n<operation oper-id=\"constant\">\n<arg-restriction on-param=\"const-val\">\n<has-column>fsb_ajut.titol</has-column>\n</arg-restriction>\n</operation>\n</aftertransform>\n</attributemap-def>\n63\n",
+  "speaker": "SYSTEM",
+  "uuid": "664f2397-dc03-4599-ae2b-db297c883fcf"
+}

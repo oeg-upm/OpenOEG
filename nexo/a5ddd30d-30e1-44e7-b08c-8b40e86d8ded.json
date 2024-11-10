@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: LinkedDataGeneration.pdf: Página 29\n29\n3. Generation of the RDF Data / instances \nNOR2O\n· Classification\nschemes\n· Thesauri\n· Lexicons\n•\nNOR2O is a software library that implements the transformations\nproposed by the Patterns for Re-engineering Non-Ontological\nResources (PR-NOR). Currently we have 16 PR-NORs.\n•\nPR-NORs define a procedure that transforms a Non-Ontological\nResource (NOR) components into ontology elements. \nhttp://ontologydesignpatterns.org/\nNOR2O\nFAO Water classification\n· Classification scheme\n· Path enumeration data model\n· Implemented in a database\nRe-engineering Model for NORs\nPatterns for Re-engineering\nNon-Ontological Resources \n(PR-NOR)\nOntology Forward \nEngineering\nFormalization\nConceptua-\nlization\nSpeci-\nfication\nDesign\nCon-\nceptual\nTransformation\nRequirements\nNOR Reverse \nEngineering\nImplementation\nImplementation\nNon-Ontological Resource\nOntology\nRDF(S)\n",
+  "speaker": "SYSTEM",
+  "uuid": "a5ddd30d-30e1-44e7-b08c-8b40e86d8ded"
+}

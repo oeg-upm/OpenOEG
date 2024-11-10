@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: Authors: Jordi Conesa and Antoni Olivé\nGiven\na base ontology Ob\nset of concepts of direct interest CoI\nG(CoI) as CoI + their generalizations\nthen the prunned ontology Op can be obtained by\nStep 1 (Prune irrelevant concepts & constraints): O1 = Ob - unrelevant concepts & contraints of G(CoI)\nStep 2 (Prune unnecessary parents): O2 = O1 - unnecessary parents\nStep 3 (Prune unnecessary generalization paths): O3 = O2 - unnecessary generalization paths\nStep 4 (Prune orphans individuals): Op = O3 - orphans individuals",
+  "speaker": "SYSTEM",
+  "uuid": "dbf30666-0b37-4300-ac89-0283745b1050"
+}

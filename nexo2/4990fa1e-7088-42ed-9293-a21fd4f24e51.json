@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SPARQL_optimization_slides.pdf: Página 2\nRelated Work: SPARQL Optimization\nComplexity\n Complete complexity analysis\nSPARQL Algebra equivalences\nSet of rewriting rules (6 groups)\nBased on relational (e.g. filter, projection pushing)\nSPARQL specific rules\nSemantic Query Optimization\n Additional rewriting rules\nSee Schmidt et al. (2010)\n",
+  "speaker": "SYSTEM",
+  "uuid": "4990fa1e-7088-42ed-9293-a21fd4f24e51"
+}

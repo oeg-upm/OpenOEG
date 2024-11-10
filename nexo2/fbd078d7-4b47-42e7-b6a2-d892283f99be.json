@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 12\n•12\nURIs (Universal-Uniform Resource Identifer)\n•\nA URI (Unique Resource Identifier) is a Web identifier\n•\ne.g. http://www.oeg-upm.net/ontologies/people#Oscar\n•\nURIs allow identifying\n•\nIndividuals: \nhttp://www.oeg-upm.net/ontologies/people#Oscar\np\ng\np\ng\np\np\n•\nKinds of things: \nhttp://www.ontologies.org/ontologies/people#Person\n•\nProperties of those things:\nhttp://www.ontologies.org/ontologies/people#hasColleague\n•\nTwo types of identifiers\n•\nThing-URIs, Hash URIs or URIRefs (Unique Resource Identifiers\nReferences)\n• A URI and an optional Fragment Identifier separated from the URI by \np\ng\np\ny\nthe hash symbol ‘#’\n• http://www.ontology.org/people#Person\n• people:Person\n•\nSource URIs or Slash URIs can also be used, as in FOAF:\n• http://xmlns.com/foaf/0.1/Person\nCorrespondence between thing-URI and source-URI\nUser Agent\nhttp://www.polleres.net/foaf.rdf#me\nHTTP\nGET\nRDF\nWeb Server\nhttp://www.polleres.net/foaf.rdf \n",
+  "speaker": "SYSTEM",
+  "uuid": "fbd078d7-4b47-42e7-b6a2-d892283f99be"
+}

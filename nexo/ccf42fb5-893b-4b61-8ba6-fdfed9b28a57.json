@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 25\nWeb Ontology Language\nOWL semantics\nClasses can be subclasses of other classes: all the instances \nof the subclass are also instances of the superclass (But no \nthe other way around)\n",
+  "speaker": "SYSTEM",
+  "uuid": "ccf42fb5-893b-4b61-8ba6-fdfed9b28a57"
+}

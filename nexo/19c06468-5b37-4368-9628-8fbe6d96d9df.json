@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: IJMSO_Corcho_OntologyBasedAnnotation.pdf: Página 8\n54 \nO. Corcho \nFigures 7 and 8 show the user interface of the  \nstandalone \napplication. \nUnlike \nother \ntools, \nthe  \nHTML document is not browsed as in common  \nWeb browsers: only its source code can be accessed.  \nThe upper left window of both figures contains the  \nconcept instances. When one of these instances is  \nselected, the upper right and lower windows are  \nupdated with information related to it. The upper  \nright window contains the names of the ontologies  \nthat the instance uses. The lower window contains the \nclaims made by this instance. Two types of claims can be \nmade here: \nFigure 7   Edition of the instance AA7615_Feb08_2002 with SHOE Knowledge Annotator \n \nFigure 8   Edition of the instance TravelPrice and some claims about the instance AA7615_Feb08_2003 with SHOE Knowledge Annotator \n \n \n \n \n \n \n \n \n \n",
+  "speaker": "SYSTEM",
+  "uuid": "19c06468-5b37-4368-9628-8fbe6d96d9df"
+}

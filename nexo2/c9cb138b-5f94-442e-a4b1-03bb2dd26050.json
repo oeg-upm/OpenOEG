@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GeneralOntologies2013.pdf: Página 65\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work \n65 \nTHE INTEREST OF HEURISTIC 14 \nAre Pharmacia Iberia ® headquarters located in \nSpain? \nAre Pharmacia Iberia ® headquarters located in some \npart of Spain? \nThis transformation works because the relation part_of is reflexive. If the data that we are is that PI \nheadquarters are located in Spain, we need the reflexivity \n",
+  "speaker": "SYSTEM",
+  "uuid": "c9cb138b-5f94-442e-a4b1-03bb2dd26050"
+}

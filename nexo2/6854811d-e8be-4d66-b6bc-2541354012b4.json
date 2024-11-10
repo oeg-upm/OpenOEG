@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01.03_NonStandardOWLReasoning_ModularisationAndDebugging.pdf: Página 1\n1 \nSpeaker: Oscar Corcho \nNon-standard DL Reasoning: \nModularisation and \nDebugging \nOscar Corcho (*) \nFacultad de Informática \nUniversidad Politécnica de Madrid \nCampus de Montegancedo sn \n28660 Boadilla del Monte, Madrid \n \n(*) with inputs from: Bijan Parsia, Uli Sattler, Thomas Schneider, Frank \nWolter and Matthew Horridge \nContents \n•  Modularisation \n•  Scenarios for modularisation \n•  Modularisation for import/reuse \n•  Scenario and a working cycle \n•  Properties of the modularisation algorithms \n•  Module coverage \n•  Safety \n•  Modularisation in OWL with Protégé \n•  Debugging \n•  Root and derived unsatisfiable classes \n•  Laconic and precise justifications \n•  Debugging in OWL with Protégé \n2 \n",
+  "speaker": "SYSTEM",
+  "uuid": "6854811d-e8be-4d66-b6bc-2541354012b4"
+}

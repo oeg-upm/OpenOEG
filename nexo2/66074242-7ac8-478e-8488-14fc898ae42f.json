@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 21\n© O. Corcho, R.García-Castro, O. Muñoz-García\n21\nRDF and RDF Schema\nSet up\n•\nRequirements:\n–\nJava JDK 5\n–\nEclipse (optional)\n–\nAnt (optional)\n–\nMaterial at: http://delicias.dia.fi.upm.es/wiki/index.php/Master09-10\n•\nCreate a directory for your project\n•\nCopy Jena libraries:\n–\nUnzip Jena-2.6.2.zip/lib in the project directory\n•\nCopy the ontologies:\n–\nCopy ontologies/rdf in the project directory\n•\nWith Eclipse:\n–\nCreate a new Java project (from existing source)\n–\nAppend the Jena libraries to your classpath if needed (check JDK libs)\n–\nWrite Java code using the Jena API\nhttp://jena.sourceforge.net/javadoc/index.html\n–\nCompile \n–\nRun\n•\nWith Ant:\n–\nWrite Java code using the Jena API\nhttp://jena.sourceforge.net/javadoc/index.html\n–\nRun “ant”\nOr copy the JenaProjectTemplate\ndirectory in your computer\n",
+  "speaker": "SYSTEM",
+  "uuid": "66074242-7ac8-478e-8488-14fc898ae42f"
+}

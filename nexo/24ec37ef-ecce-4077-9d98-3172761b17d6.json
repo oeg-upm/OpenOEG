@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SPARQL_Streams.pdf: Página 6\nSPARQL Optimisation\nComplexity of SPARQL arises from OPTIONAL clause\nPTime or NP-complete without OPTIONAL\nPSpace-complete with OPTIONAL\n37 optimisation rules under set semantics\nNot all carry through to bag semantics of SPARQL\nStill looking into these rules.\nM. Schmidt, M. Meier, and G. Lausen. Foundations of SPARQL query optimization. In \nICDT2010, Lausanne, Switzerland, March 2010.\n",
+  "speaker": "SYSTEM",
+  "uuid": "24ec37ef-ecce-4077-9d98-3172761b17d6"
+}

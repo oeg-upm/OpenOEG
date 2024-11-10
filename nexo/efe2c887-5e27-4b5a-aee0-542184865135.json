@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Chowlk_framework_slides.pdf: Página 41\nChowlk framework© María Poveda Villalón  & Serge Chávez-Feria\nCurrent Limitations\n42\n§ The converter only supports relationships between properties (e.g. \nsubPropertyOf) using the option 2 of the visual notation.\n§ If the model is big or complex, detecting and correcting syntax errors can \nbe tedious.\n§ Comments, descriptions or additional metadata over the ontological\nelements is not supported.\n",
+  "speaker": "SYSTEM",
+  "uuid": "efe2c887-5e27-4b5a-aee0-542184865135"
+}

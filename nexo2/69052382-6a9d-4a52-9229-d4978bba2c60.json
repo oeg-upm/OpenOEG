@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Fpriyatna-oeg-201403.pdf: Página 6\nR2RML-based Query Translation\n6\nSELECT \n…\nFROM …\nJOIN … \nON\nWHERE …\nSELECT ….\nWHERE {  ….\n   OPT {     ….   \n}\n}\n• Query translation approaches applied for the implementation of query \nevaluation over RDB-backed triple stores can be extended to work with \nR2RML mappings\n• R2RML-based query translation can be optimized, while preserving \nsemantics, so that they can be applied in real-world cases\nIntroduction\nQuery Translation\nEvaluation\nConclusion\n",
+  "speaker": "SYSTEM",
+  "uuid": "69052382-6a9d-4a52-9229-d4978bba2c60"
+}

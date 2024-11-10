@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RedesBayesianas_Introducci%C3%B3n.pdf: Página 18\nVariables Discretas y Continuas\nUna variable es discreta si el conjunto de valores posibles\nes ﬁnito (Presencia de una enfermedad, Número de\nasignaturas matriculadas, Sexo, Estudios realizados)\nUna variable es continua si toma valores en un intervalo de\nlos números reales (Altura, Peso, Luminosidad ).\nNosotros vamos a considerar variables discretas\nSi hay continuas las discretizamos dividiéndolas en un\nconjunto ﬁnito de intervalos\nUna Introducción a las Redes Bayesianas– p.16/??\n",
+  "speaker": "SYSTEM",
+  "uuid": "f6c4c087-c90d-44de-8edb-b5a1f61be57a"
+}

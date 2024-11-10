@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Vidal.Sep19.pdf: Página 11\nPage 11\nData Integration Systems\nA data integration system DIS=<O,S,M>:\n•\nO is a set of general concepts in a general schema (virtual)\n•\nS is a set of {S1,..,Sn} of data sources\n•\nM is a set of mappings between sources in S and general \nconcepts in O\ncf. Lenzerini 2002\n",
+  "speaker": "SYSTEM",
+  "uuid": "b0dcddb2-8e1a-4e5e-9f43-2ff5d39f3b1e"
+}

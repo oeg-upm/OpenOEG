@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 14\nArchitecture of the SEALS Platform \nPhysical perspective (I) \nESWC 2011, 29/05/2011 \n14 \nsdasd \nNormalized Message Router \nApache \nCXF SE \nJBI container \nOSGI HTTP \n(JAX-RS) \nOSGI container \nFUSE ESB 4.2.0 – Runtime Evaluation Service - WORKER \nApache \nCXF BC \n",
+  "speaker": "SYSTEM",
+  "uuid": "3694999f-8151-45e7-9bdc-5722acc30902"
+}

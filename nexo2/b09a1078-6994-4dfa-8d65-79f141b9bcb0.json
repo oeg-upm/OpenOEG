@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 30\nSetting up the local infrastructure \nSEALS Repositories (I) \n• Configuration details for the middleware used \nin the examples: \n– Apache Tomcat: \n• Installed in %ENV%\\apache-tomcat-6.0.26 (from now \non, %TOMCAT%) \n• Listening on port 8080 \n– OpenRDF Sesame:  \n• Deployed as openrdf-sesame application \n– OpenRDF Workbench: \n• Deployed as openrdf-workbench application \n \nESWC 2011, 29/05/2011 \n30 \n",
+  "speaker": "SYSTEM",
+  "uuid": "b09a1078-6994-4dfa-8d65-79f141b9bcb0"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: NLP.Dissociating_language_and_thought_in_large_language_models.pdf: Página 20\n3. The success of LLMs in acquiring formal \nlinguistic competence\nLimitaciones de LLMs en aprendizaje y procesamiento de lenguaje \ncomo lo hacen los humanos\n• LLMs se basan demasiado en estadística\n• Aunque está demostrado que no sólo regurgitan, es combinación de co-\nocurrencia y reglas abstractas (aunque no se sabe su ratio y el nuestro).\n• La cantidad de datos de entrenamiento que requieren no es realista.\n• Aunque con menos datos también hay buenos resultados.\n• Se estima que GPT-3 ve 1000x más palabras que un niño de 10 años.\n• También se ha probado a cambiar la función (no next-word) o el tipo de entrada \n(babyBERTa), otra idea sería aplicar arquitecturas “cognitivamente inspiradas”.\n* Tests en inglés/lenguas europeas… generalizable? sesgado?\n",
+  "speaker": "SYSTEM",
+  "uuid": "e606bbef-5f0b-4e2f-8002-d253cbc5ebc7"
+}

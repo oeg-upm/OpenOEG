@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 9\nOntology-based Streaming Data Access\n9\nEnabling  Ontology-based Access to Streaming Data Sources\n• Mappings from relational streams to ontological concepts\n•\nExtend stored data schema mappings\n•\nStudy translation semantics\n• Provide with a stream query language at ontological level\n•\nUse notion of RDF stream\n•\nExtend SPARQL\n•\nWindow operator, window-to-stream operators\n",
+  "speaker": "SYSTEM",
+  "uuid": "a2e2215a-4d3d-4983-a0f0-91ad9d2c8c1d"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: MasterIA_Dic2009.pdf: Página 11\nSemantic Measures\nSymbol\nName\nExample\nRi\nIdentity\n(person, person)\nRH\nHypernymy\n(vehicle, car)\nRh\nHyponymy\n(hospital, building)\nRsyn\nSynonymy\n(doctor, physician)\nRcom\nCompatibility\n(resort, private accommodation)\nRconn\nTaxonomical connection\n(hospital, monastery)\nRdis\nDisjointness\n(liquid, solid)\nRant\nAntonymy\n(hot, cold)\nRhol\nHolonymy\n(keyboard, key)\nRmer\nMeronymy\n(finger, hand)\nRassoc\nPositive association\n(penguin, Antarctica)\n11\nSemantic relationships\nSemantic similarity measure\nSemantic relatedness measure\n",
+  "speaker": "SYSTEM",
+  "uuid": "d3d8af28-1449-498b-a945-df4c936d1ab3"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4._methodologies-Espec-OL.pdf: Página 42\nOntological Engineering \n©Asunción Gómez-Pérez,\nOntology Learning is a knowledge acquisition activity that \nrelies on (semi-) automatic methods to transform unstructured \n(e.g. corpora), semi-structured (e.g. folksonomies, html pages, \netc.) and structured data sources (e.g. data bases) into \nconceptual structures (e.g. T-Box).\nOntology Population is a knowledge acquisition activity \nthat relies on (semi-) automatic methods to transform \nunstructured (e.g. corpora), semi-structured (e.g. folksonomies, \nhtml pages, etc.) and structured data sources (e.g. data bases) \ninto instance data (e.g. A-Box).\nApproaches:\n•\nOntology learning from text\n•\nOntology learning from dictionary\n•\nOntology learning from knowledge bases\n•\nOntology learning from semi-structured schemata\n•\nOntology learning from relational schemata\n",
+  "speaker": "SYSTEM",
+  "uuid": "2552d4b5-69f5-4808-a73f-3cdc3ee3644d"
+}

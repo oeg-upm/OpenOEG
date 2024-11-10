@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 29\nRNNs and the temporal component [8]\nHow to classify what  is word is a \nsound at every point in a speech \nconsidering previous words?\nIt’s unclear how a traditional NNs  \ncould use its reasoning about \nprevious words to inform later ones\nRecurrent neural networks address \nthis issue\ntheir loops allow information to persist\nRNNs are intimately related to \nsequences and lists\n29\n",
+  "speaker": "SYSTEM",
+  "uuid": "61aa77d8-b21b-4232-b784-b97c6fa2cbe6"
+}

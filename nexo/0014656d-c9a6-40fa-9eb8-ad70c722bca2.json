@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4._methodologies-Concpt-REEng.pdf: Página 25\nOntological Engineering \n©Asunción Gómez-Pérez,\nExample of a Logical Pattern: \nN-Ary Relations\nOntology Design Pattern \nFormalization \nGeneral \nClass(Class partial OntologyElement) \nClass(Property partial OntologyElement) \nClass(ObjectProperty partial Property) \nExamples \nClass(BusinessPlan partial restriction(hasBusinessTask \nallValuesFrom(hBT_Relation)) owl:Thing) \nClass(hBT_Relation partial owl:Thing restriction(task_Value \nsomeValuesFrom(BusinessTask)) restriction(hasDuration \nallValuesFrom(Duration))) \nClass(BusinessTask partial owl:Thing) \nClass(Duration partial owl:Thing) \nObjectProperty(task_Value Functional domain(owl:Thing)) \nObjectProperty(hasDuration Functional domain(owl:Thing)) \nRelationships \nRelations to other modelling \ncomponents \nPossible use of this LP in APs and CPs. \n",
+  "speaker": "SYSTEM",
+  "uuid": "0014656d-c9a6-40fa-9eb8-ad70c722bca2"
+}

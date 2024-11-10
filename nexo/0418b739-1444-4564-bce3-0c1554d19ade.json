@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologies-Methodology.pdf: Página 29\n29\nOntology Requirements Specification. Task 5\n Input: the list of CQs\n Objective: obtaining different groups of CQs\n Techniques: Card Sorting, when the grouping is \ndone manually, and Clustering NL sentences or \nInformation Extraction when the grouping is done \nautomatically\n Tools: MindMap\nTools or Cicero Tool (for \ndistributed teams)\n Output: a set of groups including CQs\n Hybrid approach:\n\nThe analysis of the frequency of terms and the \ngrouping of CQs based on those terms that have a \nhigher frequency. \n\nThe use of pre-established categories, such as time \nand date, units of measure, currencies, location, \nlanguages, etc.\n",
+  "speaker": "SYSTEM",
+  "uuid": "0418b739-1444-4564-bce3-0c1554d19ade"
+}

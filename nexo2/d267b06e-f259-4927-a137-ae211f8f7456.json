@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 05.Annotation.pdf: Página 11\n• 11 \nTable of Contents \n1. \nOntology-based Annotation\n \n  \n \n  \n2. \nWeb Resource Annotation\n \n \n \n \n  \n3. \nDatabase Annotation\n \n \n \n \n  \n3.1  Approaches for database annotation \n3.2  R2O and ODEMapster \n3.3   Practical Example: NeOn Toolkit \nOntology-based view over a relational model (I) \nPunto Europeo \nPuntoGPS \nPuntoAsiatico \n= \n \n \n \n \nAeropuertos \nf (Aeropuertos) \nOntología O2 \nModelo Relacional M1 \nPuntoEuropeo \nPuntoEspañol \nEstación \nCentro \nComunicaciones \nAeropuerto \n= \nAeropuerto \n  \nf (Aeropuertos) \nOntología O1 \nRC(O2,M1) \nRC(O1,M1) \n \n",
+  "speaker": "SYSTEM",
+  "uuid": "d267b06e-f259-4927-a137-ae211f8f7456"
+}

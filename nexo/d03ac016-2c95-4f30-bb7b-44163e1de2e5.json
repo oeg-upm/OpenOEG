@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 29\nSetting up the local infrastructure \nPrerequisites \n•\nRequired software : \n–\nJava SE Development Kit 6 update 181 \n–\nSVN client compatible with the SEALS Subversion Server \n–\nMaven 2.2.1 2, configured according  Annex B of D9.3 v1.0-FR \nNOTE: The binaries of the required software should be included in the path environment \nvariable \n•\nRequired middleware: \n–\nFuse ESB 4.2.0-fuse-02-003 \n–\nApache Tomcat 6.0.264  (or higher) \n•\nOpenRDF Sesame 2.2.4 \n•\nOpenRDF Workbench 2.2.4 \n•\nThe middleware will be deployed in D:\\SEALS\\environment (from now on \n%ENV%) \n1 http://www.oracle.com/technetwork/java/archive-139210.html \n2 http://maven.apache.org/download.html \n3 http://fusesource.com/downloads/ \n4  http://archive.apache.org/dist/tomcat/tomcat-6/v6.0.26/bin/ \nESWC 2011, 29/05/2011 \n29 \n",
+  "speaker": "SYSTEM",
+  "uuid": "d03ac016-2c95-4f30-bb7b-44163e1de2e5"
+}

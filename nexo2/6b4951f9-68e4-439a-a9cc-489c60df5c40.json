@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2023.10.Hallucinations.pdf: Página 9\nInfo available\n• a task (`task`), indicating what objective the model was optimized for;\n• a source (`src`), the input passed to the models for generation;\n• a target (`tgt`), the intended reference \"gold\" text that the model ought to \ngenerate;\n• a hypothesis (`hyp`), the actual model production;\n• a set of per annotator labels (`labels`), indicating whether each individual \nannotator thought this datapoint constituted a hallucination or not;\n• a majority-based gold-label (`label`), based on the previous per-annotator \nlabels;\n• a probability assigned to this datapoint being a hallucination \n(`p(Hallucination)`), corresponding to the proportion of annotators who \nconsidered this specific datapoint to be a hallucination.\nREADME TRIAL\n",
+  "speaker": "SYSTEM",
+  "uuid": "6b4951f9-68e4-439a-a9cc-489c60df5c40"
+}

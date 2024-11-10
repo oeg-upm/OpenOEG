@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 50\n© O. Corcho, R.García-Castro, O. Muñoz-García\n53\nRDF and RDF Schema\n@prefix  foaf:  <http://xmlns.com/foaf/0.1/> .\n_:a    foaf:name   \"Alice\" .\n_:a    foaf:mbox   <mailto:alice@example.org> .\nPREFIX foaf:    <http://xmlns.com/foaf/0.1/>\nPREFIX vcard:   <http://www.w3.org/2001/vcard-rdf/3.0#>\nCONSTRUCT\n{ <http://example.org/person#Alice> vcard:FN ?name }\nWHERE       { ?x foaf:name ?name }\n@prefix vcard: <http://www.w3.org/2001/vcard-rdf/3.0#> .\n<http://example.org/person#Alice> vcard:FN \"Alice\" .\nQuery result:\nSPARQL query forms: CONSTRUCT\n",
+  "speaker": "SYSTEM",
+  "uuid": "1d87acea-d28c-4d55-8ab4-4419d0c2d088"
+}

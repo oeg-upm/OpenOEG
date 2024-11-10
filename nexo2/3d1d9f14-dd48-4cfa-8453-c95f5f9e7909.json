@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GeneralOntologies.pdf: Página 81\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work \n81 \nSTUDY CASE \nCQ identifier \nApplication of heuristics \nType of general \nontology for reuse \nCQ1 \n(Which \ndrugs \ncontain \nparacetamol?) and CQ2 (Which \ndrugs contain paracetamol?)  \nHeuristic 1. This competency question is \nasking for structural parts. \nMereology \nCQ3 (What is the main active \ningredient of Frenadol®?) \nHeuristic 2. Every active ingredient of a drug is \na structural part of the drug. Therefore, \nmain_active_ingredient_of is a sub-relation of \npart_of. \nMereology \nCQ4 (With which substances does \nFrenadol® interact?) \n \nHeuristic 1. To find out whether a drug \ninteracts with other substances, it is necessary \nto know the interaction of each of its structural \nparts with other substances. \nMereology \nCQ5, CQ6, CQ7 and CQ8 \n \nHeuristic \n3.There \nare \nspecialized \ntime \npatterns: 11 May 2012, 30 April 2010 \n \nThere is a preposition of time: before. \nTime modelling \n",
+  "speaker": "SYSTEM",
+  "uuid": "3d1d9f14-dd48-4cfa-8453-c95f5f9e7909"
+}

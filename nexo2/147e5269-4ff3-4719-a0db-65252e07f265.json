@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Hiroaki_Yamada_talk_Jan19.pdf: Página 37\nOverlap threshold 80 % or 60 %\n• Issue Topic Identification (60%, character)\n• We initially set the threshold to 80%:\n• Many non-matching spans despite the fact that they \nrepresented the same Issue Topic.\n• We confirmed that the 60% threshold identifies spans \nrepresenting the same Issue Topic as agreed without \nincurring any false positives.\n• FRAMING Linking (80%, character offset)\n• We wanted to allow only short and relatively \nmeaningless adverbial modification.\n• As the location has to be identical, we do not have to \nworry about paraphrases.\n38\n",
+  "speaker": "SYSTEM",
+  "uuid": "147e5269-4ff3-4719-a0db-65252e07f265"
+}

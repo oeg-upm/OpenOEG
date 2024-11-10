@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 06b_DebuggingExperiment.pdf: Página 3\nMotivation\n• Current ontology debugging tools are still hard to use \nfor DL newbies\n• Explanations are hard to understand\n• Debugging takes too much time in large ontologies (hours in \nsome cases)\n• Lots of dependencies between errors that are not clearly\nseen.\n• We have proposed\n• A set of guidelines to help users in the ontology debugging\n(hence in the ontology development) process\n• Focused on common anti-patterns from a set of ontologies\ncreated by domain experts.\n• With a proposed workflow of debugging activities to improve\nthe debugging process\n3\n",
+  "speaker": "SYSTEM",
+  "uuid": "95ea1ec3-9f44-4d0b-84dc-2e833b5f90bc"
+}

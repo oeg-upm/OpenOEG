@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2._Ontologias-en.pdf: Página 30\n©Asunción Gómez-Pérez\n21/11/2007 14:39 - 30\nModelización y consulta con Ontologías (mismo problema)\nOntología:\nSolución usando consulta SPARQL:\nresultado = SPARQL.execute(“\nBASE http://delicias.dia.fi.upm.es/\nSELECT $articulo\nWHERE {$articulo a <Hardware>.}“)\nVentajas con respecto a la aproximación con bases de datos:\n1. + declarativo, - procedimental.\n2.Los algoritmos de inferencia los implementa el razonador. El programador no se debe ocupar de ellos.\n3.Al no tener que implementar el algoritmo se disminuye el riesgo de errores de programación.\n4.La ontología se puede cambiar (p.e. ampliar) con mayor facilidad que el esquema de la base de datos. \n5.Este ejemplo muestra únicamente la capacidad de inferencia con las taxonomías de clases. Existen otros \ntipos de inferencia dependiendo del formalismo elegido:\n•\nInferencia con taxonomías de propiedades.\n•\nClasificación automática.\n•\nEquiparación.\n•\n…\n¡¡¡Y solo con \neste código !!!\nProgramador\nsorprendido\n",
+  "speaker": "SYSTEM",
+  "uuid": "90b00aee-e21f-4fbf-bc68-60b6ebcc10f5"
+}

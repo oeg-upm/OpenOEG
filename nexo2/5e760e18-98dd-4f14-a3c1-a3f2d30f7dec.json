@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS-Applications-v5-boris.pdf: Página 64\nRelationMap definition\nBNF:\nBNF:\n<relationmap-def name=\"http://esperonto/ff#isCandidateFor\">\n<to-concept name=\"http://esperonto/ff#FundOpp\">\nBNF:\nBNF:\nExample:\nExample:\n<to concept name= http://esperonto/ff#FundOpp >\n<joins-via>\n<operation oper-id=“equals\">\n<arg-restriction on-param=\"value1\">\n<has-column>fsb_ajut.id</has-column>\n</arg-restriction>\ng\n<arg-restriction on-param=\"value2\">\n<has-column>fsb_candidate.forFund</has-column>\n</arg-restriction>\n</operation>\n</joins-via>\n64\n/att\nbute ap de\n</attributemap-def>\n",
+  "speaker": "SYSTEM",
+  "uuid": "5e760e18-98dd-4f14-a3c1-a3f2d30f7dec"
+}

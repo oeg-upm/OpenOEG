@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 90\n© O. Corcho\n66\nOntological Engineering\nInteresting results (I). Automatic classification\nAnd old lady is a person who is elderly and female. \nOld ladies must have some animal as pets and all their pets are cats.  \ncat\nhasPet\nanimal\nhasPet\noldLady\nelderly\nfemale\nperson\noldLady\ncat\nhasPet\nperson\ncatOwner\nadult\nfemale\nperson\nwoman\nadult\nperson\nelderly\n.\n.\n.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWe obtain: \nOld ladies must be women.\nEvery old lady must have a pet cat\nHence, every old lady must be a cat owner\ncatOwner\nelderly\nwoman\noldLady\n\n\n\n",
+  "speaker": "SYSTEM",
+  "uuid": "3ecfbbad-88e8-4456-a51c-3453bc323bb3"
+}

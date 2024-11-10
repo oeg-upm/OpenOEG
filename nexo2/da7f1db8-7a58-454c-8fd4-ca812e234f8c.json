@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 13_LDGeneration.pdf: Página 4\n18/12/12 \n4 \nCommon OLAP Operations \n• \nSlice is the act of picking a rectangular subset of a cube by \nchoosing a single value for one of its dimensions, creating a \nnew cube with one fewer dimension \n7 \nhttp://en.wikipedia.org/wiki/OLAP_cube \nCommon OLAP Operations \n• \nDice  produces a subcube by allowing the analyst to pick \nspecific values of multiple dimensions \n8 \nhttp://en.wikipedia.org/wiki/OLAP_cube \n",
+  "speaker": "SYSTEM",
+  "uuid": "da7f1db8-7a58-454c-8fd4-ca812e234f8c"
+}

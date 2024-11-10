@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 41\nWeb Ontology Language\nOWL semantics\nIn a class hierarchy, the subclass “inherits” the conditions of the superclass: \nit can have further conditions but not a condition that conflicts with the \nconditions of the superclass\n",
+  "speaker": "SYSTEM",
+  "uuid": "4545ff00-9c2e-46ad-81c2-38560d40419b"
+}

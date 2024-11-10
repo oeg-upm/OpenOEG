@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ReReNORAthens.v1-boris.pdf: Página 25\nPatterns for Re-engineering Non-Ontological Resources (PR-NORs)\nRe-engineering NORs\n•\nPR-NORs define a procedure that transforms the NOR components into \nontology representational primitives.\n•\nAccording to our NOR categorization the data model can be different even for the same\nPR-NOR\nAccording to our NOR categorization, the data model can be different even for the same \ntype of NOR. For every data model we can define a process with a well-defined sequence of \nactivities to extract the NORs components and then to map these components to a \nconceptual model of an ontology.\n25\n•\nEach of these processes can be expressed as a pattern for re-engineering NORs.\n",
+  "speaker": "SYSTEM",
+  "uuid": "8b0bceea-20ee-427f-b244-9a091537481a"
+}

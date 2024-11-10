@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 48\n© O. Corcho\n48\nOntological Engineering\nOWL Example\nDevelop a sample ontology in the domain of people, pets, vehicles, and newspapers\n- Practice with DL syntax, OWL abstract syntax and OWL RDF/XML syntax\n- Understand the basic primitives of OWL Lite and OWL DL\n- Understand the basic reasoning mechanisms of OWL DL (tomorrow)\nSubsumption\nAutomatic classification: an ontology built collaboratively\nInstance classification\nDetecting redundancy\nConsistency checking: unsatisfiable restrictions in a Tbox (are the classes coherent?)\n",
+  "speaker": "SYSTEM",
+  "uuid": "baf90544-c9c5-4d2d-85fc-fe7cdf084ccc"
+}

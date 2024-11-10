@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: IntegratorDesignDocument.pdf: Página 1\nIntegrator Design Document\n \nIntegrator Design Document\nMotivation\nSemSorGrid4Env flood use case\nUse case features\nSPARQLStream Language\nLanguage requirements\nLanguage definitions\nTypes\nDefinitions\nDefinition of RDF Stream\nDefinition of Time-based Windows\nWindow-to-Stream Operators\nNote about Time\nSyntax\nStreams\nWindows\nStored Data Scans\nExample Queries\nSimple Query\nComplex Example\nRelationship with C-SPARQL\nRDF Stream\nWindows\nStored Data\nAggregates\nQuery Optimization\nQuery Compiler\nParsing\nLogical Rewriting\nPhysical Optimization\nStatistics\nCapturing the metadata\nCost model\nDistributed Processing\nQuery Evaluation\nComparison to DARQ\nComparing to C-SPARQL\nSemantic Integrator\nSome discussion about mappings\nO-O mappings\nReferences\n",
+  "speaker": "SYSTEM",
+  "uuid": "25ce3bf3-6eff-499e-a55d-4d09308b534a"
+}

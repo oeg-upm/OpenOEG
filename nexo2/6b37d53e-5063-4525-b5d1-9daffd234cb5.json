@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 62\nATHENS 2010 \n© Raúl García Castro et al. \nOWL Classifier limitations \n•  Numbers and strings \n-  Simple concrete data types in spec \n-  User defined XML data types enmeshed in standards \ndisputes \n-  No standard classifier deals with numeric ranges \n•  Although several experimental ones do \n•  is-part-of and has-part \n-  Totally doubly-linked structures scale horridly \n•  Handling of individuals \n-  Variable with different classifiers \n-  oneOf works badly with all classifiers at the moment \n62 \n",
+  "speaker": "SYSTEM",
+  "uuid": "6b37d53e-5063-4525-b5d1-9daffd234cb5"
+}

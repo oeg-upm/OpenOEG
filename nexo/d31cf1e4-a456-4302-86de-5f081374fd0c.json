@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PURE.pdf: Página 24\nConclusions and Lessons Learned\nData privacy policies can be described \nin terms of LAV rules\nPURE is a privacy-aware rule-based \nfederated query engine \nEnforcing data privacy and access \ncontrol is costly\nExecution time grows exponentially \nas the number of rules increases\nRewriting time is approximately 50% \nof average total execution time\nAccess Policy \nEngine\nQuery Rewriter\nSet of Secure \nRewritings \nRewritten secure \nquery\nPURE\nSPARQL\nQuery\nQuery\nAnswers\nFederated Query Engine\nQuery \nDecomposer\nQuery \nPlanner\nQuery \nExecution\n24\n",
+  "speaker": "SYSTEM",
+  "uuid": "d31cf1e4-a456-4302-86de-5f081374fd0c"
+}

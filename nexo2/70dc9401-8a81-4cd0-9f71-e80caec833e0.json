@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 1._Intro-Sweb.pdf: Página 8\n©Asunción Gómez-Pérez\n- 8\nXML allows the creation of metada with \n“meaning”\n¿What do the tags mean for the machine?\n<Title>Ontological Engineering</Title>\n<Author>Asunción Gómez-Pérez...</Author>\n<Price>$74.95</Price>\n<Product>Book</Product>\nTitle: Ontological Engineering\nAuthors: Asunción Gómez-Pérez...\nPrice: $74.95\nProduct: Book\nInglés\n<االسم> الهندسة فىعلم التطو ر</االسم>\n<المؤلّفون> آسنسيون غومزـبرز</المؤلّفون>\n<السّعر>$74.95</السّعر>\n<الكتاب> المنتج</الكتاب>\nالهندسة فىعلم التطو ر :االسم \nآسنسيون غومزـبرز :المؤلّفون\n$74.95 :السّعر\nالكتاب :المنتج\nÁrabe\n",
+  "speaker": "SYSTEM",
+  "uuid": "70dc9401-8a81-4cd0-9f71-e80caec833e0"
+}

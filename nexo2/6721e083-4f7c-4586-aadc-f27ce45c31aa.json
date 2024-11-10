@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01.03_NonStandardOWLReasoning_ModularisationAndDebugging.pdf: Página 10\n10 \nCoverage. Formal definition and algorithm \n•  The module Ɛ’ covers the knowledge base Ɛ for the \nspecified topic if for all classes A, B built from the \nspecified terms: \nif   \n O U Ɛ ╞ A ⊆ B, \nthen  \n O U Ɛ’╞ A ⊆ B.  \n•  Coverage = preserving entailments (that is, no \ndifference between using Ɛ or Ɛ’) \n•  In general, undecidable \n•  Use a syntactic approximation \n•  Fast! \n•  Modules are not minimal in size, but guarantee coverage \n19 \nSafety \n•  Goal: Don’t change the meaning of imported terms. \n•  That is, don’t add new knowledge about the imported topic. \n•  e.g., because you are not an expert in this topic \n•  Question: Which axioms are we allowed to write? \n20 \n",
+  "speaker": "SYSTEM",
+  "uuid": "6721e083-4f7c-4586-aadc-f27ce45c31aa"
+}

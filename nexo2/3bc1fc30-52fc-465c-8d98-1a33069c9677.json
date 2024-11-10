@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 53\nRunning the evaluation scenario \nAnalyzing the execution response (II) \n• Payload: \nESWC 2011, 29/05/2011 \n53 \n<completed xmlns=\"http://www.seals-\nproject.eu/resources/res/engine/evaluation/wsdl/v2\"> \n  <tns:result xmlns:tns=\"http://www.seals-\nproject.eu/resources/res/engine/evaluation/wsdl/v2\"> \n    <commons:name xmlns:commons=\"http://www.seals-\nproject.eu/resources/res/common/types/xsd/v1\">rawResult</commons:name> \n    <commons:value xmlns:commons=\"http://www.seals-\nproject.eu/resources/res/common/types/xsd/v1\"> \nintegration-testing-evaluation1</commons:value> \n  </tns:result> \n  <tns:output xmlns:tns=\"http://www.seals-\nproject.eu/resources/res/engine/evaluation/wsdl/v2\"> \n    <tns:numberToolBridgeFaults>3</tns:numberToolBridgeFaults> \n    <tns:numberToolFaults>2</tns:numberToolFaults> \n  </tns:output> \n</completed> \n",
+  "speaker": "SYSTEM",
+  "uuid": "3bc1fc30-52fc-465c-8d98-1a33069c9677"
+}

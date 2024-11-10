@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 3.TI-Redes_Sem%C3%A1nticas-v3%28asun%29.pdf: Página 12\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nRedes Semánticas\nHerencia de Propiedades\nDefinición\nNodos acceden a las propiedades definidas en otros nodos utilizando los arcos\nInstancia y Subclase-de\nVentajas\n• Evita repetir propiedades\n• Compartir conocimientos entre diferentes conceptos de la red\nTratamiento de excepciones:\nSe hereda el valor de la propiedad del nodo más cercano al nodo que sirvió como \npunto de partida en la inferencia\nBrutus\ngorila\nCopito de Nieve\nNegro\nBlanco\nInstancia\nInstancia\nColor\nColor\n¿De qué color es Brutus?\n¿De qué color es Copito de Nieve?\n",
+  "speaker": "SYSTEM",
+  "uuid": "89218b09-220f-4a3c-b0b5-0ddcf06046b9"
+}

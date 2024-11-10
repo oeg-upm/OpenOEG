@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Protege-Pizzas-v5.pdf: Página 38\n© O. Corcho, MC Suárez de Figueroa Baonza\n38\nOWL and SWRL\nAutomatic Classification and Open World \nAssumption (III)\nTo specify explicitly that a MargheritaPizza has toppings that are\nkinds of MozzarellaTopping or kinds of MargheritaTopping and\nonly kinds of MozzarellaTopping or MargheritaTopping, we must\nadd what is known as a closure axiom or restriction on the\nhasTopping property.\nProtege 3.4\n",
+  "speaker": "SYSTEM",
+  "uuid": "59786c78-c5ff-4d24-9c1b-739ce0ba60a2"
+}

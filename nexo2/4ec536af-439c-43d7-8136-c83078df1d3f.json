@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 3._Metodolog%C3%ADa-1-scenarios%2Bspec-v1%28asun%29.pdf: Página 59\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n64\nOntological Engineering\nSlide 64\nOntology Requirements Specification. \nTask 7\n❑ Input: the groups of CQs written in natural \nlanguage (obtained in task 5)\n❑ Objective: to give different levels of priority \nto the different groups of CQs, and within each \ngroup to the identified requirements (in the form \nof CQs) \n❑ Output: a set of priorities attached to each \ngroup of CQs and to each CQ in a group\nWithin the SEEMP Reference Ontology specification we \ndid not carry out this step. This means the first version \nof the ontology must be able to represent the \nknowledge contained in all the competency questions.\n",
+  "speaker": "SYSTEM",
+  "uuid": "4ec536af-439c-43d7-8136-c83078df1d3f"
+}

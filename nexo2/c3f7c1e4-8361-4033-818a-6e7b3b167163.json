@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_09_-_OntologiesDatabases.pdf: Página 29\nConclusions\n• Mappings Onto-BD\n– Estudio y caracterización de las diferentes situaciones en el \nestablecimiento de correspondencias entre ontologías y BD\n– Propuesta de un modelo para la definición declarativa de \ndichas correspondencias\n– Implementación de dicho modelo en un lenguaje formal, \ndeclarativo y suficientemente expresivo para describir \nsituaciones complejas : R2O\n– Definición de un procesador capaz de llevar a cabo la \ntraducción de consultas entre modelos: Procesador \nODEMapster & Lenguaje ODEMQL\n– Modos de ejecución: Dirigido por las consultas y migración \nmasiva\n",
+  "speaker": "SYSTEM",
+  "uuid": "c3f7c1e4-8361-4033-818a-6e7b3b167163"
+}

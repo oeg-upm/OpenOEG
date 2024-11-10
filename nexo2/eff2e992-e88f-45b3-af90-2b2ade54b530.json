@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_SPARQL.pdf: Página 5\nPREFIX foaf: <http://xmlns.com/foaf/0.1/>  \nSELECT ?N  \nWHERE { ?D foaf:maker <http://dblp.l3s.de/…/authors/Tim_Berners-Lee>. \n        ?D foaf:maker ?CoAuth .  \n        ?CoAuth foaf:name ?N  }  \nBasic graph pattern matching   ~    Conjunctive queries \n \nExample:  \n“Give me all names of co-authors of Tim Berners-Lee” \n \nHow can I query that data? SPARQL \nLink \nPREFIX foaf: <http://xmlns.com/foaf/0.1/>  \nSELECT ?N  \nWHERE { _:D foaf:maker <http://dblp.l3s.de/…/authors/Tim_Berners-Lee>. \n        _:D foaf:maker _:C .  \n        _:C foaf:name ?N } \n \n \n•   Blank nodes in Queries play a similar role as (non-distinguished) variables. \n \nPREFIX foaf: <http://xmlns.com/foaf/0.1/>  \nSELECT ?N  \nWHERE { [ foaf:maker <http://dblp.l3s.de/…/authors/Tim_Berners-Lee>,  \n                     [ foaf:name ?N ] ] . } \n \n \n \n•   Blank nodes in Queries play a similar role as (non-distinguished) variables. \n•   Turtle style shortcuts are allowed (a bit extreme here, admittedly) \n6  \n",
+  "speaker": "SYSTEM",
+  "uuid": "eff2e992-e88f-45b3-af90-2b2ade54b530"
+}

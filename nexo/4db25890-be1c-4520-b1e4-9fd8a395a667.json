@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Muppets_2-_Language_Models.pptx: Diapositiva {13}\nWhat is Language Model?\n\nA language model is basically a probability distribution over words or word sequences.\nA language model gives the probability of a certain word sequence being “valid”. \nValidity in this context does not refer to grammatical validity at all. \nIt means that it shows similar to the data used to train - which is what the language model learns.",
+  "speaker": "SYSTEM",
+  "uuid": "4db25890-be1c-4520-b1e4-9fd8a395a667"
+}

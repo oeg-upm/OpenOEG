@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 05_OWL.pdf: Página 69\n© O. Corcho, MC Suárez de Figueroa Baonza\n49\nOWL 2\nDisjoint Classes (I)\n•\nOWL Classes are assumed to ‘overlap’. We therefore cannot assume\nthat an individual is not a member of a particular class simply because\nit has not been asserted to be a member of that class.\n•\nIn order to ‘separate’ a group of classes we must make them disjoint\nfrom one another. This ensures that an individual which has been\nasserted to be a member of one of the classes in the group cannot be a\nmember of any other classes in that group.\n",
+  "speaker": "SYSTEM",
+  "uuid": "76323f47-590c-4b9e-a68b-92f9da654f06"
+}

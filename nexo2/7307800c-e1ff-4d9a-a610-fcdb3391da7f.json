@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 41\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nSemantics. Class constructors\n•\nXML Schema datatypes are treated as classes\n–\nhasAge.nonNegativeInteger\n•\nNesting of constructors can be arbitrarily complex\n–\nPerson hasChild.(Doctor hasChild.Doctor)\n•\nLots of redundancy, e.g., use negations to transform and to or and exists to forall\n",
+  "speaker": "SYSTEM",
+  "uuid": "7307800c-e1ff-4d9a-a610-fcdb3391da7f"
+}

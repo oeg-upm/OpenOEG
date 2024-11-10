@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA.pdf: Página 61\n61\nPROPIEDADES DE A*\nA) COMPLETUD. Un algoritmo es completo si termina con una\nsolución si ésta existe\nB) ADMISIBILIDAD. Un algoritmo es admisible si asegura encontrar\nuna solución óptima, si esta existe. A* es admisible\nC) EFICIENCIA. Un algoritmo A1 es más eficiente que otro A2 si A1\nestá más informado que A2, así cada nodo desarrollado por A1\ntambién es desarrollado por A2. A2 desarrolla, al menos tantos nodos\ncomo A1\nD) OPTIMIDAD. Un procedimiento es óptimo, dentro de un conjunto\nde procedimientos, si es más eficiente que todos los elementos de\ndicho conjunto\n",
+  "speaker": "SYSTEM",
+  "uuid": "2f007a4c-790f-4e80-9735-c7d9d228b0d4"
+}

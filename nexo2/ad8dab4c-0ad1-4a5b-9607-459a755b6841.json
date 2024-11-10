@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AnaIglesiasMolina-MBC_TFM.pdf: Página 12\nUPM / Japan collaboration\nIntroduction\n12\nOntology-based data access technology applied to Bio2RDF\n§\nChange the methodology to access the data in Bio2RDF from \nRDF materialisation to virtualisation with OBDA. To achieve that:\n1. Create the mappings for the datasets of Bio2RDF\n2. Develop a methodology with the minimum interaction from the user \nthat deals with the heterogeneity of the data\n3. Overcome the problems the actual methodology of Bio2RDF \npresents\nObjectives\n",
+  "speaker": "SYSTEM",
+  "uuid": "ad8dab4c-0ad1-4a5b-9607-459a755b6841"
+}

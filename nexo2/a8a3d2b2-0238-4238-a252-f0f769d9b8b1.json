@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Vidal.Sep19.pdf: Página 50\nPage 50\nHybrid Query Processing\nPREFIX iasis:<http://iasis/vocab/>\nSELECT ?id \n WHERE {\n ?bm  a  iasis:LungCancerBiomarker .\n  ?bm iasis:associated ?obs . \n  ?id iasis:associated ?bm .\n    ?bm iasis:stage ?stage\n}\nCrowd\nPREFIX iasis:<http://iasis/vocab/>\nSELECT ?limit \n WHERE {\n?bm iasis:limit ?limit .\n  ?bm iasis:stage ?stage\n  ?id iasis:associated ?bm .\nPREFIX iasis:<http://iasis/vocab/>\nSELECT ?id  ?stage ?limit \n WHERE {\n  ?bm  a  iasis:LungCancerBiomarker .\n  ?bm iasis:associated ?obs .\n  ?bm iasis:limit ?limit .\n  ?bm iasis:stage ?stage\n  ?id iasis:associated ?bm .\n   }\nLung Cancer Biomarkers?\n",
+  "speaker": "SYSTEM",
+  "uuid": "a8a3d2b2-0238-4238-a252-f0f769d9b8b1"
+}

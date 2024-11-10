@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4._methodologies-Concpt-REEng.pdf: Página 20\nOntological Engineering \n©Asunción Gómez-Pérez,\nLogical Patterns. Definition\n• Elements of the OWL module from the NeOn \nmetamodel or compositions of those elements.\n• Content-independent \n– Expressed with only a logical vocabulary (OWL \nnamespace)\n• Solve logical modelling problems\n• Affect only a specific and delimited part of the \nontology\n• Examples:\n– Primitive and defined class, subClassOf relation, n-ary \nrelation, etc.\n",
+  "speaker": "SYSTEM",
+  "uuid": "f7f325f0-44f2-4ad4-95bb-2ea8bbd4bb36"
+}

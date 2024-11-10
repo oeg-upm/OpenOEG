@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01.Introduction.pdf: Página 28\n©Asunción Gómez-Pérez \n- 28 \n<rdf:Description rdf:about='Asunción Gómez-Pérez'>  \n<rdf:type rdf:resource=‘Full Prof'/>  \n<NS0:Full_Name>A. GomezPerez</NS0:Full_Name> \n<NS0:Belongs_To>UPM</NS0: Belongs_To >  \n<NS0:e-mail>asun@fi.upm.es</NS0:e-mail>  \nPerson \nOrganization \nHas_contact_Person \nBelongs_To \nFull Prof. \nPartner \nSubclass of \nURL \nWeb Page \n \n \nxmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'  \nxmlns:NS0='http://www.esperonto.net/semanticportal/RDFS/Person_Ontology#' \nxmlns:NS1='http://www.esperonto.net/semanticportal/RDFS/Organization_Ontology#'  \n<rdf:Description rdf:about='UPM'>  \n<rdf:type rdf:resource='Partner'/>  \n<NS1:Acronym>UPM</NS1:Acronym> \n<NS1:Has_Contact_Person>Asunción Gómez-Pérez \n             </NS1:Has_Contact_Person >  \nInstance of \nInstance of \nSubclass of \nAnnotation \n(RDF) \nhttp://www.esperonto.net \nhttp://www.esperonto.net \nOntologies and Metadata \nOntologies \n",
+  "speaker": "SYSTEM",
+  "uuid": "a7ab3eea-b2c9-4be3-a106-09ed297149c4"
+}

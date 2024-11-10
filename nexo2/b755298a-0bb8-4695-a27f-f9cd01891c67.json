@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 11\n•11\nIndex\n• An introduction to knowledge representation\nformalisms\n• Resource Description Framework (RDF)\n• RDF primitives\n• Reasoning with RDF\n• RDF Schema\n• RDF Schema primitives\n• Reasoning with RDFS\n• RDF(S) Management APIs\n( )\ng\n21\nRDF: Resource Description Framework\n•\nW3C recommendation\n•\nRDF is a basic KR language, based on semantic networks\n•\nUseful to represent metadata and describe any type of information in a \nmachine- accessible way (aka data model)\nR\nd\nib d i\nt\nf\nti\n•\nResources are described in terms of properties \nand property values using RDF statements.\n•\nStatements are represented as triples, \nconsisting of a subject, predicate and \nobject. [S, P, O]\n“Oscar Corcho García”\nhasName\nResource\nSubject\nObject\nproperty\nStatement\nOscar\nAsun\nhasColleague\nRaúl\nhttp://www.fi.upm.es/\nhasColleague\nhasHomePage\n",
+  "speaker": "SYSTEM",
+  "uuid": "b755298a-0bb8-4695-a27f-f9cd01891c67"
+}

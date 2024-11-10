@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 50\nTranslation from PROLEG to PROLOG(ASP)\nTheorem 1 Let P be a PROLEG program and tre(P) be a PRO-\nLOG program obtained by the above translation. Then, there is\nan extension of P, M if and only if there is an answer set M of\ntre(P).\n50\n",
+  "speaker": "SYSTEM",
+  "uuid": "d8a60bd7-708f-4bb5-9ab6-0aa9c9be46d6"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 00_IntroductionSemanticWeb.pdf: Página 11\n© O. Corcho, A. Gómez-Pérez\n11\nA 10-minute Introduction to Ontologies and the Semantic Web\nNeed to Add “Semantics”\n•\nExternal agreement on meaning of annotations\n– E.g., Dublin Core for annotation of library/bibliographic information\n• Agree on the meaning of a set of annotation tags\n– Problems with this approach\n• Inflexible\n• Limited number of things can be expressed\n•\nUse Ontologies to specify meaning of annotations\n– Ontologies provide a vocabulary of terms\n– New terms can be formed by combining existing ones\n• “Conceptual Lego”\n– Meaning (semantics) of such terms is formally specified\n– Can also specify relationships between terms in multiple ontologies\n",
+  "speaker": "SYSTEM",
+  "uuid": "c7691fd8-70ba-4eee-92ce-d6fa91b0fd27"
+}

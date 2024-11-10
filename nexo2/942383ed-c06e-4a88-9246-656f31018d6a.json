@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 05_OWL.pdf: Página 67\n© O. Corcho, MC Suárez de Figueroa Baonza\n47\nOWL 2\nNamed Classes (I)\nAn ontology contains classes – indeed, the main building blocks of an\nOWL ontology are classes.\nAn empty ontology contains one class called Thing.\nOWL classes are interpreted as sets of individuals or sets of objects.\nThe class Thing is the class that represents the set containing all\nindividuals.\nBecause of this all classes are subclasses of Thing.\n",
+  "speaker": "SYSTEM",
+  "uuid": "942383ed-c06e-4a88-9246-656f31018d6a"
+}

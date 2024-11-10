@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Protege-Pizzas-v5.pdf: Página 44\n© O. Corcho, MC Suárez de Figueroa Baonza\n44\nOWL and SWRL\nExercise\nCreate a Meaty Pizza.\nCreate a Vegeterian Pizza, which have no meat and no fish toppings.\nCreate a Real Italian Pizza, which only have bases that are ThinandCrispy.\nCreate a subclass of Named Pizza with a topping of Mozzarela.\n",
+  "speaker": "SYSTEM",
+  "uuid": "cea94a37-1f40-48fd-bebe-8c6ec7afa521"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas.pdf: Página 15\n15\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nEquiparación de variables (II)\nUna variable que aparece dos o más veces en una regla \ndebe equipararse en todas las ocurrencias con el mismo valor.\nR1: (animal $x) Λ (piel pelo $x) →(especie mamífero $x)\nMT: (animal Tucky)\n(Piel Pelo Dolly)\n(Piel Pelo Tucky)\n(animal Dolly)\n(animal Dumbo)\nEq1: $x = Tuky :  (animal Tuky)  (Piel Pelo Tuky)\nEq2: $x = Dolly : (animal Dolly) (Piel Pelo Dolly)\nEq3: $x = Dumbo: no se equipara por no tener (Piel Pelo Dumbo) en MT\nConjunto Conflicto ={R1 (Animal Tucky) R1 (Animal Dolly)}\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nEquiparación de variables (III)\nEq1: \n$x :C\n$y : C\nSe pueden equiparar variables distintas con el mismo valor\nR1: Si  (A   $x)  (B $y) Entonces\nMT:    (A C)    (B   C) (M V)\nConjunto Conflicto ={R1 ((A C) (B  C)) }\n",
+  "speaker": "SYSTEM",
+  "uuid": "e7574060-725b-400b-81aa-68a165abedd4"
+}

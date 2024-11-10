@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Hypernym-3.pdf: Página 10\nHypernym Detection\nCountries such as Spain, France and Germany are … \nMatches with Pattern\n(NP_\\w+ (, )?such as (NP_\\w+ ? (, )?(and |or )?)+)\nCountry\nSpain\nFrance\nGermany\nHypernym\nHyponyms\n",
+  "speaker": "SYSTEM",
+  "uuid": "185cd881-edb3-4c7a-8c47-53805f69924d"
+}

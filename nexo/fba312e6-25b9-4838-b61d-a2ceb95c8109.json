@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: LPS_BIGGER-09.03.2017.pdf: Página 18\nIdeas\nConfussion matrix proposal\n18\nclasificado\ncomo…\nes\nrealmente….\nAMOR\nmisma\npolaridad\ndistinta\npolaridad\nAMOR\n1\n0.5\n0\nmisma\npolaridad\n0.5\n1\ndistinta\npolaridad\n0\nfp / tn\nfp\ntp\nfn / tp\nfn\ntn\nA: Si es Amor y lo clasifico como \nAmor1, es un verdadero \npositivo\nB:  Si es Amor y lo clasifico como \nFelicidad es 0,5 verdadero \npositivo y 0,5 falso negativo\nC: Si es Amor y lo clasifico como \nOdio 0, es un falso negativo\nD: Si es Felicidad y lo clasifico \ncomo Amor es 0,5 verdadero \nnegativo y 0,5 falso positivo \nE: Si es Felicidad y lo clasifico como \nalgo distinto a Amor es un \nverdadero negativo\nG: Si es Odio y lo clasifico como \nAmor es un falso positivo\nA\nB\nC\nD\nE\nG\nWe don’t care\nin this case, so…\n",
+  "speaker": "SYSTEM",
+  "uuid": "fba312e6-25b9-4838-b61d-a2ceb95c8109"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RedesBayesianas_Introducci%C3%B3n.pdf: Página 24\nIndependencia Condicional\nUna hipótesis que permite simpliﬁcar el problema: Los tests son\ncondicionalmente independientes dada la enfermedad.\nEntonces, podemos expresar\np(t1,...,t10|e) =\n10\n∏\ni=1\np(ti|e)\nLa independencia será deﬁnida formalmente más adelante,\npero se puede interpretar como que los tests tienen distintos\nmecanismos de medición, se ﬁjan en distintos factores, no se\nequivocan siempre en los mismos casos.\nUna Introducción a las Redes Bayesianas– p.22/??\n",
+  "speaker": "SYSTEM",
+  "uuid": "56763430-c0d6-4242-a60e-d032b9efc726"
+}

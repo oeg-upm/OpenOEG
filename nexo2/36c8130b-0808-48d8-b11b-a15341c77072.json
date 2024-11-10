@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: MariaNavas_STLab_Research_Stay.pptx: Diapositiva {9}\nAñotador is a temporal tagger for Spanish and English. It is able to find and normalize dates, times, durations and sets (temporal expressions that repeat periodically, such as “monthly”, “twice a year” or “every Tuesday”). There is a demo available in its webpage, and can be called as webservice or downloaded from GitHub (where all the code and a docker image are available).",
+  "speaker": "SYSTEM",
+  "uuid": "36c8130b-0808-48d8-b11b-a15341c77072"
+}

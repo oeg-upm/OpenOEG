@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Re-engineer_NOR-_EVERIS%28v3-boris%29.pdf: Página 5\n5\nNon-Ontological Resource Re-engineering \nXML, DB, Flat file, \nSpreadsheet\nPath Enumeration, \nAdjacency List, …\nC. Scheme\nFrame based, \nDescription Logics, …\nRDF(S), OWL\nPR-NOR Library at http://ontologydesignpatterns.org\nPatterns for re-engineering non-ontological Resources (PR-NOR) define a procedure to transform knowledge-aware resources into ontologies \ntaking into account the resource type (thesaurus, classification scheme, etc.) and their underlying resource data model. For every type of resource \nand data model, the NeOn method defines a pattern with a well-defined sequence of activities. Our patterns perform the  following transformations:\n• TBox transformation: for transforming the resource content into an ontology schema. \n• ABox transformation: for transforming the resource   schema into an ontology schema, and the resource content, into ontology instances. \n",
+  "speaker": "SYSTEM",
+  "uuid": "990b0d92-7c3f-4c73-9eb5-0996c8d131bc"
+}

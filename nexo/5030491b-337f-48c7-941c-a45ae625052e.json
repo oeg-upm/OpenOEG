@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GeneralOntologies-v3_%28mariano%29.pdf: Página 80\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work\n80\nCHECKING COMPETENCY QUESTIONS (II)\n----------------\n| X            |\n================\n| Rifanpicin\n|\n| Propranolol\n|\n| Isionazid\n|\n| EthylAlcohol |\n----------------\n# CQ4\nSELECT ?X\nWHERE\n{\nub:FrenadolSubstance ub:interactsWith\n?X .\n}\nWhich substances do \nFrenadol® interacts \nwith?\n---------------\n| X           |\n===============\n| Paracetamol |\n---------------\n# CQ3\nSELECT ?X\nWHERE\n{\n?X ub:isMainActiveIngredientOf\nub:FrenadolSubstance .\n}\nWhich is the main \nactive ingredient \nof Frenadol®?\nExample of answer\nFormal CQ\nInformal CQ\n",
+  "speaker": "SYSTEM",
+  "uuid": "5030491b-337f-48c7-941c-a45ae625052e"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Presentacion_martina_OEG_170706.pdf: Página 8\nMartina Eckert – June 2017\nProyecto Blexer: middleware\nEntradas:\n• Movimientos capturados con Kinect\n• Smartphone: acelerómetro y giroscopio (rotación mano) \n• Oculus: giroscopio (rotación cabeza)\n• Futuro: otros sensores corporales (p.ej. frecuencia cardiaca)\nBody Group\nPC\nChiro\nKinect \nmiddleware\nAndroid \nmiddleware\nVR \nmiddleware\nBlender\ngame\nKinect\nreceiver\nAndroid\nreceiver\nVR\nreceiver\nUSB\nData\nData\nData\nUSB\nUSB\nBlender:\n• addon que crea \nesqueletos para \nasignar movimientos \nal personaje\n",
+  "speaker": "SYSTEM",
+  "uuid": "89f02218-3655-45d1-8f4f-28e28e043f67"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Helio-no_animations.pdf: Página 13\nSet your title here in Slide Master Options\nExtension points\n13\n▪Extend the original framework\no Allows Helio to be setup using other mappings\n• WoT, RML, …\no Extend formats supported by Helio (Datasource)\no Extend sources supported by Helio (Connector)\no Extend functions\n▪Plugin system\no Implementing external code, and compiling a jar, Helio will \nautomatically be able to use such plugin\no Extend sources supported by Helio (Connector)\n• Third-party systems can be integrated with this \nmechanism\no\nhttps://github.com/oeg-upm/helio-plugins\n",
+  "speaker": "SYSTEM",
+  "uuid": "c5cb0d0a-9aff-413a-86da-efd541e1adb1"
+}

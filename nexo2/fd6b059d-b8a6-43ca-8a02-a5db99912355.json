@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 38\n© O. Corcho, R.García-Castro, O. Muñoz-García\n38\nRDF and RDF Schema\nRDF inference. Graph matching techniques \n•\nRDF inference is based on graph matching techniques\n•\nBasically, the RDF inference process consists of the following \nsteps:\n–\nTransform an RDF query into a template graph that has to be matched against the \nRDF graph\n•\nIt contains constant and variable nodes, and constant and variable edges between nodes.\n–\nMatch against the RDF graph, taking into account constant nodes and edges.\n–\nProvide a solution for variable nodes and edges.\n",
+  "speaker": "SYSTEM",
+  "uuid": "fd6b059d-b8a6-43ca-8a02-a5db99912355"
+}

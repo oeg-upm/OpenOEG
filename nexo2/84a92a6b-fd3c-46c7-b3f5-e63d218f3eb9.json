@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Control_de_versiones_con_Subversion_v1.2.pdf: Página 13\n4.4.11.\nsvn commit\nEnv´ıa los cambios de la copia local al repositorio.\nsvn commit <PATH>\nEj. Para enviar al repositorio los cambios realizados en el ﬁchero ”ﬁch.java”:\nsvn commit http://svn.example.com/repos/prueba/fich.java\n12\n",
+  "speaker": "SYSTEM",
+  "uuid": "84a92a6b-fd3c-46c7-b3f5-e63d218f3eb9"
+}

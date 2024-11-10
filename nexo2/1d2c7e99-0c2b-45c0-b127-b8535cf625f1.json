@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 3._TI-Intro-RC-II-v1%28asun%29.pdf: Página 7\nIntroducción a la Representación de Conocimientos\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nAnimal\nMarcos\n•\nSe representa utilizando taxonomías de conceptos en tiempo de diseño\n•\nConocimiento declarativo y procedimental\nVertebrados\nEsqueleto: si\nNº patas: [0 ...4]\nInvertebrados\nEsqueleto: no\nNº patas: [0 ...4]\nPerro - 1\nAltura: 50\nPeso: 25\nNombre: Tuky\nGusano - 1\nAltura: 5\nPeso: 3\nNombre: A\nInstancia\nSubclase\nSubclasePropiedadesFacetas\nAltura: número\nPeso: número\nNombre: string\nInstancia\n",
+  "speaker": "SYSTEM",
+  "uuid": "1d2c7e99-0c2b-45c0-b127-b8535cf625f1"
+}

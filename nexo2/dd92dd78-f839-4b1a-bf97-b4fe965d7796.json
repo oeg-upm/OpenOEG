@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Presentacion_OEG29-11-2012.pdf: Página 21\nMacro abstraction detection \n•Work in Progress (implementation and evaluation) \n•WINGS traces \n \n•Similar to Sub-graph Isomorphism \n•Kind of “Graph Clustering” \n \n•Early results \n•Tool for finding common sub-graphs  \n•Sequential graphs \n•Efficient \n•Scalable. \n \n•Integration with RDF (by me) \n \n•TO DO: \n•Finish implementation: inference. \n•Evaluation!! \n \n \n21 \n",
+  "speaker": "SYSTEM",
+  "uuid": "dd92dd78-f839-4b1a-bf97-b4fe965d7796"
+}

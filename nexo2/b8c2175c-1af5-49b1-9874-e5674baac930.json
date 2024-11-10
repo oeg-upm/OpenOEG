@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 99\n© O. Corcho, R.García-Castro, O. Muñoz-García\n99\nRDF and RDF Schema\nGroup graph pattern\nPREFIX foaf:    <http://xmlns.com/foaf/0.1/>\nSELECT ?name ?mbox\nWHERE  { { ?x foaf:name ?name . }\n{ ?x foaf:mbox ?mbox . }\n}\nSELECT ?x\nWHERE {}\nPREFIX foaf:    <http://xmlns.com/foaf/0.1/>\nSELECT ?name ?mbox\nWHERE  { { ?x foaf:name ?name . }\n{ ?x foaf:mbox ?mbox . FILTER regex(?name, \"Smith\")}\n}\n",
+  "speaker": "SYSTEM",
+  "uuid": "b8c2175c-1af5-49b1-9874-e5674baac930"
+}

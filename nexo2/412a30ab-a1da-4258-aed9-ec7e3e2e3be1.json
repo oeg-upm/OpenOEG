@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_OWL.pdf: Página 44\n© O. Corcho, MC Suárez de Figueroa Baonza\n44\nOWL and SWRL\nInteresting results (V). Consistency checking\nCows are vegetarian.\nA vegetarian is an animal that does not eat animals nor parts of animals. \nA mad cow is a cow that eats brains that can be part of a sheep\n⊥\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n)\n.\n(\n)\n.\n(\n)\n.\n.(\n))\n.\n(\n.\n.\nplant\npartOf\nplant\nanimal\npartOf\nanimal\nsheep\npartOf\nbrain\neats\ncow\nmadCow\nanimal\npartOf\neats\nanimal\neats\nanimal\nvegetarian\nvegetarian\ncow\nWe obtain: \nMad cow is unsatisfiable\n",
+  "speaker": "SYSTEM",
+  "uuid": "412a30ab-a1da-4258-aed9-ec7e3e2e3be1"
+}

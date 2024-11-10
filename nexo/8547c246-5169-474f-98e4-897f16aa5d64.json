@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 54\n© O. Corcho\n54\nOntological Engineering\nChunk 5. Formalize in DL, and then in OWL DL\n1. Concept definitions\nA driver must be adult. A driver is a person who drives vehicles. A lorry driver is a person who\ndrives lorries. A haulage worker is who works for a haulage company or for part of\na haulage company. A haulage truck driver is a person who drives trucks ans works for part of\na haulage company. A van driver is a person who drives vans. A bus driver is a person who\ndrives buses. A white van man is a man who drives white things and vans. \n2. Restrictions:\n--\n3. Properties:\nThe service number is an integer property with no restricted domain\n4. Individuals:\nQ123ABC is a van and a white thing.\nThe42 is a bus whose service number is 42.\nMick is a male who read Daily Mirror and drives Q123ABC.\n",
+  "speaker": "SYSTEM",
+  "uuid": "8547c246-5169-474f-98e4-897f16aa5d64"
+}

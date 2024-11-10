@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4._methodologies-Concpt-REEng.pdf: Página 4\nOntological Engineering \n©Asunción Gómez-Pérez,\nMETHONTOLOGY. Primitives for Modelling\nTaxonomies\nDisjoint decomposition:  a set of subclasses of C that do not have common instances and do not cover C\nExhaustive-Decomposition:  a set subclasses of C that cover C and may have common instances or subclasses\nPartition:  a set subclasses of C that cover C and do not have common instances or subclasses\nSubclass-of:\n",
+  "speaker": "SYSTEM",
+  "uuid": "4cd17f39-967c-4857-980d-31c5d940b59b"
+}

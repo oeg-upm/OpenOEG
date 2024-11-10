@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 50\nCharacter-level Language model example [9]\nConsider a vocabulary of 4 possible letters \"helo”\nA RNN can be trained to get the probability distribution of the next \ncharacter in the sequence given a sequence of previous characters\nThis allow us to generate new text one character at a time\n50\nRNN with 4-dimensional input and \noutput layers, and a hidden layer of \n3 units (neurons). \nThis diagram shows the activations \nin the forward pass when the RNN \nis fed the characters \"hell\" as input. \nThe output layer contains \nconfidences the RNN assigns for \nthe next character (vocabulary is \n\"h,e,l,o\"); \nWe want the green numbers to be \nhigh and red numbers to be low.\n",
+  "speaker": "SYSTEM",
+  "uuid": "20d4a98f-136d-4898-97f3-4c7c14b1a24f"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: LinkedDataGenerationII%28v1-boris%29.pdf: Página 11\n11\n4. Creation of RDF from geometrical information\n0\n1\n2\n3. Generation of the RDF data – RDF graphs\n•\nIGN\nINE\nBTN25\nBCN200\nIPI\n….\n5\nC\n00\nhttp://geo linkeddata es/dataset/IGN/BTN25 http://geo linkeddata es/dataset/IGN/BCN200\nhttp://geo linkeddata es/dataset/INE/IPI\n•\nSo far\n•\n7 RDF Named Graphs\n•\n21.498.953 triples\nhttp://geo.linkeddata.es/dataset/IGN/BTN25 http://geo.linkeddata.es/dataset/IGN/BCN200\nhttp://geo.linkeddata.es/dataset/INE/IPI\n",
+  "speaker": "SYSTEM",
+  "uuid": "37ea5d51-32b6-474b-9a58-dba8ce907aae"
+}

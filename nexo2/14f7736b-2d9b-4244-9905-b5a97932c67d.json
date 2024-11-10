@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Neon_2008_d2.2.2.pdf: Página 38\nPage 38 of 124\nNeOn Integrated Project EU-IST-027595\n2.4.3\nComparison of the Tools\nTables 2.4, 2.5 and 2.6 show the tools presented according to the characteristics related to the non-\nontological resource, transformation process and resultant ontology.\nType of\nResource\nSpeciﬁc/Any\nData\nProvenance\nTool\nresource\nimplemented\nin\nmodel is\nknown\ninformation\nSKOS2GenTax\nClassiﬁcation\nschemes, thesauri\nSKOS RDF\nAny\nNo\nNo\nT-ORG\nFolksonomy\nAny\nNo\nNo\nKAON-REVERSE\nDatabase\nAny\nYes\nNo\nODEMapster\nDatabase\nAny\nYes\nNo\nD2R Server\nDatabase\nAny\nNo\nNo\nTopBraid Composer\nDatabase,\nXML, Flat ﬁle,\nSpreadsheet\nAny\nNo\nNo\nXSD2OWL\nand\nXML2RDF\nXML\nAny\nNo\nNo\nConvertToRdf\nDelimited\ntext\ndata ﬁle\nAny\nNo\nNo\nﬂat2rdf\nFlat ﬁle\nUnix text ﬁle\nNo\nNo\nJava BibTeX-To-RDF\nConverter\nFlat ﬁle\nBibtex ﬁle\nNo\nNo\nExcel2rdf\nSpreadsheet\nAny\nNo\nNo\nRDF123\nSpreadsheet\nAny\nNo\nNo\nTable 2.4: Non-ontological resource characteristics of the tools\n",
+  "speaker": "SYSTEM",
+  "uuid": "14f7736b-2d9b-4244-9905-b5a97932c67d"
+}

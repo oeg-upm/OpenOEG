@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 35\nWeb Ontology Language\nOWL semantics\nUniversal restriction\nowl:allValuesFrom: the anonymous class comprised of the individuals that, \nif having a relation with a given property, must be to an individual of a \nconcrete class or none: humano subClassOf come only Organismo\n(Tutorial Manchester)\n",
+  "speaker": "SYSTEM",
+  "uuid": "5c83a5ff-f691-4cc2-882e-7f69d4932193"
+}

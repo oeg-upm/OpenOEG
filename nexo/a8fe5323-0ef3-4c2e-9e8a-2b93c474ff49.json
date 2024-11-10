@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 12\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nBase de Reglas \nRepresenta conocimientos sobre la solución del problema \n \nSi Condiciones Entonces Acciones \nAntecedente \n   Consecuente \n \n \nEjemplos:  \n• El coste del envío se incrementa en 1€  si se recibe en el mismo día \n• Si la edad del paciente es inferior a 10 años, tiene manchas rojas y fiebre, entonces tiene varicela. \n• Si el coche no arranca, lo primero a revisar es la bateria \n• Si el dólar baja, entonces hay que comprar dólares \n• ..... \n",
+  "speaker": "SYSTEM",
+  "uuid": "a8fe5323-0ef3-4c2e-9e8a-2b93c474ff49"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 10\nWeb Ontology Language\nOWL syntaxes\nFor computers: RDF/XML, OWL/XML, …\nRDF/XML:\n<owl:Class rdf:about=\"#arm\">\n<rdfs:subClassOf>\n<owl:Restriction>\n<owl:onProperty rdf:resource=\"#part_of\"/>\n<owl:someValuesFrom rdf:resource=\"#body\"/>\n</owl:Restriction>\n</rdfs:subClassOf>\n</owl:Class>\nFor humans: Manchester OWL Syntax, functional, …\nManchester OWL Syntax: arm subClassOf art_of some body\nhttp://www.co-ode.org/resources/reference/manchester_syntax/\n",
+  "speaker": "SYSTEM",
+  "uuid": "bd8b0130-fbc4-4f30-bd8f-1a5a7d0ee257"
+}

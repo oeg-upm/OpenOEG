@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: LinkedDataGenerationII%28v1-boris%29.pdf: Página 7\n7\nURI of the ontology\nhttp://geo.linkeddata.es/ontology\nExamples:\nExamples:\nConcept\nhttp://geo.linkeddata.es/ontology/Provincia\nProperty\nhttp://geo.linkeddata.es/ontology/distancia\n13\nOther domains:\nhttp://museum.linkeddata.es/ontology\nhttp://edu.linkeddata.es/ontology\nhttp://gov.linkeddata.es/ontology\n• URIs in Spanish\n• http://geo.linkeddata.es/ontology/Río\nRDF allows UTF 8 characters for URIs\n- RDF allows UTF-8 characters for URIs\n- But, Linked Data URIs has to be URLs as well\n- So, non ASCII-US characters have to be %code\n• http://geo.linkeddata.es/ontology/R%C3%ADo\n14\n",
+  "speaker": "SYSTEM",
+  "uuid": "729f8cbf-c18e-4270-9a98-fb7f6c0733e3"
+}

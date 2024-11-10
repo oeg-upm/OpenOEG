@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 04_OntologyLanguages_RDF%28S%29.pdf: Página 33\nSesame\n•\nA framework for storage, querying and inferencing of RDF and \nRDF Schema\n•\nA Java Library for handling RDF\n•\nA Database Server for (remote) access to repositories of RDF data\n•\nHighly expressive query and transformation languages\n– SeRQL, SPARQL\n•\nVarious backends\n– Native Store\n– RDBMS (MySQL, Oracle 10, DB2, PostgreSQL)\n– main memory\n•\nReasoning support\n© O. Corcho, R.García-Castro, O. Muñoz-García\n65\nRDF and RDF Schema\n– RDF Schema reasoner\n– OWL DLP (OWLIM)\n– domain reasoning (custom rule engine)\nTable of Contents\n1.\nAn introduction to knowledge representation formalisms\n2.\nResource Description Framework (RDF)\n2.\nResource Description Framework (RDF)\n3.\nRDF Schema\n4.\nRDF(S) management APIs\n4.1 RDF(S) management APIs\n4.2 The Jena API, with a hands-on activity\n5.\nRDF(S) query languages: SPARQL\n© O. Corcho, R.García-Castro, O. Muñoz-García\n66\nRDF and RDF Schema\n",
+  "speaker": "SYSTEM",
+  "uuid": "308f81cf-bf1a-44b8-8e2f-4044af917d92"
+}

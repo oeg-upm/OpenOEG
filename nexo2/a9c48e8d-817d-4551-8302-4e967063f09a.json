@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: LPS_BIGGER-09.03.2017.pdf: Página 23\nPure emotion hypothesis\n• What makes the difference on fine-grained sentiment\nanalysis?\n• Where is the line between satisfaction and love?\n• Where can we find discriminative leads?\n• Let’s take for training just “pure” emotions (this is, \ndocuments just tagged as one emotion). There must\nbe something relevant…\n• So one of our classifiers follows this idea. On its own\nis obviously not good, but is useful in cascade!\n23\n",
+  "speaker": "SYSTEM",
+  "uuid": "a9c48e8d-817d-4551-8302-4e967063f09a"
+}

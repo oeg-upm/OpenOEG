@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Presentacion_OEG24-04-2014.pdf: Página 9\nMy thesis hypothesis \nGiven an RDF dataset, potentially huge, a lightweight binary RDF \ncan encode the data leveraging the skewed structure of RDF graphs \nfor the purposes of  \n \n1.\nLarge spatial savings,  \n2.\neasy and modular data-centric publication and parsing and  \n3.\ndata retrieval. \n \nApplications: \n• Publish a large dataset on the Web. \n• Transfer between two servers. \n• Distributed RDF Data Management. \n• Fast In-Memory Query Engine. \n \n \n \n \n9 \n",
+  "speaker": "SYSTEM",
+  "uuid": "0b56010a-2499-48fa-88e4-e73933555d32"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_SPARQL.pdf: Página 34\n40  \n“Sum Prices per categories” \n!\nPREFIX ex: <http://example.org/> !\nSELECT ?T (Sum(IF(isNumeric(?Pr),?Pr,0)) AS ?P)!\nWHERE { ?Item rdf:type ?T; ex:price ?Pr }!\nGROUP BY ?T!\n \n \n \nExample SUM \n@prefix ex: <http://example.org/> . \n \nex:lemonade1    ex:price 3 ;  \n                rdf:type ex:Softdrink. \nex:beer1        ex:price 3; \n                rdf:type ex:Beer. \nex:wine1        ex:price 3.50 ; \n                rdf:type ex:Wine. \nex:wine2        ex:price 4 . \n                rdf:type ex:Wine. \nex:wine3        ex:price \"n/a\"; \n                rdf:type ex:Wine. \nData: \nResults: \n?T \n?C \nSoftdrink \n3 \nBeer \n3 \nWine \n?T \n?C \nSoftdrink \n3 \nBeer \n3 \nWine \n7.5 \n",
+  "speaker": "SYSTEM",
+  "uuid": "7c8efc35-c105-4154-bafc-824942cd8eaa"
+}

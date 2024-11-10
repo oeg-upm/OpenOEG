@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_OWL.pdf: Página 50\n© O. Corcho, MC Suárez de Figueroa Baonza\n50\nOWL and SWRL\n3. Inference at application run-time\nCows are vegetarian.\nA vegetarian is an animal that does not eat animals nor parts of animals. \nA mad cow is a cow that eats brains that can be part of a sheep\n⊥\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n)\n.\n(\n)\n.\n(\n)\n.\n.(\n))\n.\n(\n.\n.\nplant\npartOf\nplant\nanimal\npartOf\nanimal\nsheep\npartOf\nbrain\neats\ncow\nmadCow\nanimal\npartOf\neats\nanimal\neats\nanimal\nvegetarian\nvegetarian\ncow\nWe obtain: \nMad cow is unsatisfiable\n",
+  "speaker": "SYSTEM",
+  "uuid": "a2efc420-b2c3-447b-a964-13104c6213ac"
+}

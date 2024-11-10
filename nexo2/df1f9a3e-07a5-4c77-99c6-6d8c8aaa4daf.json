@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2._Ontolog%C3%ADas-long-RD.pdf: Página 30\n©Asunción Gómez-Pérez\n05/11/2024 12:43 - 30\nDifferent Approaches to Build Ontologies\n•The formalism and the language limit the kind of knowledge that can be represented\n•All the aforementioned formalisms allow representing: classes, organized in class \ntaxonomies, attributes, and binary relations \n•Only AI formalisms are specially prepared to model formal axioms either as \nindependent components in the ontology or embedded in other components \n•A domain model is not necessarily an ontology only because it is written in \nOntolingua or OWL, for the same reasons that we cannot say that a program is a \nknowledge-based system because it is written in Prolog \n•Although some languages are more appropriate than others to represent ontologies, \na model is an ontology only if it is agreed and machine readable\n",
+  "speaker": "SYSTEM",
+  "uuid": "df1f9a3e-07a5-4c77-99c6-6d8c8aaa4daf"
+}

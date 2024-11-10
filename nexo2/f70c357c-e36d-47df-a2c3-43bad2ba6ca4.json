@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: NLP.Dissociating_language_and_thought_in_large_language_models.pdf: Página 41\n5. Building models that think like humans\nCurated data en diverse objective functions (2/2)\nIdeas de mejora:\n• Ajustar datos/función para obtener mejores resultados.\n• Por ejemplo, Minerva para matemáticas\n• La modularidad puede forjarse entrenando modelos modulares:\n• En una mezcla de datasets curados cuidadosamente.\n• Y usando diversas funciones objetivo.\n• Por ejemplo, Chat = pure LM + humand feedback objective.\nReyes Magos: Core Lang, Problem Solver, Grounded Experiencer, \nSutuation Modeler, Pragmatic Reasoner, Goal Setter.\n",
+  "speaker": "SYSTEM",
+  "uuid": "f70c357c-e36d-47df-a2c3-43bad2ba6ca4"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Guiones.pdf: Página 7\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nLos Guiones\nESCENA 4:  Comer\nEl camarero trae la comida\nEl cliente come\n(opcionalmente ir a Escena 2; si no ir a Escena 5)\nESCENA 5:  Felicitación\nSi la comida es buena\nEntonces     Felicitar al camarero\nIr a Escena 6\nESCENA 6:  Pagar\nEl cliente pide la cuenta\nEl camarero trae la cuenta\nEl cliente paga\nEl cliente espera la vuelta\nIr a Escena 7\nESCENA 7:  Salir\nEl cliente se levanta\nEl cliente se va del restaurante\n",
+  "speaker": "SYSTEM",
+  "uuid": "c905946b-f27f-4223-ac55-0e3ad4d68108"
+}

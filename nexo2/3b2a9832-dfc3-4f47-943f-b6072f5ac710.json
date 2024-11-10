@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: NLP_OEG.pdf: Página 9\nOntology Learning from Text: our approach\n9\nOEG’s ontology learning approach: SOLATRE\n▪Only extracts terms (not very well)\n▪Using by Zaporozhye National University\nProblems:\n▪Developed by an ex-OEG member\n▪Performance\n▪External Word2Vec approach to identify relations\nFuture work:\n▪Implementation of new approach (part of Librairy)\n▪From taxonomy to terms\n▪Analysis of new systems like LexNET\n",
+  "speaker": "SYSTEM",
+  "uuid": "3b2a9832-dfc3-4f47-943f-b6072f5ac710"
+}

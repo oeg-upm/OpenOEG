@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AMPER08_-_Introduction_to_SPARQL.pdf: Página 27\nRDF(S) Access APIs, May 2008\n27\n© García-Castro, Corcho, Muñoz-García\nSolution sequences and modifiers\n•\nOrder modifier: put the solutions in \norder\n•\nProjection modifier: choose certain \nvariables\n•\nDistinct modifier: ensure solutions \nin the sequence are unique\n•\nReduced modifier: permit \nelimination of some non-unique \nsolutions\n•\nOffset modifier: control where the \nsolutions start from in the overall \nsequence of solutions\n•\nLimit modifier: restrict the number of \nsolutions\nSELECT ?name\nWHERE { ?x foaf:name ?name ; :empId ?emp }\nORDER BY ?name DESC(?emp)\nSELECT ?name\nWHERE\n{ ?x foaf:name ?name }\nSELECT DISTINCT ?name \nWHERE { ?x foaf:name ?name }\nSELECT REDUCED ?name \nWHERE { ?x foaf:name ?name }\nSELECT  ?name WHERE { ?x foaf:name ?name }\nORDER BY ?name\nLIMIT   5\nOFFSET  10\nSELECT ?name\nWHERE { ?x foaf:name ?name }\nLIMIT 20\n",
+  "speaker": "SYSTEM",
+  "uuid": "2eb331f4-d61f-4797-8273-516cf4b0c909"
+}

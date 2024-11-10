@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 35\nRNNs 7 [10]\nTraining is more costly\nthe training of a RNN is computationally demanding\nconsider a list or time series of 10K elements \nstandard backpropagation would require 10,000 time steps for each of \nthe forward and backward passes for each and every parameter \nupdate\nin practice, truncated backpropagation is used\nit splits the forward and backward passes into a set of smaller \nforward/backward pass operations\n35\n",
+  "speaker": "SYSTEM",
+  "uuid": "df79a508-71b8-4c1d-ac7f-c5dd6c5326b5"
+}

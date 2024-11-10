@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Hypernym-3.pdf: Página 20\nHypernym Detection\nDatasets\n20\nDatasets Used\n(For extraction of Hypernyms using Pattern based \nApproaches)\nIn the SOTA paper, Dataset used:\nGigaword (4 Billion words) + Wikipedia\nWe used:\nUMBC Corpus (3 Billion Words) + Wikipedia\nLink to UMBC Corpus(Freely available from \nUniversity of Maryland Baltimore): \nhttps://ebiquity.umbc.edu/resource/html/id/351\n",
+  "speaker": "SYSTEM",
+  "uuid": "4ab2a87e-48d0-4ded-a45c-601c09ee7945"
+}

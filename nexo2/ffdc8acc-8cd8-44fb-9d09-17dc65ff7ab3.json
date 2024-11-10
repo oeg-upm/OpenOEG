@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Vidal.Sep19.pdf: Página 21\nPage 21\nAdaptive SPARQL Query Engines\nAdapt to Source and Environment Evolution:\n▪Misestimated or missing statistics.\n▪Unexpected correlations.\n▪Unpredictable costs.\n▪Dynamically changing data, workload, and source availability.\n▪Changes at rates at which tuples arrive from sources\n• Initial Delays.\n• Slow Delivery.\n• Bursty Arrivals.\n",
+  "speaker": "SYSTEM",
+  "uuid": "ffdc8acc-8cd8-44fb-9d09-17dc65ff7ab3"
+}

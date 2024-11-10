@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA_grado-2013.pdf: Página 95\nCaso \nde Γ  \nCondiciones satisfechas \npor el estado (n,s,h)  \nAcción  de Γ  \n \n \n1 \n \n \nSi s = ACTIVO   y  \nn = MAX no terminal  \nAñadir al principio de \nABIERTA los sucesores de \nn (n, ACTIVO, h) y BORRAR  \nn \nh(padre) = h(hijos)  \n \n \n2 \n \n \nSi s = ACTIVO   y  \nn = MIN no terminal \n \nAñadir al principio de \nABIERTA el 1er. Sucesor de \nn (n, ACTIVADO, h) y \nBORRAR n \nh(padre) = h(hijo) \n",
+  "speaker": "SYSTEM",
+  "uuid": "a907dedc-d315-438e-b84d-b24245ce1ba1"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 40\nWeb Ontology Language\nOWL semantics\nBooleans\nNot: humano subClassOf not (come some electrodomestico)\nAnd (Intersection): \nman equivalentTo human and male\nOr (Union): \nhuman equivalentTo woman or man\n!!!\n",
+  "speaker": "SYSTEM",
+  "uuid": "9ef9750c-1912-47a7-b6a1-6c62f12ef006"
+}

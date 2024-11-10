@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA-2011.pdf: Página 142\nALGORITMO AO*\n3. Calcular un grafo parcial G’, con los arcos que \nparten de i\n4. Seleccionar cualquier nodo hoja, no terminal de \nG’, llamarlo n\n5. Desarrollar n generando todos sus sucesores y \ncolocarlos en G como sucesores de n\nA cada sucesor de n, que no este en G, \nasociarle el valor h que le corresponda\nEtiquetar como RESUELTO cualquiera de estos \nsucesores que sean nodos terminales\n",
+  "speaker": "SYSTEM",
+  "uuid": "7854308a-3ff0-49d8-b4d1-784d2c127140"
+}

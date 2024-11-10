@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: DevTools.pdf: Página 15\nAdministrar « DevTools » : Herramientas\n<dependencies>\n<!-- ECLIPSE GALILEO JEE EDITION -->\n<dependency>\n<groupId>org.eclipse</groupId>\n<artifactId>eclipse</artifactId>\n<version>jee-galileo-SR1-win32</version>\n<type>zip</type>\n</dependency>\n<!-- -->\n<!-- MAVEN ECLIPSE PLUG-IN M2ECLIPSE -->\n<dependency>\n<groupId>org.sonatype</groupId>\n<artifactId>m2eclipse</artifactId>\n<version>0.10.0.20100209.0800</version>\n<type>zip</type>\n</dependency>\n<!-- -->\n<!-- SVN ECLIPSE PLUG-IN SUBCLIPSE -->\n<dependency>\n<groupId>org.tigris.subversion</groupId>\n<artifactId>subclipse</artifactId>\n<version>1.6.5</version>\n<type>zip</type>\n</dependency>\n….\nProyecto POM – elección de las herramientas y plugins\n",
+  "speaker": "SYSTEM",
+  "uuid": "4ddb0337-e20e-4588-8b25-d5ee60af0a8c"
+}

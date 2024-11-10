@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: MariaNavas_STLab_Research_Stay.pptx: Diapositiva {24}\nFRED did not work very well in legal texts.\nLet’s download and preprocess judgments and see how it behaves.\nSo steps:\nChoose a source suitable\nDo the preprocessing needed\nDecide the data structure and send it to FRED \nCheck the result and improve if posible with preprocessing\nSee the output of FRED and decide how to proceed. Ideas:\nIs there any inner structure in judgments we can exploit?\nCan we retrieve events from FRED’s output?\n",
+  "speaker": "SYSTEM",
+  "uuid": "a1474959-a802-496c-882a-3ef6444fad31"
+}

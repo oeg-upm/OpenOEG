@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 02_RDF%28S%29.pdf: Página 7\n7 \n© Raúl García Castro et al. \nBlank nodes: structured property values \n•  Most real-world data involves structures that are \nmore complicated than sets of RDF triple statements \n \n13 \npeople:Raul \n      \nproperties:hasFullName \n“Raúl” \nproperties:firstName \n“García Castro” \nproperties:lastName \nThis intermediate URI does \nnot need to have a name \n© Raúl García Castro et al. \nRDF Containers \n•  Describe groups of things \n-  A book was created by several authors \n-  A lesson is taught by several persons \n-  etc. \n•  RDF provides a container vocabulary \n-  rdf:Bag. Group of resources or literals, including duplicates, \nwhere order is not significant \n-  rdf:Seq. Group of resources or literals, including duplicates, \nwhere order is significant \n-  rdf:Alt. Group of resources or literals that are alternatives \n(typically for a single value of a property) \n14 \npeople:Raul \n      \nproperties:hasEmailAddress \n“rgarcia@fi.upm.es” \nrdf:_1 \n“r.garcia@upm.es” \nrdf:_2 \nrdf:Seq \nrdf:type \n",
+  "speaker": "SYSTEM",
+  "uuid": "5c3a10e3-9902-4d01-9322-9fecf1836937"
+}

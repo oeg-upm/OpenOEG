@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Fpriyatna-oeg-20141002.pdf: Página 32\nQRP Problem\nApproach - Step 1-3\nSame as IPP Approach 1 Step 1-3\n1.Normalize MCore to M where M is in 3rd NF\n2.Set Q = trans(P, M) \no\nP = SELECT ?s AS ?rdf:subject ?p AS rdf:predicate ?o \nAS rdf:object WHERE { ?s ?p ?o }.\n3.Set        = CREATE VIEW rdf:statement AS Q;\n",
+  "speaker": "SYSTEM",
+  "uuid": "037d6156-5741-4427-aacc-63f46d2a3862"
+}

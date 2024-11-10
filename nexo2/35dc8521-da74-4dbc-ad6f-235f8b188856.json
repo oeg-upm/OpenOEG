@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Aplicaciones-_v2%28asun%29.pdf: Página 34\n©Asunción Gómez-Pérez\n- 35\nOntology-based Access to DBs\n1.\nBuild a new ontology from 1 DB schema \nand 1 DB\n2.\nAlign the ontology built with approach 1 \nwith a legacy ontology\n3.\nAlign an existing DB with a legacy \nontology\na) Massive dump (semantic data \nwarehouse)\nb) Query-driven\n4.\nAlign an ontology network with n DB \nschemas and other data sources\na) Massive dump (semantic data \nwarehouse)\nb) Query-driven\nnew ontology\nexisting ontology\n1\n2\n3\n4\n",
+  "speaker": "SYSTEM",
+  "uuid": "35dc8521-da74-4dbc-ad6f-235f8b188856"
+}

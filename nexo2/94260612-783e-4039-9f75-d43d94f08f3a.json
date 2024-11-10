@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Aplicaciones-_v2%28asun%29.pdf: Página 32\n©Asunción Gómez-Pérez\n- 33\nCorporate Semantic Web: ODESeW\nSingle versus \nnetwork of \nontologies\nOntology Networks\nType of Application\nCorporate Semantic \nWeb\nSoftware Components Used\nfrom the SWF\nOnt. Built from \nscratch or  reusing \nresources\nFrom scratch\nHugeness: Operates at \nscale?\nPartially\n1.\nOntology repository\n2.\nData repository\n3.\nMetadata registry\n4.\nQuery answering\n5.\nSemantic query\nprocessor\n6.\nOntology browser\n7.\nOntology view\ncustomization\n8.\nInstance editor\n9.\nManual annotation.\n10.\nOntology Populator\nConceptual \nHeterogeneity\n(mappings)\nNo\nOpen to semantic \nresources?\nYes\nWhere are the \ndata/instances?\nIn the ontology\nOpen to web resources?\nYes\nAre instances \ndistributed or \ncentralized?\nCentralized\nOpen to web services?\nNo\nVery high rate of \nchange in instances?\nNo\nWeb 2.0 like?\nNo\nHeterogeneous \nProvenance of \ninstances\nYes\nMobile devices?\nNo\nVarious degrees of \ndata quality\nYes\nGeo-spatial Information\nNO\n",
+  "speaker": "SYSTEM",
+  "uuid": "94260612-783e-4039-9f75-d43d94f08f3a"
+}

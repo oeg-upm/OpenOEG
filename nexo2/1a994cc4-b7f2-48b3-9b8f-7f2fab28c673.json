@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 85\n© O. Corcho, R.García-Castro, O. Muñoz-García\n85\nRDF and RDF Schema\n•\nLanguages developed to allow accessing datasets expressed in RDF(S) (and in some cases \nOWL)\n•\nSupported by the most important language APIs\n–\nJena (HP labs)\n–\nSesame (Aduna)\n–\nBoca (IBM)\n–\n...\n•\nThere are some differences wrt languages like SQL, such as\n–\nCombination of different sources\n–\nTrust management\n–\nOpen World Assumption\nRelational\nDB\nApplication\nSQL queries\nRDF(S)\nOWL\nApplication\nRQL, RDQL, etc., queries\nRDF(S) query languages\n",
+  "speaker": "SYSTEM",
+  "uuid": "1a994cc4-b7f2-48b3-9b8f-7f2fab28c673"
+}

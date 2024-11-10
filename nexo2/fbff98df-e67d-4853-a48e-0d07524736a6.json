@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 35\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nORG: An organization ontology (W3C) \n• ORG is a core ontology for organizational structures. \n• organizational structure \n• notion of an organization  \n• decomposition into sub-organizations and units  \n• purpose and classification of organizations \n• reporting structure  \n• membership \nand \nreporting \nstructure \nwithin \nan \norganization  \n• roles, posts, and the relationship between people and \norganizations  \n• location information  \n• sites or buildings, locations within sites  \n• organizational history (merger, renaming)  \n• It supports linked data publishing of organizational \ninformation across a number of domains.  \n36 \nhttp://www.w3.org/TR/vocab-org/ \n",
+  "speaker": "SYSTEM",
+  "uuid": "fbff98df-e67d-4853-a48e-0d07524736a6"
+}

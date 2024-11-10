@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 13_LDGeneration.pdf: Página 13\n18/12/12 \n13 \nDirect Mapping \n•  The direct mapping defines an RDF Graph \nrepresentation of the data in an RDB. The direct \nmapping takes as input an RDB (data and schema), \nand generates an RDF graph that is called the direct \ngraph.  \n25 \nDirect Mapping - example \n26 \n",
+  "speaker": "SYSTEM",
+  "uuid": "01e8e122-49ab-436e-a75b-352b0c66cd93"
+}

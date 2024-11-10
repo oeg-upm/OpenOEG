@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Protege-Pizzas-v5.pdf: Página 15\n© O. Corcho, MC Suárez de Figueroa Baonza\n15\nOWL and SWRL\nTransitive Properties\nIf a property is transitive, and the property relates individual a to\nindividual b, and also individual b to individual c, then we can infer\nthat individual a is related to individual c via the property.\nhasAncestor is transitive \n",
+  "speaker": "SYSTEM",
+  "uuid": "10cbce34-9647-4e5b-912f-143218438758"
+}

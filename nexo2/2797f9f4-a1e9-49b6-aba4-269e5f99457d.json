@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RedesBayesianas_Introducci%C3%B3n.pdf: Página 13\nEl Teorema de la Probabilidad Total\nSi un paciente tiene la enfermedad E, entonces un test T resulta\npositivo con probabilidad 0.95. Si la enfermedad no está\npresente el test es positivo con probabilidad 0.03. Si la\nprobabilidad de sufrir la enfermedad es 0.01, ¿Cual es la\nprobabilidad de que un paciente cualquiera presente un test\npositivo?\nQueremos la probabilidad de T+, pero sólo conocemos la\nprobabilidad de T+ condicionado a la enferemedad y a que no\nse tenga la enfermedad, y además conocemos las\nprobabilidades de tener y no tener las enfermedad.\nSi {Hi}i∈I es una colección ﬁnita de sucesos disjuntos dos\na dos y cuya unión es el suceso seguro (U).\nP(B) = ∑i∈I P(B|Hi)P(Hi)\nUna Introducción a las Redes Bayesianas– p.11/??\n",
+  "speaker": "SYSTEM",
+  "uuid": "2797f9f4-a1e9-49b6-aba4-269e5f99457d"
+}

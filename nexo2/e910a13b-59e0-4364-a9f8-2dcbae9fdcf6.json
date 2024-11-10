@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2022.11.PublicProcurementNLPChallenges.pdf: Página 22\nChallenges in Public Procurement textual data\n1.1. Tender Drafting\n22\nProblem 1: Imprecision\nThe wording of the tenders may present imprecisions that \nare difficult to manage.  \n•\nImprecise words, such as \"solvency\", are frequently \nused without being clear what they imply. \nPossible Solutions\n•\nDetect the worst written parts of existing tenders and create a taxonomy of the \nworst errors. Words that tend to be imprecise, such as \"solvency\", could be \ndetected.\n•\nA style recommender could also be generated on the basis of correct tenders. \n•\nA metric could be designed to measure the clarity and readability.\n1\nThe administration \ndrafts the tender\nMain problem here is the need of annotations and expert knowledge to \ndetect and classify main errors\n",
+  "speaker": "SYSTEM",
+  "uuid": "e910a13b-59e0-4364-a9f8-2dcbae9fdcf6"
+}

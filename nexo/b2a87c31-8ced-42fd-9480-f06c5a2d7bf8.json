@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 11\n© O. Corcho, R.García-Castro, O. Muñoz-García\n11\nRDF and RDF Schema\nSemantic networks. Example. Solution\n•\nPaul and John are persons\n•\nEl Prado is a museum\n•\nPaul knows that John visited El Prado in Madrid\nKnow_1 \n \n \n                   Visit_1   \nObject\n \n \n      Agente\nVoice\nJohn\nActive\nPresent\nPaul\nTense\nAgent\nEl Prado\nObject\nMadrid\nPlace\nPast\nTense\nActive\nVoice\nMuseum\nPerson\ninstanceOf\ninstanceOf\ninstanceOf\n",
+  "speaker": "SYSTEM",
+  "uuid": "b2a87c31-8ced-42fd-9480-f06c5a2d7bf8"
+}

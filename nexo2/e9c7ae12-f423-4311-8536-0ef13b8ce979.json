@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion.pdf: Página 42\nPlanificación\nBúsqueda del plan en STRIPS\nSon condiciones satisfechas en E2\nLEVANTAR (C)\nsujeto (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nen-mesa (C)\nlibre (C)\nbrazo-libre\nen-mesa (C) ^ libre (C) ^ brazo-libre\nLEVANTAR (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nEs una condición no satisfecha en E2\nA\nB\nC\nEstado E2\n",
+  "speaker": "SYSTEM",
+  "uuid": "e9c7ae12-f423-4311-8536-0ef13b8ce979"
+}

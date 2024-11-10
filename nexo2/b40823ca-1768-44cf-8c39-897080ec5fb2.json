@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01a.FormalismosRepresentaci%C3%B3n.pdf: Página 7\nSemantic Network. Basic elements \n• \nNodes \n•  They represent entities or concepts, or values \n• \nEdges \n•  They represent properties or relations \n• \nThe semantics (mapping to the real world) depends on the tags \nused for nodes and edges \n• \nThere is no predefined KR vocabulary \n•  Although sometimes there are structural edges \nEntity/Concept \nNode \nNode \nproperty/relation \nValue \nEntity \nConcept \ninstanceOf \nConcept \nConcept \nsubclassOf \n",
+  "speaker": "SYSTEM",
+  "uuid": "b40823ca-1768-44cf-8c39-897080ec5fb2"
+}

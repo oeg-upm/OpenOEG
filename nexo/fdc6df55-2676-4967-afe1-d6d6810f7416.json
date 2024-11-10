@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 38\nPreparing the evaluation scenario \nPopulating the test data repository (I) \n• Registering the test data set: \nESWC 2011, 29/05/2011 \n38 \n> groovy AddTestData.groovy  \n \nhttp://localhost:8080/tdrs-web-1.1-b/  \n \n..\\evaluation-scenario\\test-data\\TestDataSet \nAdding persistent test data set '..\\evaluation-scenario\\test-data\\TestDataSet'. \n- Target TDRS.........: 'http://localhost:8080/tdrs-web-1.1-b/'. \n- Source metadata file: '..\\evaluation-scenario\\test-data\\TestDataSet.xml'. \nSUCCESS [Created (201)]: Creado. \nCollection published at 'http://localhost:8080/tdrs-web-1.1-\nb/testdata/persistent/Ontology+Engineering+Tools+OWL+Lite+Test+Data+Suite+Collection/‘ \n... \nNOTE:  \n-\nThe Groovy scripts used are availabe in the groovy-scripts folder \n-\nA Groovy 1.7 (or higher) distribution properly installed and configured is required for running the \nscripts (http://groovy.codehaus.org/Download) \n \n",
+  "speaker": "SYSTEM",
+  "uuid": "fdc6df55-2676-4967-afe1-d6d6810f7416"
+}

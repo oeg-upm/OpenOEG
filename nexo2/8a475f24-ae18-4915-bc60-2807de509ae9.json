@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Hiroaki_Yamada_talk_Jan19.pdf: Página 32\nFRAMING Linking agreement \nmetric\n• Agreement on source spans\n• !\"#$%& = # )* +,%--. $)/%&- $0+1$ 2345 6317\n# )* $)/%&- $0+1$ 2345 6317\n• Agreement on destination spans\n• !\"#*6 =\n# )* +,%--. 6317$\n# )* +,%--. $)/%&- $0+1$ 2345 6317\nAgree: “sharing more than 80% of the span in \ncharacters at the same location”\nsource\ndestination\nsource\ndestination\n80%\nAnnotator 1\nAnnotator 2\n80%\nFRAMING-main\nBACKGROUND\nFRAMING-sub\n33\n",
+  "speaker": "SYSTEM",
+  "uuid": "8a475f24-ae18-4915-bc60-2807de509ae9"
+}

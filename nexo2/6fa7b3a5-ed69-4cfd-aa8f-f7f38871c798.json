@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2023.10.Hallucinations.pdf: Página 12\nTrial dataset\nJson con array con:\n{\n\"hyp\": \"A district of Kowloon, China.“\n\"ref\": \"tgt“\n\"src\": \"The City <define> Chiuchow </define> is Kowloon 's other top restaurant \nand is famous for its goose dishes and other specialties from the Chiuchow\nregion ( you may also wish to try the beef satay done in a creamy sauce ) .“\n\"tgt\": \"The Chaoshan region where the Teochew dialect is spoken.“\n\"model\": \"“\n\"task\": \"DM“\n\"labels\": [\"Hallucination\", \"Hallucination\", \"Hallucination\"]\n\"label\": \"Hallucination“\n\"p(Hallucination)\": 1.0\n}\ntrial-v1\nHallucination\nNot Hallucination\n1\n0,66666667\n0,33333333\n0\n80\n",
+  "speaker": "SYSTEM",
+  "uuid": "6fa7b3a5-ed69-4cfd-aa8f-f7f38871c798"
+}

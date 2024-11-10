@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 54\nATHENS 2010 \n© Raúl García Castro et al. \nDo we understand these constructors? \n• \n∃hasColleague.Lecturer \n• \n∀hasColleague.Lecturer \n• \n∃hasColleague.{Oscar} \nOscar \nLecturer \nhasColleague \nhasColleague \nhasColleague \nhasColleague \nhasColleague \nhasColleague \nhasColleague \nhasColleague \nhasColleague \n54 \n",
+  "speaker": "SYSTEM",
+  "uuid": "416a5934-1f33-422c-bb46-6e9c9dd55f7c"
+}

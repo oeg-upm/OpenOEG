@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_10_-_Annotation.pdf: Página 28\nAnotación de contenidos Web. Dimensiones\n• Fuentes\n–\nTipos de fuentes\n• Texto: HTML, XML, PDF, etc.\n• Multimedia: imágenes, video, \naudio, etc.\n• Servicios Web\n–\nOrigen de la fuente de datos\n• Estático: ficheros\n• Dinámico: bases de datos y \nformularios\n• Tecnologías utilizadas\n–\nKnowledge extraction\n• NLP, IE, Layout\n–\nWrapper generation\n• Toolkits, ML, Browsing\n•\nProceso de anotación\n–\nMantenimiento (adaptabilidad a \nlos cambios en la fuente)\n• Verificación\n• Robustez\n• Auto-adaptabilidad\n–\nSupervisión de las anotaciones\n• Manual\n• Supervisado (semi-\nautomático)\n• No supervisado (automático)\n•\nGrado de formalidad\n–\nEtiquetas (Web 2.0)\n–\nBasada en ontologías\n",
+  "speaker": "SYSTEM",
+  "uuid": "ef721abb-b9c5-4ff4-83d5-2896face41cf"
+}

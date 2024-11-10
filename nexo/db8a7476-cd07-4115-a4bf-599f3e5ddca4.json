@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 34\nIntegration Use-cases\n•\nHorizontal integration of data sources. Sources provide the same type of \ninformation with respect to the global schema. The data may overlap \n(redundancy) or be complementary (partitioned) and it can be seen as union of \nhomogeneous information.\n•\nVertical integration of sources. Sources provide different information with \nrespect to the global schema. In this case data of each source adds additional \ninformation to an original set. In this case the joins are between different kinds of \ninformation and finding their relationships is not always straightforward.\n•\nIntegration of different streaming sources. Answer queries including data \nfrom 2+ streaming sources.\n•\nIntegration of streaming and stored data.\n•\nIntegration of streaming data in the past and current streaming data\n34\nEnabling  Ontology-based Access to Streaming Data Sources\n",
+  "speaker": "SYSTEM",
+  "uuid": "db8a7476-cd07-4115-a4bf-599f3e5ddca4"
+}

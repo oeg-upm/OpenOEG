@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AnaIglesiasMolina-MBC_TFM.pdf: Página 31\nUPM / Japan collaboration\nConclusion\n31\nOntology-based data access technology applied to Bio2RDF\n§\nA review on the methodology is necessary in order to improve it \nand be able to deal with the issues described from the evaluation, \nso that the user has to make the minimum changes to the data\n§\nMore options have to be included in the annotations file to deal with \ninconsistent separators, automatic creation of SQL views and Primary Keys \nissues\n§\nNew solutions have to be explored to the Big Data problem, whether using \nfederators or data in streams\n§\nNew approaches are to be considered to treat data with other \nformats, such as JSON or XML\nFuture work\n",
+  "speaker": "SYSTEM",
+  "uuid": "bdee17d6-acee-47f1-81e5-18ce2711bfa0"
+}

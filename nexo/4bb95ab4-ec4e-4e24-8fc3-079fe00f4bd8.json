@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Designing_a_Text_Classification_System_using_Statistical_NLP.pdf: Página 14\nDocument Representation \nBag of Words \n– What about compound nouns or names? \n• entorno de cliente, agrupación técnica \n• Should we add n-grams to the bag? \n \n– And named entities? \n• Modulo FACT01 \n \n– What about comparison structures? \n• entre Banco Santander y el BBVA? \n \nNLP Tasks \n \n \n \n \nPart-Of-Speech \nTags \nNER and NEC \nChunker \n",
+  "speaker": "SYSTEM",
+  "uuid": "4bb95ab4-ec4e-4e24-8fc3-079fe00f4bd8"
+}

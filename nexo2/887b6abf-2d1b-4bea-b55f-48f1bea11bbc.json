@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 02_RDF%28S%29.pdf: Página 8\n8 \n© Raúl García Castro et al. \nRDF Collections \n•  Groups of things represented as a list structure \n-  “A container with limits” \n•  Constructed using rdf:List, rdf:first, rdf:rest, and \nrdf:nil \n15 \nuniversity:Course1 \n      \nuniversity:hasTeacher \nrdf:next \npeople:Raul \nrdf:first \nrdf:nil \nrdf:next \npeople:Oscar \nrdf:first \nrdf:List \nrdf:type \n© Raúl García Castro et al. \nRDF Reification \n•  RDF statements about other RDF statements \n-  “Raúl believes that Oscar’s birthdate is on Feb 2nd, 1976 and \nthat his e-mail address is ocorcho@fi.upm.es” \n•  Expressed using rdf:Statement, rdf:subject, \nrdf:predicate, and rdf:object \n•  RDF Reification \n-  Allows expressing beliefs (and other modalities) \n-  Allows expressing trust models, digital signatures, etc. \n-  Allows expressing metadata about metadata \n16 \npeople:Raul \npeople:Oscar \nmodal:believes \n“ocorcho@fi.upm.es” \nproperties:hasEmailAddress \n“1976-02-02”^^xsd:date \nproperties:hasBirthDate \n",
+  "speaker": "SYSTEM",
+  "uuid": "887b6abf-2d1b-4bea-b55f-48f1bea11bbc"
+}

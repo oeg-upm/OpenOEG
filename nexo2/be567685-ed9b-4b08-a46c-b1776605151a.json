@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 93\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nThe Public Contracts Ontology \n• The Public Contracts Ontology serves to express structured \ndata about public contracts in RDF  \n• The ontology enables seamless exchange of semantically \nannotated data across distributed data sources.  \n• It is developed by the Czech OpenData initiative.  \n• Public Contracts Ontology reuses parts of several established \nvocabularies and ontologies, such as \n• GoodRelations for modelling price specifications \n• Other vocabularies are aligned with the ontology via mappings, \nfor example \n• Call for Anything, a vocabulary expressing demands \n95 \n•\nhttp://code.google.com/p/public-contracts-ontology/ \n•\nhttp://data.gov.uk/resources/payments \n",
+  "speaker": "SYSTEM",
+  "uuid": "be567685-ed9b-4b08-a46c-b1776605151a"
+}

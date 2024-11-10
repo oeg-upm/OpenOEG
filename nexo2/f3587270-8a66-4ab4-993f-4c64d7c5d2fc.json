@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AMPER08_-_Introduction_to_SPARQL.pdf: Página 7\nRDF(S) Access APIs, May 2008\n7\n© García-Castro, Corcho, Muñoz-García\nSPARQL\n•\nSPARQL Protocol and RDF Query Language\n•\nSupported by: Jena, Sesame, IBM Boca, etc.\n•\nFeatures\n– It supports most of the aforementioned queries \n– It supports datatype reasoning (datatypes can be requested instead of actual \nvalues)\n– The domain vocabulary and the knowledge representation vocabulary are \ntreated differently by the query interpreters.\n– It allows making queries over properties with multiple values, over multiple \nproperties of a resource and over reifications\n– Queries can contain optional statements\n– Some implementations support aggregation queries\n•\nLimitations\n– Neither set operations nor existential or universal quantifiers can be included \nin the queries\n– It does not support recursive queries\n",
+  "speaker": "SYSTEM",
+  "uuid": "f3587270-8a66-4ab4-993f-4c64d7c5d2fc"
+}

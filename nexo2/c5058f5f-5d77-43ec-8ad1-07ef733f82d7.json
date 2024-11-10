@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 41\nLSTMs 4\nforget gate layer\nwhat information is going to be \nthrow away from the cell state\ninput gate layer\ndecides which values are updated \nin the cell state\na tanh layer creates a vector of \nnew candidate values\nthese two outputs are combined \nto create an update to the state\noutput gate layer\nthe output for the repeating \nmodule, a filtered version of the \ncell state \n41\n",
+  "speaker": "SYSTEM",
+  "uuid": "c5058f5f-5d77-43ec-8ad1-07ef733f82d7"
+}

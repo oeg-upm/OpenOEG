@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 04_MGLD.pdf: Página 14\n22/10/12 \n14 \nGeneration \nGeoLinkedData - Transformation \nData Cleansing \n28 \nGeneration \n•  To find possible errors, identified by Hogan et al. \n•  http-level issues, such as accessibility and derefencability, \ne.g., HTTP URIs return 40x/50x errors \n•  reasoning issues such as namespace without vocabulary, \ne.g., rss:item term invented \n•  malformed/incompatible datatypes, e.g., “true” as xsd:int \n•  To fix the identified errors \n",
+  "speaker": "SYSTEM",
+  "uuid": "b4aa76ad-3642-4200-b4bb-e7084d9fdd3f"
+}

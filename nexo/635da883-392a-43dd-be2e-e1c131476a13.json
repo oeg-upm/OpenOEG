@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 05.Annotation.pdf: Página 15\n• 15 \nFAO Use Case \nLand  \nareas \nFishing \nareas \nBiological \nentities \nFisheries \ncommodities \nVessel types \nand size \nGear \ntypes \nR2O\t\n\r\nDocument\t\n\r\nR2O\t\n\r\nDocument\t\n\r\nR2O\t\n\r\nDocument\t\n\r\nR2O\t\n\r\nDocument\t\n\r\nR2O\t\n\r\nDocument\t\n\r\nR2O\t\n\r\nDocument\t\n\r\nFAO \nRTMS DB \nhttp://www.fao.org/aims/aos/fi/ \n36 \nMapping Design \n•  3 Mapping Creation \nSteps \n–  Load Ontology \n–  Load Database(s) \n–  Create mapping \n \nl  2 Usage Modes \n–  Online mode (run \ntime query execution) \n–  Offline mode \n(materialized RDF \ndump) \n",
+  "speaker": "SYSTEM",
+  "uuid": "635da883-392a-43dd-be2e-e1c131476a13"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Designing_a_Text_Classification_System_using_Statistical_NLP.pdf: Página 24\nLearning Method \n• How to select one? \n– Are the classes linearly separable?  \n– Use well known linear classifiers and check the error rate \n \n• Selected Learning Method: \n– Naive Bayes is used as Baseline  \n– Support Vector Machine  \n• Can produce linear and non-linear classifiers \n• There’s a method to select the parameters \n \n• Library \n \nJava API \n",
+  "speaker": "SYSTEM",
+  "uuid": "18bf419d-8365-4e94-bd44-c1d193ffc257"
+}

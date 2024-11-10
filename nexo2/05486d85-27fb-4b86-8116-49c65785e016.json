@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01.01.FormalismosRepresentaci%C3%B3n.pdf: Página 1\n• 1 \nKnowledge Representation \nFormalisms \nOscar Corcho \n ocorcho@fi.upm.es \nUniversidad Politécnica de Madrid \n \n \nWork distributed under the license Creative Commons Attribution-\nNoncommercial-Share Alike 3.0 \nArchitecture of a Knowledge-based System \nOther interacting \nsystems: \n•  Databases \n•  ... \nInterface with \nother \nsystems \nCONTROL \nKnowledge \nBase \nInference \nEngine \n•  Knowledge-based system generation tools \n•  Programming languages \nDevelopment Environment \nUser Interface \n-  Explanation \n-  Knowlege capture \n",
+  "speaker": "SYSTEM",
+  "uuid": "05486d85-27fb-4b86-8116-49c65785e016"
+}

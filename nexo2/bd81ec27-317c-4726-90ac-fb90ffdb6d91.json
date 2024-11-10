@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 02_RDF%28S%29.pdf: Página 17\n17 \n© Raúl García Castro et al. \nDescribing classes \n33 \nperson:hasColleague \ndata:Raul \ndata:Asun \nperson:hasHomePage \nhttp://www.oeg-upm.net/ \nperson:hasColleague \ndata:Oscar \n“Óscar Corcho García” \nperson:hasName \nperson:AssociateProfessor \nperson:Professor \nperson:Person \nperson:InterimAssociateProfessor \nperson:FullProfessor \nrdfs:subClassOf \nrdfs:subClassOf \nrdfs:subClassOf \nrdfs:Class \nRDF(S) \nPerson \nData \nrdf:type \n© Raúl García Castro et al. \nDescribing individuals \n34 \nperson:hasColleague \ndata:Raul \ndata:Asun \nperson:hasHomePage \nhttp://www.oeg-upm.net/ \nperson:hasColleague \ndata:Oscar \n“Óscar Corcho García” \nperson:hasName \nperson:AssociateProfessor \nperson:Professor \nperson:Person \nperson:InterimAssociateProfessor \nperson:FullProfessor \nrdf:type \nrdf:type \nrdf:type \nrdfs:subClassOf \nrdfs:subClassOf \nrdfs:subClassOf \nrdfs:Class \nRDF(S) \nPerson \nData \nrdf:type \n",
+  "speaker": "SYSTEM",
+  "uuid": "bd81ec27-317c-4726-90ac-fb90ffdb6d91"
+}

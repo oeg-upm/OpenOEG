@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologies-Methodology.pdf: Página 48\n48\nScheduling \n \nDefinition \nScheduling refers to the activity of identifying the different activities and processes to be \nperformed during the ontology development, their arrangement, and the time and \nresources needed for their completion. \n \n \nGoal \nThe scheduling activity states a concrete programming or scheduling to guide the \nontology network development, including processes and activities, their order, and time \nand human resources restrictions and assignments. \n \n \nInput \nOutput \nOntology Requirements Specification \nDocument (ORSD). \n \nSchedule \nfor \nthe \nontology \nnetwork \ndevelopment. \n \n \n \nWho \nSoftware developers and ontology practitioners, who form the ontology development team \n(ODT), in collaboration with users and domain experts. \n \n \nWhen \nThis activity must be carried out after the ontology requirements specification activity. \n \n \nScheduling. Filling Card\n\nPhD Thesis (2010)\n",
+  "speaker": "SYSTEM",
+  "uuid": "178d94ed-229e-40b1-b80e-c4815d1d5798"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Latent_Topics_in_Microposts.pdf: Página 2\nIntroduction to Topic Models \nDocument Collection (sentences) : \n- I teach math and science \n- I prefer science and literacy \n- Spring and autumn are my favourite seasons \n- The weather during winter and autumn is awful \n- They learn about spring in science class \n \nLDA will discover the topics in this sentences (or documents). \nHowever you should define the number of topics. \n \n \nTopic 1={math 15%, science 30%, literacy 15%, teaching 10%, class 10%..} \nTopic 2={spring 30%, autumn 30%, winter 10%, season 10% weather 10%..} \nFor 2 topics LDA would produce something like this: \nTopic 1 100 % \nTopic 1 100 % \nTopic 2 100 % \nTopic 2 100 % \nTopic 1 60 % \nTopic 2 40 % \n",
+  "speaker": "SYSTEM",
+  "uuid": "d1d633a1-d8ae-41f0-b807-ae621d3a6d5c"
+}

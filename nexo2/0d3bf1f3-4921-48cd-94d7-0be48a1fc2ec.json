@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 15\nATHENS 2010 \n© Raúl García Castro et al. \nRDF Reification \n•  RDF statements about other RDF statements \n-  “Raúl believes that Oscar’s birthdate is on Feb 2nd, 1976 and that \nhis e-mail address is ocorcho@fi.upm.es” \n•  RDF Reification \n-  Allows expressing beliefs (and other modalities) \n-  Allows expressing trust models, digital signatures, etc. \n-  Allows expressing metadata about metadata \noeg:Raúl \noeg:Oscar \n“ocorcho@fi.upm.es” \n02/02/1976 \nperson:hasEmailAddress \nmodal:believes \nperson:hasBirthDate \n15 \n",
+  "speaker": "SYSTEM",
+  "uuid": "0d3bf1f3-4921-48cd-94d7-0be48a1fc2ec"
+}

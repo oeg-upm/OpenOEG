@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Marcos.pdf: Página 40\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nFases de la equiparación\n1.\nSelección de marcos clase candidatos\n•\nTipo \n•\nMarcos clase en los que se encuentre definida una propiedad conocida en el marco pregunta\n2.\nCálculo del Valor de Equiparación (VE)\n•\nVE informa de la idoneidad de la equiparación que se va a realizar.\n•\nVE debe tener en cuenta la herencia de propiedades\n•\nMétricas\n•\nVE  en [0, 1]\n•\nVE en [-1, 1]\n3.\nDecisión\n•\nFijar un umbral\n•\nUtilizar relaciones “disjunto-de”\n•\nEquiparar con aquellos marcos clase que superen el umbral\n",
+  "speaker": "SYSTEM",
+  "uuid": "c4347d5e-f256-4728-9f30-3bf601f3c048"
+}

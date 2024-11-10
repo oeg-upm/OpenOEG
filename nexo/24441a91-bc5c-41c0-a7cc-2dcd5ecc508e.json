@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Sparqlex.pdf: Página 11\nQueries about the instances\n• Give me all the towns and its population (if\nthey have the property population defined)\nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nSELECT ?x ?y  WHERE { $place a pr:Localidad;\nrdfs:label ?x.\nOPTIONAL {$place pr:NumeroHabitantes ?y.}\n}\n",
+  "speaker": "SYSTEM",
+  "uuid": "24441a91-bc5c-41c0-a7cc-2dcd5ecc508e"
+}

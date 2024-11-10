@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Evaluación 1: Accuracy\n\nUsado para medir la exactitud del sistema.  Contamos el número de veces que una traducción correcta esta en la primera posición.",
+  "speaker": "SYSTEM",
+  "uuid": "1f16a4ef-81b4-4aa0-abbc-10bc3f060f77"
+}

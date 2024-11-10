@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologies.pdf: Página 28\n©Asunción Gómez-Pérez\n28\nClass Hierarchy\n All the siblings in the hierarchy (except for the ones at \nthe root) must be at the same level of generality.\n Subclasses of a class usually\n– have additional properties that the superclass does \nnot have, or\n– restrictions different from those of the superclass, or \n– participate in different relationships than the \nsuperclasses\n If there are more than a dozen subclasses for a given class then additional \nintermediate categories may be necessary. \n If a class has only one direct subclass there may be a modeling problem \nor the ontology is not complete.\n",
+  "speaker": "SYSTEM",
+  "uuid": "b1562117-00c1-41a9-931e-7709240a6ca1"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01.02.L%C3%B3gicaDescriptiva.pdf: Página 9\n9 \nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva \nChunk 1. Formalisation in DL \n⊆⊥\n∃\n∪\n∩\n∃\n∪\n∃\n∩\n∃\n∩\n≡\n∀\n∩\n⊆\n∀\n∩\n⊆\n∃\n⊆\n∃\n⊆\n⊆\n⊆\n)\n.\n(\n)\n.\n(\n)\n.\n.(\n.\n.\n.\n.\nplant\npartOf\nplant\nanimal\npartOf\nanimal\nsheep\npartOf\nbrain\neats\ncow\nmadCow\nleaf\neats\nanimal\ngiraffe\ngrass\neats\nanimal\nsheep\nbone\neats\ndog\ntree\npartOf\nleaf\nplant\ntree\nplant\ngrass\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva \nChunk 2. Formalisation in DL \nhasParent\nhasFather\nhasParent\nhasMother\nadult\nyoung\ncat\nhasPet\nanimal\nhasPet\noldLady\nelderly\nfemale\nperson\noldLady\nadult\nperson\ngrownUp\nadult\nfemale\nperson\nwoman\nadult\nmale\nperson\nman\nyoung\nperson\nkid\nadult\nperson\nelderly\ncompany\npany\nhaulageCom\ncompany\nbusCompany\nvehicle\ntruck\nvehicle\nlorry\nvehicle\ncar\nvehicle\nbus\nvehicle\nbicycle\n⊆\n⊆\n⊆⊥\n∩\n∀\n∩\n∃\n⊆\n∩\n∩\n≡\n∩\n≡\n∩\n∩\n≡\n∩\n∩\n≡\n∩\n≡\n∩\n⊆\n⊆\n⊆\n⊆\n⊆\n⊆\n⊆\n⊆\n.\n.\n;\n;\n;\n;\n;\n",
+  "speaker": "SYSTEM",
+  "uuid": "8aa00631-bab0-4f6a-813f-da954707e200"
+}

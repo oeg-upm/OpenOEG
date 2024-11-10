@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 06_NonStandardOWLReasoning_ModularisationAndDebugging.pdf: Página 21\n• Our knowledge base O uses the imported terms \nsafely if for all classes A, B built from the imported \nterms:\nIf \nƐ’ ╞ A ⊆B,\nthen \nO U Ɛ’ ╞ A ⊆B\n• Safety = preserving non-entailments\n• Safety is also provided by locality (= sufficient \ncondition).\n21\n",
+  "speaker": "SYSTEM",
+  "uuid": "7ad72da0-b47c-4f1f-9ed0-531a19d497fd"
+}

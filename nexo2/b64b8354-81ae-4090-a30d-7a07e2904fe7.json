@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2.RDF%28S%29.pdf: Página 23\n• 23 \nExercise 1.a. StickyNote_PureRDF.rdf \n45 \nsn:event4 \nsn:event3 \nsn:event5 \nsn:OscarCorcho \n2006-05-16 \n2006-05-15 \nsn:PinarAlper \nsn:CaroleGoble \n2006-05-15 \nsn:involves \nsn:involves \nsn:involves \nsn:eventDate \nsn:eventDate \nsn:eventDate \nExercise 1.b. Create files from a graph \n•  Transform the following graph into N3 syntax \n46 \nSensor029 \nClass01 \nMeasurement8401 \n2010-06-12T12:00:12 \n29 \nComputer101 \nUser10A \nPedro \nincludes \nincludes \nhasOwner \nhasName \nhasMeasurement \nhasTemperature \natTime \n",
+  "speaker": "SYSTEM",
+  "uuid": "b64b8354-81ae-4090-a30d-7a07e2904fe7"
+}

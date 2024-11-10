@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 07_MGLD.pdf: Página 23\nTransformation \n•  Take the data sources selected in the specification \nactivity and transform them to RDF according to the \nvocabulary created in the modelling activity \n•  Some tools \n•  CSV and spreadsheets \n•  RDF extension of Google Refine, XLWrap, RDF123, NOR2O \n•  RDB \n•  D2R Server, ODEMapster, W3C RDB2RDF WG – R2RML \n•  XML \n•  GRDDL, ReDeFer \n23 \nGeneration \n",
+  "speaker": "SYSTEM",
+  "uuid": "a042c5e1-9015-4aca-a5db-c08b48157020"
+}

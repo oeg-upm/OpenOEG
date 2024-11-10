@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologies%26multilinguality%40wiki_24-01-08.pdf: Página 9\n©Guadalupe Aguado de Cea\n9\nNLP systems including\nmultilinguality: EWN\n¾ EuroWordNet\n•\nBased in Wordnet, http://wordnet.princeton.edu/perl/webwn\n¾ Objectives\n•\nBuilding a multilingual database with wordnets for several languages:\nDutch, Italian, Spanish,  English, German, French, Estonian and Czeck\n•\nBuilding wordnets: monolingual autonomous ontologies, connected by \nan ILI\n•\nBased on Wordnet synsets: set of synonymous word meanings and\nbasic semantic relations\n•\nUsing existing national resources to build networks independently\n•\nMaintain the language specific structures and compare concept\nrelations\n¾ Participants: 8 universities (UNED, UPC), 3 Business firms.\n¾ Funded by the EU. \n",
+  "speaker": "SYSTEM",
+  "uuid": "c7e68c1e-5b5a-4682-8eb3-c4750b82b00d"
+}

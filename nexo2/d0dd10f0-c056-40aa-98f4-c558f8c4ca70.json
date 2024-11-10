@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 20161215-MappingpediaPresentation.pdf: Página 6\nVocabularies\n• Dataset\n•\ndcat:Dataset, dcat:Distribution, etc\n•\nprobably PROV-O or DCAT-AP\n• Table & Column\n•\nr2rml:TriplesMap, r2rml:SubjectMap, etc...\n• Mappingpedia vocabulary (mpv)\n•\nmpv:R2RMLMappingDocument, mpv:hasDataset, \nmpv:hasTriplesMap, etc...\n6\n",
+  "speaker": "SYSTEM",
+  "uuid": "d0dd10f0-c056-40aa-98f4-c558f8c4ca70"
+}

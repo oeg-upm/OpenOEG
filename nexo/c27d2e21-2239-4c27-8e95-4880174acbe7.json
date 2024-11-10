@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Vidal.Sep19.pdf: Página 15\nPage 15\nChallenges for Query Processing  \n15\nGiven a query Q in a formal language, i.e., SPARQL\n●\nIdentify the relevant data sources for Q (Source Selection)\n●\nDecompose Q into subqueries on relevant data sources (Query Decomposition)\n●\nPlan evaluation of subqueries against relevant data sources (Query Planning)\n●\nMerge data collected from relevant data sources (Query Execution)\nRelevant data sources for Q: minimal set of sources S \nfrom a federation of source F such that the answer of \nevaluating Q in S is the same than evaluating Q in F\n",
+  "speaker": "SYSTEM",
+  "uuid": "c27d2e21-2239-4c27-8e95-4880174acbe7"
+}

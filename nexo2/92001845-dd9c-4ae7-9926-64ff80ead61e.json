@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologies%26multilinguality%40wiki_24-01-08.pdf: Página 13\n©Guadalupe Aguado de Cea\n13\nNLP systems including\nmultilinguality: Genoma-KB\n– Ontological Module: (MikroKosmos) 21 basic concepts:\nALL, OBJECT (physical, mental, social), EVENT (physical, \nmental, social),  PROPERTY (attribute, relation), etc.\n• Feliu (2004) describes certain relations\n– Similarity, Hyponymy, Sequential relations (place and time)\n– Causality, Instrument, Meronymy, Association\n– Terminological Module:\n• Multilinguality, POS, context, sources, lemma, administrative \ninformation\n– Corpus Module: multilingual texts (En-Cat-Sp)\n– Entities Module:\n• Bibliography: complete references of terms and texts\n• Factual module: research centres, people, institutions, etc.\n",
+  "speaker": "SYSTEM",
+  "uuid": "92001845-dd9c-4ae7-9926-64ff80ead61e"
+}

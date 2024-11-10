@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 22\n© O. Corcho, R.García-Castro, O. Muñoz-García\n22\nRDF and RDF Schema\nRDF: Resource Description Framework\n•\nW3C recommendation\n•\nRDF is a basic KR language, based on semantic networks\n–\nUseful to represent metadata and describe any type of information in a machine-\naccessible way (aka data model)\n–\nResources are described in terms of properties \nand property values using RDF statements.\n–\nStatements are represented as triples, \nconsisting of a subject, predicate and \nobject. [S, P, O]\nOscar\nAsun\nhasColleague\nRaúl\nhttp://www.fi.upm.es/\nhasColleague\nhasHomePage\n“Oscar Corcho García”\nhasName\nResource\nSubject\nObject\nproperty\nStatement\n",
+  "speaker": "SYSTEM",
+  "uuid": "01877f37-4044-4989-8350-782b557968e5"
+}

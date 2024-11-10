@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 05_CasoPr%C3%A1ctico.pdf: Página 2\n‐ \nLos servidores 1 a 8 y el servidor A son servidores. El servidor 1, 3, 5 y 7 albergan las \nmáquinas virtuales VM1, VM2, VM3 y VM4 respectivametne. El servidor 2, 4, 6 y 8 \nalbergan las aplicaciones 1, 2, 3 y 4 respectivamente. \n‐ \nEl servidor A es un servidor del que no se tiene más información. \n‐ \nLas máquinas virtuales VM1, VM2, VM3 y VM4 son máquinas virtuales y albergan los \nservidores 2, 4, 6 y 8. \nSe quiere conocer cuáles son los servidores en los que están albergadas las aplicaciones 1 a 4, \ncuáles de los servidores son servidores activos, cuáles virtuales y cuáles inactivos, y qué \naplicaciones o servidores albergan estos servidores, o por qué servidores o máquinas virtuales \nson albergados. \n \n",
+  "speaker": "SYSTEM",
+  "uuid": "da6573de-2cec-441a-b9b4-3029b6d135e9"
+}

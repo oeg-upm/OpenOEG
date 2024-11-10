@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 3._GC-Redes_Sem%C3%A1nticas-v3.pdf: Página 35\nRedes Semánticas  \nFacultad de Informática. Universidad Politécnica de Madrid \n© Asunción Gómez Pérez \nRedes Semánticas \n \nDEFINICIÓN: \nUn apunte (consulta) se equiparará con una BC si la primera puede asociarse con un \nfragmento de la segunda. \n \nPASOS: \n1.\nConstruir un apunte para la pregunta en cuestión. \n \nElementos: nodos constantes, nodos variables, arcos etiquetados \n \nCriterio de construcción: el de la Base de Conocimientos. \n2.\nCotejar el apunte con la Base de Conocimientos. \n3.\nEquiparación de nodos. \n4.\nRespuesta. \nEQUIPARACIÓN \n",
+  "speaker": "SYSTEM",
+  "uuid": "5f2f1e2a-2f33-4af9-b487-4b0fe9eaa78a"
+}

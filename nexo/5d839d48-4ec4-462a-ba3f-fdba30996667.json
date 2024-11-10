@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Fpriyatna-oeg-20141002.pdf: Página 9\nInformation Preservation: Example\nPK\nEID\nLNAME\n7369\nSmith\nEMP\n<TMEmp> a rr:TriplesMap;\n  rr:logicalTable [ rr:tableName “EMP” ];\n  \n  rr:subjectMap [\n    rr:template “:PERSON/PERSONID={EID}.LASTNAME={LNAME}”;\n    rr:class PERSON; rr:termType rr:blankNode;\n  ];\n  \n  rr:predicateObjectMap [\n    rr:predicateMap [ rr:constant PERSON#PERSONID];\n    rr:objectMap [ rr:column \"EID\"];\n  ];\n  \n  rr:predicateObjectMap [\n    rr:predicateMap [ rr:constant PERSON#LASTNAME];\n    rr:objectMap [ rr:column \"LNAME\"];\n  ]\n].\n:PERSON/PERSONID=7369.LASTNAME=Smith rdf:type <PERSON> .\n:PERSON/PERSONID=7369.LASTNAME=Smith <PERSON#PERSONID> \"7369\" .\n:PERSON/PERSONID=7369.LASTNAME=Smith <PERSON#LASTNAME> \"Smith\" .\nPERSONID\nLASTNAME\n7369\nSmith\nPERSON\n",
+  "speaker": "SYSTEM",
+  "uuid": "5d839d48-4ec4-462a-ba3f-fdba30996667"
+}

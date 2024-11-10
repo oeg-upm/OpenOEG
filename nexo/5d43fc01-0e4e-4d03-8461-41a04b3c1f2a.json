@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA-2011.pdf: Página 143\nALGORITMO AO*\n6. Crear un conjunto de nodos simples, C,     \nconteniendo sólo el nodo n\n7. Hasta que C esté vacío, hacer:\n8. Eliminar de C un nodo m tal que no tenga \nsucesores en G que aparezcan en C\n",
+  "speaker": "SYSTEM",
+  "uuid": "5d43fc01-0e4e-4d03-8461-41a04b3c1f2a"
+}

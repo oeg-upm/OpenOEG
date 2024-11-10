@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ModelosRazonam_DynaLearn_Nov2011.pdf: Página 26\nQ1 – Semantic Web resources\nKnowledge source\nCoverage Ratio\nDBpedia\n72%\nOpenCyc\n69%\nWordNet\n45%\nWatson\n47%\nTested 1686 different English words coming from DynaLearn glossaries\nCoverage Study\n26\nBehaviour of Dbpedia in other languages?\nLabels in other languages for the covered English terms:\nLanguage\nratio\nEnglish\n100%\nGerman\n72%\nSpanish\n64%\nDutch\n61%\nPortuguese\n58%\n",
+  "speaker": "SYSTEM",
+  "uuid": "bb08370f-5059-4bce-b933-120b5539890e"
+}

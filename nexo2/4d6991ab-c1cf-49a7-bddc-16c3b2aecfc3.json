@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Morfológico - Sintáctico\n\nConnexor\n: licencia para (a) analizar no sólo castellano, sino también inglés y/o francés; y (b) recibir el envío de actualizaciones. La licencia es para análisis de dependencias sintácticas, no de estructuras de frases.\nDataLexica\n: analizador morfosintáctico.\nSpanishPlugin - GATE\n: permite hasta NE en español (tokenizado, detección de frases, POS, y NE). Desarrollado en la tesis de Valentina Muñoz Porras (2008). Usa otro plugin de la misma autora llamado TBLTools. Ambos se pueden encontrar en sourceforge.org.tii.\nSeTagger - FreeLing\n: fue desarrollado por Puche.\nPOS (análisis morfosintáctico)\n: tiene una precisión del 93.79%.\nTreeTager\n: tiene una precisión del 96,81% en inglés y 97.53% alemán (ver Schmid 1999 \"Improvements in Part-of-speech tagging with an application to german\").\nOtras publicaciones de interés son los proyectos final de carrera de Javier Arrizabalaga y Jaime Cantais que versan sobre estos temas.",
+  "speaker": "SYSTEM",
+  "uuid": "4d6991ab-c1cf-49a7-bddc-16c3b2aecfc3"
+}

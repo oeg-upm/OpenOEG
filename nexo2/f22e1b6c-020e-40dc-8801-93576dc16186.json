@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 7\nLearning to play Atari 2\nAchieved performance comparable \nto or better than an experienced \nhuman on 29 out of 49 games\nThe architecture and \nhyperparameter values were the \nsame for all 49 games\nNo expert system or even data!\nUses a Deep Q-network (DQN) \ntype of convolutional network\nrepresent the action value function Q\nQ(s, a) is an estimation of how \nvaluable an action a at state s\nDQN learn Q with end-to-end RL \nmapping the raw pixels to action \nvalues in Atari games\n7\n",
+  "speaker": "SYSTEM",
+  "uuid": "f22e1b6c-020e-40dc-8801-93576dc16186"
+}

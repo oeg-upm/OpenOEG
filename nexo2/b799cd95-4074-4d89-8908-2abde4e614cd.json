@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 23\n© O. Corcho, R.García-Castro, O. Muñoz-García\n23\nRDF and RDF Schema\nMore hints\n• List root classes\n• ExtendedIterator listHierarchyRootClasses()\n• List subclasses of a class\n• ExtendedIterator listSubClasses(boolean direct)\n• List instances of a class\n• ExtendedIterator listInstances(boolean direct)\n",
+  "speaker": "SYSTEM",
+  "uuid": "b799cd95-4074-4d89-8908-2abde4e614cd"
+}

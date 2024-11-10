@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_OWL.pdf: Página 5\n© O. Corcho, MC Suárez de Figueroa Baonza\n5\nOWL and SWRL\nDL Architecture\nKnowledge Base\nTbox (schema)\nAbox (data)\nMan Human Male\nHappy-Father Man has-child \nFemale …\nJohn Happy-Father\n(John, Mary) has-child\nJohn (= 1 has-child)\nInference System\nInterface\n",
+  "speaker": "SYSTEM",
+  "uuid": "003dc690-2bb4-420c-9793-082fa6d09153"
+}

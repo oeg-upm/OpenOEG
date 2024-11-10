@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Presentacion_WORKS-yg-dgV1.pdf: Página 5\n4 \nKey Features of our approach \n•\nPublish an abstract workflow in addition to executable workflow \n– Description of workflow that is independent of the codes executed \n– Maps to the codes executed (the “executable workflow”) \n \n•\nPublish both abstract and executable workflow using the OPM standard  \n– OPM (Open Provenance Model) is independent of workflow framework and is \nwidely implemented \n– Other groups can import to their own workflow framework \n \n•\nPublish data and workflows as Linked Data on the Web \n– All workflows and related files are web-accessible \n– Simple mechanism to share across local file systems  \n",
+  "speaker": "SYSTEM",
+  "uuid": "49320f0d-02a3-4478-aa84-99236cdafdd0"
+}

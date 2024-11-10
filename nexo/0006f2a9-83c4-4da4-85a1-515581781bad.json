@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_SPARQL.pdf: Página 4\nSPARQL Query Language \nFocused on pattern matching on the RDF graph \n4 \n“Elections and voters that have not voted in those elections” \nPREFIX vote:<tag:govshare.info,2005:rdf/vote/>!\nSELECT ?Eleccion, ?Persona!\n!FROM <votes.rdf>!\n!WHERE !{?Rep vote:voter ?Persona .!\n!!\n!    ?Rep vote:option \"NoVote\".!\n!!!    ?Eleccion vote:hasBallot ?Rep}!\nProjected attributes \nNamespaces \nRDF datasets \nBasic Graph Pattern \nSet of triple patterns \n",
+  "speaker": "SYSTEM",
+  "uuid": "0006f2a9-83c4-4da4-85a1-515581781bad"
+}

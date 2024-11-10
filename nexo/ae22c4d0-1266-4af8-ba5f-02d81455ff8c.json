@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 25\n© O. Corcho, R.García-Castro, O. Muñoz-García\n25\nRDF and RDF Schema\n•\nLanguages developed to allow accessing datasets expressed in RDF(S) (and in some cases \nOWL)\n•\nSupported by the most important language APIs\n–\nJena (HP labs)\n–\nSesame (Aduna)\n–\nBoca (IBM)\n–\n...\n•\nThere are some differences wrt languages like SQL, such as\n–\nCombination of different sources\n–\nTrust management\n–\nOpen World Assumption\nRelational\nDB\nApplication\nSQL queries\nRDF(S)\nOWL\nApplication\nRQL, RDQL, etc., queries\nRDF(S) query languages\n",
+  "speaker": "SYSTEM",
+  "uuid": "ae22c4d0-1266-4af8-ba5f-02d81455ff8c"
+}

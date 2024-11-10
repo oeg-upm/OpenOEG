@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: DbpProperties.RicoMay2016.pdf: Página 11\n11© M. Rico 2016\n© M. Rico 2016Claim\nClaimC2 C2•\n•SPARQL queries barely use SPARQL queries barely use dbpdbpproperties properties–\n–We need We need to analyze SPARQL repositories (logs)to analyze SPARQL repositories (logs)–\n–Fortunately Fortunately•\n•We have logs for the Spanish DBpedia We have logs for the Spanish DBpedia•\n•There is a public repository at There is a public repository at aksw.github.io/LSQaksw.github.io/LSQ–\n–DBpedia (logs from DBpedia (logs from 30/04/201030/04/2010––20/07/2010). 1.7M queries20/07/2010). 1.7M queries–\n–Linked Linked Geo Data Geo Data (24/11/2010 (24/11/2010––06/07/2011). 1.6 M queries06/07/2011). 1.6 M queries–\n–Semantic Semantic Web Dog Food Web Dog Food (16/05/2014(16/05/2014––12/11/2014). 1.4M queries12/11/2014). 1.4M queries–\n–British British Museum Museum (08/11/2014(08/11/2014––01/12/2014)01/12/2014)0.8M 0.8M queriesqueries\n",
+  "speaker": "SYSTEM",
+  "uuid": "c75a98c1-0d8e-4762-8038-82c52f3e0807"
+}

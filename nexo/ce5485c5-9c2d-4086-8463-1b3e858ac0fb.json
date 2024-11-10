@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion-2013.pdf: Página 80\nPlanificación \n \n \n \nGirar (s,p,p1) \nPrecondiciones: apunta (s,p), posición (p1), p ≠ \np1 \nAñadidos: apunta (s,p1)  \nBorrados: apunta (s,p) \n \n \n",
+  "speaker": "SYSTEM",
+  "uuid": "ce5485c5-9c2d-4086-8463-1b3e858ac0fb"
+}

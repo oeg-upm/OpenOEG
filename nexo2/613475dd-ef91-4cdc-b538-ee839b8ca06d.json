@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA_grado-2013.pdf: Página 77\nBIDA* \n \nA CONTINUACIÓN SE REALIZA LA \nSEGUNDA BÚSQUEDA A PARTIR DEL \nNODO INICIAL s.  \nESTA BÚSQUEDA PODRÍA REALIZARSE \nCON CUALQUIER ALGORÍTMO PERO EN EL \nBIDA*, SERÁ EL IDA* CON LA FUNCIÓN \nHEURÍSTICA \n \nhd(n) = min { h(n,m) + h* (m,t)} \n                      \n                 m Є Pd \n",
+  "speaker": "SYSTEM",
+  "uuid": "613475dd-ef91-4cdc-b538-ee839b8ca06d"
+}

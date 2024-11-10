@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2019.02.OEG.Work.on.Events.pptx: Diapositiva {10}\nSeveral annotation schemas:\nTimeML: focused on temporal information, types (reporting, aspectual, state…)\nACE: different types; among them, JUSTICE, with:\narrest-jail, release-parole, trial-hearing, sue, execute, appeal…\nGeneral ontologies:\nTime + PROV\nEvent Ontology, by Yves Raymond\nSimple Event Ontology\nOntology Design Patterns (description-situation, event processing)\nFrames (like in FrameNet)\n\nMost cases, each work has its own ad hoc definition.",
+  "speaker": "SYSTEM",
+  "uuid": "9584dccb-8f23-435e-8b54-334cb8119e0a"
+}

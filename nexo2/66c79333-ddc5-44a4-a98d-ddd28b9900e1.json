@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Geolinkeddata_07042011-1.pdf: Página 11\nGeometry Model\n11\n• One importante issue: How to handle order \nof points in composite geometries?\n• Using an order data property.\n• rdf:seq\n• rdf:List\n• SPARQL 1.1 allows to query this.\nRequirements captured at GeoVoCamp Southampton 2011\njueves 7 de abril de 2011\n",
+  "speaker": "SYSTEM",
+  "uuid": "66c79333-ddc5-44a4-a98d-ddd28b9900e1"
+}

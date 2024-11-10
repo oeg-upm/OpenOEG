@@ -1,0 +1,8 @@
+
+USER: Saturday, November 09, 2024 at 10:16AM  - hola, que me puedes decir de los plazos en la politica de viajes
+ABIGAIL: Saturday, November 09, 2024 at 10:16AM  - ¡Hola! Me alegra que hayas llegado. Entiendo que te gustaría saber más sobre los plazos en la política de viajes. En la Ontology Engineering Group Wiki, tenemos establecidos algunos plazos importantes para el proyecto LinkedData.
+Según la página "El Viajero LinkedData", se especifica que:
+* El 15 de marzo al 30 de marzo estará dedicado a la implementación.
+* Del 1 de abril al 15 de abril se realizará la evaluación y mejora del proyecto.
+* Finalmente, del 15 de abril al 30 de abril se trabajará en la redacción del paper.
+Estos plazos son muy importantes para que podamos avanzar en el proyecto y alcanzar nuestros objetivos. ¿Quieres saber más sobre cómo podemos colaborar o cómo puedes contribuir a estos plazos? Estoy aquí para ayudarte.

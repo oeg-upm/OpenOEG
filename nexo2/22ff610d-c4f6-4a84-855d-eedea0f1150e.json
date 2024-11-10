@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AMPER08_-_RDF%28S%29_access_APIs.pdf: Página 4\nRDF(S) Access APIs, May 2008\n4\n© García-Castro, Corcho, Muñoz-García\nJena\n• Java framework for building Semantic Web \napplications\n• Open source software from HP Labs:\n• The Jena framework includes:\n– A RDF API\n– An OWL API\n– Reading and writing RDF in RDF/XML, N3 and N-Triples\n– In-memory and persistent storage\n– A rule based inference engine\n– SPARQL query engine\n",
+  "speaker": "SYSTEM",
+  "uuid": "22ff610d-c4f6-4a84-855d-eedea0f1150e"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Presentacion_OEG26-02-2014.pdf: Página 26\nMacro abstraction detection\nProblem statement: \nGiven a repository of workflow templates (either abstract or specific) or workflow \nexecution traces, what are the workflow fragments I can deduce from it? \nUseful for:\n•Systems like Taverna and Wings: (Many templates, little annotation to relate them)\n•Finding relationships between workflows and sub-workflows.\n•Most used fragments, most executed, etc.\n•Systems like GenePattern and Galaxy: (Many runs, nearly no templates published)\n•Proposing new templates with the popular fragments.\n26\n",
+  "speaker": "SYSTEM",
+  "uuid": "696ca6b9-04e9-43de-898c-bb60b2aa22f4"
+}

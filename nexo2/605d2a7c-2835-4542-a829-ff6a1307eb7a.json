@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Garc%C3%ADaEtAl_CKCaR09.pdf: Página 18\nIssues affecting the disambiguation process\n• Dbpedia resources with lower \nnumber of terms in Voc(tag)\n• When the context has few \nterms, it’s likely that shorter \nsense vectors are more similar  \nto the context vector than \nlonger sense vectors.\n• When none of the tags in the \ncontext appears in Voc(tag) the \nsense selection is carried out in \nterms of  freq(tag)\n18\nDBpedia\nFreq \nTerms in\nEntry\n(nottingham )\nVoc(nottingham )\n../Nottingham\n181\n16\n../Sheriff_of_Nottingham\n9\n3\n../Nottingham_Cooperative\n12\n12\n../Nottinghamshire\n27\n15\n../Nottingham,_New_Hampshire\n14\n17\nPreliminary Results\n",
+  "speaker": "SYSTEM",
+  "uuid": "605d2a7c-2835-4542-a829-ff6a1307eb7a"
+}

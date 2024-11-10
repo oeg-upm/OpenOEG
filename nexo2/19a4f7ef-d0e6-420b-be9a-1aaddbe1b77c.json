@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Vidal.Sep19.pdf: Página 14\nPage 14\nQuery Rewriting Problem\nQuery Rewriting Problem (QRP):\n●\nA query Q is a conjunctive query \nover predicates in O\n●\nFind a conjunctive query Q’ \nexpressed in sources in S based on \nrules in M, such that\n○\nEvaluation of Q’ produces only \nanswers of Q\n○\nEvaluation of Q’ produces all \nthe answers of Q given the \nsources in S\nData Integration \nSystem\nWrapper\nWrapper\nWrapper\nTheorem [Levy et al. 1995]\nTo check if there is a valid rewriting Q’ of Q with at \nmost the same number of goals as Q is an \nNP-complete problem. \n",
+  "speaker": "SYSTEM",
+  "uuid": "19a4f7ef-d0e6-420b-be9a-1aaddbe1b77c"
+}

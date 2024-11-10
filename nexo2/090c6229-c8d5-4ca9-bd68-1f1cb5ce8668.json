@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Metodolog%C3%ADa-1-v1%28asun%29.pdf: Página 24\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n27\nOntological Engineering\nO. Specification\nO. Conceptualization\nO. Implementation\nO. Formalization\n1\nRDF(S)\nOWL\nFlogic\nNeOn Scenarios\nOntology Restructuring\n(Pruning, Extension, \nSpecialization, Modularization)\n8\nO. Localization\n9\nOntology Support Activities: Knowledge Acquisition (Elicitation); Documentation; \nConfiguration Management; Evaluation (V&V); Assessment\n1,2,3,4,5,6,7,8, 9\nO. Aligning\nO. Merging \nAlignments\n5\n5\n5\nOntological Resource\nReengineering\n4\n4\n4\n6\n6\n6\n6\nKnowledge Resources\nOntological Resources\nO. Design Patterns\n2\nNon Ontological Resources\nThesauri\nDictionaries\nGlossaries\nLexicons\nTaxonomies\nClassification\nSchemas\nNon Ontological Resource\nReuse\nNon Ontological Resource\nReengineering\n2\n2\nO. Repositories and Registries\nFlogic\nRDF(S)\nOWL\nOntology Design\nPattern Reuse\n7\n3\nOntological Resource\nReuse\n3\n",
+  "speaker": "SYSTEM",
+  "uuid": "090c6229-c8d5-4ca9-bd68-1f1cb5ce8668"
+}

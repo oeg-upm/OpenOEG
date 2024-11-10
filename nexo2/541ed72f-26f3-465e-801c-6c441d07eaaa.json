@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Garc%C3%ADaEtAl_CKCaR09.pdf: Página 21\nConclusions & Future Work\n• Future Work\n•\nImprove current results\n• Test the approach in a large tag set with the different contexts.\n• Sophisticated similarity measures\n• Study tagging activities in specific domains.\n• Extract more context information from the tagged resource (text \ndocuments)\n•\nEvaluation of the aproach\n• Evaluation using Precision and Recall\n• Test bed and Standard evaluation metrics\n•\nApplications\n• Use DBpedia semantic information to evolve domain ontologies\n• Use DBpedia semantic information to improve searching and \nrecommendation processes.\n21\n",
+  "speaker": "SYSTEM",
+  "uuid": "541ed72f-26f3-465e-801c-6c441d07eaaa"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Sparqlex.pdf: Página 14\nQueries about the instances\n• Give me the postal data of Pazo de Breogan\nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nSELECT ?street ?number ?town ?province\nWHERE { pr:Pazo_Breogan pr:SituadoEn $place;\npr:Direccion $address.\n$place rdfs:label ?town;\npr:Provincia ?province.               \n$address pr:Calle ?street;\npr:Numero ?number.\n}\n",
+  "speaker": "SYSTEM",
+  "uuid": "2ac3bd6d-49c3-4d58-9a77-5e55d857c135"
+}

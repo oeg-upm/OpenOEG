@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 07_Applications.pdf: Página 43\nSatellite Use Case (System Infrastructure): S-OGSA Scenario\nPlanning file\nserver\nProduct file\nserver GT4\nGT4\n8\nSt\n( t\nt ti\nt\nti\nti\nEPR)\nGrid-KP\n3\nAnnotate file\nserver\nGermany\nserver\nItaly\nGT4\nGT4\nGet file summaries\nONTO-DSI\nONTO-DSI\nOverlapChecking\nService\n8\nStore (start-time, stop-time, gen-time, EPR)\nFile directory\nSpain\n1a Get file names\n2\n5\nRDF File \nUpload\n9\nDestroy (if \nneeded)\nXML Summary\nAnnotation\nfront-end\n4\n1\nObtain ontology\nSelect files to be \nannotated\nWebDAV\nWS-DAIOnt\nSatelliteDomain \nO t l\nXML Summary\nFile\n6\n1\nCreate\nSemanticBinding \n2’\nUpload XML \nSummary file\nOntology\nInput \ncriteria\ng\nService\n7\nStore\nMetadataQuery\nService\nQUARC-SG client \nJSP\n3\nQuery\n7\nStore\n8\nNotify (start-\ntime, stop-time)\n46\nAtlas\nMetadata generation process\nMetadata querying process\nF\nRD\nF\nF\nRD\nF\n",
+  "speaker": "SYSTEM",
+  "uuid": "c5c60d85-05e6-4f6d-a367-fe3a9b109878"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 05_OWL.pdf: Página 76\n© O. Corcho, MC Suárez de Figueroa Baonza\n56\nOWL 2\nInverse Properties\nEach object property may have a corresponding inverse property.\nIf some property links individual a to individual b, then its invers property ling individual\nb to individual a.\nCreating inverse properties in the pizza example: isIngredientOf.\n",
+  "speaker": "SYSTEM",
+  "uuid": "0b6674df-cbc4-439f-92ea-eb5a37fe2528"
+}

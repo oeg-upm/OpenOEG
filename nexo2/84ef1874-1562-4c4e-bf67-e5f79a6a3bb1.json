@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 14\n© O. Corcho\n14\nOntological Engineering\nRDF(S) limitations\n•\nRDFS too weak to describe resources in sufficient detail\n–\nNo localised range and domain constraints\n•\nCan‟t say that the range of hasChild is person when applied to persons and elephant when applied to \nelephants\n–\nNo existence/cardinality constraints\n•\nCan‟t say that all instances of person have a mother that is also a person, or that persons have exactly 2 \nparents\n–\nNo transitive, inverse or symmetrical properties\n•\nCan‟t say that isPartOf is a transitive property, that hasPart is the inverse of isPartOf or that touches is \nsymmetrical\n–\n…\n•\nDifficult to provide reasoning support\n–\nNo “native” reasoners for non-standard semantics\n–\nMay be possible to reason via FO axiomatisation\n",
+  "speaker": "SYSTEM",
+  "uuid": "84ef1874-1562-4c4e-bf67-e5f79a6a3bb1"
+}

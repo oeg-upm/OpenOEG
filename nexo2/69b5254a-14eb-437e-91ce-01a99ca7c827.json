@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontology-Methodology.pdf: Página 35\n35\nOntology Requirements Specification. Task 8\n Input: the list of identified CQs and their answers \n Objective: to extract from the list of CQs a pre-\nglossary to be used in the conceptualization activity. \nObtaining a list of the most used terms\n Techniques: terminology extraction techniques \nand tools supporting such techniques\nFrom the requirements in form of competency \nquestions, we extract the terminology (names, \nadjectives and verbs) that will be formally \nrepresented in the ontology by means of concepts, \nattributes and relations. \nFrom the answers to the CQs we extract the objects \nin the universe of discourse that will be represented \nas instances.\n",
+  "speaker": "SYSTEM",
+  "uuid": "69b5254a-14eb-437e-91ce-01a99ca7c827"
+}

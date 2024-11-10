@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Marcos.pdf: Página 30\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\n1. Representar que las tareas son: tareas de gestión, tareas financieras, \ntareas de marketing y tareas de control.  (0,2 puntos)\n2. Representar que los planes son: planes de gestión, planes \nfinancieros, planes de marketing y planes de control. (0,2 puntos)\n3. Representar que los planes y tareas son disjuntos. (0,2 puntos)\n4. Representar  que las tareas de control son únicamente: tareas de \ncomienzo, de finalización y tareas secuenciales y que una tarea \nconcreta solo puede estar en una de estas categorías. (0,2 puntos)\n5. Representar que un plan de gestión tiene asociado una tarea de \ngestión, entre otras.  (0,2 puntos)\n6. Representar que el Plan-1 es un plan de marketing y que la tarea \nTarea-1 es una tarea de marketing, y que el Plan-1 tiene asociado la \nTarea-1. (0,2 puntos)\n7. Representar que el departamento financiero lleva a cabo un plan \nfinanciero para el departamento de Marketing.  (0,5 puntos)\n",
+  "speaker": "SYSTEM",
+  "uuid": "fd9de281-a0d0-4de4-a2dd-bd827d2d82dc"
+}

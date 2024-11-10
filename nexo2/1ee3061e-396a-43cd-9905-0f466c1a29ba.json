@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AMPER08_-_RDF%28S%29_access_APIs.pdf: Página 3\nRDF(S) Access APIs, May 2008\n3\n© García-Castro, Corcho, Muñoz-García\nSample RDF APIs\nRDF libraries for different languages: \n–\nJava, Python, C, C++, C#, .Net, Javascript, Tcl/Tk, PHP, Lisp, Obj-C, Prolog, Perl, \nRuby, Haskell\n–\nList in http://esw.w3.org/topic/SemanticWebTools\nUsually related to a RDF repository\n•\nMultilanguage:\n–\nRedland RDF Application Framework (C, Perl, PHP, Python and Ruby): \nhttp://www.redland.opensource.ac.uk/\n•\nJava:\n–\nJena: http://jena.sourceforge.net/\n–\nSesame: http://www.openrdf.org/\n•\nPHP:\n–\nRAP - RDF API for PHP: http://www4.wiwiss.fu-berlin.de/bizer/rdfapi/\n•\nPython:\n–\nRDFLib: http://rdflib.net/\n–\nPyrple: http://infomesh.net/pyrple/\n",
+  "speaker": "SYSTEM",
+  "uuid": "1ee3061e-396a-43cd-9905-0f466c1a29ba"
+}

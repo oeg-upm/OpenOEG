@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 25\nThe problem\nAn acoustic signal is transcribed into words or \nsub-word units\nMore than recognizing individual sounds in the \naudio [7]\nsequences of sounds need to match existing \nwords\nand sequences of words should make sense in \nthe language\nSolved with language models\ntrained over very large corpora of text\ndifficult to find sources that match naturally \nspoken sentences \n(Shakespeare’s plays in 17th-century English won’t \nhelp on voicemail)\ndifficult to deal with punctuation\nhand-crafted rules o  “grammars” can’t easily take \ntextual context into account\n“Let’s eat, grandpa” vs  “Let’s eat grandpa”\n25\nThe dramatic impact of Deep \nLearning on Speech Recognition\n(according to Microsoft) \n",
+  "speaker": "SYSTEM",
+  "uuid": "6b663354-898f-4efc-b6eb-983934f55a05"
+}

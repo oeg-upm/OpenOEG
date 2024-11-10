@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Intro-IA-v4%28asun%29.pdf: Página 6\nRepresentar conocimientos \nR1: Si (Animal $A) ^ (Esqueleto $A sí)  \n       Entonces  (Vertebrado $A) \n \nR2: Si (Animal $A) ^(Esqueleto $A no) \n       Entonces  (Invertebrado $A) \n \nR3: Si (Vertebrado $A)  (Ladra $A) \n       Entonces (Perro $A) \nBase de Reglas \nBase de Hechos \n(Animal Tucky)  \n(Animal Piolín)  \n(Esqueleto Piolín sí)  \n(Esqueleto Tucky sí)  \n(ladra Tucky) \nEstrategia de Control \n(Animal Tucky)  \n(Animal Piolín)  \n(Esqueleto Piolín sí)  \n(Esqueleto Tucky sí)  \n(ladra Tucky) \n(Vertebrado Tucky) \nCiclo 1:  \nR1, $A= Piolín \nR1, $A= Tucky \n",
+  "speaker": "SYSTEM",
+  "uuid": "8cf2a320-fd8b-4bf2-bda1-0706791d237a"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: Exposing Astrophysical information using LinkedData principles. Especial focus on data from Spanish observatories.\nProject contact: Alex\nContents\n[\nhide\n]\n1\nCatalog of Vocabularies\n2\nCatalog of RDF datasets\n3\nCatalog of non-RDF datasets\n4\nAPIs\n5\nSpanish Observatories\n6\nLinks\nCatalog of Vocabularies\n\nSemantic Web for Earth and Environmental Terminology (SWEET)\nCatalog of RDF datasets\n\nCatalog of non-RDF datasets\n\nHubble Telescope Data\nAPIs\n\nLookUP - search objects by name (output available in XML and JSON)\nCasJobs - SQL interface to Astro data??\nVisualization via Google Sky\nSpanish Observatories\n\nInstituto de Astrofísica de Andalucía\nLinks\n\nConference about Astronomy and Internet\nChromoscope",
+  "speaker": "SYSTEM",
+  "uuid": "03999fe8-389b-4709-b56e-3a8a0394dfa1"
+}

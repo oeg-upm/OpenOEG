@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Intro-SemanticWeb.pdf: Página 20\n©Asunción Gómez-Pérez\n20\nNeed to Add “Semantics”\n•\n \nExternal agreement\n \non meaning of annotations\n–\n \nE.g., Dublin Core for annotation of library/bibliographic information\n•\n \nAgree on the meaning of a set of annotation tags\n–\n \nProblems with this approach\n•\n \nInflexible\n•\n \nLimited number of things can be expressed\n•\n \nUse Ontologies\n \nto specify meaning of annotations\n–\n \nOntologies\n \nprovide a vocabulary of terms\n–\n \nNew terms can be formed by combining existing ones\n•\n \n“Conceptual Lego”\n–\n \nMeaning (semantics) of such terms is formally specified\n–\n \nCan also specify relationships between terms in multiple ontologies\n",
+  "speaker": "SYSTEM",
+  "uuid": "9cd44f54-8a4e-4254-a2e4-271d12eecbef"
+}

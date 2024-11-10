@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Annotation.pdf: Página 23\nExisting approaches\n1.\nConstruir una nueva ontología a partir de \n1\n2\n1 esquema y datos de 1 BD (OntoStudio, \nKaOn Reverse)\n2.  \nMapear la Onto construida en el enfoque \np\nq\n1, con una ontologia de legado (NeOn \ntoolkit UKARL) \n3\nMapear BD existente a una ontologia de\n3. \nMapear BD existente a una ontologia de \nlegado (NeOn Toolkit UPM)\na) Volcado masivo\nb) Dirigido por las consultas\n3\n© O. Corcho, B Villazón, A. Gómez-Pérez\n23\nAnnotation\nnew ontology\nexisting ontology\n",
+  "speaker": "SYSTEM",
+  "uuid": "83b9ba47-b00f-4b4f-b571-1a8b1176e5f8"
+}

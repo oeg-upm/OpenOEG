@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: NLP.Dissociating_language_and_thought_in_large_language_models.pdf: Página 6\n1. Introducción\nLas ciencias cognitivas y la neurociencia nos \ndicen que el lenguaje en el pensamiento en los \nhumanos están robustamente disociados.\nLLMs entrenan prediciendo palabras a partir \nde grandes corpus de texto.\n• Bien para lingüística.\n• No está garantizado que distintos aspectos \nde pensamiento y razonamiento puedan \naprenderse así.\n• Aunque alguna info está “codificada” en \npatrones distribucionales de las palabras.\n",
+  "speaker": "SYSTEM",
+  "uuid": "01012fa6-b379-4386-841f-f546565b3f03"
+}

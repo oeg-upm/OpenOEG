@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 93\n© O. Corcho, R.García-Castro, O. Muñoz-García\n93\nRDF and RDF Schema\nTurtle: Triples and abbreviations\n• Triples separated by .\n:a :b :c . :d :e :f .\n• Common triple predicate and subject:\n:a :b :c, :d .\nwhich is the same as :a :b :c . :a :b :d .\n• Common triple subject:\n:a :b :c; :d :e .\nwhich is the same as: :a :b :c . :a :d :e . \n• Blank node as a subject\n:a :b [ :c :d ]\nwhich is the same as: :a :b _:x . _:x :c :d .\nfor blank node _:x\n• RDF Collections\n– :a :b ( :c :d :e :f )\nwhich is short for many triples\n",
+  "speaker": "SYSTEM",
+  "uuid": "086b058b-2765-4618-bda3-e68315a1da17"
+}

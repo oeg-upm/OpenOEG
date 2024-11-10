@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OEG_and_IoT.pptx: Diapositiva {9}\nSELECT (AVG(?tsky as ?avg) WHERE {\n {\n   ?w wot:offersInteraction [\n      rdfs:label “lat”;\n      wot:hasLatestEntry [\n         wot:value ?tlat\n      ]\n   ] .\n   ?w wot:offersInteraction [\n      rdfs:label “long”;\n      wot:hasLatestEntry [\n         wot:value ?tlong\n      ]\n   ] .\n   ?w wot:offersInteraction [\n      rdfs:label “tsky”;\n      wot:hasLatestEntry [\n         wot:value ?tsky\n      ]\n   ] .\n }\n {\n   [] a sch:Place ;\n      foaf:name ?name ;\n      geo:lat ?lat ;\n      geo:long ?long\n }\n FILTER(STR(?name)=“Madrid” && (?tlong-?long)*(?long-?tlong) < 1 && (?tlat-?lat)*(?lat-?tlat) < 1)\n}",
+  "speaker": "SYSTEM",
+  "uuid": "e56e57df-1bbd-4826-9812-b229deddb069"
+}

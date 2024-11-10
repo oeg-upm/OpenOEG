@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Dev8d_summary.pdf: Página 14\nCloud Workshop\n• Workshop about how to use Amazon EC2 (and \nLinode demo)\n• What is Amazon EC2 + features\n• Elastic computing\n• AMIs = ISOs in Amazon\n• Cons: is like a live CD, 78$ per month (to just run an \ninstance)\n• Static (moveable) IPs, you can assign your won DNS\n• Persistent storage through an EBS volume (S3 mounted as \na volume)\n• How to \n• start a new machine\n• deploy services in it\n• access this machine\n• save data in the Amazon cloud\n",
+  "speaker": "SYSTEM",
+  "uuid": "b43d36f2-a568-461f-bad7-485143051ebf"
+}

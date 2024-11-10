@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 36\nThe Problem of Long-Term Dependencies [8]\nRNNs connect previous information to the \npresent task\nBut if the gap between the relevant information \nand the place that it’s needed is small\nE.g., language model trying to predict the next \nword: “the clouds are in the sky”\n36\n",
+  "speaker": "SYSTEM",
+  "uuid": "c7af20e8-9123-4d52-84a4-cc617f185cfe"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SparqlDQPGrupo.pdf: Página 4\nIntroduction\n• Can RDB2RDF Tools Feasibly Expose Large \nScience Archives for Data Integration?, ESWC 2009 \n• No, among other reasons there is no research in Sparql \nQuery Optimisation (authors dixit)\n• Currently there are only a few approaches to federate \nSPARQL queries\n• Networked Graphs (Staab WWW2008)\n• Executing SPARQL Queries over the Web of Linked Data \n(Hartig, Bizer, Freytag, ISWC09)\n• DARQ (2006)\n• SemWIQ (Langegger, iiWAS2008)\n• Problems from the previous approaches\n• They implement a basic system for optimising Sparql queries\n• They do not take into account blank nodes\n",
+  "speaker": "SYSTEM",
+  "uuid": "8e58a43d-87bf-4147-90d1-5fc78fa168b2"
+}

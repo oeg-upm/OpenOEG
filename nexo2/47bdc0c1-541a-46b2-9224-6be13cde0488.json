@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Metodolog%C3%ADa-SEEMP.pdf: Página 23\nLocal Ontologies Building Process\n•\nOption 1: Building Local Ontologies from the Reference Ontology.\nReference\nReference\nOntology\nOntology\nSpecialize\nSpecialize\nExtend\nExtend\nResultant Local Ontology\nResultant Local Ontology\nPrune\nPrune\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n23\nOntological Engineering\n•\nOption 2: Building Local Ontologies as a reverse engineering process \nfrom ES Data Sources. \nES Data Sources\nES Data Sources\nReverse \nReverse \nEngineering\nEngineering\nResultant Local Ontology\nResultant Local Ontology\n",
+  "speaker": "SYSTEM",
+  "uuid": "47bdc0c1-541a-46b2-9224-6be13cde0488"
+}

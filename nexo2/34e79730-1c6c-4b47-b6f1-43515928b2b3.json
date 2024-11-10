@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 44\nPROLEG semantics a la ASP(continued)\nLet M be a set of atoms. We deﬁne a set of applicable rules w.r.t.\nM, HM, as follows:\n{R ∈H|¬∃exception(head(R), E) ∈E s.t. E ∈M}.\nThis means that if some exception is found for a conclusion H of rule\nR, we do not consider such rule R for derivation.\nThe semantics of P (called an extension of P) is given as a set of\natoms M s.t. M = min(HM)\nwhere min(T) is the minimum model of a set of Horn clauses T.\n44\n",
+  "speaker": "SYSTEM",
+  "uuid": "34e79730-1c6c-4b47-b6f1-43515928b2b3"
+}

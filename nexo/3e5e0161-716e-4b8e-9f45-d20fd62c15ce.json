@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Helio.pdf: Página 20\nSet your title here in Slide Master Options\nTranslation challenge \n20\n§  One ﬁeld in JSON contained more than one RDF \nproperty\n{ \n               \"predicate\" : \"http://schema.org/name\",  \n               \"object\" : \"[trim(regexp_replace(regexp_replace({$.name}, '.*\\\\s+-', ''), '.*,', ''))]\", \n               \"is_literal\" : \"True\"  \n            } \n{ \n               \"predicate\" : \"http://schema.org/name\",  \n               \"object\" : \"[trim(regexp_replace(regexp_replace({$.name}, '.*\\\\s+-', ''), ',.*', ''))]\", \n               \"is_literal\" : \"True\"  \n            } \n\"name” : \"stars001 - Coslada, Spain” \n{ \n              \"predicate\" : \"http://stars4all.es/ontology#referTo\",  \n               \"object\" : \"http://helio.linkeddata.es/stars4all/photometers/[trim(regexp_replace({$.name}, '-.*', ''))]\", \n               \"is_literal\" : \"False\"  \n            } \n",
+  "speaker": "SYSTEM",
+  "uuid": "3e5e0161-716e-4b8e-9f45-d20fd62c15ce"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RDF%28S%29-SPARQL-Pr%C3%A1ctica.pdf: Página 14\n•14\nIndex\n• Resource Description Framework (RDF)\n• RDF Schema\n• RDF(S) Management APIs\nRDF(S) Management APIs\n• SPARQL\n• Assignment details\n27\nRDF(S) query languages\n•\nLanguages developed to allow accessing datasets expressed in RDF(S) \n(and in some cases OWL)\nApplication\nApplication\n•\nSupported by the most important language APIs\n•\nJena (HP labs)\nRelational\nDB\nSQL queries\nRDF(S)\nOWL\nSPARQL, RQL, etc., queries\n(\n)\n•\nSesame (Aduna)\n•\nBoca (IBM)\n•\n...\n•\nThere are some differences wrt. languages like SQL, such as\n•\nCombination of different sources\n•\nTrust management\n•\nOpen World Assumption\n28\n",
+  "speaker": "SYSTEM",
+  "uuid": "ae6efeb4-7154-4c7d-bb1f-55a968ad1731"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Marcos-II-asun.pdf: Página 50\nMarcos\nTécnica de la longitud del camino\n• En amplitud\n• Recorre el grafo por niveles que están a la misma distancia del\nmarco instanciado: padres, abuelos, bisabuelos, etc.\n• La distancia se mide en función del número de arcos.\n• Se visitan primero los marcos que están a menor distancia\nM I\n•Problema: la propiedad se puede encontrar definida con dos valores \nen más de un nodo que esté a la misma distancia\nB\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nBuscar \nen la \ninstancia\nDistancia 1\nDistancia 2\n",
+  "speaker": "SYSTEM",
+  "uuid": "0130c209-770f-4773-bf97-c8bd593711d3"
+}

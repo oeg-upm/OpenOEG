@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 20\nATHENS 2010 \n© Raúl García Castro et al. \nRDF inference. Examples (II) \n•  Query: “Tell me which are the relationships between \nOscar and Asun” \n-  Result: oeg:hasColleague \n•  Query: “Tell me the homepage of Oscar colleagues” \n-  Result: “http://www.fi.upm.es/” \noeg:Oscar \noeg:Asun \n? \noeg:Oscar \n? \nperson:hasHomePage \nperson:hasColleague \n20 \n",
+  "speaker": "SYSTEM",
+  "uuid": "ab74b4c8-41ec-4406-8e94-94d15ff043db"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 12\nATHENS 2010 \n© Raúl García Castro et al. \nBlank nodes: structured property values \n•  Most real-world data involves structures that are more \ncomplicated than sets of RDF triple statements \n•  In RDF/XML, it is an <rdf:Description> node with no \nrdf:about \n•  In N3, it is a resource identifier that starts with ‘_’  \n-  E.g., “_:nodeX” \noeg:Oscar \ncity:BoadillaDelMonte \nCampus de Montegancedo s/n \naddress:hasStreetName \n“Oscar Corcho García” \nperson:hasName \naddress:city \nperson:hasPostalAddress \nThis intermediate URI does not  \nneed to have a name \n12 \n",
+  "speaker": "SYSTEM",
+  "uuid": "3dbc4a6a-36a0-4ef8-9b8a-5ba32aa72e70"
+}

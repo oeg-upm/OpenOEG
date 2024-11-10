@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 3._TI-Intro-RC-II-v1%28asun%29.pdf: Página 11\nIntroducción a la Representación de Conocimientos\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nExamina en cada ciclo de funcionamiento la BH y decide qué regla ejecutar\nCaracterísticas:\nCausar movimiento\nSer sistemática\nSer eficiente\nEstrategia de Control\nBH1\nBH2\n\nBHn-1\nBHn\nR1\nR2\n...\nRN\nC1\nC2\nCn-1\nR2\nRn\nR1\n",
+  "speaker": "SYSTEM",
+  "uuid": "59fed220-3ebc-4aad-88ae-75b789823a8e"
+}

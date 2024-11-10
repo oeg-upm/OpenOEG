@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 63\nWord2Vec, querying [13]\nModel  trained on the Google News vocab\nQuery syntax: “Rome is to Italy as China is to Beijing” = Rome:Italy::Beijing:China\n\nlove:indifference::fear:[apathy, callousness, timidity, helplessness, inaction]\n\nking:queen::man:[woman, Attempted abduction, teenager, girl] \n\nChina:Taiwan::Russia:[Ukraine, Moscow, Moldova, Armenia]\n\nhouse:roof::castle:[dome, bell_tower, spire, crenellations, turrets]\n\nknee:leg::elbow:[forearm, arm, ulna_bone]\n\nDonald Trump:Republican::Barack Obama:[Democratic, GOP, Democrats, McCain]\n\nmonkey:human::dinosaur:[fossil, fossilized, Ice_Age_mammals, fossilization]\n63\nWord2vec algorithm has never been taught a single rule of English syntax!\nIt comes to the Google News documents as a blank slate!\n",
+  "speaker": "SYSTEM",
+  "uuid": "506cf8e6-7ade-49e1-9c89-97e25f5ab1b7"
+}

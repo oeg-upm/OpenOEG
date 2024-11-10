@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Intro-RC.pdf: Página 10\n10\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nIntroducción a la Representación de Conocimientos\n•\nRepresentar simbólicamente los conocimientos del dominio \n•\nIntegrarlos en un modelo de diseño\n•\nDeterminar los métodos de inferencia para manejar los conocimientos\n•\nDeterminar los métodos de control para gobernar el sistema \n¿Qué es Representar Conocimientos?\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nIntroducción a la Representación de Conocimientos\nIndice\n1.\nCiclo básico de un sistema inteligente\n2. Pasos en el desarrollo de un SBC \n3. Sistemas tradicionales versus SS.BB.CC.\n4. La Hipótesis Simbolista\n5. Arquitectura de un Sistema Inteligente\n6.   Sintaxis  versus Semántica \n7. Clasificación de los formalismos y ejemplos\n8. Criterios para seleccionar los formalismos\n",
+  "speaker": "SYSTEM",
+  "uuid": "c1ceac0d-ec26-4b78-9790-cfbb4b1d2e88"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: LinkedDataGeneration.pdf: Página 42\n42\nLinked Data frontend\n• To expose data as Linked Data\n- Including content negotiation, etc.\n• For example, Pubby\nSPARQL\nquery\nLD\naccess\n- http://www4.wiwiss.fu-berlin.de/pubby/\n• Installation\n- Use pubby-0.3.zip\n- Deploy the webapp folder (and rename)\nin Tomcat\n- Modify config.n3\nLD Frontend\n(Pubby)\n- Restart tomcat\n- Check: http://localhost:8080/XXX/\nRDF repository\n(Sesame)\nREST API\n For example, RDF2Go\n- Java abstraction over RDF repositories\n-\nhttp://rdf2go.semweb4j.org/\n",
+  "speaker": "SYSTEM",
+  "uuid": "a80aac16-d241-4342-a1bc-6335fc9db945"
+}

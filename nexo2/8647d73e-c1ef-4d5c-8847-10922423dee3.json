@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Metodolog%C3%ADa-1-v1%28asun%29.pdf: Página 41\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n44\nOntological Engineering\nOntology Specification: \nValidate Requirements\n Input: the set of grouped CQs\n Objective: to identify possible conflicts between\nCQs, missing CQs, and contradictions in CQs. To\ndecide if such CQs are valid or not\n Output: a confirmation about the validity of the\nset of CQs\n Criteria:\nCorrectness.\nCompleteness.\nConsistent.\nVerificable.\nUnderstandable.\nNo Ambiguity.\nConciseness.\nRealism.\nModifiable.\nTraceable.\nCorrectness. Domain experts checked the correctness\nof\neach\ncompetency\nquestion,\nverifying\nthat\nits\nformulation and answers were correct.\nConsistent.\nDomain\nexperts\nalso\nverified\nthat\nthe\ncompetency\nquestions\ndid\nnot\nhave\nany\npossible\ninconsistency.\n",
+  "speaker": "SYSTEM",
+  "uuid": "8647d73e-c1ef-4d5c-8847-10922423dee3"
+}

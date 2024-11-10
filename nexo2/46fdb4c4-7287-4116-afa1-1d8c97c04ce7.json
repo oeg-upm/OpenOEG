@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_SPARQL.pdf: Página 11\nOptional parts in queries (Left Outer Join) \nExample:  \n“Give me all names of co-authors of Tim Berners-Lee \nand optionally their homepage” \n \n12 \nOntological Engineering Group.  \nOPTIONAL query parts \nPREFIX foaf: <http://xmlns.com/foaf/0.1/>  \nSELECT ?N ?H  \nWHERE {  \n       ?D foaf:maker <http://dblp.l3s.de/…/authors/Tim_Berners-Lee>. \n       ?D foaf:maker ?CoAuth .  \n        ?CoAuth foaf:name ?N .  \n       OPTIONAL { ?CoAuth foaf:homepage ?H }  \n      } \nAnother example where \nvariables can be  \nunbound in results! \n",
+  "speaker": "SYSTEM",
+  "uuid": "46fdb4c4-7287-4116-afa1-1d8c97c04ce7"
+}

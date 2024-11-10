@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 34\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nRi: (A $x) ~ (B $x) → ... \nMT: (AC) (BD) (AB) (AA) (BA) \n \nEq1: $x = C : \n(AC) Λ ∼  (BC) \nVálida \nCierto  \n Falso \n \n \n \n \nCierto \n \n \n \nCierto \n \nEq2: $x = B  \n(AB)  Λ ∼  (BB) \nVálida \nCierto  \n Falso \n \n \n \n \nCierto \n \n \n \nCierto \n \nEq3: $x = A : \n(AA)  Λ ∼  (BA) \nInválida \nCierto  \n Cierto \n \n \n \n \nFalso \n \n \n \nFalso \n",
+  "speaker": "SYSTEM",
+  "uuid": "e5abe6d1-6582-44df-8e41-c34168b4fc63"
+}

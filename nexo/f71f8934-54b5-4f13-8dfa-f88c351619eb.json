@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Re-engineer_NOR.pdf: Página 35\nOutput: Ontology Generated\n•\nThe ontology generated will be based on the lightweight ontology \narchitectural pattern (AP-LW-01). Each thesaurus term is mapped to a \nclass. \n•\nA subClassOf relation is defined between the new classes for the BT/NT \nrelation. \n•\nA relatedClass relation is defined between the new classes for the RT \nrelation. \n•\nFor the UF/USE relations we use the logical pattern proposed by Corcho et \nal. suggested as best practice in the context of this antipattern: the \nPR-NOR Example\n35\nal. suggested as best practice in the context of this antipattern: the \ntendency to declare two classes equivalent when in fact their labels simply \nexpress synonym.\n© A Method for Re-engineering Non-Ontological Resources for Building Ontologies \nBoris Villazón-Terrazas, Mari Carmen Suárez Figueroa\n",
+  "speaker": "SYSTEM",
+  "uuid": "f71f8934-54b5-4f13-8dfa-f88c351619eb"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 04_OntologyLanguages_RDF%28S%29.pdf: Página 18\nRDF Reification\n•\nRDF statements about other RDF statements\n–\n“Raúl believes that Oscar’s birthdate is on Feb 2nd, 1976 and that his e-mail \naddress is ocorcho@fi.upm.es”\noeg:Raúl\noeg:Oscar\n“ocorcho@fi.upm.es”\n02/02/1976\nperson:hasEmailAddress\nmodal:believes\nperson:hasBirthDate\n© O. Corcho, R.García-Castro, O. Muñoz-García\n35\nRDF and RDF Schema\n•\nRDF Reification\n–\nAllows expressing beliefs (and other modalities)\n–\nAllows expressing trust models, digital signatures,etc.\n–\nAllows expressing metadata about metadata\nMain value of a structured value (scarcely used)\n•\nSometimes one of the values of a structured value is the main one\n–\nThe weight of an item is 2.4 kilograms. \n–\nThe most important value is 2.4, which is expressed with rdf:value\nproduct:Item1\n2.4\nunits:kilogram\nrdf:value\nproduct:hasWeight\nunits:hasWeightUnit\n© O. Corcho, R.García-Castro, O. Muñoz-García\n36\nRDF and RDF Schema\n",
+  "speaker": "SYSTEM",
+  "uuid": "1b46d05b-c593-4138-9946-3ff44655029a"
+}

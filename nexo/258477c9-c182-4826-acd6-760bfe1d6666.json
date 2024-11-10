@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Intro-SemanticWeb.pdf: Página 21\n©Asunción Gómez-Pérez\n21\nDefinition of Ontology\n“An ontology is a formal, explicit specification of a  shared conceptualization”\nAbstract model and \nsimplified view of some \nphenomenon  in the world \nthat we want to represent\nMachine-readable \nConcepts, properties\nrelations, functions,\nconstraints, axioms, \nare explicitly defined\nConsensual \nKnowledge\nFrames\n \nand\n \nFoL\nSubclass of\nLiving Being\nAnimals\nPlants\nSubclass of\nSubclass of\nSubclass of\nMammals\nBirds\nOntologies\nXML\nRDF\nRDFS\nOWL\nRDF(S)\n",
+  "speaker": "SYSTEM",
+  "uuid": "258477c9-c182-4826-acd6-760bfe1d6666"
+}

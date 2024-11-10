@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 07_Publishing.pdf: Página 8\nCurso Biblioteca Nacional. 21-25th November 2011 \nPubby \n• Steps: \n• Download Pubby \n• Add Pubby as a webapp in Apache Tomcat \n• Configure Apache to redirect the URIs to Pubby \n• Configure Pubby \n• Make sure your RDF has the right URIs (dereferenceables) \n• Same namespace as the Pubby installation machine \n• Store the RDF in Virtuoso \n• Start Apache and Apache Tomcat \n• Access to a resource through your browser \n \n8 \n",
+  "speaker": "SYSTEM",
+  "uuid": "f8763df5-35fc-442f-bf43-d5065ab6001a"
+}

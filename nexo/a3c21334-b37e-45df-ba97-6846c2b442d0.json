@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 04_MGLD.pdf: Página 5\n22/10/12 \n5 \nURI Design \n•  Use meaningful URIs, instead of opaque URIs, when \npossible \n•  Separate TBox (ontology model) from ABox \n(instances) URIs. \n•  Base URI \n http://datos.gob.es/ \n http://salud.datos.gob.es/ \n•  TBox URIs \n http://datos.gob.es/ontology/{class|property} \n•  ABox URIs \n http://datos.gob.es/resource/ \n http://datos.gob.es/resource/province/Madrid \n9 \nSpecification \nGeoLinkedData - URI design \n•  Base URI \n http://linkeddata.es/ \n http://geo.linkeddata.es/ \n \n•  TBox URIs \n http://geo.linkeddata.es/ontology/{concept|property} \n http://geo.linkeddata.es/ontology/Provincia \n \n•  ABox URIs \n http://geo.linkeddata.es/resource/{r. type}/{r. name} \n http://geo.linkeddata.es/resource/Provincia/Madrid \n10 \nSpecification \n",
+  "speaker": "SYSTEM",
+  "uuid": "a3c21334-b37e-45df-ba97-6846c2b442d0"
+}

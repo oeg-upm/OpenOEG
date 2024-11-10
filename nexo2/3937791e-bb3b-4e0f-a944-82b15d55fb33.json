@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 9\n© O. Corcho, R.García-Castro, O. Muñoz-García\n9\nRDF and RDF Schema\n// some definitions \nstatic String personURI = \"http://somewhere/JohnSmith\";\nstatic String fullName = \"John Smith\"; \n// create an empty Model\nModel model = ModelFactory.createDefaultModel(); \n// create the resource\nResource johnSmith = model.createResource(personURI);\n// add the property\njohnSmith.addProperty(VCARD.FN, fullName); \nhttp://.../JohnSmith\nJohn Smith\nvcard: FN\nData Model\n",
+  "speaker": "SYSTEM",
+  "uuid": "3937791e-bb3b-4e0f-a944-82b15d55fb33"
+}

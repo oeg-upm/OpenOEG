@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: BUSQUEDA.pdf: Página 91\nBÚSQUEDA \n \n91 \nJ. Rubio / P.R. Muro / J. Bañares \n \nOctubre 2004 - Curso 2004-2005 \n(nodos con igual valor del campo g), elegimos un nodo cualquiera (en el ejemplo \nhemos elegido el que hace terminar más rápidamente el proceso de búsqueda). \nI, 0\nA,4 \nB,1 \nC,5 \nD,7 \nH,7 \nO1,6\nE,3 \nF,4 \nG,6 \nO2,5\n1 \n2 \n3 \n4 \n5 \n6 \n \nFigura 2 \nComo es habitual, esta estrategia de control también funcionará correctamente para \nespacios de estados con ciclos, pero se perderá tiempo y espacio al re-examinar y \nre-expandir ciertos estados. En el ejemplo de la figura 3 puede verse que existen 4 \ncaminos solución: uno de I a O1 (coste 7) y tres de I a O2 (de costes 7, 6 y 7). En el \nárbol de búsqueda para \"primero el menos costoso\" en árbol que aparece en la \nfigura 4 puede verse que ciertos estados son re-expandidos (notar que en este caso, \nel árbol de búsqueda no puede ser un subgrafo del espacio de estados). \nI \nA \nB \nO1\nD \nO2\nC \n2 \n3 \n5 \n3 \n1 \n2 \n2 \n4 \n \nFigura 3 \n",
+  "speaker": "SYSTEM",
+  "uuid": "82c8ff9a-e976-4d2c-ac39-5a3328fcfa38"
+}

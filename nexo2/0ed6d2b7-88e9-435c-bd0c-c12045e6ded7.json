@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 34\n© O. Corcho, R.García-Castro, O. Muñoz-García\n37\nRDF and RDF Schema\n@prefix foaf:  <http://xmlns.com/foaf/0.1/> .\n_:a  foaf:name   \"Johnny Lee Outlaw\" .\n_:a  foaf:mbox   <mailto:jlow@example.com> .\n_:b  foaf:name   \"Peter Goodguy\" .\n_:b  foaf:mbox   <mailto:peter@example.org> .\n_:c  foaf:mbox   <mailto:carol@example.org> .\nPREFIX foaf:   <http://xmlns.com/foaf/0.1/>\nSELECT ?name ?mbox\nWHERE\n{ ?x foaf:name ?name .\n?x foaf:mbox ?mbox }\nname  \nmbox\n\"Johnny Lee Outlaw\"\n<mailto:jlow@example.com>\n\"Peter Goodguy\"\n<mailto:peter@example.org>\nBasic graph patterns: Multiple matches\n",
+  "speaker": "SYSTEM",
+  "uuid": "0ed6d2b7-88e9-435c-bd0c-c12045e6ded7"
+}

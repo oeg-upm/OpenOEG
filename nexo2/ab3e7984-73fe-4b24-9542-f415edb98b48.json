@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 3._TI-Fundamentos-Ontolog%C3%ADas.pdf: Página 22\n©Asunción Gómez-Pérez\n07/11/2024 10:12 - 23\nRelations between concepts\nPerson\nProject \nOrganization\nEvent\nDocumentation\nis author of / has author \nhas person leader\n          / leads \nhas associated event\nhas associated\nis associated with\nworks in / has p p\nis involved in / has p leader\nis WP leader / has person \nleader\n",
+  "speaker": "SYSTEM",
+  "uuid": "ab3e7984-73fe-4b24-9542-f415edb98b48"
+}

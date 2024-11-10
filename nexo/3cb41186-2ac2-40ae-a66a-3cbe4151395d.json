@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Redes_Semanticas-v1.pdf: Página 26\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nIB-4321\nIberia\nCompany-name\nsingleFare\n500 euros\ndepartureDate\n10/11/2005\narrivalDate\n<RS-travel:Travel rdf:ID=“IB-4321\">\n<RS-travel:Company-name>Iberia</RS-travel:Company-name>\n<RS-travel:singleFare>500 Euros</singleFare>\n<RS-travel:departureDate rdf:datatype=\"&xsd;date\">2005-11-10 </RS-travel:departureDate>\n<RS-travel:arrivalDate rdf:datatype=\"&xsd;date\">\n2005-11-10 </RS-travel:arrivalDate>\n<RS-travel:arrivalPlace rdf:resource=\"#Paris\"/>\n</RS-travel:Travel>\nRed semántica \nen RDF(S)\n",
+  "speaker": "SYSTEM",
+  "uuid": "3cb41186-2ac2-40ae-a66a-3cbe4151395d"
+}

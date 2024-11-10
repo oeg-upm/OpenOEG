@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SWRL-v2.pdf: Página 3\n© O. Corcho, MC Suárez de Figueroa Baonza\n3\nOWL and SWRL\nWhat is SWRL? (II) \nSWRL rules describes: \nBody (Antecedente)  Head (Consecuente)\nBody and Head are composed by one or more atoms.\nIf Body is Empty, it implies true.\nIf Head is Empty, it implies that the Body is false.\nAtoms can be: C(x), P(x,y), sameAs(x,y).\nExamples:\nPerson(?p) ^ hasSibling(?p, ?s) ^ Man(?s) -> hasBrother(?p, ?s)\nPerson(Fred) ^ hasSibling(Fred, ?s) ^ Man(?s) -> hasBrother(Fred, ?s)\n",
+  "speaker": "SYSTEM",
+  "uuid": "ba58f343-ec2c-4d50-9863-b4ccde16f1ef"
+}

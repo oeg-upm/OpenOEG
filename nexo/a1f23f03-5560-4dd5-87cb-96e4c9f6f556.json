@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: KGEOntologies_2021.pdf: Página 14\nAn Ontology-Based Deep Learning Approach for Triple Classification with Out-of-Knowledge-Base Entities\nStep 1: Entity Initialization\n14\nSeveral word embedding approaches could be \nconsidered\no One-hot vectors, Word2Vec, FastText, ElmO…\nDimensionality reduction may be necessary:\nEntities can be composed by one or more tokens\nDim 1024\nDim 200\n>\n",
+  "speaker": "SYSTEM",
+  "uuid": "a1f23f03-5560-4dd5-87cb-96e4c9f6f556"
+}

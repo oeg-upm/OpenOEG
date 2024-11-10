@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 22\n© O. Corcho\n22\nOntological Engineering\nExercise\n•Objective\n• Understand the features of RDF(S) for implementing ontologies, including its limitations\n• Get used to the graph and XML syntax of RDF(S)\n•Tasks\n• Take ontologies previously and create their graphs\n• First only include the vocabulary from the domain\n• Then include references to the RDF and RDFS vocabularies\n• Serialise part of the graph in the XML syntax\n",
+  "speaker": "SYSTEM",
+  "uuid": "62223d0e-2498-4270-968d-f18cfdb1e316"
+}

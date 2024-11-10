@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01.02.L%C3%B3gicaDescriptiva.pdf: Página 16\n16 \nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva \nOWL \nWeb Ontology Language \n \nBuilt on top of RDF(S) and renaming DAML+OIL primitives \n \n3 layers: \n-  OWL Lite \n-  A small subset of primitives \n-  Easier for frame-based tools to transition to \n-  OWL DL \n-  Description logic \n-  Decidable reasoning \n-  OWL Full \n-  RDF extension, allows metaclasses \n \nSeveral syntaxes: \n-  Abstract syntax \n-  Manchester syntax \n-  RDF/XML \nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva \nClass taxonomy of the OWL KR ontology \n",
+  "speaker": "SYSTEM",
+  "uuid": "37bf35e1-b59e-4a8a-9b73-a6c5cc07cb02"
+}

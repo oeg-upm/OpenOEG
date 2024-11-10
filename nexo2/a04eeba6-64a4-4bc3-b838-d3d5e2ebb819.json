@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 37\n© O. Corcho, R.García-Castro, O. Muñoz-García\n40\nRDF and RDF Schema\nGroup graph pattern\nPREFIX foaf:    <http://xmlns.com/foaf/0.1/>\nSELECT ?name ?mbox\nWHERE  { { ?x foaf:name ?name . }\n{ ?x foaf:mbox ?mbox . }\n}\nSELECT ?x\nWHERE {}\nPREFIX foaf:    <http://xmlns.com/foaf/0.1/>\nSELECT ?name ?mbox\nWHERE  { { ?x foaf:name ?name . }\n{ ?x foaf:mbox ?mbox . FILTER regex(?name, \"Smith\")}\n}\n",
+  "speaker": "SYSTEM",
+  "uuid": "a04eeba6-64a4-4bc3-b838-d3d5e2ebb819"
+}

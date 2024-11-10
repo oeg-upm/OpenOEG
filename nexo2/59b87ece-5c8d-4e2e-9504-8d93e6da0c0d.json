@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GeneralOntologies-v3_%28mariano%29.pdf: Página 41\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work\n41\nW3C TIME USE CASES: SCHEDULING\nSuppose someone has a telecon scheduled for 6:00pm EST (Eastern Standard Time) on November 5, 2006. \nYou would like to make an appointment with him for 2:00pm PST (Pacific Standard Time) on the same day, \nand expect the meeting to last 45 minutes.  Will there be an overlap?\nhttp://www.tagoror.com/enciclopedia/es/media/4/4b/timezones.png\nHobbs JR, Feng P (eds) (2006) Time Ontologies in OWL. W3C Working Draft 2. \nhttp://www.w3.org/TR/owl-time/\n",
+  "speaker": "SYSTEM",
+  "uuid": "59b87ece-5c8d-4e2e-9504-8d93e6da0c0d"
+}

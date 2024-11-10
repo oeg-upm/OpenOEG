@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 103\n© O. Corcho\n79\nOntological Engineering\nOWL Classifier limitations\n•\nNumbers and strings\n–\nSimple concrete data types in spec\n–\nUser defined XML data types enmeshed in standards disputes\n–\nNo standard classifier deals with numeric ranges\n•\nAlthough several experimental ones do\n•\nis-part-of and has-part\n–\nTotally doubly-linked structures scale horridly\n•\nHandling of individuals\n–\nVariable with different classifiers\n–\noneOf works badly with all classifiers at the moment\n",
+  "speaker": "SYSTEM",
+  "uuid": "aab9140c-eb54-4cb4-a19e-dfe1b33ec5b2"
+}

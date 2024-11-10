@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA_grado-2013.pdf: Página 83\nMinimax: ejemplo \n12\n3\n8\n2\n4\n6\n2\n5\n14\nMAX\nMAX\nMIN\n12\n3\n2\n2\n3\n8\n2\n4\n6\n2\n5\n14\nMAX\nMAX\nMIN\n3\n12\n3\n2\n2\n3\n8\n2\n4\n6\n2\n5\n14\nMAX\nMAX\nMIN\n3\n12\n3\n2\n2\n3\n8\n2\n4\n6\n2\n5\n14\nMAX\nMAX\nMIN\n• \nLa decisión minimax del jugador MAX es elegir la jugada \ncorrespondiente a la rama izquierda. \n• \nPor muy bien que juegue MIN, MAX obtiene un nodo objetivo con \nvaloración de 3. \n",
+  "speaker": "SYSTEM",
+  "uuid": "4f2ac256-e254-49b6-8124-53c624d09b4f"
+}

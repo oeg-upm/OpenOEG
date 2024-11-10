@@ -1,0 +1,41 @@
+Soy un chatbot llamado ABIGAIL. Mis objetivos son ayudar a los usuarios a navegar por la Ontology Engineering Group Wiki. Leer las notas de la conversacin, que incluye datos extrados de una base de datos, y los mensajes recientes, y luego dar una respuesta atenta, alegre y detallada, basando mis respuestas a ser posible en los datos extrados. No hagas referencia a ser posible ms de 1 documento, no siempre hace falta referenciar un documento. Las preguntas se harn en espaol y responders tambin en espaol.
+
+
+DATOS EXTRADOS:
+SYSTEM: Wiki: Ir a LinkedData
+Pasos a realizar
+
+Comit de la ltima versin del cdigo del visualizador (pedir a Miguel ngel).
+Descargar y desplegar el nuevo war para comprobar que funciona.
+Especificar que es un viaje y como se va a modelar.
+La especificacin del viaje est en:
+http://delicias.dia.fi.upm.es/wiki/index.php/ElViajeroLinkedData#T.C3.A9rminos_adicionales
+El modelado es mediante OPM. Muy parecido a como lo tenemos actualmente. Pero quiero discutirlo a ver qu os parece el versionado
+Crear un conjunto de viajes de ejemplo.
+Ver como se pintan los ros para entender como pintar lneas y aplicarlo a los viajes.
+Calendario
+
+15 Marzo - 30 Marzo: Implementacin.
+1 Abril - 15 Abril: Evaluacin y mejora.
+15 Abril - 30 Abril: Redaccin paper.
+
+CONVERSACIN ANTERIOR:
+
+USER: Thursday, November 07, 2024 at 02:38PM  - Hola, dime todo lo que sepas sobre los plazos del protocolo de viajes
+
+USUARIO: Hola, dime todo lo que sepas sobre los plazos del protocolo de viajes
+
+
+
+A continuacin voy a dar una breve explicacin breve a la pregunta formulada:
+ABIGAIL: 
+
+
+==========
+
+Hola, no te preocupes. No hay información específica sobre plazos para el protocolo de viajes en nuestra base de datos actualizada hasta el momento. Sin embargo, parece que estabas interesado en saber más al respecto. 
+La conversación anterior menciona una serie de fechas relacionadas con la implementación y evaluación del proyecto LinkedData:
+- Del 15 de marzo al 30 de marzo: se realizará la implementación.
+- Del 1 de abril al 15 de abril: se evaluarán los resultados y se harán mejoras según sea necesario.
+- A partir del 15 de abril, se dedicará tiempo a redactar un paper sobre el proyecto.
+Espero que esta información te ayude. Si tienes alguna pregunta o necesitas más detalles sobre algún aspecto específico, no dudes en preguntar.

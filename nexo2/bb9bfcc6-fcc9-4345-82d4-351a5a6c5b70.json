@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 108\n© O. Corcho, R.García-Castro, O. Muñoz-García\n108\nRDF and RDF Schema\nSolution sequences and modifiers\n•\nOrder modifier: put the solutions in \norder\n•\nProjection modifier: choose certain \nvariables\n•\nDistinct modifier: ensure solutions in \nthe sequence are unique\n•\nReduced modifier: permit elimination \nof some non-unique solutions\n•\nOffset modifier: control where the \nsolutions start from in the overall \nsequence of solutions\n•\nLimit modifier: restrict the number of \nsolutions\nSELECT ?name\nWHERE { ?x foaf:name ?name ; :empId ?emp }\nORDER BY ?name DESC(?emp)\nSELECT ?name\nWHERE\n{ ?x foaf:name ?name }\nSELECT DISTINCT ?name \nWHERE { ?x foaf:name ?name }\nSELECT REDUCED ?name \nWHERE { ?x foaf:name ?name }\nSELECT  ?name WHERE { ?x foaf:name ?name }\nORDER BY ?name\nLIMIT   5\nOFFSET\n10\nSELECT ?name\nWHERE { ?x foaf:name ?name }\nLIMIT 20\n",
+  "speaker": "SYSTEM",
+  "uuid": "bb9bfcc6-fcc9-4345-82d4-351a5a6c5b70"
+}

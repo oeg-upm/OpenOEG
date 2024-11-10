@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AMPER08_-_Introduction_to_SPARQL.pdf: Página 29\nRDF(S) Access APIs, May 2008\n29\n© García-Castro, Corcho, Muñoz-García\nSPARQL query forms\n• SELECT\n– Returns all, or a subset of, the variables bound in a query pattern \nmatch.\n• CONSTRUCT\n– Returns an RDF graph constructed by substituting variables in a set \nof triple templates.\n• ASK\n– Returns a boolean indicating whether a query pattern matches or not.\n• DESCRIBE\n– Returns an RDF graph that describes the resources found.\n",
+  "speaker": "SYSTEM",
+  "uuid": "4fb526ec-2dd0-4e3d-9321-3e007c8c3b7d"
+}

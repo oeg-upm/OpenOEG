@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: KGEOntologies_2021.pdf: Página 5\nAn Ontology-Based Deep Learning Approach for Triple Classification with Out-of-Knowledge-Base Entities\nTypes of KGE Models\n5\nTranslation-based\nSemantic matching\nhead\ntailrelation\n𝑓ℎ, 𝑡=\nℎ+ 𝑟−𝑡\nൗ\n1 2\n𝑓ℎ, 𝑡= ℎ𝑇𝑀𝑅𝑡\nhead\ntail\nrelation\nN entities\nN entitiesR relations\nTransE\nTransR\nTransH\nCrossE\nHAKE…\nRESCAL\nComplEx\nDistMult\nHolE\nANALOGY\nSimplE…\n",
+  "speaker": "SYSTEM",
+  "uuid": "601d74cb-3998-4291-8434-7ffac5561c25"
+}

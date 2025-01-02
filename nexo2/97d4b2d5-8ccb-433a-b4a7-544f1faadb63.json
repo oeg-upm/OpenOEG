@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 32\n© O. Corcho, R.García-Castro, O. Muñoz-García\n32\nRDF and RDF Schema\nBlank nodes: structured property values\n•\nMost real-world data involves structures that are more complicated \nthan sets of RDF triple statements\n•\nIn RDF/XML, it is an <rdf:Description> node with no rdf:about\n•\nIn N3, it is an  _:oscarAddress\noeg:Oscar\ncity:BoadillaDelMonte\nCampus de Montegancedo s/n\naddress:hasStreetName\n“Oscar Corcho García”\nperson:hasName\naddress:City\nperson:hasPostalAddress\nThis intermediate URI does not \nneed to have a name\n",
-  "speaker": "SYSTEM",
-  "uuid": "97d4b2d5-8ccb-433a-b4a7-544f1faadb63"
-}

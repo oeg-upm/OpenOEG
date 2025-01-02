@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_SPARQL.pdf: Página 52\n•  http://www.w3.org/TR/sparql11-federated-query/  \n•  Will be integrated in Query spec \n•  Essentially new pattern SERVICE!\n•  Similar to GRAPH!\n•  allows delegate query parts to a specific (remote) endpoint \nRecall: We were cheating in this query before!! \nPREFIX foaf: <http://xmlns.com/foaf/0.1/>  \nSELECT ?N  \nWHERE {  \n  { <http://www.w3.org/People/Berners-Lee/card#i> foaf:knows ?F . \n          ?F foaf:name ?N } \n         UNION \n        { [ foaf:maker <http://dblp.l3s.de/…/authors/Tim_Berners-Lee>,  \n                     [ foaf:name ?N ] ] . } \n}  \n \n73 \nOntological Engineering Group \nBasic federated Queries (time permitting) \nTim’s FOAF  \nfile \nDBLP \nSPARQL \nendpoint \n",
+  "speaker": "SYSTEM",
+  "uuid": "a5e18945-9c6d-4a39-93e1-6dd5ebfbae14"
+}

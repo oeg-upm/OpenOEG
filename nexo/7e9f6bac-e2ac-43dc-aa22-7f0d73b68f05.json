@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Marcos.pdf: Página 18\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nMC-Fecha\n(*) Día: [1 ... 31]\n(*) Mes: [1 ... 12]\n(*) Año: [0 ... 99]\nAnimal racional: Sí\n(*) Nombre: Conjunto de caracteres\n(*) Edad: [0 ... 100]\n(*) Nacionalidad: [Española, Argentina, ...]\n(*) Estado-Civil: [Soltero, Casado, Divorciado, Viudo]\n(*) Tipo-de-Matrimonio: [Civil, Iglesia, ...]\n(*) Religión: [Agnóstico, Ateo, Católico, Musulmán, ...]\n(*) Fecha-de-Boda:\n(*) Fecha-de-Nacimiento:\nMC-Persona\nEjemplo\nMC-Hombre\nCasado-Con:\nSexo: Varón\nMI-Juan\nNombre: Juan\nEdad: 30\nNacionalidad: Española\nEstado-Civil: Casado\nCasado-Con:\nInstancia\nMI-María\nNombre: María\nEdad: 30\nNacionalidad: Argentina, Española\nEstado-Civil: Casada\nTipo-de-Matrimonio: Civil\nFecha-de-Boda:\nCasado-Con:\nMC-Mujer\nCasado-Con:\nSexo: Mujer\nSubclase-de\nInstancia\nSubclase-de\nMI-Fecha-1\nDía: 1\nMes: 7\nAño: 95\nInstancia\n",
+  "speaker": "SYSTEM",
+  "uuid": "7e9f6bac-e2ac-43dc-aa22-7f0d73b68f05"
+}

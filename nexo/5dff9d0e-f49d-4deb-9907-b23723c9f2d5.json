@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 36\n©O. Corcho\n36\nOntological Engineering\nCopyright © 2005, The University of Manchester\nClosure example: MargheritaPizza\n•\nAll MargheritaPizzas must have:\nat least 1 topping from MozzarellaTopping and\nat least 1 topping from TomatoTopping and\nonly toppings from MozzarellaTopping or TomatoTopping\n•\nThe last part is paraphrased into “no other toppings”\n•\nThe union closes the hasTopping property on MargheritaPizza\n",
-  "speaker": "SYSTEM",
-  "uuid": "5dff9d0e-f49d-4deb-9907-b23723c9f2d5"
-}

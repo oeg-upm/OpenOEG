@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II.pdf: Página 44\nSistemas de Producción\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nPrincipio de Refracción\n1          (1 (A))                                             (R1 (1 (A)))\nR1\n2          (1(A)) (2 (B))                            (R1 (1 (A))) (R2 (2 (B)))\nR2\n3          (1 (A)) (2 (B)) (3 (C))               (R1 (1 (A))) (R5 (1 (A)) (3 (C)))\nR5\n4          (1 (A)) (2 (B)) (4 (E))               (R1 (1(A))) (R2 (2 (B))) (R3 (4 (E)))\nR2\n5          (1 (A)) (2 (B)) (4 (E)) (5 (C))   (R1 (1 (A))) (R3 (4 (E))) (R5 (1 (A)) (5 (C)))\nR3 \n6          (1 (A)) (2 (B)) (4 (E)) (5 (C)) (6(D))  (R1 (1 (A))) (R3 (4 (E))) (R4 (6(D)) (R5 (1 (A)) (5 (C))  R4\nSeleccionar una regla cuya instanciación no haya ocurrido previamente.\nEjemplo:\nBase de Reglas:\nBase de Hechos \nEstrategia de Control\nR1: (A) \n(B)\n(1 (A))             \nPrioridad (1 .. 5) + PR\nR2: (B) - (C) - (D) \n(C)\nR3: (E) \n(D)\nR4: (D) \nFIN\nR5: (A) (C) \n(E) quitar (C)\nCICLO      BH\nCC\nEjecutar\n",
+  "speaker": "SYSTEM",
+  "uuid": "e0e32382-7b97-4fb9-8532-9e79bae8c228"
+}

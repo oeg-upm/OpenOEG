@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 02_RDF%28S%29.pdf: Página 14\n14 \n© Raúl García Castro et al. \nExercise 1.a. Create a graph from a file \n•  Open the file StickyNote_PureRDF.rdf \n•  Create the corresponding graph from it \n•  Compare your graph with those of your colleagues \n27 \n© Raúl García Castro et al. \nExercise 1.a. StickyNote_PureRDF.rdf \n28 \nsn:event4 \nsn:event3 \nsn:event5 \nsn:OscarCorcho \n2006-05-16 \n2006-05-15 \nsn:PinarAlper \nsn:CaroleGoble \n2006-05-15 \nsn:involves \nsn:involves \nsn:involves \nsn:eventDate \nsn:eventDate \nsn:eventDate \n",
+  "speaker": "SYSTEM",
+  "uuid": "9c202337-adae-4e8e-bdda-ee4e3f27c227"
+}

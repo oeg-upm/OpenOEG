@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 2\n•2\nIndex\n• An introduction to knowledge representation\nformalisms\n• Resource Description Framework (RDF)\n• RDF primitives\n• Reasoning with RDF\n• RDF Schema\n• RDF Schema primitives\n• Reasoning with RDFS\n• RDF(S) Management APIs\n( )\ng\n3\nArchitecture of a Knowledge-based System\nOther interacting\nsystems:\n• Databases\n• ...\nInterface with \nother \nsystems\nCONTROL\nKnowledge\nBase\nInference\nEngine\nUser Interface\n- Explanation\n- Knowlege capture\n• Knowledge-based system generation tools\n• Programming languages\nDevelopment Environment\n",
+  "speaker": "SYSTEM",
+  "uuid": "4e8ba2a6-097a-4725-ae80-9597813a2456"
+}

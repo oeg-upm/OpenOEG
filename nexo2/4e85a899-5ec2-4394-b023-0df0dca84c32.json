@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 49\n© O. Corcho, R.García-Castro, O. Muñoz-García\n49\nRDF and RDF Schema\nAnother example\nevent1\nevent2\nevent3\nevent4\nlocal_event\nevent\nPersonal_event\nresearcher\nprofessor\nCaroleGoble\nOscarCorcho\nPinarAlper\nevent5\nrdf:type\nrdf:type\nrdf:type\nrdf:type\nrdf:type\nrdf:type\nrdf:type\nrdf:type\ninvolves\ninvolves\ninvolves\ninvolves\n15/05/2006\n16/05/2006\n15/05/2006\n",
-  "speaker": "SYSTEM",
-  "uuid": "4e85a899-5ec2-4394-b023-0df0dca84c32"
-}

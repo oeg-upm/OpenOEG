@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: KGEOntologies.Elvira.pdf: Página 11\nEnhancing KGE with ontological information for fresh entity introduction\nProposed solution\n11\nEnriched entity set\nEntity set\ntrain\ntrain\nPhase 1: Evaluation over known facts\nwith and without ontological information\nTest facts\ntest\nEnriched entity set\nPhase 2: Evaluation over known facts\nand fresh entity facts\nFresh entities\ntrain\nTest facts\nFresh entity test facts\ntest\ntest\n",
-  "speaker": "SYSTEM",
-  "uuid": "8a7571f6-f090-4d77-b294-6ed827dee12b"
-}

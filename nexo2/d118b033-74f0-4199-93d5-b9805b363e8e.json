@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Helio.pdf: Página 10\nSet your title here in Slide Master Options\nHelio Translation Rules Speciﬁcation \n10\n§  Translation rules template\n{ \n      “id” : “…”,\n      “datasource_ids : [“…”, “…”, …]\n      “subject” : “…”,\n      “properties” : [\n            {\n               “predicate” : “…” \n            “object” : “…”,\n               “is_literal” : ”True/False”,  \n \n     “datatype” : “…”, \n     “lang” : “…”\n            } \n ] \n} \n",
-  "speaker": "SYSTEM",
-  "uuid": "d118b033-74f0-4199-93d5-b9805b363e8e"
-}

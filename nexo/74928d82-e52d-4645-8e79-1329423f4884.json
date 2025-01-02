@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: TalkOEG_Abril2015_Apertium.pdf: Página 32\nOne time inverse consultation (OTIC) algorithm \n32 \nGiven a lexical entry s: \n1. Get direct translations of s in the pivot language Ps \n2. ∀ p ∈ Ps, get its translations in the target language Tp \n3. For every t ∈ Tp, \n(a) gets its set of translations in the pivot language (Pt) \n(b) calculates the score for t:  \n \n \n|\n|\n|\n|*\n2\n)\n(\nt\ns\nt\ns\nP\nP\nP\nP\nt\nscore\n+\n∩\n=\n",
+  "speaker": "SYSTEM",
+  "uuid": "74928d82-e52d-4645-8e79-1329423f4884"
+}

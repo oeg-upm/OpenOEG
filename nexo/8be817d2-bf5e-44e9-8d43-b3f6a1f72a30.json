@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ClaseGLD-v3%28boris-asun%29.pdf: Página 50\nR20: Vista semántica sobre un modelo relacional \nPunto Europeo \nPuntoGPS \nPuntoAsiatico \n= \n  \n \n  \n \nAeropuertos \nf (Aeropuertos) \nOntología O2 \nModelo Relacional M1 \nPuntoEuropeo \nPuntoEspañol \nEstación \nCentro \nComunicaciones \nAeropuerto \n= \nAeropuerto \nf (Aeropuertos) \nOntología O1 \nRC(O2,M1) \nRC(O1,M1) \n",
-  "speaker": "SYSTEM",
-  "uuid": "8be817d2-bf5e-44e9-8d43-b3f6a1f72a30"
-}

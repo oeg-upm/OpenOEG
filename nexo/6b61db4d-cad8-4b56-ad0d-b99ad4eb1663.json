@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OEG_Status_report_Software_March_2022.pdf: Página 24\nOpen Science, Software and AI: A year at the Ontology Engineering Group. March, 2022\nRecognizing Metadata Categories\n●\nName (GA)\n●\nFull title (RE)\n●\nDescription (SC, HA)\n●\nCitation (SC, RE, HA)\n●\nInstallation instructions (SC, HA)\n●\nInvocation (SC)\n●\nUsage examples (HA)\n●\nDocumentation (HA, FE)\n●\nRequirements (HA)\n●\nContributors (HA)\n●\nFAQ (HA)\n●\nSupport (HA)\n●\nLicense (GA, HA)\n●\nStars (GA)\n●\nContact (HA)\n●\nDownload URL (HA, GA)\n●\nDOI (RE)\n●\nDockerFile (FE)\n●\nNotebooks (FE)\n●\nExecutable notebooks (Binder) (RE)\n●\nOwner: (GA)\n●\nKeywords (GA)\n●\nSource code (GA)\n●\nReleases (GA)\n●\nChangelog (GA)\n●\nIssue tracker (GA)\n●\nProgramming languages (GA)\n●\nAcknowledgements (HA)\nMethod used:\n●\nSupervised Classification (SC)\n●\nHeader Analysis and Synset comparison (HA)\n●\nFile Exploration (FE)\n●\nRegular Expressions (RE)\n●\nGitHub API (GA)\n24\n",
+  "speaker": "SYSTEM",
+  "uuid": "6b61db4d-cad8-4b56-ad0d-b99ad4eb1663"
+}

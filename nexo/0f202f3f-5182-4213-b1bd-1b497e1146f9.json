@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OntoDDB.pdf: Página 8\n12/11/2009\nOWL STORAGE\n• Requirements\n– Wide scope, not limited to any project\n– Conceptual representation, not attached to any format\n– Portable between different DBMS\n– Efficiency retrieving concepts\n• No good models proposed\n– Very simple\n– Not efficient\n• Solution\n– Design a new storage model taking advantage of relational \ncapabilities\n• Make explicit all OWL components defined in the OWL \nspecification: classes, properties, literals, etc.\n",
+  "speaker": "SYSTEM",
+  "uuid": "0f202f3f-5182-4213-b1bd-1b497e1146f9"
+}

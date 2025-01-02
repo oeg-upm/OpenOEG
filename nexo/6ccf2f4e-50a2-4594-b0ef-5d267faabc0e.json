@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 35\n©O. Corcho\n35\nOntological Engineering\nCopyright © 2005, The University of Manchester\nOpen World Assumption\n•\nTypical pattern\n– Several existential restrictions on a single property with different \nfillers \n• Example: primitive pizzas on hasTopping\n•\nMust state whether a description is complete or not\n– Incomplete:\n• Existential restrictions should be paraphrased by “amongst other things…”\n– Complete:\n• Existential restrictions should be paraphrased by “and no other XXX”\n•\nIn our example:\n– We need closure for the property hasToppings\n• In the form of a Universal Restriction with a filler that is the Union of the \nother fillers for that property\n• Closure works along a single property\n",
+  "speaker": "SYSTEM",
+  "uuid": "6ccf2f4e-50a2-4594-b0ef-5d267faabc0e"
+}

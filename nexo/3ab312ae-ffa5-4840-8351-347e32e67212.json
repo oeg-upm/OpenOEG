@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 22\n© O. Corcho, R.García-Castro, O. Muñoz-García\n22\nRDF and RDF Schema\nHints\n• Create ontology model:\n• public static OntModel \ncreateOntologyModel(OntModelSpec spec)\n• Read the ontology in the file\n• Model read(java.lang.String url)\n• Add all the statements in another model to this model\n• Model add(Model m)\n",
-  "speaker": "SYSTEM",
-  "uuid": "3ab312ae-ffa5-4840-8351-347e32e67212"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 66\nWeb Ontology Language\nReasoning\nReasoning is performed by using a reasoner: a reasoner infers the axioms \nimplied by the axioms we have stated in the ontology\nThus, ther reasoner generates the inferred axioms from the asserted\naxioms\nThe reasoner makes all the implied axioms explicit, including the ones that \nwould be missed by a human because of the complexity/size of the \nontology \nTherefore, a reasoner helps us deal with complex knowledge\nOWL offers sound and complete reasoning if we don't use OWL full \nconstructs (e.g. make an object property functional and transitive, … )\nThat is the theory. In practice there can be efficiency problems. Reasoners \nare improving fast and OWL 2 offers different profiles optimized for \ndifferent kinds of reassoning\n",
-  "speaker": "SYSTEM",
-  "uuid": "dd54c382-b628-4df7-bcfe-9d728a97bd30"
-}

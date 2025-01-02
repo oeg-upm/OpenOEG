@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 4\nMotivation\n4\nEnabling  Ontology-based Access to Streaming Data Sources\nEmergency \nplanner\nFlood risk alert: \nSouth East England\n...\n...\n...\nReal-time \ndata\nMeteorological \nforecasts\nFlood defences \ndata\nOther sources\n• Detect conditions likely to cause a flood\n• Present data model in terms of the user domain: e.g. Flood risk assessment\nExample:\n• “provide me with the wind speed observations average over the last minute in \nthe Solent region, if it is higher than the average of the last 2 to 3 hours” \nWave,\nWind,\nTide\n",
+  "speaker": "SYSTEM",
+  "uuid": "bdb8b01b-3246-4094-b04a-4290f4a526e2"
+}

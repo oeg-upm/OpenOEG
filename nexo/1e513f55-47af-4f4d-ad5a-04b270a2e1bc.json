@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Modelado_Conceptual_y_Compromisos_Ontol%C3%B3gicos_en_Humanidades.pdf: Página 9\nSubjetividad\nCopyright © 2018 César González-Pérez\n9\nb: Edificio\nDirección =  San Roque,   \nEstado $Alicia = Bueno\nCualificación de predicación\ncualificador de perspectiva\n[S] Agente\nNombre: 1 Texto\naspecto subjetivo\nEdificio\nDirección: 1 Texto\nEstado: 0..1 enum EstadoDeConservación (S)\nmarca de subjetividad\n",
+  "speaker": "SYSTEM",
+  "uuid": "1e513f55-47af-4f4d-ad5a-04b270a2e1bc"
+}

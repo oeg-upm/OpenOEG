@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: MpovedaMondeca24July2013.pdf: Página 6\nIntegration proposals (I) \n6 \n• \nPresence of the search term in rdfs:label, dc/dcterms:title, skos:prefLabel \n• \nPresence of the search term in rdfs:comment, dc/dcterms:description \n• \nNumber of occurrences in LOD cloud  \n• \nNumber of occurrences of an element in LOV \no \nTune the score according to the presence or absence of good practices and pitfalls. \no \nWeighted by importance: critical, important, minor \no \nWarning if the vocab is not available in RDF \n",
-  "speaker": "SYSTEM",
-  "uuid": "6eb48ee8-86d5-4471-9005-c8a79a5f9cc8"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: TalkOEG_Abril2015_Apertium.pdf: Página 21\nRDF Generation \nRDF generation based on Open Refine  \n \n•\nE.g., RDF generated: \n \napertium:lexiconEN a lemon:Lexicon ; \n \ndc:source <http://hdl.handle.net/10230/17110> . \n... \napertium:lexiconEN lemon:entry apertium:lexiconEN/bench-n-en . \n \napertium:lexiconEN/bench-n-en a lemon:LexicalEntry ; \n \nlemon:lexicalForm apertium:lexiconEN/bench-n-en-form ; \n \nlexinfo:partOfSpeech lexinfo:noun . \n \napertium:lexiconEN/bench-n-en-form a lemon:Form ; \n \nlemon:writtenRep \"bench\"@en .  \n \n",
+  "speaker": "SYSTEM",
+  "uuid": "025fb75e-9aed-463c-a1ac-88b4b169b57d"
+}

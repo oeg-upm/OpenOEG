@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologias-Multilingualidad.pdf: Página 44\n©\n44\nUna nueva propuesta\nLinguistic Information Repository - LIR\n• La  información lingüística se organiza en torno a la \nLexicalEntry class.\n• Una entrada léxica es una relación ternaria: \nLexicalization, Sense and LanguageContext. \n• Enlazando Note con Sense or Definition, se mantienen\nexplícitas las diferencias de matices y significados en las\nlenguas\n• Note se enlaza con Lexicalization, pero se podría\nenlazar con cualquier clase del modelo para aportar\ninformación complementaria. \n• Modelado como una ontología.\n",
+  "speaker": "SYSTEM",
+  "uuid": "c8f4e5b2-9b51-4b09-a14b-5e3da87a9792"
+}

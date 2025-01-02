@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01.03_NonStandardOWLReasoning_ModularisationAndDebugging.pdf: Página 6\n6 \nWorking cycle \n \n \n \n \n \n \n \n Farm \n \n \n \n \n \n \n Animals \n \n \n \n \n \n \n Animal, feedsOn \n \n \n \n \n \n \n Animals’ \n \n \n \n \n \n \n Farm U Animals’ \n11 \nWorking cycle \n \n \n \n \n \n \n \n Farm U Animals’ \n \n \n \n \n \n \n Buildings \n \n \n \n \n \n \n DuckHousing, Silo \n \n \n \n \n \n \n Buildings’ \n \n \n \n \n \n \n Farm U Animals’ U Buildings’ \n12 \n",
-  "speaker": "SYSTEM",
-  "uuid": "b1ed5ef3-24ef-453c-b5d2-75e3709048d2"
-}

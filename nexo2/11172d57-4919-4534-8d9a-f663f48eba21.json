@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 21\nWhat is JAPE?\n• JAPE provides pattern matching in GATE\nJAPE RULES\nPattern to \nmatch in the \ntext \nPattern to \nmatch in the \ntext\nNew \nannotations \n(and opt. \nfeatures) \nNew \nannotations \n(and opt. \nfeatures)\n({Token.kind == word})*\n{Token.string == \"@\"}\n({Token.kind == word})*\n({Token.string == \".\"}\n({Token.kind == word}) \n:email\n:email.Email = \n{rule = \"emailaddress\"}\n“contact information: JohnMalkovich@gmail.com\nNew annotation\nEmail (\nrule = “emailaddress” )\n• JAPE rules combine to create a phase\n• Phases combine to create a grammar\n",
-  "speaker": "SYSTEM",
-  "uuid": "11172d57-4919-4534-8d9a-f663f48eba21"
-}

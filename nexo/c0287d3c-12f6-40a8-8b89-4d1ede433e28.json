@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 18\nWeb Ontology Language\nOWL semantics\nAn OWL ontology with individuals and classes is a \nKnowledge Base\nKnowledge Base (KB): Abox + Tbox\nTBox (Terminological Box): ~schema (~ classes)\nAbox (Assertional Box): ~data (~ individuals)\n",
+  "speaker": "SYSTEM",
+  "uuid": "c0287d3c-12f6-40a8-8b89-4d1ede433e28"
+}

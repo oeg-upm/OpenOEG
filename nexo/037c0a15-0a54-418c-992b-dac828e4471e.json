@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SPARQL_optimization_slides.pdf: Página 8\nRelated Work\nLearn about:\nSPARQL optimization rewriting rules\nSelectivity estimation for RDF stored data\nCost-based optimization\nExtend:\nDistributed SPARQL (DARQ, Quillitz et al (2008))\nMost relevant to date. \nAdapt in a different setting (streams):\nDARQ\nEstimation of cardinalities/selectivities\nRevision of cost models\nSee next section \n",
-  "speaker": "SYSTEM",
-  "uuid": "037c0a15-0a54-418c-992b-dac828e4471e"
-}

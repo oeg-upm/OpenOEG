@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Hypernym-3.pdf: Página 9\nHypernym Detection\nApproaches\n9\nApproaches for Hypernym detection from text:\n1) Pattern Based Approaches\nUsing lexico-synctactic patterns (LSPs) to extract \nHypernyms from text\nMost popular: Hearst Patterns by Marti Hearst \nExample:\n“NPx such as NPy” or “NPx and other NPy”\n",
-  "speaker": "SYSTEM",
-  "uuid": "2bd2168d-e013-41f1-b872-1c581ab63cdc"
-}

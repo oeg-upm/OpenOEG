@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 42\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nORG: A model excerpt \n43 \nAn excerpt of ORG model \norg:Post\norg:hasUnit/unitOf\norg:Organization\norg:OrganizationalUnit\nfoaf:Agent\norg:membetOf\norg:postIn/hasPost\norg:headOf\norg:holds/heldBy\n",
-  "speaker": "SYSTEM",
-  "uuid": "9de417a7-a580-4095-b200-5501b90dc1d6"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: B%C3%9ASQUEDA_grado-2013.pdf: Página 91\nALGORITMO DE PODA ALFA-BETA \nEl problema de la decisión minimax es que el \nnúmero de nodos a explorar es exponencial. \nEs posible podar el árbol del juego y obtener \nuna estrategia óptima: poda alfa-beta. \nCon esta poda, la decisión minimax es \nindependiente de los valores de las ramas \npodadas. \nα es el valor de la mejor opción para MAX \n(valor más alto) \nβ es el valor de la mejor opción para MIN \n(valor más pequeño) \n",
-  "speaker": "SYSTEM",
-  "uuid": "81de555e-efa7-40be-bcba-fdadb37d6de6"
-}

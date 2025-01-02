@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 05_OWL.pdf: Página 97\n© O. Corcho, MC Suárez de Figueroa Baonza\n77\nOWL 2\nNecessary and Sufficient Conditions (I)\nAll of the classes that we have created so far have only used\nnecessary conditions to describe them.\nNecessary conditions can be read as: “If something is a member of\nthis class then it is necessary to fulfil these conditions”.\nA class that only has necessary conditions is known as a Primitive Class or Partial Class.\nWith necessary conditions alone, we cannot say that, “If something\nfulfils these conditions then it must be a member of this class”. To\nmake this possible we need to change the conditions from\nnecessary conditions to necessary AND sufficient conditions.\nA class that has at least one set of necessary and sufficient conditions is known as a\nDefined Class or Complete Class.\n",
-  "speaker": "SYSTEM",
-  "uuid": "1bd02119-74a2-49c4-97f4-89700a4435d0"
-}

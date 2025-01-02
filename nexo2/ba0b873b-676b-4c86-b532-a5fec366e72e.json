@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OWL.pdf: Página 75\n© O. Corcho, MC Suárez de Figueroa Baonza \n79 \nOWL 2 \nCardinality Restrictions (I) \nIn OWL we can describe the class of individuals that have at least, \nat most or exactly a specified number of relationships with other \nindividuals or datatype values. The restrictions that describe these \nclasses are known as Cardinality Restrictions.  \nq A Minimum Cardinality Restriction specifies the minimum number of P \nrelationships that an individual must participate in.  \nq A Maximum Cardinality Restriction specifies the maximum number of P \nrelationships that an individual can participate in.  \nq A Cardinality Restriction specifies the exact number of P relationships \nthat an individual must participate in. \n",
-  "speaker": "SYSTEM",
-  "uuid": "ba0b873b-676b-4c86-b532-a5fec366e72e"
-}

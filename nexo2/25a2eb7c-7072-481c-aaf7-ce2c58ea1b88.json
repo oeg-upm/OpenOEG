@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Re-engineer_NOR.pdf: Página 29\nPatterns for Re-engineering Non-Ontological Resources (PR-NOR)\n• PR-NORs define a procedure that transforms the non-\nontological resource components into ontology \nrepresentational primitives. \n• These patterns will generate the ontologies at a \nconceptualization level, independent of the ontology \nimplementation language.\n29\n• Advantages:\n• embody expertise about how to guide a re-engineering process,\n• improve the efficiency of the re-engineering process,\n• make the transformation process easier for both ontology engineers \nand domain experts\n• improve the reusability of non-ontological resources.\n© A Method for Re-engineering Non-Ontological Resources for Building Ontologies \nBoris Villazón-Terrazas, Mari Carmen Suárez Figueroa\n",
-  "speaker": "SYSTEM",
-  "uuid": "25a2eb7c-7072-481c-aaf7-ce2c58ea1b88"
-}

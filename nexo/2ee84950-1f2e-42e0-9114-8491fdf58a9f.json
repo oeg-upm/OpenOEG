@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Marcos.pdf: Página 39\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nEquiparación\nTécnica de inferencia que permite clasificar en tiempo de ejecución instancias dentro de la taxonomía de marcos\nSe conoce un número finito de propiedades de un marco pregunta. \nBC sobre \nanimales\nVertebrado, perro, gato, león, elefante,  tortuga, .........\nNºPatas:4,  especie: cánido\nVertebrado, perro, león, lobo, ........\nNºPatas:4,  especie: cánido, sonido: ladra\nPerro\nNºPatas:4,  Esqueleto: sí\nInstancia de \n",
+  "speaker": "SYSTEM",
+  "uuid": "2ee84950-1f2e-42e0-9114-8491fdf58a9f"
+}

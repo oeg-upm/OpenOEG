@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: NLP.Dissociating_language_and_thought_in_large_language_models.pdf: Página 15\n3. The success of LLMs in acquiring formal \nlinguistic competence\nPresentación LLMs (2/2)\nEntrenamiento LLMs:\n1. Text breaking: pasando de 500B de palabras a 50k word piece tokens\n• Las palabras se rompen, especialmente:\n• Las nuevas: G P T – 3\n• Las largas: lingu istics\n• Las cortas más comunes no se rompen (can, go, used…)\n2. Next word prediction: basado en unos cuantos centenares de \npalabras anteriorires.\n",
+  "speaker": "SYSTEM",
+  "uuid": "9113f85c-9f30-4603-9da4-b0780c812f38"
+}

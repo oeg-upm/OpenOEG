@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 36\nATHENS 2010 \n© Raúl García Castro et al. \nRDF(S) limitations \n•  RDFS too weak to describe resources in sufficient detail \n-  No localised range and domain constraints \n•  Can’t say that the range of hasChild is person when applied to \npersons and elephant when applied to elephants \n-  No existence/cardinality constraints \n•  Can’t say that all instances of person have a mother that is also a \nperson, or that persons have exactly 2 parents \n-  No boolean operators \n•  Can’t say or, not, etc. \n-  No transitive, inverse or symmetrical properties \n•  Can’t say that isPartOf is a transitive property, that hasPart is the \ninverse of isPartOf or that touches is symmetrical \n•  Difficult to provide reasoning support \n-  No “native” reasoners for non-standard semantics \n-  May be possible to reason via FOL axiomatisation \n36 \n",
-  "speaker": "SYSTEM",
-  "uuid": "2c766d3e-0fdb-41b5-9b8b-daaa42088421"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 60\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nBIBO: Model and instances \n61 \ninstanceOf\ninstanceOf\ninstanceOf\ninstanceOf\noeg:Asun\nbibo:Document\nbibo:Article\nbibo:Agent\nbibo:editor\noeg:MC\nhttp://.../people/asun_oeg.png\nfoaf:img\nfoaf:firstName\nfoaf:surname\nfoaf:firstName\nfoaf:surname\n“Mari Carmen”\n“Suárez de Figueroa”\n“Asunción”\n“Gómez”\nequivalentClass\nspringer:978-3-642-24794-1\ndc:title\n“Ontology Engineering in \na Networked World”@en\n“2012”\nbibo:Book\nbibo:Thesis\nbibo:Proceedings\nfoaf:Agent\ndc:date\n“978-3-642-24794-1”\nbibo:isbn\n“444”\nbibo:numPages\nkmi:EMotta\nfoaf:firstName\nfoaf:surname\n“Enrico”\n“Motta”\ncnr:AGangemi\nfoaf:firstName\nfoaf:surname\n“Aldo”\n“Gangemi”\nbibo:editor\nbibo:editor\nbibo:editor\nbibo:editor\nspringer:Springer\nbibo:publisher\ninstanceOf\ninstanceOf\n",
+  "speaker": "SYSTEM",
+  "uuid": "a8211f25-ae9b-4f11-b37e-395455c3e67f"
+}

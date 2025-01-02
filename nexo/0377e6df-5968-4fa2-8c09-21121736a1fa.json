@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 13\nWeb Ontology Language\nOWL semantics\nOWL is “Axiom-centric”\nEntities only “exist” as part of axioms, and therefore the only \nway of creating an entity in an ontology is by adding an \naxiom that refers to it. We cannot create the class A, but we \ncan state that A subClassOf owl:Thing\n!!!\n",
-  "speaker": "SYSTEM",
-  "uuid": "0377e6df-5968-4fa2-8c09-21121736a1fa"
-}

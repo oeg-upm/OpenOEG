@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Vidal.Sep19.pdf: Página 64\nPage 64\nHow can Knowledge Evolution help?\nLung Cancer \nTumor Marker \nTests\nPatients\nCYFRA21-1\nCA-125\nCEA\nNSE\nPREFIX iasis:<http://iasis/vocab/>\nSELECT ?id ?date ?level  \n WHERE {\n  ?bm  a  iasis:LungCancerBiomarker .\n  ?bm iasis:associated ?obs .\n  ?bm  iasis:limit ?limit .\n  ?obs iasis:level ?level .\n  ?obs iasis:date ?date .\n  ?obs iasis:patient ?id .\n  ?id iasis:diagnostic iasis:LungCancer .\n          FILTER (?level > ?limit)\n  }\nLevel of the Lung Cancer Biomarkers  in \nthe patients with Lung Cancer? \n",
+  "speaker": "SYSTEM",
+  "uuid": "79ae80ad-d3f3-4cbb-811f-2aebc9ba3a1c"
+}

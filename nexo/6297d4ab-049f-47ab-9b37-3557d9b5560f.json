@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 27\nATHENS 2010 \n© Raúl García Castro et al. \nFlight \nrdfs:Literal \nrdfs:Class \ncompany-name \nsingleFare \nunits:currencyQuantity \nrdfs:range \nrdfs:range \nrdfs:domain \nrdfs:domain \nrdf:Type \ndepartureDate \nrdfs:domain \ntime:Date \nrdfs:range \narrivalDate \nrdfs:range \nrdfs:domain \nrdf:Property \nrdf:Type \nrdf:Type \nrdf:Type \nrdf:Type \nRDF \nRDFS \nIB-4321 \n“Iberia” \n500 euros \n10/11/2005 \nsingleFare \ndepartureDate \narrivalDate \ncompany-name \nrdf:Type \nrdf:Type \nrdf:Type \nrdf:Type \nRDF(S) Example \n27 \n",
-  "speaker": "SYSTEM",
-  "uuid": "6297d4ab-049f-47ab-9b37-3557d9b5560f"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: KGEOntologies_2021.pdf: Página 16\nAn Ontology-Based Deep Learning Approach for Triple Classification with Out-of-Knowledge-Base Entities\nStep 3: Ontology encoding\n16\nThe encoding of the ontology must be aligned with\nthe encoding of the target\no If entities are encoded as vectors, their ontological\ninformation must be a vector\nMarie Curie\nThing\nPerson\nScientific\nOne-hot encoding\nWord embeddings\nAverage\nWeighted Average\n-\nLacks semantic\ninformation\n-\nGrows linearly with\nnumber of classes\nIntroduces hierarchy\n",
-  "speaker": "SYSTEM",
-  "uuid": "9052aa0a-b206-4711-9f9e-787caa19f054"
-}

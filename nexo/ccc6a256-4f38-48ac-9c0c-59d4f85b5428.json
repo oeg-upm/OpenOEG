@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Course-Intro.pdf: Página 3\n3\nContent and Schedule\nMonday 16th November. 9.00-14.00\nSection 1: Introduction to the Semantic Web (theory: 1 hour)\n General overview of the semantic web with special emphasis on ontologies and \nresources annotation (documents, texts, web pages, web services, DBs, etc). \nDescription of the types of problems this technology can be applied to. \nSection 2: Computational linguistics (theory: 2 hours, hands-on: 2 hours)\n Introduction to some computational linguistics concepts useful in building \nontologies (terminological aspects: concepts, terms, relations between them, \ndefinitions, etc). Types of terminological resources (lexicons, thesauri, mono-, \nmultilingual dictionaries, controlled-language vocabularies, terminological DBs) \nthat can be used as a starting point in ontology building. \n Introduction to multilingual issues in ontologies. \n",
+  "speaker": "SYSTEM",
+  "uuid": "ccc6a256-4f38-48ac-9c0c-59d4f85b5428"
+}

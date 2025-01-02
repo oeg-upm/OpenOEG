@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: El 11811 es un proyecto en el que se ha utilizado el búscador semántico de ISOCO (\nhttp://www.isoco.com/naveganza.htm\n) para indexar los tramites que los ciudadanos pueden realizar con la administración del estado, las administraciones autonómicas y locales.\nLa colaboración del OEG en el proyecto ha consistido en:\nDescargar y procesar los tramites del estado.\nConstruir una ontología de forma semi-automática. Realizando un análisis estadístico de las palabras más frecuentes (obteniendo de esta forma los conceptos \"clave\") y posteriormente enriqueciendo con subclases e instancias de forma automática.\nConstruir tesauros de las clases e instancias generadas.\nDescargar y procesas los tramites autonómicos y locales.\nUna demostración del producto se puede ver en la siguiente página:\nhttp://telegate.isoco.com/",
-  "speaker": "SYSTEM",
-  "uuid": "f28054f3-a427-47b0-af64-f68d453aa4a4"
-}

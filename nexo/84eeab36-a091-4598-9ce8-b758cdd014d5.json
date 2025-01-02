@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AMPER08_-_RDF%28S%29_access_APIs.pdf: Página 15\nRDF(S) Access APIs, May 2008\n15\n© García-Castro, Corcho, Muñoz-García\nQuerying a model\n// select all the resources with a VCARD.FN property\nResIterator iter = model.listSubjectsWithProperty(VCARD.FN);\nif (iter.hasNext()) { \nSystem.out.println(\"The database contains vcards for:\");\nwhile (iter.hasNext()) { \nSystem.out.println(\" \" + iter.nextStatement() \n.getProperty(VCARD.FN) .getString()); \n} \n} else { \nSystem.out.println(\"No vcards were found in the database\");\n} \nThe database contains vcards for: \nSarah Jones \nJohn Smith \nMatt Jones \nBecky Smith \n",
+  "speaker": "SYSTEM",
+  "uuid": "84eeab36-a091-4598-9ce8-b758cdd014d5"
+}

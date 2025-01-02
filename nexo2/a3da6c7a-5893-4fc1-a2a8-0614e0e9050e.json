@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Aplicaciones-_v2%28asun%29.pdf: Página 35\n©Asunción Gómez-Pérez\n- 36\nOntology-based Access to Databases\nBDR\nModelo\nRelacional\nPersonal\nOrganización\nPregunta: Nombre de \nlos profesores de la \nuniversidad UPM\n* Un profesor es una \npersona cuyo puesto es \n“docente”\n* Una universidad es una \norganización de tipo “3”\nConsulta: valores de la columna nombre de \nlos registros de la tabla Personal para los que \nel valor de la columna puesto is “docente”\nque estén relacionados con al menos un \nregistro de la tabla Organización con el valor \n“3” en la columna tipo y “UPM” en la columna \nnombre.\n?\nProcesado de la \nconsulta de acuerdo a \nla descripción formal \nde correspondencia\nOntología\nProfesor\nDoctorando\nUniversidad\nProcesador\n",
-  "speaker": "SYSTEM",
-  "uuid": "a3da6c7a-5893-4fc1-a2a8-0614e0e9050e"
-}

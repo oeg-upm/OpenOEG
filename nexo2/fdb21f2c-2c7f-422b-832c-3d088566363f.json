@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 48\n© O. Corcho, R.García-Castro, O. Muñoz-García\n51\nRDF and RDF Schema\nSPARQL query forms\n• SELECT\n– Returns all, or a subset of, the variables bound in a query pattern \nmatch.\n• CONSTRUCT\n– Returns an RDF graph constructed by substituting variables in a set \nof triple templates.\n• ASK\n– Returns a boolean indicating whether a query pattern matches or \nnot.\n• DESCRIBE\n– Returns an RDF graph that describes the resources found.\n",
-  "speaker": "SYSTEM",
-  "uuid": "fdb21f2c-2c7f-422b-832c-3d088566363f"
-}

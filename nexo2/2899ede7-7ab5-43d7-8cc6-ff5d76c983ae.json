@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Garc%C3%ADaEtAl_CKCaR09.pdf: Página 11\nContext & disambiguation\n•\nFirst disambiguation approach \nrelying on a dictionary (Lesk, 1998)\n•\nDefinitions of the word to \ndisambiguate & of each word in \nthe context.\n• Context: The words appearing in \nthe sentence\n•\nDefinitions of the words in the \ncontext are compared against the \ndefinitions of the word to \ndisambiguate.\n• Contexts in folksonomies\nCo-occurring \ntags in the \nwhole \nfolksonomy\nUser tags \nregardless of \nthe resource\n(Period of Time)\nco-occurring \ntags in the \nsame \nresource\nUser Tags co \n-occurring in \nthe same \nresource\nProblems:\nWhen\nthe\ndefinitions\nare short. (Sanderson, 2000)\n•\nLesk, M., “They said true things, but called them by wrong names” –\nvocabulary problems in retrieval systems.  in Proc. 4th Annual \nConference of the University of Waterloo Centre for the New OED\n(1998)\n•\nSanderson, M., Retrieving with Good Sense. In Information Retrieval \n2(1): 47-67 (2000)\n11\n",
-  "speaker": "SYSTEM",
-  "uuid": "2899ede7-7ab5-43d7-8cc6-ff5d76c983ae"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 30\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nEquiparación de variables (V) \nLas reglas pueden tener elementos de condición negados (precedidos del símbolo ~) \nLa regla se equipara si: \na)    Existen elementos de la MT que satisfacen todos los elementos de condición no negados \nb)    No existen elementos de la MT que hacen cierto el elemento de condición negado \nHipótesis del Mundo Cerrado: Todo lo que no está en la MT es falso \n",
+  "speaker": "SYSTEM",
+  "uuid": "8effeef0-3927-4256-b97f-f0753792b55e"
+}

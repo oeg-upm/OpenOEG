@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GeneralOntologies-v3_%28mariano%29.pdf: Página 52\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work\n52\nPERFORM A COMPARATIVE TABLE. MEREOLOGY\nAxioms and definitions \nSingle part whole \nSUMO-OWL \nDolce-Lite \nOswebsite \nOBO \nA.1) Reflexivity \n \n \n \n \n \nA.2) Antisymmetry \n \n \n \n \n \nA.3) Transitivity \nYes \n \nYes \nYes \nYes \nD.1) Proper part \n \nLight \nLight \n \nLight \nD.2) Direct part \nLight \n \n \nLight \n \nD.3) Overlap \n \nLight \nLight \n \n \nD.4) Underlap \n \n \n \n \n \nD.5) Disjoint \n \n \n \n \n \nA.4) Weak supplementation \n \n \n \n \n \n \nPossible values for axioms: yes or no\nPossible values for definitions: heavy, light or no.\nThe term appear in the ontology, but no explicit definition (≡) is provided\n",
+  "speaker": "SYSTEM",
+  "uuid": "8910635a-9130-4fcf-a33d-4012c831cde3"
+}

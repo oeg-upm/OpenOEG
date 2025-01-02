@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: MasterIA_Dic2009.pdf: Página 12\nSemantic Measures\nSome definitions [Gracia 09]\nConsidering the previous semantic relationships as \nmathematical binary relations, and given E a set of \nentities with an associated semantics, we define:\nSemantic relatedness relation: set of ordered pairs    \nR ⊆E x E such that\nSemantic similarity relation: set of ordered pairs\nRS ⊆E x E such that\n12\nR = Ri ∪RH ∪Rh ∪Rsyn ∪Rconn ∪Rcom ∪Rant ∪Rdis ∪Rhol ∪Rmer ∪Rassoc\nRS = Ri ∪RH ∪Rh ∪Rsyn ∪Rconn ∪Rcom\n",
+  "speaker": "SYSTEM",
+  "uuid": "a2ca7a2b-8f16-4843-a215-fd97c60b1fb1"
+}

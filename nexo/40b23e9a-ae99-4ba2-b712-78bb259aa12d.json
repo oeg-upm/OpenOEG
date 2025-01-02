@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 41\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \n \n \n \nNº de ciclos transcurridos desde su creación o modificación.  \n \n \n \nEn un ciclo se pueden ejecutar varias acciones \n \n \n \nDistintos elementos en la MT pueden tener la misma edad \nEdad \n \n \n \nNº de acciones ejecutadas desde su creación o modificación. \n \n \n \nCada elemento en la MT tiene una edad. \n \n \n \n \nEdad del elemento en la MT \nCada elemento de la MT tiene asociado un Time-Tag (señal temporal) de cuándo se creó. \n \nEl contador (por ciclos/acciones) se va incrementando en una unidad al ejecutar los ciclos/acciones \nAntigüedad = Contador -  TimeTag \nBH: { (90 A C) \n              (80 A B)} \nTime-Tag \nContador: 96 \nEdad de (A C) es 6 \nEdad de (A B) es 16 \n",
+  "speaker": "SYSTEM",
+  "uuid": "40b23e9a-ae99-4ba2-b712-78bb259aa12d"
+}

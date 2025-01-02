@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 24\nLeft Hand Side Patterns\n• JAPE rules can access annotation features\n• Features can be compared with ==, !=, \n>,<, =~, !~, ==~ and !=~\n• Ranges can be specified({Token})[1,3] or \n({Token})[3]\n• Contextual information can be specified in \nthe same way, but has no label\n• Contextual information will be consumed \nby the rule\n({Annotation1})\n({Annotation2}):match\n({Annotation3})\nJAPE RULES\n({Token.kind == word})*\n{Token.string == \"@\"}\n({Token.kind == word})*\n({Token.string == \".\"}\n({Token.kind == word}) \n:email\n",
+  "speaker": "SYSTEM",
+  "uuid": "90616678-069d-4f47-b935-00712de3e958"
+}

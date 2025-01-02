@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_SPARQL_Curso20122013.pdf: Página 6\n6 \nCurso Biblioteca Nacional. 21-25th November 2011 \n© Raúl García Castro et al. \nA simple SPARQL query \n@prefix dc: <http://purl.org/dc/elements/1.1/> .  \n@prefix : <http://example.org/book/> .  \n:book1 dc:title \"SPARQL Tutorial\" .  \ntitle \n\"SPARQL Tutorial\"  \nSELECT ?title \nWHERE \n{ \n  <http://example.org/book/book1> <http://purl.org/dc/elements/1.1/title> ?title . \n} \nData: \nQuery: \nQuery result: \n• \nA pattern is matched against the RDF data  \n• \nEach way a pattern can be matched yields a solution  \n• \nThe sequence of solutions is filtered by: Project, distinct, order, limit/offset  \n• \nOne of the result forms is applied: SELECT, CONSTRUCT, DESCRIBE, ASK \n11 \nCurso Biblioteca Nacional. 21-25th November 2011 \n© Raúl García Castro et al. \nIndex \n•  Introduction \n•  Graph patterns \n•  Restricting values and solutions \n•  SPARQL query forms \n•  Hands-on \n•  SPARQL 1.1 \n \n12 \n",
+  "speaker": "SYSTEM",
+  "uuid": "7870c7f6-acb5-464d-8db5-d0799cae5863"
+}

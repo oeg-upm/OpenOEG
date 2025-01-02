@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 15\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \n  \n“El coste del envío se incrementa en 1€ si se recibe en el mismo día” \n \n \nSi (envío $e $origen $destino) ^ (dia-entrega $e hoy )  ^ (coste $e $coste)  \n \nEntonces Borrar (coste $e $coste) \n \n                 Añadir (coste $e $coste + 1) \n \nConstantes: envío, dia-entrega, coste, hoy \nVariable: $e, $coste, $origen, $destino \nEjemplos de Reglas   \n",
+  "speaker": "SYSTEM",
+  "uuid": "2a9f0fca-ef35-4590-aa8d-92960de94e6f"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SPARQL_Streams.pdf: Página 7\nSPARQL and Relational Algebra\nRelational algebra semantics for SPARQL equivalent to \nmapping-based semantics\nAdditional operators:\nOuter union\nCoalesce: †(a,b)->c(R): ∀t∈R, if t(a) NOT NULL then t(c) <- t(a) \nelse t(c) <- t(b).\nSemantics preserving query translation for RDBMS-based \nRDF stores\nStoring RDF data in a RDBMS\nTranslation approach relies on RDF form\nA. Chebotko, S. Lu, and F. Fotouhi. Semantics preserving SPARQL-to-SQL translation. \nData & Knowledge Engineering, 68(10):973–1000, October 2009.\n",
+  "speaker": "SYSTEM",
+  "uuid": "1fc03ea0-c085-4494-93ad-04d1c199b3d4"
+}

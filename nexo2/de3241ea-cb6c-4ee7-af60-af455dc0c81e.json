@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 12\nWeb Ontology Language\nOWL semantics\nAn OWL ontology comprises:\nEntities: the named elements from the knowledge domain, created by the \nontology creator. Entities are identified using URIs (To work in a web \nsetting) \nAxioms: axioms relate the entities to each other using the OWL logic \nvocabulary\nAn OWL ontology can import other ontologies (owl:import): the \nentities of the imported ontology can be referenced by \naxioms on our ontology\n",
-  "speaker": "SYSTEM",
-  "uuid": "de3241ea-cb6c-4ee7-af60-af455dc0c81e"
-}

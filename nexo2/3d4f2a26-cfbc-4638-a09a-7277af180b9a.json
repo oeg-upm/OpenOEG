@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 16\nOntology-based Streaming Data Access\n16\nEnabling  Ontology-based Access to Streaming Data Sources\nQuery\ntranslation\nQuery Evaluator\nClient\nStream-to-Ontology\nmappings\nSPARQLSream (Og) \n[tuples]\nStream \nEngine (S3)\nOntology-based Streaming Data Access Service\nRelational\nDB (S2)\nSensor \nNetwork (S1)\nRDF Store\n(Sm)\nSPARQLSream algebra\nData\ntranslation\nq\n[triples]\nSNEEql\n",
-  "speaker": "SYSTEM",
-  "uuid": "3d4f2a26-cfbc-4638-a09a-7277af180b9a"
-}

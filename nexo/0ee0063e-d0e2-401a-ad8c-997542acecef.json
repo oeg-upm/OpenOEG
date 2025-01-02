@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 05_OWL.pdf: Página 29\n© O. Corcho, MC Suárez de Figueroa Baonza\n33\nOWL 2\nOWL: Most common constructors\nSubproperty\nP1 ⊆P2\nsubPropertyOf\nhasDaughter ⊆hasChild\nEquivalence\nP1 ≡P2\nequivalentProperty\ncost ≡price\nDisjointProperties\nP1 ∩... ∩Pn ⊆⊥\ndisjointObjectProperties\nhasDaughter ∩hasSon ⊆⊥\nInverse\nP1 ≡P2-\ninverseOf\nhasChild ≡hasParent-\nTransitive\nP+ ⊆P\nTransitiveProperty\nancestor+ ⊆ancestor\nFunctional\nΤ ⊆≤1P\nFunctionalProperty\nT ⊆≤1hasMother\nInverseFunctional\nΤ ⊆≤1P-\nInverseFunctionalProperty\nT ⊆≤1hasPassportID-\nReflexive\nReflexiveProperty\nIrreflexive\nIrreflexiveProperty\nAsymmetric\nAsymmetricProperty\nProperty chains\nP ≡P1 o ... o Pn\npropertyChainAxiom\nhasUncle ⊆hasFather o hasBrothe\nEquivalence\n{x1} ≡{x2}\nsameIndividualAs\n{oeg:OscarCorcho}≡{img:Oscar}\nDifferent\n{x1} ≡¬{x2}\ndifferentFrom, AllDifferent\n{john} ≡¬{peter}\nNegativePropertyAssertion\nNegativeDataPropertyAssertion\n¬{hasAge john 35}\nNegativeObjectPropertyAssertion\n¬{hasChild john peter}\nBesides, top and bottom object and datatype properties exist\n",
+  "speaker": "SYSTEM",
+  "uuid": "0ee0063e-d0e2-401a-ad8c-997542acecef"
+}

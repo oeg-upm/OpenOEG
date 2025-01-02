@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: MasterIA_Dic2009.pdf: Página 18\nHypothesis [Cilibrasi and Vitànyi 07] : For each x, y ∈\nSemantic relatedness between two words\nwhere NWD is Cilibrasi and Vitànyi’s Google distance\nSemantic Measures: Relatedness\n18\nx, y are semantically related ⇔x, y appear on the same web page\nrelWeb(x, y) = e -2NWD(x,y)\n",
-  "speaker": "SYSTEM",
-  "uuid": "41c08073-9b1b-4e95-94ff-2faafd613733"
-}

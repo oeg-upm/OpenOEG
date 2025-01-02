@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 22\n•22\nIndex\n• An introduction to knowledge representation\nformalisms\n• Resource Description Framework (RDF)\n• RDF primitives\n• Reasoning with RDF\n• RDF Schema\n• RDF Schema primitives\n• Reasoning with RDFS\n• RDF(S) Management APIs\n( )\ng\n44\nRDFS: RDF Schema\n•\nW3C Recommendation\n•\nRDF Schema extends RDF to enable talking about classes of \nresources, and the properties to be used with them.\n•\nClass definition: rdfs:Class, rdfs:subClassOf\n•\nProperty definition: rdfs:subPropertyOf, rdfs:range, rdfs:domain\n•\nOther primitives: rdfs:comment, rdfs:label, rdfs:seeAlso, rdfs:isDefinedBy\n•\nRDFS vocabulary adds constraints on models, e.g.:\n•\n∀x,y,z type(x,y) and subClassOf(y,z) →type(x,z)\nex:Animal\nrdfs:subClassOf\nex:Person\nex:Person\nrdf:type\nex:Oscar\nex:Animal\nrdf:type\n",
-  "speaker": "SYSTEM",
-  "uuid": "ffca846b-5ea3-477e-a4bc-a8f1a6c1b411"
-}

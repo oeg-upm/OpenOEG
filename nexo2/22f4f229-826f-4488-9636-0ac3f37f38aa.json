@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 60\nATHENS 2010 \n© Raúl García Castro et al. \nInteresting results (IV). Instance classification \nA van is a type of vehicle \nA driver must be adult \nA driver is a person who drives vehicles \nA white van man is a man who drives vans and white things \nWhite van mans must read only tabloids \nQ123ABC is a white thing and a van \nMick is a male who reads Daily Mirror and drives Q123ABC \nWe obtain:  \n Mick is an adult \n Mick is a white van man \n Daily Mirror is a tabloid \n60 \n",
-  "speaker": "SYSTEM",
-  "uuid": "22f4f229-826f-4488-9636-0ac3f37f38aa"
-}

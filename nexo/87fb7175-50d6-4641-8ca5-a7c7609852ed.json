@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Designing_a_Text_Classification_System_using_Statistical_NLP.pdf: Página 22\n• Linear  \n– Decides class membership by comparing a linear combination of \nthe features to a threshold \n– E.g., Naive Bayes, Logistic regression, Support vector machine \nSVM. \nLearning Method \n• Non-linear \n– More versatile \n– Might suffer of overfitting: Fails to Generalize \n– E.g., K nearest neighbor, SVM with kernel trick. \n",
-  "speaker": "SYSTEM",
-  "uuid": "87fb7175-50d6-4641-8ca5-a7c7609852ed"
-}

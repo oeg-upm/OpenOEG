@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 3.RDF%28S%29.pdf: Página 8\n• 8 \nClassifying resources \n•  The rdf:type property is used to classify resources in \ncategories/classes \n•  The rdf:Property class is the class of all properties \n15 \npeople:Raul \ncategory:Person \nrdf:type \npeople:Oscar \nrdf:type \npeople:Missy \ncategory:Animal \nrdf:type \npeople:Fantasma \nrdf:type \nClasses \nInstances \nproperties:hasFullName \nrdf:Property \nrdf:type \nrdf:type \nrdf:type \nBlank nodes: structured property values \n•  Most real-world data involves structures that are \nmore complicated than sets of RDF triple statements \n \n16 \npeople:Raul \n      \nproperties:hasFullName \n“Raúl” \nproperties:firstName \n“García Castro” \nproperties:lastName \nThis intermediate URI does \nnot need to have a name \n",
-  "speaker": "SYSTEM",
-  "uuid": "b6050a54-7fc6-4fff-a49a-be5732888fde"
-}

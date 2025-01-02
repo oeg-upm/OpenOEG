@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion-2013.pdf: Página 14\nPlanificación \n \n \n \n \n  \n RESOLUCIÓN \n \n• \nEstando en la posición c el estado sería (c,0,c,0), \naplicando el operador SALTAR A LA CAJA, el \nestado sería (c,1,c,0) y aplicando APODERARSE, el \nestado sería el estado meta (c,1,c,1)  \n",
+  "speaker": "SYSTEM",
+  "uuid": "1ae2d0d9-7ca2-497b-8128-51b552cd7ceb"
+}

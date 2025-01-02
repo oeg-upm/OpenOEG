@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 06_NonStandardOWLReasoning_ModularisationAndDebugging.pdf: Página 29\nProtégé approach to finding justifications\n• Black box approach (expand-contract strategy)\n• Create an empty ontology\n• Expand until expression is unsatisfiable\n• Prune until the expression is satisfiable\n• Several optimisations, including the use of modularity\n• Aiming at removing superflous axioms\n29\n",
+  "speaker": "SYSTEM",
+  "uuid": "20a649bd-c954-4bb5-97d7-7f3a5bd1717b"
+}

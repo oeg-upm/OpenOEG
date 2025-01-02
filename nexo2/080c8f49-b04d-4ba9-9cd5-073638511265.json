@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Annotation.pdf: Página 34\nMain sections of a R2O document\n•\nA set of URI instances to be added to the instance set extracted \nfrom the DB (import?), \n(\np\n),\n•\na description of the DB schema (dbschema-description*)\n•\none or more URI ontologies for which instances will be generated \nwhen executing the R2O mapping (ontology+)\nwhen executing the R2O mapping (ontology+)\n•\nand the list of mapping definitions (conceptmapping-definition+) \nbetween the components of the DB schema and the ontology\nimport http://www.instancesets.net/instance1\nimport http://www.instancesets.net/instance2\ndb\nh\nd\n<db\nh\nd\ni ti\n>\ndbschema-desc <dbschema-description>\ndbschema-desc <dbschema-description>\nontology http://www.ontologies.net/onto1#\nontology http://www ontologies net/onto2#\nontology http://www.ontologies.net/onto2#\n© O. Corcho, B Villazón, A. Gómez-Pérez\n34\nAnnotation\n",
-  "speaker": "SYSTEM",
-  "uuid": "080c8f49-b04d-4ba9-9cd5-073638511265"
-}

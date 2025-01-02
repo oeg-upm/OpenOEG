@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: B%C3%9ASQUEDA.pdf: Página 63\n63\nALGORÍTMO A*\nUn vendedor tiene que visitar cada una de las cinco ciudades de la\nfigura anterior, una sola vez cada una, a excepción de la ciudad de\npartida que es A a la que tenemos que regresar después de haber\nvisitado el resto de las ciudades.\nDesarrollar un Sistema de Producción que resuelva el ejercicio\nanterior, usando el algoritmo A* para resolver el conjunto conflicto,\ncomo estrategia de control.\n",
-  "speaker": "SYSTEM",
-  "uuid": "5306ad03-7784-429c-89ba-6c905e3bebe6"
-}

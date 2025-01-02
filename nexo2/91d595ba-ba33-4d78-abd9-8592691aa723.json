@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_06_-_Lifecycle-selection.pdf: Página 30\nNeOn Lifecycle Models\n©Asunción Gómez-Pérez, Carmen Suarez-Figueroa\nStep 3: Decision Tree for Selecting Activities to be \nmapped in the Ontology Network Life Cycle Model\nHave you developed more than 5 ontologies?\nNo\nYes\nSet\nof\n“yes/no”\nnatural \nlanguage\nquestions for identifying the ‘if-applicable’\nactivities to be carried out. \n¾ Do you want to have your ontology \nnetwork in different natural languages, as \nfor example, in English, Spanish and \nFrench? YES Æ O. Localization.\n¾ Do you want to take an existing and \nimplemented \nontology, \nin \norder \nto \nenhance it and implement it again? NO \nÆ O. Reengineering is not selected. \nSoftware \ndevelopers\nand\nontology\npracticioners select the activities to be \ncarried\nout \nfrom\nthe\n“Required-If\nApplicable” table\nAutomatically\n",
-  "speaker": "SYSTEM",
-  "uuid": "91d595ba-ba33-4d78-abd9-8592691aa723"
-}

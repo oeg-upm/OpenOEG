@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 54\n© O. Corcho, R.García-Castro, O. Muñoz-García\n57\nRDF and RDF Schema\nSample ontology\nLugarTuristico\nPalacio\nIglesia\nErmita\nCatedral\nEstablecimiento\nHotel\nHostal\nAlbergue\nLugarDeInteres\nLugar\nLocalidad\nVilla\nPueblo\nCiudad\nSpatialThing\nDireccionPostal\nrdfs:Literal\nNumeroHabitantes\nSituadoEn\nrdfs:Literal\nCalle\nProvincia\nDireccion\nNumero\n",
-  "speaker": "SYSTEM",
-  "uuid": "d402300b-9611-4eea-b865-c79b6dab21be"
-}

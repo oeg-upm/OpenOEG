@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2019-07-18-Lefrancois-Seminar.pptx: Diapositiva {57}\nIdeas\nHow can SPARQL-Generate be compared to / used with RML?\nHow can SPARQL-Generate be used by Helio?\nWhat query optimization techniques for SPARQL-Generate?\nCan we use (a subset of) SPARQL-Generate for OBDA? \nCan we qualify transformations w.r.t the input/output space?\nCan we identify/compute operators on these objects?\u000be.g., If input conforms to a schema, then does the output conforms to a SHACL shape?",
-  "speaker": "SYSTEM",
-  "uuid": "5fe2cc04-73c0-461f-b660-174ab8e2adcf"
-}

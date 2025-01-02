@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: B%C3%9ASQUEDA.pdf: Página 57\n57\nEn el primer instante se ha creado el nodo inicial representado\nen la lista cerrada por su núcleo en blanco, al pasarlo a\ncerrada se ha puesto su núcleo en negro, se ha desarrollado\naleatoriamente uno de los nodos (al lado de cada arco figura\nsu coste de acceso) y se han colocado los direccionadores a\nsu antecesor, a continuación se ha desarrollado otro nodo\n(aleatoriamente)\ny\nse\nhan\nañadido\nal\ngrafo\nsus\ndos\ndescendientes (que son nuevos), nuevo desarrollo de otro\nnodo el cual, en este caso, genera dos descendientes, uno\nnuevo y otro viejo (esta en la lista abierta), para este último se\nestudia si se redirige o no su puntero, resultando que si, a\ncontinuación otro nodo de abierta es desarrollado y genera un\nsucesor nuevo y otro viejo (este esta en cerrada) por lo que es\nnecesario decidir si se redirige su puntero y los de sus\ndescendientes\n",
-  "speaker": "SYSTEM",
-  "uuid": "4e7199ac-e844-406c-b40c-59fac7bf691d"
-}

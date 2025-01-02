@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Vidal.Sep19.pdf: Página 27\nPage 27\nEvaluation\nDataset: DBpedia 2015 (HDT on top of TPF server), 837M triples\nBenchmark 1: 14 high-selective queries (<1000 int. res.)\nBenchmark 2:  Four low-selective queries (>1000 int. res.)\nMetrics:\n•  Execution Time, ms\n•  Completeness over time, %\nCompared tools:\n●\nTPF: triple pattern fragment client [7]\n●\nnLDE: network of Linked Data Eddies [2]\n●\nSMJoin: multi-way join operator for SPARQL [13]\n",
-  "speaker": "SYSTEM",
-  "uuid": "9f38e120-4e04-4ddf-a9b5-68229a263512"
-}

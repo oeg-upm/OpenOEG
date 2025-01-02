@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/GeoLinkedDataBrowser \n\nRecopilación de datos\n“locales” (INE, IGN…)   - (Luis)\notras fuentes (DBpedia, Abredatos, sindice, etc.) – (Alex/Mora)\nOntología de cada fuente y alignment entre ontologías  - (Boris/Luis)\nPatrones recursos no ontológicos  -  (Boris)\nVirtuoso geoespacial  - (Alex/Víctor)\n“Pintar” en mapas – (Alex/Víctor)\nNavegación por facetas  -  (Carlos)\nQuery rewriting  - (Mora)\nOwl:sameAs – (¿?)\nTimelines – (¿?)\nInterfaz final - (¿?)\nBoris, is it possible to get done the ontology and the data in RDF by the end of this week?\nOnce we have the data (or a subset of it) we start painting it and linking it to different data sources such dbpedia or anything available (and useful)",
+  "speaker": "SYSTEM",
+  "uuid": "65a31b94-c95b-45a1-8842-e9e7eeb90246"
+}

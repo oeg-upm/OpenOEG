@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SparqlDQPGrupo.pdf: Página 5\nIntroduction\n• Proposal: use existing techniques for SQL query \noptimisation in SPARQL\n• Why?\n• A relational algebra for SPARQL, Richard Cyganiak (2005)\n• The expressive power of SPARQL, Renzo Angles and \nClaudio Gutierrez (2008)\nSELECT ?name ?email\nWHERE {\n?person rdf:type foaf:Person .\n?person foaf:name ?name .\nOPTIONAL { ?person foaf:mbox ?email }\n}\n",
-  "speaker": "SYSTEM",
-  "uuid": "b171716e-0e7d-4a50-8156-db723ed856cf"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2019.02.OEG.Work.on.Events.pptx: Diapositiva {7}\nExperiment idea:\nTake a good state of the art temporal tagger\nTARSQI: the tool developed by the team that created the TimeML standard (Pustejovsky & co)\nTake a corpus on legal documents (ACQUIS)\nAnnotate!\n\n70 docs (because it is so slow)\nI just let it annotate (remotely, on Christmas)\n2 days later, it was blocked. Not enough memory I guess.\nChecked annotations.\nAround 1500 events per doc!\n",
-  "speaker": "SYSTEM",
-  "uuid": "12e5fbe6-1455-4609-bdaf-7902f7282d6c"
-}

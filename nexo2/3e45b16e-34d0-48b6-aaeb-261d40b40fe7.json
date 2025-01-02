@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01a.FormalismosRepresentaci%C3%B3n.pdf: Página 5\nFirst order logic. Formalisation \n• \nWe have a robot that delivers boxes to offices. We know: \n•  Boxes in room 27 are smaller than those in room 28. \n•  All boxes in the same room are of the same size. \n \n \n•  In a given moment in time, we know: \n•  i)  Box A is inside room 27 or 28 (we do not know which one). \n \n \n•  ii)  Box B is inside room 27. \n  \n•  iii) Box B is not smaller than box A. \n \n•  We want to test whether box A is in room 27. \n",
-  "speaker": "SYSTEM",
-  "uuid": "3e45b16e-34d0-48b6-aaeb-261d40b40fe7"
-}

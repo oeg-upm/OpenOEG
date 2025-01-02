@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 5.metodologia-v2%28asun%29.pdf: Página 17\n© A. Gómez Pérez, M.C. Suarez de Figueroa, B. Villazón,  E.Montiel, G. Aguado, M. Espinoza \n18 \nOntological Engineering \n18 \ngOntt helps in scheduling an ontology network development. \n– To create particular schedules from scratch  \n– To create particular schedules in a guided way  \n– gOntt provides wizard menus to select the ontology life cycle model and to \nselect processes and activities  \n– gOntt generates the initial plan for the ontology project in the form of a \nGantt chart \ngOntt is a NeOn plug-in for integrating the NeOn \nMethodology and the NeOn Toolkit.  \n– gOntt provides filling cards, workflows, and methodological guidelines.  \n– gOntt triggers the NeOn plug-ins associated to each process and activity \nplanned. \nScheduling. gOntt plug-in \n",
-  "speaker": "SYSTEM",
-  "uuid": "4ab25994-166c-4215-b7d1-b269f279cdc8"
-}

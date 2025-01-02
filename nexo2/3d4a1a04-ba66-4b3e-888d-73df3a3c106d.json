@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RDF%28S%29-SPARQL-Pr%C3%A1ctica.pdf: Página 23\n•23\nSPARQL query forms\n• SELECT\n• Returns all, or a subset of, the variables bound in a query \npattern match\n• CONSTRUCT\n• Returns an RDF graph constructed by substituting variables \nin a set of triple templates\n• ASK\n• Returns a boolean indicating whether a query pattern \nmatches or not\n• DESCRIBE\n• Returns an RDF graph that describes the resources found\n45\nSPARQL query forms: SELECT\n@prefix  foaf:  <http://xmlns.com/foaf/0.1/> .\n_:a    foaf:name\n\"Alice\" .\n_:a    foaf:knows\n_:b .\n_:a    foaf:knows\n_:c .\n_:b\nfoaf:name\n\"Bob\" .\n_:c\nfoaf:name\n\"Clare\" .\n_:c\nfoaf:nick\n\"CT\" .\nPREFIX foaf:    <http://xmlns.com/foaf/0.1/>\nSELECT ?nameX ?nameY ?nickY\nWHERE\n{ ?x foaf:knows ?y ;\nfoaf:name ?nameX .\n?y foaf:name ?nameY\n?y foaf:name ?nameY .\nOPTIONAL { ?y foaf:nick ?nickY }\n}\nnameX\nnameY\nnickY\n\"Alice\"\n\"Bob\"\n\"Alice\"\n\"Clare\"\n\"CT\"\n46\n",
-  "speaker": "SYSTEM",
-  "uuid": "3d4a1a04-ba66-4b3e-888d-73df3a3c106d"
-}

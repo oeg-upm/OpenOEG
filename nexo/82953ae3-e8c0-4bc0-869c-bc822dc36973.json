@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion.pdf: Página 25\nPlanificación\nFormalización de STRIPS. Ejemplo de descripción \nde estados\nA\nB\nC\nC\nB\nA\nencima (A, B)\nen-mesa (C)\nen-mesa (B)\nbrazo-libre\nlibre (A)\nlibre (C)\nSITUACIÓN INICIAL\nencima (C, B)\nen-mesa (A)\nen-mesa (B)\nbrazo-libre\nlibre (A)\nlibre (C)\nMETA\nFalta un estado, dado que no se da en estas dos representaciones,  que \nsería:    sujeto(x)\n",
+  "speaker": "SYSTEM",
+  "uuid": "82953ae3-e8c0-4bc0-869c-bc822dc36973"
+}

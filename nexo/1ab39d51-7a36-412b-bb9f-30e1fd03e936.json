@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 23\n©O. Corcho\n23\nOntological Engineering\nCopyright © 2005, The University of Manchester\nReasoner Classification\n•\nThe reasoner has been able to infer that anything that is a Pizza\nthat has at least one topping from CheeseTopping is a CheeseyPizza\nThe inferred hierarchy is \nupdated to reflect this and \nmoved classes are \nhighlighted in blue\n",
+  "speaker": "SYSTEM",
+  "uuid": "1ab39d51-7a36-412b-bb9f-30e1fd03e936"
+}

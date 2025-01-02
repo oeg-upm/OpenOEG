@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_OWL.pdf: Página 75\n© O. Corcho, MC Suárez de Figueroa Baonza\n75\nOWL and SWRL\nExercise\n•Objective\n• Understand how to use an RDF(S) management API\n•Tasks\n• Read an ontology in RDF(S) from two files: \n• GP_Santiago.rdf (conceptualization)\n• GP_Santiago.rdfs (instances)\n• Write the class hierarchy of the ontology, including the instances of each class\n",
-  "speaker": "SYSTEM",
-  "uuid": "fc5d54ff-ec56-4e08-9d90-5723099baeb0"
-}

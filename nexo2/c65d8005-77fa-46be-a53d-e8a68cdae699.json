@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: EWoT.pdf: Página 30\neWoT: A Semantic Interoperability Approach for Heterogeneous IoT Ecosystems Based on the Web of Things\nConclusions: eWoT\n30\n§  eWoT enables semantic interoperable ecosystems\no  Based on the Web of Things\n•  Extended with the WoT-Mappings\no  Integration of IoT infrastructures requires only the \nregistration of their Thing Descriptions\no  Offers a SPARQL endpoint to transparently query a set of \nheterogeneous IoT infrastructures\n§  Experimental results:\no  Show that eWoT is competitive\no  Show that there is room to improve the discovery algorithm\n§  Available at:\no  https://github.com/oeg-upm/eWoT\n",
-  "speaker": "SYSTEM",
-  "uuid": "c65d8005-77fa-46be-a53d-e8a68cdae699"
-}

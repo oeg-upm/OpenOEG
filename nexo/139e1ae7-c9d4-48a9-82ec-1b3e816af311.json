@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: DataCube.pdf: Página 2\nData cubes\n•\nA cube can be considered a multidimensional extension of 2-D \ntables (as in geometry a cube is a three-dimensional extension \nof a square)\n•\nThe term hypercube is sometimes used, especially for data with \nmore than three dimensions\n•\nEach dimension represents some attribute in the database \n(such as sales, profits, expenses…)\n•\nThe cells in the data cube represent the measure of interest. For \nexample, they could contain a count for the number of times that \nattribute combination occurs in the database, or the minimum, \nmaximum, sum or average value of some attribute\n•\nQueries are performed on the cube to retrieve decision support \ninformation\n2\n",
+  "speaker": "SYSTEM",
+  "uuid": "139e1ae7-c9d4-48a9-82ec-1b3e816af311"
+}

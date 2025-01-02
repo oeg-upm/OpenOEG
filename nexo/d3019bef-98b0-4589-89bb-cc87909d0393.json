@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RDF%28S%29-SPARQL-Pr%C3%A1ctica.pdf: Página 7\n•7\nIndex\n• Resource Description Framework (RDF)\n• RDF Schema\n• RDF(S) Management APIs\nRDF(S) Management APIs\n• SPARQL\n• Assignment details\n13\nRDFS: RDF Schema\n•\nW3C Recommendation\n•\nRDF Schema extends RDF to enable talking about classes of \nresources, and the properties to be used with them\n•\nClass definition: rdfs:Class, rdfs:subClassOf\n•\nProperty definition: rdfs:subPropertyOf rdfs:range rdfs:domain\n•\nProperty definition: rdfs:subPropertyOf, rdfs:range, rdfs:domain\n•\nOther primitives: rdfs:comment, rdfs:label, rdfs:seeAlso, \nrdfs:isDefinedBy\n•\nRDFS vocabulary adds constraints on models, e.g.:\n•\n∀x,y,z type(x,y) and subClassOf(y,z) →type(x,z)\nex:Animal\nex:Person\nex:Oscar\nrdfs:subClassOf\nrdf:type\n14\n",
-  "speaker": "SYSTEM",
-  "uuid": "d3019bef-98b0-4589-89bb-cc87909d0393"
-}

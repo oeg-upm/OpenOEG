@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Metodolog%C3%ADa-1-v2%28asun%29.pdf: Página 45\nOntology Requirements Specification. \nTask 8\n Input: the list of identified CQs and their\nanswers\n Objective: to extract from the list of CQs a\n Objective: to extract from the list of CQs a\npre-glossary to be used in the conceptualization\nactivity. Obtaining a list of the most used\nterms\n Techniques:\nterminology\nextraction\ntechniques\nand\ntools\nsupporting\nsuch\ntechniques\nFrom the requirements in form of competency\nquestions, we extract the terminology (names,\ndj\nti\nd\nb ) th t\nill b\nf\nll\nadjectives and verbs) that will be formally\nrepresented\nin\nthe\nontology\nby\nmeans\nof\nconcepts, attributes and relations.\nFrom the answers to the CQs we extract the\nFrom the answers to the CQs we extract the\nobjects in the universe of discourse that will be\nrepresented as instances.\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n45\nOntological Engineering\nSlide 45\n",
-  "speaker": "SYSTEM",
-  "uuid": "5a52ceca-53b2-4f66-8040-916e3b2d206e"
-}

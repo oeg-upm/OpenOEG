@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ModelosRazonam_DynaLearn_Nov2011.pdf: Página 23\nSemantic Feedback\n• Collaborative filtering for (subjective) \ncommunity-driven recommendation. E.g.:\n•\n“Users who liked model X also liked model Y” \n•\n“Users who modeled X also modeled Y”\n• Model-based. Recommendations based on \nthe properties of the model under an \nobjective perspective. E.g.:\n•\n“Find a model fragment with inverse behaviour to the current one”\n•\n“List all models which are more specific than the current one”\n23\n",
-  "speaker": "SYSTEM",
-  "uuid": "75757255-6c8a-4aeb-bd87-ec7b5c683b6d"
-}

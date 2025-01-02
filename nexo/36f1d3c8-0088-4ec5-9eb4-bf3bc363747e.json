@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Sparqlex.pdf: Página 18\nOther Queries\n• Obtain the values of all the variables in a \nquery (SELECT *) \n• (eg.) Give me all the towns and its inhabitants\nPREFIX pr: http://GP-onto.fi.upm.es/Practica2#\nSELECT * WHERE { ?x pr:NumeroHabitantes ?y. }\n",
+  "speaker": "SYSTEM",
+  "uuid": "36f1d3c8-0088-4ec5-9eb4-bf3bc363747e"
+}

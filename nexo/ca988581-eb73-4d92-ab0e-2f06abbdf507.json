@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISSGC08.pdf: Página 22\n©<Miembro Grupo>\n23\nPrinciples of Distributed Data Management (III)\n•\nSpace Management\n– assure that target has enough space\n– output can be written\n•\nFile Transfer\n– Grid ftp\n– Reliable GridFTP\n– System’s own implementations\n•\nTrust\n– Site policies: Do not trust the users\n• Who can access what information\n– VO policies: Do not trust the sites\n• Accessing sensitive data\n• Managing user and group at VO level\n– An agreement must be achieved\n",
-  "speaker": "SYSTEM",
-  "uuid": "ca988581-eb73-4d92-ab0e-2f06abbdf507"
-}

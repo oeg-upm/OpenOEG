@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: MasterIA_Dic2009.pdf: Página 16\nSemantic Measures: Similarity\nSemantic similarity between two classes\n1st) Extract Ontological Contexts\n2nd) Enrich them by applying inference\n3rd) Compute the following:\n16\nsim(t1 , t2 ) = Linear Combination of \n\nlexical_similarity (synonyms1, synonyms2)\n\nVSM (description1, description2)\n\nVSM (properties1, properties2)\n\nGraph_similarity (graph1, graph2)\nGraph_similarity (graph1 , graph2 ) = Linear Combination of\n\nVSM (hyper1\ndirectHyper1, hyper2\ndirectHyper2)\n\nVSM (hypo1\ndirectHypo1, hypo2\ndirectHypo2)  \n",
-  "speaker": "SYSTEM",
-  "uuid": "35f9ea89-abb3-45d5-950b-0f24745409fc"
-}

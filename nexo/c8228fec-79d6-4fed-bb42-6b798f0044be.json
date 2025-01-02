@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 28\nSo Far…\nOntology-base data access\n• Define stream extensions for R2O\n• Define SPARQLStream language syntax and semantics\n• Define S2O mappings-based translation semantics\nImplementation\n• Enable engine support for « S2O » documents, \nSPARQLStream queries\n• Enabled engine support for SNEEql translation and \nconnection\n• Limited to non-distributed scenario initially\n28\nEnabling  Ontology-based Access to Streaming Data Sources\n",
-  "speaker": "SYSTEM",
-  "uuid": "c8228fec-79d6-4fed-bb42-6b798f0044be"
-}

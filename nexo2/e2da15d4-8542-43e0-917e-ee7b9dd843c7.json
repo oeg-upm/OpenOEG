@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_LDFromDB_Boris.pdf: Página 4\nSpecification - URI design\n• Base URI\n• http://research.ull.es\n• TBOX URI\nTBOX URI\n• http://research.ull.es/ontology/{class|property}\n• ABOX URI\n• http://research.ull.es/resource/{resourceType}/{resource}\n4\n",
-  "speaker": "SYSTEM",
-  "uuid": "e2da15d4-8542-43e0-917e-ee7b9dd843c7"
-}

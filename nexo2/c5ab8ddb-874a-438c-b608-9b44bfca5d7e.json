@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: BUSQUEDA.pdf: Página 115\nBÚSQUEDA \n \n115 \nJ. Rubio / P.R. Muro / J. Bañares \n \nOctubre 2004 - Curso 2004-2005 \nFigura 1 \nUn árbol de juego es una representación explícita de todas las jugadas posibles en \nuna partida. Las hojas, es decir los vértices terminales, corresponden a posiciones \nGANAR, PERDER o EMPATAR. Cada camino desde la raíz (la posición inicial del \njuego) hasta una hoja representa una partida completa. \n \nFigura 2 \nHabitualmente, se denomina MAX al jugador que abre el juego y al segundo, MIN. \nSon posiciones MAX (MIN) aquéllas en las que tiene que jugar MAX (MIN, \nrespectivamente). Estas posiciones se distinguen por los niveles en que aparecen. \nSi identificamos la raíz con el nivel 0, y comienza jugando MAX, las posiciones de \nnivel par corresponden a MAX y las de nivel impar a MIN. \nEn la figura 3 aparece recogido el comienzo de un árbol de juego para el problema \nde los autos de choque (comienza MAX con negras). \n... \n \nFigura 3 \n",
-  "speaker": "SYSTEM",
-  "uuid": "c5ab8ddb-874a-438c-b608-9b44bfca5d7e"
-}

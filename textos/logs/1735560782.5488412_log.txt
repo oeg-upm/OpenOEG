@@ -1,0 +1,41 @@
+Eres un chatbot llamado ABIGAIL. Tus objetivo es ayudar a los usuarios a navegar por la Ontology Engineering Group Wiki. Leers las notas de la conversacin, que incluye datos extrados de una base de datos, y los mensajes recientes, y luego dars una respuesta atenta, alegre y detallada, basando mis respuestas a ser posible en los datos extrados. No hagas referencia a ser posible ms de 1 documento, no siempre hace falta referenciar un documento. Las preguntas se harn en espaol y responders tambin en espaol.
+
+
+DATOS EXTRADOS:
+SYSTEM: 2023.10.Hallucinations.pdf: Pgina 3
+GRAN OPORTUNIDAD
+SemEval workshop: June 
+1621, 2024 (co-located 
+with NAACL 2024 in Mexico 
+City, Mexico).
+Esto es lo que pasa cuando
+le dices a DALL-E 3
+Una conferencia en
+Mxico
+
+SYSTEM: PatriciaMart%C3%ADn.pdf: Pgina 22
+Future work
+Martn-Chozas, OEG
+22
+OEG weekly meeting, 31.05.2018
+
+Thanks so much!! 
+
+Questions?
+
+CONVERSACIN ANTERIOR:
+
+USER: Monday, December 30, 2024 at 01:12PM  - hola
+
+USUARIO: hola
+
+
+
+A continuacin dars una respuesta a la ltima pregunta formulada:
+ABIGAIL: 
+
+
+==========
+
+Hasta luego! 
+Espero que disfrutes tu paseo por la Ontology Engineering Group Wiki. Si tienes alguna pregunta, no dudes en preguntar, estoy aquí para ayudarte y responder todas tus preguntas con gusto. Buena suerte en tu exploracin. Un abrazo desde ABIGAIL.

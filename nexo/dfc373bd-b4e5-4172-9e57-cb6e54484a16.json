@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ODPs-v6.pdf: Página 4\n4\n• Pattern is something proposed for imitation. \n• Design Pattern refers to shared guidelines that help solve design problems.\n• Ontology Design Pattern (ODP) is a modeling solution to solve a recurrent \nontology design problem.\n\nHow to represent the following problems?\n\n“Mariano Fernández-López and Mari Carmen Suárez-Figueroa are senior researchers. Mariano \nis also associate professor and Mari Carmen is teaching assistant”\n\n“Mariano and Mari Carmen co-participate at the CAEPIA 2007 conference”\nThe goal of the ODPs reuse is \n\nto facilitate the solution of modelling issues \n\nto improve interoperability through using well-proven solutions and best practices, in the \nform of patterns\nThe idea of applying patterns for modelling ontologies was proposed by [Clark \net al., 2000]\nOntology Design Patterns\nClark, P., Thompson, J., & Porter, B. W. Knowledge Patterns. In KR2000:  \nPrinciples of Knowledge Representation and Reasoning. pp. 591-600. 2000\n",
-  "speaker": "SYSTEM",
-  "uuid": "dfc373bd-b4e5-4172-9e57-cb6e54484a16"
-}

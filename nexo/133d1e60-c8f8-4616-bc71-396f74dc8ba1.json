@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Helio.pdf: Página 12\nSet your title here in Slide Master Options\nHelio Linking Rules Speciﬁcation \n12\n§  Linking Rules template(s)\n { \n      “condition” : “…”,\n      “predicates” : [“…”], \n    “inverse_predicates” : [“…”],\n      “source_resource_rule_id” : “…”,\n      “target_resource_rule_id” : “…”\n    } \n{  \n      \"condition\" : \"cosine(stripAccents(T({$.name})), \n                      stripAccents(trim(regexp_replace(replace(S({a.PostHeader}),'&nbsp;','’),'<br>.*','')))) > 0.70\", \n      \"predicates\" : [\"http://www.schema.org/tweets\"], \n      \"inverse_predicates\" : [\"http://www.schema.org/writtenBy\"], \n      \"source_resource_rule_id\" : \"OEG People\", \n      \"target_resource_rule_id\" : \"UPM Tweets\" \n    } \n",
-  "speaker": "SYSTEM",
-  "uuid": "133d1e60-c8f8-4616-bc71-396f74dc8ba1"
-}

@@ -6,9 +6,14 @@ from scapingpaginas import WikiAllPageScraper
 from getdocuments import WikiDownloader
 #Dando los datos de usuario y las rutas descarga todo
 #Para cambiar la base de datos, ver el fichero de pineconeupload
+def open_file(filepath):
+    with open(filepath, 'r', encoding='utf-8') as infile:
+        return infile.read()
+    
+username = open_file('C:/Users/Jaime Vázquez/Documents/Python/username_oeg.txt')
 
-username = "jaime.vrivera"
-password = "9rScwwFGLZDNfGz"
+password = open_file('C:/Users/Jaime Vázquez/Documents/Python/password_oeg.txt')
+
 geckodriver_path = 'C:/Users/Jaime Vázquez/AppData/Local/Programs/Python/Python313/geckodriver.exe'
 wiki_urls = [
         "https://delicias.dia.fi.upm.es/wiki/index.php/Special:AllPages",

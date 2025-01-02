@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: TalkOEG_Abril2015_Apertium.pdf: Página 16\nlemon:LexicalEntry \nlemon:LexicalEntry \nlemon:LexicalSense \nlemon:LexicalSense \nlemon:Lexicon \nlexiconEN \nlemon:Lexicon \nlexiconES \ntr:Translation \n“bench”@en \n“banco”@es \nlemon:entry \nlemon:entry \nlemon:isSenseOf \nlemon:isSenseOf \ntr:translationTarget \ntr:translationSource \ntr:trans \nlemon:lexicalForm \nlemon:lexicalForm \nlemon:Form \nlemon:Form \nlemon:writtenRep \ntr:TranslationSet \ntranslationSetEN-ES \nlemon:writtenRep \nTranslation example \n",
-  "speaker": "SYSTEM",
-  "uuid": "0e90dd95-0569-4b77-95f4-29bc41bc4e4c"
-}

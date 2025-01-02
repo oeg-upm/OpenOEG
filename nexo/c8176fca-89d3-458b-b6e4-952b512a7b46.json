@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: LinkedDataGenerationII%28v1-boris%29.pdf: Página 18\n18\nsitemap4rdf\n• Simple command line tool\n• Sends a SPARQL query to list all URIs\n• Generates sitemap\nsitemap4rdf http://yoursite/sparql http://yoursite/resource/\nSubmit the sitemap location - Sindice\n• http://sindice.com/main/submit\n",
+  "speaker": "SYSTEM",
+  "uuid": "c8176fca-89d3-458b-b6e4-952b512a7b46"
+}

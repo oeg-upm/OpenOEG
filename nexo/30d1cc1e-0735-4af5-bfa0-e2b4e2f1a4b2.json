@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 52\nTranslation from PROLOG(ASP) to PROLEG\nConsider the following PROLOG program tre(P1):\nP: −not Q.\nQ: −not R.\nR.\nThen, tro(tre(P1)) = ⟨Hoe, Eoe⟩becomes (by introducing some new\npredicates) where Hoe is as follows:\nP <= c1.\nc1 <=.\nQ <= c2.\nc2 <=.\nR <=.\nand Eoe becomes the following set of exceptions:\nexception(c1,Q).\nexception(c2,R).\nThe model of this PROLEG program is {P, c2, R}.\n52\n",
+  "speaker": "SYSTEM",
+  "uuid": "30d1cc1e-0735-4af5-bfa0-e2b4e2f1a4b2"
+}

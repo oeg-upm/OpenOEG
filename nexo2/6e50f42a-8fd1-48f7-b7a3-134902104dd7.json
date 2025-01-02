@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 36\n•36\nMain References\n• Brickley D, Guha RV (2004) RDF Vocabulary \nDescription Language 1.0: RDF Schema. W3C \nRecommendation\nRecommendation\nhttp://www.w3.org/TR/PR-rdf-schema/\n• Lassila O, Swick R (1999) Resource Description \nFramework (RDF) Model and Syntax Specification. \nW3C Recommendation \nhttp://www.w3.org/TR/REC-rdf-syntax/\n• RDF validator:\n• RDF validator: \nhttp://www.w3.org/RDF/Validator/\n• RDF resources:\nhttp://planetrdf.com/guide/\n72\nExercise\n•Objective\n• Understand how to use an RDF(S) management API\n•Tasks\n•Tasks\n• Read an ontology in RDF(S) from two files: \n• GP_Santiago.rdf (conceptualization)\n• GP_Santiago.rdfs (instances)\n• Write the class hierarchy of the ontology, including the instances of each class\n",
-  "speaker": "SYSTEM",
-  "uuid": "6e50f42a-8fd1-48f7-b7a3-134902104dd7"
-}

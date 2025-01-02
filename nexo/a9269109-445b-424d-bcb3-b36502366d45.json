@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Metodolog%C3%ADa-1-v1%28asun%29.pdf: Página 32\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n35\nOntological Engineering\nOntology Specification: Purpose\n1\nPurpose\nThe purpose of building the Reference Ontology is to provide \na consensual knowledge model of the employment domain \nthat could be used by public e-Employment services (PES).\n2\nScope\nThe ontology has to focus just on the ICT (Information and \nCommunication Technology) domain.\nThe level of granularity is directly related to the competency \nquestions and terms identified.\n3\nLevel of Formality\nThe ontology has to be implemented in WSML language\n Input: a set of ontological needs\n Objective: obtaining the purpose, scope and\nlevel of formality of the ontology\n Techniques: physical or virtual interviewers\n Output: purpose, scope and level of formality\nof the ontology, which will be included in the\ncorresponding slots of the OSRD template\n",
+  "speaker": "SYSTEM",
+  "uuid": "a9269109-445b-424d-bcb3-b36502366d45"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SPARQL_optimization_slides.pdf: Página 12\nGraph Pattern Source Matching\nIdea: Only use a source if it can contribute mulitple/chain-\nof triple patterns. \nProcess:\nExtract source graph patterns, or include in service \ndescriptions\nOnly query a source if it can provide all the required \ninformation\nIssue:\nJoins are expressed as chain-of triple patterns\nNeed to ensure we do not eliminate cross-source joins\n",
-  "speaker": "SYSTEM",
-  "uuid": "6fda2637-57c2-4578-a444-297da3f173b9"
-}

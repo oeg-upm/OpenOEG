@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Marcos.pdf: Página 60\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nTécnica de la longitud del camino\nProblemas:\n1.\nRazonar en presencia de Redundancias\n2.\nRazonar en presencia de Ambigüedades\n3.\nRazonar cuando el Nivel de Generalidad de una clase se ha perdido\nM I\n• En amplitud\n• Recorre el grafo por niveles que están a la misma distancia del\nmarco instanciado\n• La distancia se mide en función del número de arcos.\n• Se visitan primero los marcos que están a menor distancia\n",
-  "speaker": "SYSTEM",
-  "uuid": "6ddac51e-5067-49a3-bf59-df7a0e52943f"
-}

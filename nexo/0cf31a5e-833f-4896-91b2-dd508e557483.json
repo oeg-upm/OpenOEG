@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_SPARQL.pdf: Página 12\n•  . (Join) is commutative and associative \n•  OPTIONAL is associative \n•  “Well-designed patterns” \n•  UNION is commutative and associative \n•  ….. \n•  {A.B} . {C.D} equivalent to {{A.B}.C}.D \nQuery engine may recognize or generate groupings in \norder to generate efficient execution plans. \n13 \nOntological Engineering Group.  \nSome SPARQL Axioms \n",
+  "speaker": "SYSTEM",
+  "uuid": "0cf31a5e-833f-4896-91b2-dd508e557483"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas.pdf: Página 17\n17\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nRi: (A $x) ~ (B $x) →...\nMT: (AC) (BD) (AB) (AA) (BA)\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nRi: (A $x) ~ (B $x) →...\nMT: (AC) (BD) (AB) (AA) (BA)\nEq1: $x = C :\n(AC) Λ ∼\n(BC)\nVálida\nCierto\nFalso\nCierto\nCierto\n",
-  "speaker": "SYSTEM",
-  "uuid": "d5a5a02e-bbdc-4431-9681-234c382b45f8"
-}

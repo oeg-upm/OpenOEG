@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 120\n© O. Corcho, R.García-Castro, O. Muñoz-García\n120\nRDF and RDF Schema\nQueries with inference\n10) Get the subclasses of class Lugar\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nSELECT ?x WHERE { ?x rdfs:subClassOf pr:Lugar. }\n11) Get the instances of class Localidad\nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nSELECT ?x WHERE { ?x a pr:Localidad. }\n12) Get the values of all the variables in the query\nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nSELECT * WHERE { ?x pr:NumeroHabitantes ?y. }\nSpecial query (SELECT *)\n",
+  "speaker": "SYSTEM",
+  "uuid": "367aed71-f74f-4a31-afb8-5e79dccedc04"
+}

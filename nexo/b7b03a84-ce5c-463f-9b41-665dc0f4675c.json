@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Redes_Sem%C3%A1nticas-v3.pdf: Página 6\n6\nRedes Semánticas\nSuceso-ver\n¿Hay algún varón que \nviera algún\nMuseo en Madrid?\nVer-?\nVarón?\nVarón\nInst\nAgente\nInstancia\nM d id\nMuseo\nObjeto\nLugar\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nMadrid\nRespuesta: Ver-? = Ver-1\nVarón? = Pepe\nRedes Semánticas\nSuceso-ver\n¿Hay alguna persona que \nviera algún\nMuseo en Madrid?\nVer-?\nX?\nPersona\nInst\nAgente\nInstancia\nM d id\nMuseo\nObjeto\nLugar\nVarón\nInst\nSubclase\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nMadrid\n",
+  "speaker": "SYSTEM",
+  "uuid": "b7b03a84-ce5c-463f-9b41-665dc0f4675c"
+}

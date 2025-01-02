@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Intro-RC.pdf: Página 13\n13\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nIntroducción a la Representación de Conocimientos\nClasificación de los Formalismos\nRepresentar Conceptos:\n• Objeto-Atributo-Valor\n• Marcos\n• Redes Semánticas\n• Lógicas Descriptivas\nRepresentar Relaciones entre conceptos\n•Marcos\n• Redes Semánticas\nRepresentar Heurísticas\n• Sistemas de Producción\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nIntroducción a la Representación de Conocimientos\nObjeto-Atributo-Valor\nPara cada objeto existen tantas ternas como atributos se quieran representar\n(Objeto, Atributo, Valor)\n(Vertebrado, Esqueleto, Sí)\n(Invertebrado, Esqueleto, No)\n(Perro-1, Nombre, Tucky)\n(Perro-1, Peso, 25)\n(Perro-1, Altura, 50)\nInconvenientes:\n• No se pueden definir relaciones entre conceptos: Vertebrado subclase de animal\n• No se puede definir el tipo de una propiedad en un concepto\n• .....\n",
+  "speaker": "SYSTEM",
+  "uuid": "ebfe063c-e41e-4923-ace5-1712c1901734"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: LinkedDataGenerationII%28v1-boris%29.pdf: Página 22\n22\nContents\n• Review of last class\n- Linked Data Principles\n- LOD Cloud\n• Methodological guidelines for Linked Data Publication\n• Technical aspects of Linked Data publication\n43\nVirtuoso on Windows - Installation\n•\nhttp://virtuoso.openlinksw.com/dataspace/dav/wiki/Main/VOSUsageWindows\n•\nDownload\n•\nhttp://sourceforge.net/projects/virtuoso/files/virtuoso/6.1.2/virtuso-opensource-\nwin32-6.1.2.zip/download\nO\nC\n•\nODBC Registration\n-\nSet up VIRTUOSO_HOME variable pointing out to virtuoso-opensource directory\n-\ncd %VIRTUOSO_HOME%\\lib\n-\nregsvr32 virtodbc.dll \n•\nCreating a Windows Service\n-\ncd %VIRTUOSO_HOME%\\database\n-\nSET PATH=%PATH%;%VIRTUOSO_HOME%\\bin;%VIRTUOSO_HOME%\\lib \n-\nvirtuoso-t -?   //to verify\n-\nvirtuoso-t +service screate +instance \"Instance Name\" +configfile virtuoso.ini \n-\nvirtuoso-t +service list //to verify\n-\nvirtuoso-t -I \"Instance Name\" +service start  //start the service\n•\nVirtuoso Web Admin Tool (conductor)\n-\nhttp://localhost:8890/conductor \n44\n",
-  "speaker": "SYSTEM",
-  "uuid": "4594afbf-385d-477d-aaf9-9fe3b0a13376"
-}

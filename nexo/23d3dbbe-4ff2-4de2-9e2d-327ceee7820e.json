@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Fpriyatna-oeg-20141002.pdf: Página 7\nR2RML Example\n<TriplesMapEmp> \nrr:logicalTable [ rr:tableName \"EMP\" ];\nrr:subjectMap [ \nrr:template “http://data.example.com/employee/{EMPNO}”;\nrr:class ex:Employee; ];\nrr:predicateObjectMap [ \nrr:predicateMap [ rr:constant ex:name; ] \nrr:objectMap [ rr:column “ENAME”; ];\nrr:predicateObjectMap [ \nrr:predicateMap [ rr:constant ex:department; ] \nrr:objectMap [ \nrr:parentTriplesMap <#TriplesMapDept>;\nrr:joinCondition [ \nrr:child \"DEPTID\";  rr:parent \"DEPTNO\"; \n];\n] \n];.\nEMPNO\nENAME\nJOB\nDEPTID\n7369\nSMITH\nCLERK\n10\nEMP\n<http://data.example.com/employee/7369> rdf:type ex:Employee.\n<http://data.example.com/employee/7369> ex:name \"SMITH\".\n<http://data.example.com/employee/7369> ex:department <http://data.example.com/department/10>.\n",
+  "speaker": "SYSTEM",
+  "uuid": "23d3dbbe-4ff2-4de2-9e2d-327ceee7820e"
+}

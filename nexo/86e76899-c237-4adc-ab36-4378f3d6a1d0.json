@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Metodolog%C3%ADa-1-v1%28asun%29.pdf: Página 56\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n59\nOntological Engineering\nExample: Incremental vs Iterative\nIncremental\nDocumentation\nProject\nPeople\nWorkpackage\nMilestone\nhasMilestone\nhasTask\n…\nDeliverable\nPaper\nhasAnnex\nhasNumberPages\n…\nProfessor\nDeveloper\nhasName\nhasAffiliation\n…\nIterative\nWorkpackage\nMilestone\nPaper\nProfessor\n…\nhasMilestone\nhasTask\nhasAffiliation\n…\nhasAnnex\nhasNumberPages\n…\n",
-  "speaker": "SYSTEM",
-  "uuid": "86e76899-c237-4adc-ab36-4378f3d6a1d0"
-}

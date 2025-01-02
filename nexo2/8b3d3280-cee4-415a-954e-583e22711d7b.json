@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentaci%C3%B3n_Everis.v1.pdf: Página 6\nEs-\nun\n0..m\n1..m\n0..m\n1..m\nproduce\nconsume\nModelo de WS-DAIOnt-RDF(S)\nEntidad de\nconocimiento\nEntidad Grid\nBindings\nSemánticos\nEs-un\n0..m\n0..m\n1..m\nRecurso Grid\nEs-un\nServicio Grid\nEs-un\n1..m\nRecurso de\nConocimiento\nServicio de\nAprovisionamiento\nConocimiento\nEs-un\nEs-un\nEs-un\nServicio de\nRazonamiento\nServicios de\nAprovisionamiento de\nSemántica\nEs-un\nEs-un\nServicios de\nAprovisionamiento de\nBindings Semánticos\nServicio de\nAnotación\nServicio de\nMetadatos\nServicios Grid\nBasados en \nSemántica\nEs-un\nUsa\n6\nMiguel Esteban Gutiérrez\nRecurso de \ndatos RDF(S)\nEs-un\nRecurso de datos\nEs-un\nEs-un\nProporciona acceso a\nEs-un\nServicio de \nacceso a datos\nEs-un\nServicio de \ndatos\nEs-un\nWS-DAI\nWS-DAIOnt-RDF(S)\nServicio de\nOntologías\nServicio de\nacceso a RDF(S)\nModelo OGSA\nModelo  S-OGSA\nModelo  WS-DAIOnt-RDF(S)\n",
-  "speaker": "SYSTEM",
-  "uuid": "8b3d3280-cee4-415a-954e-583e22711d7b"
-}

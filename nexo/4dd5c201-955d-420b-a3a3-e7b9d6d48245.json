@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 41\nIntroduction\n• Comes with one concrete implementation\n• preinstalled: Sesame\n• Comes with several tools:\n• Ontology Visualizer/Editor\n• OntoRootGazetteer\n• Ontology support in JAPE\n• Fast in memory repository, scales to millions of \nstatements (depending on RAM)\n• Ontology API: JAPE RHS can access Ontology \nobject\n• Useful to ontology population and ontology Learning.\nOntologies\n",
+  "speaker": "SYSTEM",
+  "uuid": "4dd5c201-955d-420b-a3a3-e7b9d6d48245"
+}

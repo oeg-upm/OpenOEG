@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion-2013.pdf: Página 24\nPlanificación \n \n \nFormalización de STRIPS. Ejemplo de descripción \nde operadores \nLEVANTAR(X) \n \nprecondiciones: en-mesa (X) ^ libre (X) \n \n  ^ brazo-libre \nañadidos: sujeto (X) \nborrados: en-mesa (X) ^ brazo-libre \n  ^ libre (X) \nX \nX \nDEJAR(X) \n \nprecondiciones: sujeto (X) \n \nañadidos: en-mesa (X) ^ brazo-libre \n  ^ libre (X) \nborrados: sujeto (X) \nX \nX \n",
-  "speaker": "SYSTEM",
-  "uuid": "e40556e2-00cf-416f-91d5-0459c5e14f2a"
-}

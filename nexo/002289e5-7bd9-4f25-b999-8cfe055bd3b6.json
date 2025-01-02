@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Modelado_Conceptual_y_Compromisos_Ontol%C3%B3gicos_en_Humanidades.pdf: Página 14\nVaguedad\nCopyright © 2018 César González-Pérez\n14\nEdificio\nNombre: 1 Texto\nEstilo: 0..* Texto\nPropietario: 0..1 ref Persona\nb: Edificio\nNombre    Archer Hall \nEstilo = nulo\nPropietario = p\nc: Edificio\nNombre    Cathedral \nEstilo    Gótico \nPropietario = desconocido\nAsentamiento\nNombre: 1 Texto\nPoblación: 1 Número\ns: Asentamiento\nNombre =  Skara Brae \nPoblación = 50 ( )\nSemántica de nulo y desconocido\nMarcadores de certidumbre\n",
-  "speaker": "SYSTEM",
-  "uuid": "002289e5-7bd9-4f25-b999-8cfe055bd3b6"
-}

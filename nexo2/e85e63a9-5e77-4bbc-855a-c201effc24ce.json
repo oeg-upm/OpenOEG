@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2._Ontologias-en.pdf: Página 26\n©Asunción Gómez-Pérez\n21/11/2007 14:39 - 26\nUsing Description Logics for Modeling Ontologies\n(defconcept Travel\n\"A journey from place to place\"\n:is-primitive\n(:and\n(:all arrivalDate Date)(:exactly 1 arrivalDate)\n(:all departureDate Date)(:exactly 1 \ndepartureDate)\n(:all companyName String)\n(:all singleFare Number)(:at-most singleFare 1)))\n(defrelation Pays\n:is \n(:function (?room ?Discount)\n(- (Price ?room) (/(*(Price ?room) ?Discount) 100)))\n:domains (Room Number)\n:range Number)\n(defrelation connects\n\"A road connects two different cities\"\n:arity 3\n:domains (Location Location)\n:range RoadSection\n:predicate \n((?city1 ?city2 ?road) \n(:not (part-of ?city1 ?city2))\n(:not (part-of ?city2 ?city1))\n(:or (:and (start ?road ?city1)(end ?road ?city2))\n(:and (start ?road ?city2)(end ?road ?city1)))))\n(tellm (AA7462 AA7462-08-Feb-2002)\n(singleFare AA7462-08-Feb-2002 300)\n(departureDate AA7462-08-Feb-2002 Feb8-2002)\n(arrivalPlace AA7462-08-Feb-2002 Seattle))\n",
-  "speaker": "SYSTEM",
-  "uuid": "e85e63a9-5e77-4bbc-855a-c201effc24ce"
-}

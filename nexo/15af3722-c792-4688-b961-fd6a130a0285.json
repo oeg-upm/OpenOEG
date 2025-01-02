@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 64\n© O. Corcho, R.García-Castro, O. Muñoz-García\n64\nRDF and RDF Schema\nJena\n• Java framework for building Semantic Web \napplications\n• Open source software from HP Labs:\n• The Jena framework includes:\n– A RDF API\n– An OWL API\n– Reading and writing RDF in RDF/XML, N3 and N-\nTriples\n– In-memory and persistent storage\n– A rule based inference engine\n– SPARQL query engine\n",
+  "speaker": "SYSTEM",
+  "uuid": "15af3722-c792-4688-b961-fd6a130a0285"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 5.metodologia-v2%28asun%29.pdf: Página 68\n© A. Gómez Pérez, M.C. Suarez de Figueroa, B. Villazón,  E.Montiel, G. Aguado, M. Espinoza \n71 \nOntological Engineering \nISO 3166-1 (XML) \nRegions Table \n (Eures Oracle DB) \n \n…. \n \n <ISO_3166-1_Entry> \n      <ISO_3166-1_Country_name>SPAIN</ISO_3166-1_Country_name> \n      <ISO_3166-1_Alpha-2_Code_element>ES</ISO_3166-1_Alpha-2_Code_element> \n   </ISO_3166-1_Entry> \n… \n \nLocation \nCountry \nRegion \nsubClass-Of \nhas region \nSpain \nCataluña \nCanarias \nGalicia \nAndalucía \nOntology model \nOntology instances \nExcerpt of the  \nGeography Ontology \nKnowledge Resource Re-engineering and \nAggregation \n",
-  "speaker": "SYSTEM",
-  "uuid": "d5c678db-c998-47d0-91f6-7ef1423760bb"
-}

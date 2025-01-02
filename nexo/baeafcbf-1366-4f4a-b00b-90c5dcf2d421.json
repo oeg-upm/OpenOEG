@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SPARQL_optimization_slides.pdf: Página 3\nRelated Work: SPARQL Optimization\nJoin order optimization\noptimization of Basic graph patterns (BGPs)\ncost based optimization\ncost functions depend on cardinalities and selectivities \nestimation\napproaches\nHeuristics: e.g. bound joins more selective than unbound \njoins\nDynamic programming\n",
-  "speaker": "SYSTEM",
-  "uuid": "baeafcbf-1366-4f4a-b00b-90c5dcf2d421"
-}

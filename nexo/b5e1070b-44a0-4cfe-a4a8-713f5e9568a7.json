@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion.pdf: Página 35\nPlanificación\nBúsqueda del plan en STRIPS\nQUITAR(A, B)\nsujeto(C)\nlibre(B) ^ sujeto(C)\nPONER(C, B)\nen-mesa(A)\nR\nEncima (A, B)\nLibre (A)\nbrazo-libre\nEncima (A, B) ^ libre (A) ^ brazo-libre\nQUITAR (A, B)\nSujeto (A)\nLibre (B) ^ sujeto (A)\nPONER (A, B)\nen-mesa (A)\nR\n",
+  "speaker": "SYSTEM",
+  "uuid": "b5e1070b-44a0-4cfe-a4a8-713f5e9568a7"
+}

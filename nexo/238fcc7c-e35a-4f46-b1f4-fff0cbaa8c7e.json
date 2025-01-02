@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 4._methodologies-Espec-OL.pdf: Página 34\nOntological Engineering \n©Asunción Gómez-Pérez,\nScenario 1: Ontology Specification\nWhy grouping is useful?\nÆModule-based development\nÆPrototype-based development\nGrouping criteria:\n• Domain dependent o Principales terminos de la onto (job seeker, job \noffer) + domain independent o dimensiones fijas (time and date, units \nof measure,  currencies, location, languages, …).\n• Concept vs events modelling.\n",
-  "speaker": "SYSTEM",
-  "uuid": "238fcc7c-e35a-4f46-b1f4-fff0cbaa8c7e"
-}

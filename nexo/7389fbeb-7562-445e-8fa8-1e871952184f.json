@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01.02.L%C3%B3gicaDescriptiva.pdf: Página 1\n1 \nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva \nFacultad de Informática. Universidad Politécnica de Madrid \nRepresentación de Conocimientos: \nLógica descriptiva \nOscar Corcho García  \n \nocorcho@fi.upm.es  \nDespacho 2107 \n \nDepartamento de Inteligencia Artificial \nFacultad de Informática \nUniversidad Politécnica de Madrid \nCampus de Montegancedo sn, \n28660 Boadilla del Monte, Madrid, Spain \nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva \nLógicas Descriptivas \n• \nClasificación automática realizada por el motor de inferencias del lenguaje \n• \nEn tiempo de Ejecución \nSer vivo \nInvertebrado \nVertebrado \nPerro \nPlanta \nGato \nClasificación  \nautomática \n               \n        \n      \n                  \n    \n \nSubclass of \nSer vivo \nVertebrado \nInvertebrado \nSubclass of \nPlantas \nSubclass of \nSubclass of \nSubclass of \nTiempo diseño \nPerro \nGato \n",
+  "speaker": "SYSTEM",
+  "uuid": "7389fbeb-7562-445e-8fa8-1e871952184f"
+}

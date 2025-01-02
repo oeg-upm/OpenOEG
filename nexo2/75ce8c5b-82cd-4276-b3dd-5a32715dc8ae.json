@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_MGLD.pdf: Página 19\n22/10/12 \n19 \n•  Register the dataset into CKAN Registry \n•  Generate sitemap files for your dataset, by using \nsitemap4rdf \n•  Submit the sitemap location to Google and Sindice \n37 \nDataset discovery \nPublication \nhttp://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation \nVisualisation \nExploitation \n \nmap4rdf: \n•  Google maps viewer of RDF resources \n•  Resources with spatial information \n•  Used in other applications like AEMET, Goodrelations, \nGeoLinked Data, El Viajero… \n \n \n \n \nmap4rdf \nhttp://oeg-dev.dia.fi.upm.es/projects/map4rdf/ \nSPARQL \nTriplestore \n38 \n \nEspecification \nModel \nRDF \ngeneration \nPublication \nExploitation \n \nSpecification \nModelling \nRDF \nGeneration \nPublication \nExploitation \nLinks  \nGeneration \n",
-  "speaker": "SYSTEM",
-  "uuid": "75ce8c5b-82cd-4276-b3dd-5a32715dc8ae"
-}

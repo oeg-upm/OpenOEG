@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AMPER08_-_Introduction_to_SPARQL.pdf: Página 11\nRDF(S) Access APIs, May 2008\n11\n© García-Castro, Corcho, Muñoz-García\nTurtle: URIs, blank nodes, literals\n•\nURIs\nEnclosed in <>\n<URI>\nor\n@prefix prefix <http://....>\nprefix:name\n•\nBlank Nodes\n:name\nor\n[] for a Blank Node used once\n•\nLiterals\n\"Literal\"\n\"Literal\"@language\n\"\"\"Long literal with\nnewlines\"\"\"\n•\nDatatyped Literals\n\"lexical form\"^^datatype URI\n\"10\"^^xsd:integer\n\"2006-09-04\"^^xsd:date\n",
+  "speaker": "SYSTEM",
+  "uuid": "0d4955ea-3c82-4b94-b642-281e91b06965"
+}

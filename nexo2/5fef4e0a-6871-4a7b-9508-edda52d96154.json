@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Sensores.pdf: Página 6\nCapa de transporte – Conexión extremo a extremo\n• Red de sensores como una fuente de información. \n• Baja fiabilidad en muchos casos\n• Disponibilidad de la información condicionada\n• Puede forzarse la emisión de información por un evento\n• Red activa, puede procesar e integrar la información\n• Disminuye la cantidad de datos transmitidos\n• Eficiencia en ancho de banda y energía\n• Posibilidades como factorización de consultas \nsimultáneas para el ahorro de energía\n• Calidad de servicio, problema de la escalabilidad\n• Ancho de banda posiblemente compartido con otros \nservicios Ej: móviles\n• “Internet of many things” (IPv6) (“The embedded fringe”)\n",
-  "speaker": "SYSTEM",
-  "uuid": "5fef4e0a-6871-4a7b-9508-edda52d96154"
-}

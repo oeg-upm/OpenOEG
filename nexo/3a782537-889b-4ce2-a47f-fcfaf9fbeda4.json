@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GeneralOntologies-v3_%28mariano%29.pdf: Página 27\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work\n27\nTIME MODELING. OPTIONAL EXTENSIONS (I)\nNon convex intervals. This notion is borrowed from geometry:\nNon convex intervals. There are points between the left and the right points that do not belong to the interval:\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Non_Convex_set.svg/329px-Non_Convex_set.svg.png\nNon convex intervals allow representing periodic intervals with gaps between them (e.g. “every Wednesday”).\nLeft point\nRight point\nx\ny\nWednesday the \n29th of \nSeptember \nWednesday the \n6th of October \nWednesday the \n13rd of October \nWednesday the \n20th of October \n",
+  "speaker": "SYSTEM",
+  "uuid": "3a782537-889b-4ce2-a47f-fcfaf9fbeda4"
+}

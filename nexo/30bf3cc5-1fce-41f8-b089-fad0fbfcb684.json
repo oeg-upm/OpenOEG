@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 11\n©O. Corcho\n11\nOntological Engineering\nCopyright © 2005, The University of Manchester\nWhy is MeatyVegetableTopping Inconsistent?\n•\nWe have asserted that a MeatyVegetableTopping is a subclass of \ntwo classes we have stated are disjoint\n•\nThe disjoint means nothing can be a MeatTopping and a \nVegetableTopping at the same time\n•\nThis means that MeatyVegetableTopping can never contain any \nindividuals\n– The class is therefore inconsistent\n– This is what we expect!\n•\nIt can be useful to create classes we expect to be inconsistent to \n“test” your model – often we refer to these classes as “probes” \n– generally it is a good idea to document them as such to avoid \nlater confusion\n",
+  "speaker": "SYSTEM",
+  "uuid": "30bf3cc5-1fce-41f8-b089-fad0fbfcb684"
+}

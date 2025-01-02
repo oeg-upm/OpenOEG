@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 19\nATHENS 2010 \n© Raúl García Castro et al. \nRDF inference. Examples (I) \n•  Sample RDF graph \n•  Query: “Tell me who are the persons who have Asun as a \ncolleague” \n-  Result: oeg:Oscar and oeg:Raúl \noeg:Oscar \noeg:Asun \noeg:Raúl \n“http://www.fi.upm.es/” \nperson:hasHomePage \n“Oscar Corcho García” \nperson:hasName \nperson:hasColleague \nperson:hasColleague \n? \noeg:Asun \nperson:hasColleague \n19 \n",
+  "speaker": "SYSTEM",
+  "uuid": "203bd889-7e73-43fd-a13b-b4ca0845929e"
+}

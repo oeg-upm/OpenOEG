@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 3\nRDF Data online: Example 2/2 \n(i) directly by the publishers \n(ii) by exporters, e.g. D2R and friends, RDFa exporters, etc. \ne.g. L3S’ RDF export of the DBLP citation index, using FUB’s D2R (http://dblp.l3s.de/d2r/) \nGives unique URIs to authors, documents, etc. on DBLP! E.g., \n http://dblp.l3s.de/d2r/resource/authors/Tim_Berners-Lee, \n http://dblp.l3s.de/d2r/resource/publications/journals/tplp/Berners-LeeCKSH08 \nProvides RDF version of all DBLP data and even a SPARQL query interface! \n3  \n",
-  "speaker": "SYSTEM",
-  "uuid": "4a515d8d-02e2-422a-8e5e-eb20ad6f6c99"
-}

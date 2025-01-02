@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 4._methodologies-Concpt-REEng.pdf: Página 35\nOntological Engineering \n©Asunción Gómez-Pérez,\nOntology Reengineering\n•\nOntology Reengineering refers to the process of retrieving and transforming a \nconceptual model of an existing and implemented ontology into a new, more \ncorrect and more complete conceptual model which is reimplemented.\n•\nOntology Forward Engineering refers to the activity of outputting a new \nimplementation of the ontology on the basis of the new conceptual model.\n•\nOntology Restructuring refers to the activity of correcting and reorganizing the \nknowledge contained in an initial conceptual model, and detecting missing \nknowledge.\n•\nOntology Reverse Engineering refers to the activity of outputting a possible \nconceptual model on the basis of the code in which the ontology is implemented.\nNeOn Glossary of Activities\n(NeOn Deliverable D5.3.1)\n",
-  "speaker": "SYSTEM",
-  "uuid": "29664765-cd7c-4780-bb13-60e5e379852f"
-}

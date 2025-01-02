@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologies-TheoreticalAspects.pdf: Página 30\n©Asunción Gómez-Pérez\n30\nDomain and Range of Properties\n When defining a domain or range find the most general class or classes \n The domain of flavor should be Wine and not Red wine or White wine\n The range of produces for a Winery should be Wine and not Red, White or \nRosé wine\n General patterns\n A class and a superclass – replace with the superclass\n All subclasses of a class – replace with the superclass\n Most subclasses of a class – consider replacing with the superclass\n",
+  "speaker": "SYSTEM",
+  "uuid": "0ef5ee00-6fee-4bcb-ad99-67b9492d17e4"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: NER4Dummies.pptx: Diapositiva {15}\nPresented in the Message Understanding Conference 6\nXML annotation\nTypes: \nENAMEX (Person, Location, Organization)\nNUMEX (MONEY, PERCENT)\nTIMEX (DATE, TIME)",
+  "speaker": "SYSTEM",
+  "uuid": "1f305e6a-b71e-4a89-bd1f-ee75c20fbc24"
+}

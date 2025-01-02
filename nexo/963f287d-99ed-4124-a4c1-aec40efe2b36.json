@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Listas_de_correo_DIA \n\nEl DIA acaba de poner en marcha un sistema para la gestión de listas de correo basado en el sistema mailman. La ventaja de este tipo de listas sobre las que venimos utilizando en el sistema delicias.dia.fi.upm.es es que son más fáciles de mantener y configurar por el responsable de la lista (de tal modo que pueden dejar de estar centralizadas en José Angel), así como de archivar.\nLa dirección para la creación de listas es:\nhttp://dia.fi.upm.es/mailman/create\nY la password a utilizar para su creación es: hermeslistas",
+  "speaker": "SYSTEM",
+  "uuid": "963f287d-99ed-4124-a4c1-aec40efe2b36"
+}

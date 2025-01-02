@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Hiroaki_Yamada_talk_Jan19.pdf: Página 14\nOur corpus\n• Source: http://courts.go.jp\n• Time frame: 2003/04/15 ~ 2016/12/31\n• General civil cases\n• Only documents which have manually generated \nsummaries are extracted.\n• Target documents\n• Documents exclusion criteria:\n• Exclude error documents(OCR errors)\n• Doc length<=400000\n• 150 <= summary length <= 450\n14\nHiroaki Y, Simone T, Takenobu, T (2018) Building a corpus of legal argumentation in Japanese judgement documents: towards \nstructure-based summarisation. Artificial Intelligence and Law, To appear\n",
-  "speaker": "SYSTEM",
-  "uuid": "9d60b483-6a21-4963-8a40-e73013900994"
-}

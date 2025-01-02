@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion.pdf: Página 12\nPlanificación\nRESOLUCIÓN\n•\nSupongamos que inicialmente el mono esta en el \nsuelo en la posición a y la caja en la posición b. Así, el \nestado inicial será (a,0,b,0).\n•\nEl único operador que es aplicable es IR A (u), \nresultando (u,0,b,0).\n",
+  "speaker": "SYSTEM",
+  "uuid": "f8d72223-3db0-497f-9e2e-4cebea0d73a6"
+}

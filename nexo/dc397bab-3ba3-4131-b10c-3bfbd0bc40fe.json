@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: EN_%28wiki%29_terminology_in_ontologies_08-10-09%28V3%29.pdf: Página 36\n36\nHow are lexicons used in NLP?\n• They contain the necessary linguistic information to construct meaning \nrepresentations\nJohn went to the store\nGO\nAGENT John     TARGET store\nLexicon\nLexicon\nWent v past GO\nGo v. (NP_\nAccount n.  Domain [financial]\nAccount v. …\nBank_1 n domain [financial]\nBank_2 n domain [geography]\nMoney n. domain [financial]\nTopic= \nfinancial \nfield\nbank……………\n………account\n………………………\nmoney…………\nWent vpast GO\nGo v. (NP_SUNJ ((role AGENT) (sem + animate))\n(VP ((verb GO)\n(PP ((prep TO)\n(NP ((role TARGET) (sem +loc))))\nJohn n. sem: human\nStore n. sem: loc\nAdapted from Nancy Ide\n",
+  "speaker": "SYSTEM",
+  "uuid": "dc397bab-3ba3-4131-b10c-3bfbd0bc40fe"
+}

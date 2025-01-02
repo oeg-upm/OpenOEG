@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OReuse-DecisionAnalysis.pdf: Página 18\n18\nOntology Reuse on the basis of Decision Analysis (VIII)\nThe additive model is \nwhere xij is the performance of ontology Oi for attribute Xj; uj(xij) is the utility associated with value xij, and wj are the \nweights of each attribute. \n4. Evaluating alternatives\n4. Evaluating alternatives\nu(Oi ) =\nwiu(xij ),\nj=1\nn\n∑\nThe additive model is used to assess average overall utilities and minimum and maximum \noverall utilities. \nThe ranking of alternatives is based on the average overall utilities\nthe minimum and maximum overall utilities provide further insight into the robustness of the ranking\n",
+  "speaker": "SYSTEM",
+  "uuid": "14b98dfa-4d8d-45ee-a1b0-cf2488c1c857"
+}

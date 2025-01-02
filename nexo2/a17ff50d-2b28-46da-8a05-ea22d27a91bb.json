@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GeoLinkedData%28v1-boris%29.pdf: Página 20\n4. Creation of RDF from geometrical information\nOracle STO UTIL package\nOracle STO UTIL package \nSELECT  TO_CHAR(SDO_UTIL.TO_GML311GEOMETRY(geometry)) \nAS Gml311Geometry\nFROM \"BCN200\".\"BCN200_0301L_RIO\" c\nWHERE   c.Etiqueta='Arroyo'\n",
-  "speaker": "SYSTEM",
-  "uuid": "a17ff50d-2b28-46da-8a05-ea22d27a91bb"
-}

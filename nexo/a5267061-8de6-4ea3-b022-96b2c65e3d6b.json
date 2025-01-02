@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 17\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nSignificado (III)\nFormalización en lógica de predicados de primer orden                                                                        \nMariano Fernández López\nUniverso del \ndiscurso\n•rotulador\n•lápiz\n•borrador\nCONJUNTOS\nLPPO\n•a\n•b\n•c\nConstantes\nfungible = {rotulador, borrador, lápiz}\nmaterial = {rotulador, borrador, lápiz}\ncompradoAntes= {(rotulador, borrador), (borrador, lápiz)}\n•h\n•m\n•t\nSímbolos de predicado\nx (h (x) m (x))\nx y (h (x) h (y) t(x, y)) \nh (a) h (b) h(c) \nFórmulas\nfungible material\ncompradoAntes en el dominio del fungible\nrotulador, borrador, lápiz fungible \n•Los mismos símbolos pueden tener una correspondencia con objetos diferentes\n",
-  "speaker": "SYSTEM",
-  "uuid": "a5267061-8de6-4ea3-b022-96b2c65e3d6b"
-}

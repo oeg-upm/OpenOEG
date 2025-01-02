@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Espa%C3%B1aVirtual12052011 \n\nContents\n[\nhide\n]\n1\nTareas 7.2\n2\nTarea 2.3\n3\nTarea 1.4\n4\nTarea 7.1\nTareas 7.2\n\nTarea 1. Mecanismo de extracción de semántica a partir de anotaciones\n. \nEscritura de paper para el iswc 2011: Ontologies from Folksonomies.\nTarea 2. Procesado de fuentes de información no semántica ya existentes\n.\n- Analisís del estado del arte en anotacion de servicios OGC.\n- Analisis de la API geotools para accesos a servicios OGC\nTarea 2.3\n\n- Pruebas del script heatcov.py para teselar imagenes.\n- Documentación y pruebas para la creación de imágenes de maquina virtual como Amazon Machine Image.\n- Diseño del algoritmo de metaplanifiación.\n- Especificación de interfaces de la arquitectura de metaplanifiación.\n- Especificación de requisitos de las ontologías usar dentro de la arquitectura.\nTarea 1.4\n\nTarea 7.1\n\n- Generación de owl:sameAs y validación de resultados\n- Visualizador con servicios OGC (geometrías complejas)\n- Difusión trabajo realizado (workshop EV)",
+  "speaker": "SYSTEM",
+  "uuid": "3857888d-18d0-4598-81eb-e23647767420"
+}

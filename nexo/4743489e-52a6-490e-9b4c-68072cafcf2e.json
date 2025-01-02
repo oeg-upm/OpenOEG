@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: AMPER08_-_Introduction_to_SPARQL.pdf: Página 36\nRDF(S) Access APIs, May 2008\n36\n© García-Castro, Corcho, Muñoz-García\nSample ontology\nLugarTuristico\nPalacio\nIglesia\nErmita\nCatedral\nEstablecimiento\nHotel\nHostal\nAlbergue\nLugarDeInteres\nLugar\nLocalidad\nVilla\nPueblo\nCiudad\nSpatialThing\nDireccionPostal\nrdfs:Literal\nNumeroHabitantes\nSituadoEn\nrdfs:Literal\nCalle\nProvincia\nDireccion\nNumero\n",
+  "speaker": "SYSTEM",
+  "uuid": "4743489e-52a6-490e-9b4c-68072cafcf2e"
+}

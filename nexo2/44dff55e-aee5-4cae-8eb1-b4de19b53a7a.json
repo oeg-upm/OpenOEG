@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 22\nWeb Ontology Language\nOWL semantics\nNo UNA + OWA:\nBuilding an ontology in OWL is like pruning a space in which \nby default everything is possible (OWA) and all the entities \nare the same (!UNA) \nSuch prunning is performed by adding axioms that limit the \npossible facts and make entities different to each other\n!!!\n",
-  "speaker": "SYSTEM",
-  "uuid": "44dff55e-aee5-4cae-8eb1-b4de19b53a7a"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: BUSQUEDA.pdf: Página 79\nBÚSQUEDA \n \n79 \nJ. Rubio / P.R. Muro / J. Bañares \n \nOctubre 2004 - Curso 2004-2005 \n2 \n3 \n8 \n6 4 \n1 \n5 \n7 \n2 \n3 \n8 \n6 4 \n1 \n5 \n7 \n2 \n3 \n8 \n6 \n4 \n1 \n5 \n7 \n2 \n3 \n8 \n6 4 \n1 \n5 \n7 \narriba\nderecha \nizquierda \ninicial \n1 \n3 \n2 \n8 \n4 \n7 \n5 \n6 \nobjetivo\n2 \n3 \n8 \n6 4 \n1 \n5 \n7 \n2 \n3 \n8 \n6 \n4 \n1 \n5 \n7 \n2 \n3 \n8 \n6 4 \n1 \n5 \n7 \n6 \n4 \n6 \n5 \n3 \n5 \n0 \n0 \n0 \n6 \n4 \n6 \nh a \nh b \nh c \nh d \n \nFigura 1 \n \n4.2. Métodos de escalada. \nLos métodos de escalada (o de ascensión a la colina) trabajan, en su versión más \nhabitual, con funciones de evaluación en las que los valores superiores son \npreferibles. De ahí su nombre: se trata de elegir en cada paso un estado cuyo valor \nheurístico sea mayor que el del estado activo en ese momento. Los métodos de \nescalada se dividen en dos familias: \n• \nLos métodos irrevocables (no preven la vuelta a un lugar del espacio de estados \nsi algún camino elegido resulta inadecuado). \n",
-  "speaker": "SYSTEM",
-  "uuid": "ac9a2966-9de9-4175-b764-1c67c1740744"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Annotation.pdf: Página 33\nR2O (Relational-to-Ontology) Language\nOne\nor\nmore\nconcepts\ncan\nbe\npara conceptos...\nA view maps exactly \none concept in the \nontology.\np\nextracted\nfrom\na\nsingle data field (not\nin 1NF).\npara atributos...\nA subset of the \ncolumns in the view \nmap a concept in the\nA\ncolumn\nin\na\ndatabase view maps\ndirectly an attribute\np\nmap a concept in the \nontology.\nA subset (selection) of\nthe\nrecords\nof\na\nd t b\ni\ndirectly an attribute\nor a relation.\nA\ncolumn\nin\na\ndatabase view maps\ndatabase view map a\nconcept\nin\nthe\nontology.\nA\nsubset\nof\nthe\ndatabase view maps\nan\nattribute\nor\na\nrelation\nafter\nsome\ntransformation.\nrecords of a database\nview map a concept\nin the onto. but the\nselection\ncannot\nbe\nmade using SQL.\nA set of columns in a\ndatabase\nview\nmap\nan\nattribute\nor\na\nl\ni\n© O. Corcho, B Villazón, A. Gómez-Pérez\n33\nAnnotation\ng Q\nrelation.\n",
+  "speaker": "SYSTEM",
+  "uuid": "a2449fe1-ef2a-4824-b402-11b8a4525100"
+}

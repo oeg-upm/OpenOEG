@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 11\nSPARQLStream\n11\nEnabling  Ontology-based Access to Streaming Data Sources\nExample:\n• “provide me with the wind speed observations over the last minute in the Solent Region ” \ncd:Observation\nxsd:double\ncd:observationResult\nPREFIX cd: \n<http://www.semsorgrid4env.eu/ontologies/CoastalDefences.owl#>\nPREFIX sb: <http://www.w3.org/2009/SSN-\nXG/Ontologies/SensorBasis.owl#> \nPREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> \nSELECT  ?windspeed ?windts\nFROM STREAM <http://www.semsorgrid4env.eu/ccometeo.srdf> \n[ NOW – 1 MINUTE TO NOW – 0 MINUTES ]  \nWHERE \n{ \n?WindObs a cd:Observation; \ncd:observationResult ?windspeed; \ncd:observationResultTime ?windts;\ncd:observedProperty ?windProperty;\ncd:featureOfInterest ?windFeature.   \n?windFeature a cd:Feature;\ncd:locatedInRegion cd:SolentCCO.\n?windProperty a cd:WindSpeed. \n}\ncd:Feature\ncd:featureOfInterest\ncd:Property\ncd:observedProperty\ncd:locatedInRegion\ncd:Region\n",
-  "speaker": "SYSTEM",
-  "uuid": "bb8ed240-bee4-47ac-8e4d-bb26afbf11c0"
-}

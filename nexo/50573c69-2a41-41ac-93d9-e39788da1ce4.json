@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Modelado_Conceptual_y_Compromisos_Ontol%C3%B3gicos_en_Humanidades.pdf: Página 11\nTemporalidad\nCopyright © 2018 César González-Pérez\n11\nCualificación de predicación\nEdificio\nDirección: 1 Texto\nUso: 0..* enum UsosDeEdificios\nb: Edificio\nDirección =  San Roque,   \nUso = Hospital\nb: Edificio\nDirección =  San Roque,   \nUso = Hospital\nb: Edificio\nDirección =  San Roque,   \nUso = Escuela\nb: Edificio\nDirección =  San Roque,   \nUso = Oficinas\nDesde 1988\ns. XVIII a 1890s\ns. XVI y XVII\n*\nb: Edificio\nDirección =  San Roque,   \nUso @ s. XVI a XVII = Hospital\nb: Edificio\nDirección =  San Roque,   \nUso @ s. XVIII a 1890s = Escuela\nb: Edificio\nDirección =  San Roque,   \nUso @ 1988 al presente = Oficinas\nfases\n",
-  "speaker": "SYSTEM",
-  "uuid": "50573c69-2a41-41ac-93d9-e39788da1ce4"
-}

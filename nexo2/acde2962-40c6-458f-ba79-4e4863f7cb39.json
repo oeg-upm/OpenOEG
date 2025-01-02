@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 07_Applications.pdf: Página 44\nSatellite Image Processing\nSingle versus \nnetwork of \nontologies\nSingle Ontology\nType of Application\nData integration\nSoftware Components Used\no to og es\nOnt. Built from \nscratch or  reusing \nresources\nBuilt from scratch\nHugeness: Operates \nat scale?\nYes\n1.\nOntology repository\n2.\nData repository\n3.\nMetadata registry\n4.\nQuery answering\n5.\nSemantic query\nprocessor\n6.\nOntology editor\nConceptual \nHeterogeneity\n(mappings)\nNo\nOpen to semantic \nresources?\nNo\nRDF files\nOpen to web \nNo\n7.\nOntology browser\n8.\nInstance editor\n9.\nAutomatic annotation\n10\nOntology populator\nWhere are the \ndata/instances?\np\nresources?\nAre instances \ndistributed or\nDistributed\nOpen to web services?\nNo\n10.\nOntology populator\ndistributed or \ncentralized?\nVery high rate of \nYes\nWeb 2.0 like?\nNo\nchange in instances?\nHeterogeneous \nProvenance of \ninstances\nNo\nMobile devices?\nNo\nVarious degrees of \ndata quality\nNo\nGeo-spatial \nInformation\nNo\n",
-  "speaker": "SYSTEM",
-  "uuid": "acde2962-40c6-458f-ba79-4e4863f7cb39"
-}

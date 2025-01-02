@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 25\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nFormalización en lógica de predicados de primer orden                                                                        \nMariano Fernández López\nDeducción (IV)\nR PQ\nQ P\nPara realizar Q, es necesario\nrealizar P\nPunto de vista lógico\nPunto de vista\nprocedimental\nR P Q\nPara realizar R, es necesario\nrealizar P y Q\nPunto de vista lógico\nPunto de vista\nprocedimental\nQ P\n",
+  "speaker": "SYSTEM",
+  "uuid": "4f6f146a-e538-45e8-8533-b1c3dc543235"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 17\nStored Data Query Translation\n17\nEnabling  Ontology-based Access to Streaming Data Sources\nSELECT\nconcat( ‘ssg4env.eu#ObservationWind' ,  \nenvdata_milford.datetime ) as  x, \nFROM\nenvdata_milford [ FROM NOW - 1 TO NOW MIN]\nSELECT\nconcat( ‘ssg4env.eu#ObservationWind' ,  \nenvdata_milford.datetime ) as  x, \nenvdata_milford.Hs as y\nFROM\nenvdata_milford [ FROM NOW - 1 TO NOW MIN]\nSELECT ?y\nFROM STREAM < STREAM \n<http://www.semsorgrid4env.eu/ccometeo.srdf> \n[ NOW – 1 MINUTE TO NOW – 0 MINUTES ] >\nWHERE\n{ ?x a cd:Observation; \ncd:observationResult ?y. }\nTranslation\nRedundant queries, unacceptable for stream \nprocessing\n",
+  "speaker": "SYSTEM",
+  "uuid": "19086631-a94b-4214-902e-df0ed0e77b92"
+}

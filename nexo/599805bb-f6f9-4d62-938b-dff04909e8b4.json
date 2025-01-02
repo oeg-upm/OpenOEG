@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_OWL.pdf: Página 70\n© O. Corcho, MC Suárez de Figueroa Baonza\n70\nOWL and SWRL\nMultiple values in properties\n// add two nickname properties to vcard\nvcard.addProperty(VCARD.NICKNAME, \"Smithy\")   \n.addProperty(VCARD.NICKNAME, \"Adman\"); \n// set up the output \nSystem.out.println(\"The nicknames of \\\"\" + fullName + \"\\\" are:\");\n// list the nicknames \nStmtIterator iter = vcard.listProperties(VCARD.NICKNAME);\nwhile (iter.hasNext()) { \nSystem.out.println(\" \" + iter.nextStatement() .getObject() .toString()); \n} \n",
+  "speaker": "SYSTEM",
+  "uuid": "599805bb-f6f9-4d62-938b-dff04909e8b4"
+}

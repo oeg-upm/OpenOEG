@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/GATE \n\nPara poder trabajar con la API y anotar documentos es necesario ampliar la memoria del entorno de trabajo. Por ejemplo, en Netbeans en las propiedades de compilación -> opciones -J-Xms128 -J-Xmx512m (como mímino).",
+  "speaker": "SYSTEM",
+  "uuid": "4d9991dd-d898-43b2-b077-bfe30a842cad"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 13\n•13\nCorrespondence between thing-URI and source-URI\nUser Agent\nhttp://dbpedia.org/resource/Gordon_Brown\nHTTP\nGET\n303 \nHTTP\nGET\nRDF\nWeb Server\nhttp://dbpedia.org/data/Gordon_Brown\nhttp://dbpedia.org/page/Gordon_Brown\nRDF (and other W3C Recommendations) and URIs\n• For practical purposes, especially if handwritten, URIs \nare shortened using XML namespaces\n• xmlns:oeg=“http://www.oeg-upm.net/ontologies/people#”\n• oeg:Oscar is equivalent to http://www.oeg-\nupm.net/ontologies/people#Oscar\noeg:Oscar\noeg:Asun\n“Oscar Corcho García”\nperson:hasName\nperson:hasColleague\noeg:Raúl\n“http://www.fi.upm.es/”\nperson:hasHomePage\nperson:hasColleague\n",
-  "speaker": "SYSTEM",
-  "uuid": "a7914cd9-2700-4376-b90c-98e5a2f7c187"
-}

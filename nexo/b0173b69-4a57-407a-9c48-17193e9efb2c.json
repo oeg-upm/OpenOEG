@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_SPARQL.pdf: Página 55\n• \nLike SQL … SPARQL/RDF Stores need a standard Data \nManipulation Language http://www.w3.org/TR/sparql11-update \n• \nSPARQL 1.1 Update Language \n• \nGraph Update \n•  INSERT DATA \n•  DELETE DATA \n•  DELETE/INSERT \n•  DELETE \n•  INSERT \n•  DELETE WHERE \n•  LOAD \n•  CLEAR \n• \nGraph Management \n•  CREATE \n•  DROP \n• \nIssue: Graph-aware stores vs. Quad Stores \n76 \nOntological Engineering Group \nSPARQL1.1 Update \n",
+  "speaker": "SYSTEM",
+  "uuid": "b0173b69-4a57-407a-9c48-17193e9efb2c"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 13\nATHENS 2010 \n© Raúl García Castro et al. \nTyped literals \n•  So far, all values have been presented as strings \n•  XML Schema datatypes can be used to specify \nvalues (objects in some RDF triple statements) \n•  In RDF/XML, this is expressed as: \n-  <rdf:Description rdf:about=”#Oscar”> \n   <person:hasBirthDate  \n      rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">1976-02-02 \n   </person:hasBirthDate> \n</rdf:Description> \n•  In N3, this is expressed as: \n-  oeg:Oscar person:hasBirthDate ”1976-02-02”^^xsd:date . \noeg:Oscar \n1976-02-02 \nperson:hasBirthDate \n13 \n",
-  "speaker": "SYSTEM",
-  "uuid": "d1322505-4255-42f8-af6a-18c6ab3fad24"
-}

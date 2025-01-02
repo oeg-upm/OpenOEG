@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 06_Linking.pdf: Página 10\n10 \nOperators: aggregators \n19 \n•  A comparison operator evaluates two inputs and \ncomputes the similarity based on a user-defined \ndistance measure and a user-defined threshold. \n•  The distance measure always outputs 0 for a perfect \nmatch, and a higher value for an imperfect match.  \n•  Only distance values between 0 and threshold will \nresult in a positive similarity score.  \n•  Therefore it is important to know how the distance \nmeasures work and what the range of their output \nvalues is in order to set a threshold value sensibly. \n \nAppendix: Installation guide \n•  It can be found at: \n-  https://www.assembla.com/spaces/silk/wiki/Silk_Workbench \n20 \n",
-  "speaker": "SYSTEM",
-  "uuid": "677d81d7-248c-4037-9239-ec4faf3d9ec3"
-}

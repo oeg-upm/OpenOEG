@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Restricciones.pdf: Página 4\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nRestricciones\nNociones Básicas\nRepresentar el problema usando modelos con ecuaciones en los que aparecen atributos (variables) \nque toman valores en unos dominios.\nObjetivo:\nAsignar valores a variables satisfaciendo el conjunto de restricciones\n¿Cómo?\nUtilizando un proceso iterativo de búsqueda con poda basado en el análisis del conjunto de \nrestricciones en cada nodo del árbol de búsqueda\n• Filtrado de variables\n• Propagación  de valores\n",
-  "speaker": "SYSTEM",
-  "uuid": "fc6e5b65-c31c-43a2-a6e1-52081725d021"
-}

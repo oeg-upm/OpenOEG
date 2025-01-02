@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: DevTools.pdf: Página 18\nAdministrar « DevTools » : \n \nconfiguración de las herramientas\nLos plug-ins eclipse \nCarpeta /my-project/reference\nFichero platform.xml\n<!-- MAVEN M2ECLIPSE PLUGIN -->\n<site enabled=\"true\" updateable=\"true\" policy=\"USER-EXCLUDE\" url=\"file:/E:/tools/org/sonatype/m2eclipse/0.10.0.20100209.0800/\">\n<feature id=\"org.maven.ide.eclipse.feature\" plugin-identifier=\"org.maven.ide.eclipse\" url=\"features/org.maven.ide.eclipse.feature_0.10.0.20100209-0800/\"\nversion=\"0.10.0.20100209-0800\">\n</feature>\n</site>\n<!-- CHECKSTYLE ECLIPSE PLUG-IN -->\n<site enabled=\"true\" updateable=\"true\" policy=\"USER-EXCLUDE\" url=\"file:/E:/tools/net/sf/checkstyle/5.0.3.200911042225\" >\n<feature url=\"features/net.sf.eclipsecs_5.0.3.200911042225.jar\" id=\"net.sf.eclipsecs\" version=\"5.0.3.200911042225\"> \n</feature>\n<feature url=\"features/net.sf.eclipsecs.migration_5.0.3.200911042225.jar\" id=\"net.sf.eclipsecs.migration\" version=\"5.0.3.200911042225\"> \n</feature>\n</site>\n",
-  "speaker": "SYSTEM",
-  "uuid": "d1082223-f0a9-4f94-b55e-e37fce8e10c1"
-}

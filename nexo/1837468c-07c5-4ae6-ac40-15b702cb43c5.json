@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 06_NonStandardOWLReasoning_ModularisationAndDebugging.pdf: Página 14\nCoverage\n• Goal: Import everything the external knowledge base \nknows about the topic that consists of the specified \nterms.\n• Question: Which DL axioms do we need to import?\n14\n",
+  "speaker": "SYSTEM",
+  "uuid": "1837468c-07c5-4ae6-ac40-15b702cb43c5"
+}

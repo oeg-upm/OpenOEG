@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OntoDDB.pdf: Página 20\nPROBLEMS: Blank nodes\n• Name (URI) as identifier for resources \n– In statements communication with external applications\n– In repository (statements table)\n• Anonymous resources have no name\n– Internal names change in each Protégé session\n– Impossible to link old and new names\n• Solution:\n– Anonymous resources considered as changed resources \nin save changes mode\n– Namespace: Anonymous\n– Penalty on the first storing of each session\n12/11/2009\n",
-  "speaker": "SYSTEM",
-  "uuid": "b8361a32-85df-47bd-bc00-62d6b58bc240"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_OWL.pdf: Página 43\n© O. Corcho, MC Suárez de Figueroa Baonza\n43\nOWL and SWRL\nInteresting results (IV). Instance classification\nA van is a type of vehicle\nA driver must be adult\nA driver is a person who drives vehicles\nA white van man is a man who drives vans and white things\nWhite van mans must read only tabloids\nQ123ABC is a white thing and a van\nMick is a male who reads Daily Mirror and drives Q123ABC\n)\n123\n,\n(\n)\n,\n(\n123\n.\n)\n.(\n.\nABC\nQ\nMick\ndrives\nr\nDailyMirro\nMick\nreads\nmale\nMick\nvan\nwhiteThing\nABC\nQ\ntabloid\nreads\nn\nwhiteVanMa\nwhiteThing\nvan\ndrives\nman\nn\nwhiteVanMa\nvehicle\ndrives\nperson\ndriver\nadult\ndriver\nvehicle\nvan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWe obtain: \nMick is an adult\nMick is a white van man\nDaily Mirror is a tabloid\ntabloid\nr\nDailyMirro\nn\nwhiteVanMa\nMick\nadult\nMick\n\n\n\n",
-  "speaker": "SYSTEM",
-  "uuid": "6c9741cc-0886-42b4-9755-84d304a8c8d3"
-}

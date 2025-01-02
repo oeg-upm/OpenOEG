@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Visualization \n\nHere I will be providing links to papers/software/etc., that is aimed at visualisation of datasets, so that we can always take a look at it whenever any idea about visualization comes to our mind:\nGráfico tipo small multiples, con un montón de gráficas de fiebre pequeñitas:\nhttp://hci.stanford.edu/jheer/files/zoo/small_multiples.png\nArtículo:\nhttp://hci.stanford.edu/jheer/files/zoo/\nArtículo:\nhttp://www.interaction-design.org/encyclopedia/data_visualization_for_human_perception.html\nThings to check\n\nStatistics (mirar lo de los de KIT, etc., mirar DataCube, etc.).\nIntegrar KOIOS, si se puede, pues es open source y da keyword lookup,\naunque creo que nosotros lo tenemos ya, faceted search, top-k query\ngraphs, etc. Esto puede ser útil para nuestro geolinkeddata.\nMemory leaks\nNew google map APIs par que sean también IDEE u otros\nIntegrar lo de AEMET en el code repository (visualización)\nDescarga como CSV de los datos de una query.",
+  "speaker": "SYSTEM",
+  "uuid": "68af6c8d-1f92-4229-991a-470c21181a61"
+}

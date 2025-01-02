@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: MGPGLD-v3.pdf: Página 6\nLinked Data enables such Web of Data\n6\nMovieDB\nCIA\nWorld\nFactBook\nGlobal Identifier: URI (Uniform Resource Identifier), which is a string of characters used \n \n \nto identify a name or a resource on the Internet.\nhttp://cia.../Bolivia\nhttp://imdb.../TLLuvia\nData Model: RDF (Resource Description Framework), which is a standard model \n \n \nfor data interchange on the Web\nhttp://.../population\nhttp://.../name\n8000000\n“Even the Rain”\nAccess Mechanism: HTTP\nConnection: Typed Links\nhttp://.../filming_location\n© Slide adapted from “5min Introduction to Linked Data”- Olaf Hartig\n",
-  "speaker": "SYSTEM",
-  "uuid": "29303f66-380c-41c7-a232-af4bf084aacd"
-}

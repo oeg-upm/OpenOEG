@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II.pdf: Página 28\nSistemas de Producción\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nEquiparación de variables (III)\nEq1: \n$x :C\n$y : C\nSe pueden equiparar variables distintas con el mismo valor\nR1: Si  (A   $x)  (B    $y) Entonces\nMT:    (A   C)    (B   C) (M V)\nConjunto Conflicto ={R1 ((A C) (B  C)) }\n",
+  "speaker": "SYSTEM",
+  "uuid": "d3287e11-4ead-4dbb-a257-8a29fd2b521b"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentacion_WORKS-yg-dgV1.pdf: Página 4\n3 \nCurrent issues with existing publication approaches \nOnly executable workflow is published: \n1.\nMust have the same codes to re-execute \nthe workflow, but: \n–\nCodes become unavailable \n•\nEg: eHits was proprietary and replaced by \nAutodockVina \n–\nDifferent labs prefer different codes  \n•\nEg: R vs Matlab \n•\nEg: viz in Citoscape vs yEd \n2.\nMust have the same workflow framework \nto re-execute the workflow \n–\nMust have R for Weaver \n3.\nMust import files to local file system and \nworkflow framework \n–\nMust import bundle of workflow/data/code \nfiles to reproduce \nWorkflow:  \nWorkflow/scripts describing  \ndataflow, codes, and parameters \nText: \nNarrative of method, \nsoftware packages used \nData: \nKey datasets and figures/plots \nReproducible Article:  \nWeaver, GenePattern GRRD, etc.  \n",
-  "speaker": "SYSTEM",
-  "uuid": "4a24fb1a-62b8-4336-ad9b-8d835c3833ae"
-}

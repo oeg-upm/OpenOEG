@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion-2013.pdf: Página 25\nPlanificación \n \n \nFormalización de STRIPS. Ejemplo de descripción \nde estados \nA \nB \nC \nC \nB \nA \nencima (A, B) \nen-mesa (C) \nen-mesa (B) \nbrazo-libre \nlibre (A) \nlibre (C) \nSITUACIÓN INICIAL \nencima (C, B) \nen-mesa (A) \nen-mesa (B) \nbrazo-libre \nlibre (A) \nlibre (C) \nMETA \nFalta un estado, dado que no se da en estas dos representaciones,  que \nsería:    sujeto(x) \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "5875f265-5bb4-4f17-8bd1-0ae9aa3ab014"
-}

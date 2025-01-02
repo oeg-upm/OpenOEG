@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologias-multilingualidad_wiki_24-01-08.pdf: Página 43\n©Guadalupe Aguado de Cea\n43\nUna nueva propuesta: LIR\nLinguistic Information repository\n• Modelizado como una ontología\n• Se enlaza con el metamodelo mediante la  clase\nLexicalEntry\n• Una lexical entry es una relación ternaria: \nLexicalization, Sense y LanguageContext. \n• Note se enlaza con  Lexicalization, pero también se \npuede enlazar con cualquier otra clase del modelo para incluir\ninfromación suplementaria\n• Al enlazar Note con  las clases Sense o Definition, se \nmanifiestan las posibles diferencias en las lenguas\n",
+  "speaker": "SYSTEM",
+  "uuid": "09301aac-8989-4d65-b9e2-5c8465b29027"
+}

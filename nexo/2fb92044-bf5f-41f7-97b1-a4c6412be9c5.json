@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Metodolog%C3%ADa-2.pdf: Página 42\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n42\nOntological Engineering\nMs\nMs\nMs\nMs\nMs\nMs\nMs\nMs\nMs\nMs\nCentralized network of \nontologies where data are \ndistributed\n1. Build a reference ontology\nFederated network of ontologies\nwhere data are distributed\n1.\nBuild a reference ontology for the domain\n2.\nBuild local ontologies\n3.\nBuild mappings between the core and local ontologies\n4.\nBuild mappings between the local ontologies and the data \nsources\nMs\nMs\nMs\nMs\nMs\n2. Build mappings between the \nreference ontology and the data sources\n",
+  "speaker": "SYSTEM",
+  "uuid": "2fb92044-bf5f-41f7-97b1-a4c6412be9c5"
+}

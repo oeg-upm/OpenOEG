@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 85\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nDCAT: Data Catalog Vocabulary \n•\nDCAT is an RDF vocabulary designed to facilitate \ninteroperability between data catalogs published on the Web. \n•\nDCAT increases discoverability and enable applications \neasily to consume metadata from multiple catalogs.  \n•\nMain concepts described in DCAT are: \n•\nCatalog \n•\nCatalog record \n•\nDataset \n•\nDistribution \n•\nDownload \n•\nWeb service \n \n \n87 \n•\nhttp://www.w3.org/TR/vocab-dcat/ \n",
+  "speaker": "SYSTEM",
+  "uuid": "887024da-93e9-4166-b980-abc8c391c0ff"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 02_RDF%28S%29.pdf: Página 16\n16 \n© Raúl García Castro et al. \nRDF Schema \n•  Extends RDF \n•  Allows describing classes of resources and their properties \n•  Adds constraints on models \n31 \nrdfs:Resource \nrdfs:Container \nrdf:List \nrdf:Property \nrdfs:Class \nrdf:Statement \nrdfs:Datatype \nrdfs:Literal \nrdf:XMLLiteral \nrdf:Bag \nrdf:Seq \nrdf:Alt \nrdf:nil \nrdfs:ContainerMembershipProperty \nrdf:_1 \nrdf:_2 \nrdf:_3 \nrdfs:member \nrdfs:seeAlso \nrdfs:isDefinedBy \nrdf:value \nrdfs:label \nrdfs:comment \nrdf:subject \nrdf:predicate \nrdf:object \nrdf:type \nrdfs:subclassOf \nrdfs:domain \nrdfs:range \nrdfs:subPropertyOf \nrdf:first \nrdf:rest \nrdfs:member \n© Raúl García Castro et al. \nIndex \n•  Overview \n•  RDF \n-  Introduction \n-  RDF components \n-  Serializing RDF \n-  Hands-on \n•  RDF Schema \n-  Introduction \n-  Main RDF-S components \n-  Serializing RDF-S \n-  Hands-on \n-  RDF(S) Limitations \n-  Hands-on \n•  Reasoning \n-  Reasoning with RDF \n-  Reasoning with RDF-S \n•  RDF(S) management APIs \n32 \n",
-  "speaker": "SYSTEM",
-  "uuid": "ec37e946-ac7b-45d8-aaa1-8cc88bf99454"
-}

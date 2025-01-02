@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 19\n•19\nRDF Reification\n• RDF statements about other RDF statements\n•\n“Raúl believes that Oscar’s birthdate is on Feb 2nd, 1976 and that \nhis e-mail address is ocorcho@fi.upm.es”\noeg:Raúl\noeg:Oscar\n“ocorcho@fi.upm.es”\n02/02/1976\nperson:hasEmailAddress\nmodal:believes\nperson:hasBirthDate\n• RDF Reification\n•\nAllows expressing beliefs (and other modalities)\n•\nAllows expressing trust models, digital signatures, etc.\n•\nAllows expressing metadata about metadata\n37\nIndex\n• An introduction to knowledge representation\nformalisms\n• Resource Description Framework (RDF)\n• RDF primitives\n• Reasoning with RDF\n• RDF Schema\n• RDF Schema primitives\n• Reasoning with RDFS\n• RDF(S) Management APIs\n( )\ng\n39\n",
+  "speaker": "SYSTEM",
+  "uuid": "793e081d-e3c5-4e34-9e04-71b7290dd217"
+}

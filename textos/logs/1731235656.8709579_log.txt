@@ -1,0 +1,125 @@
+Soy un chatbot llamado ABIGAIL. Mis objetivos son ayudar a los usuarios a navegar por la Ontology Engineering Group Wiki. Leer las notas de la conversacin, que incluye datos extrados de una base de datos, y los mensajes recientes, y luego dar una respuesta atenta, alegre y detallada, basando mis respuestas a ser posible en los datos extrados. No hagas referencia a ser posible ms de 1 documento, no siempre hace falta referenciar un documento. En vez de eso haz referencia a la Wiki siempre que puedas. Las preguntas se harn en espaol y responders tambin en espaol.
+
+
+DATOS EXTRADOS:
+SYSTEM: ICIJ-OEG_PanamaPapers_Presentacion_Grupo.pptx: Diapositiva {12}
+Date: 19-9-2016
+SYSTEM: PresntacionGT-vFinal.pdf: Pgina 20
+Gestin del Tiempo 
+ 
+ 
+Sntesis: Consejos 
+ 
+ 
+ 
+Saber siempre cual es tu objetivo cuando vas a 
+hacer algo 
+Hay que saber porque uno hace las cosas que hace 
+Hay que ser consciente de lo que uno esta haciendo 
+en cada momento 
+ 
+Hay que celebrar cada logro (por pequeo que 
+sea) 
+Evitar el auto-boicot: ser amables con nosotros 
+mismos 
+27 
+
+SYSTEM: PresntacionGT-vFinal.pdf: Pgina 11
+Gestin del Tiempo 
+Asertividad: Saber decir que no 
+ Decir No, implica que te dices que Si a ti mismo 
+15 
+Darme permiso para hacerlo. 
+Empatizar. Decir algo 
+positivo. 
+Decir NO. Objetivo claro, 
+directo, sin justificaciones. 
+Dar alternativas para que el 
+objetivo del otro se cumpla. 
+Decir NO. 
+
+SYSTEM: Orden_EDU_3083_2009%2C_de_6_de_noviembre%2C_por_la_que_se_convocan_ayudas_para_becas_y_contratos_de_Formaci%C3%B3n_de_Profesorado_Universitario.pdf: Pgina 25
+BOLETN OFICIAL DEL ESTADO
+Nm. 277	
+Martes 17 de noviembre de 2009	
+Sec. III.   Pg. 97750
+extranjero, en funcin del pas de destino. En el caso de perodos de duracin inferiores a 
+un mes se asignar la parte proporcional.
+3. El importe de la ayuda para el viaje ser:
+a) Desplazamientos en Espaa: Hasta un mximo de 90  dentro de la Pennsula; 
+hasta un mximo de120  a o desde Ceuta, Melilla y las Islas Baleares; hasta un mximo 
+de 150  a o desde las Islas Canarias.
+b) Desplazamientos en el extranjero: Hasta un mximo de 600 , cuando el lugar de 
+destino sea un pas de Europa; hasta un mximo de 1.200 , cuando el lugar de destino 
+sea un pas del resto del mundo.
+4. Los beneficiarios de ayudas para estancias breves en centros en el extranjero, 
+disfrutarn, sin perjuicio de la cobertura de la Seguridad Social, de un seguro de accidentes 
+y de asistencia mdica en los desplazamientos al extranjero autorizados por la Direccin 
+General de Poltica Universitaria, cuando se trate de pases sin concierto con la Seguridad 
+Social espaola o cuando las coberturas de este concierto fueran insuficientes. La cobertura 
+de este seguro alcanzar nica y exclusivamente hasta el lmite de la pliza contratada por 
+el Ministerio de Educacin y para el perodo para el que fuera concedida la estancia 
+breve.
+5. Las estancias se realizarn a partir de 1 de mayo de 2010 al 31 de marzo de 2011, 
+y debern disfrutarse siempre dentro del perodo de vigencia de la ayuda.
+6. Una vez concedidas las ayudas y en casos debidamente justificados, el rgano 
+instructor podr autorizar cambios en el objeto de la estancia, sin que ello suponga 
+incremento del gasto aprobado.
+Artculo 40. Requisitos de los solicitantes.
+Las estancias breves podrn solicitarlas:
+a) Por los beneficiarios de ayudas que se hayan incorporado en el ejercicio anterior 
+y hayan presentado la memoria de seguimiento anual, a la que se refiere el captulo IV de 
+la presenta convocatoria.
+b) Excepcionalmente podrn solicitarla, aquellos beneficiarios activos que no 
+reuniendo el requisito anterior, se encuentren en posesin del Diploma de Estudios 
+Avanzados, certificado de inicio del perodo de investigacin o que hayan completado un 
+perodo igual o superior a doce meses en becas o ayudas anteriores de anloga naturaleza 
+a la de FPU en cuanto a sus objetivos y su cuanta, y cuyo perodo disfrutado haya sido 
+descontado del cmputo del perodo de duracin mxima de la ayuda de FPU.
+Artculo 41. Presentacin de solicitudes.
+1. El plazo de presentacin de solicitudes ir del 11 al 31 de enero de 2009.
+2. El formulario de solicitud se cumplimentar en la aplicacin informtica disponible 
+en la pgina http://web.educacin.
+3. Cumplimentado el formulario en todos sus apartados, se deber confirmar y enviar 
+los siguientes archivos en formato electrnico:
+a) Memoria justificativa (con una extensin mxima de 1.000 palabras), que contenga: 
+objeto de la estancia, plan de trabajo, estimacin del gasto, informacin sobre el centro 
+receptor con relacin al objeto de la estancia e idoneidad del mismo, duracin de la estancia 
+con el objeto de trabajo durante la misma y el perodo de formacin o para la presentacin 
+de la tesis. La memoria deber contar con un informe y VB del Director de la tesis sobre 
+la conveniencia de la estancia para la formacin del becario, idoneidad del centro de 
+destino seleccionado y del plan de trabajo a realizar.
+b) Acreditacin de la aceptacin del centro receptor en todos los casos.
+4. Una vez confirmado el envo telemtico de la solicitud y de los dos archivos de los 
+documentos electrnicos sealados en el punto anterior, se deber imprimir la solicitud y 
+cve: BOE-A-2009-18342
+
+SYSTEM: 2020.03.OEG.pptx: Diapositiva {20}
+RECTORADO
+Ask doubts and conditions ASAP.
+Pref. By EMAIL.
+
+CONVERSACIN ANTERIOR:
+
+USER: Sunday, November 10, 2024 at 11:46AM  - hola, que me puedes decir de los plazos del protocolo de viajes en OEG
+ABIGAIL: Sunday, November 10, 2024 at 11:46AM  - Hola! Me alegra poder ayudarte con tu pregunta sobre los plazos del protocolo de viajes en OEG. Segn el documento que hemos extrado, "Compromiso_Conocimiento_Protocolo_v1_%28JASH%29.pdf", hay varios plazos importantes que debes conocer:
+* **Reserva de alojamiento y medio de desplazamiento**: Tan pronto como se tenga conocimiento de la realizacin del viaje, cada miembro debe proceder a reservar tanto el alojamiento como el medio de desplazamiento (avin, tren, etc.) para evitar el incremento de los precios.
+* **Anticipo de gastos conocidos**: En aquellos casos en que la persona hace frente personalmente con su dinero a los gastos de viaje, se recomienda solicitar un anticipo de los gastos conocidos (gastos de desplazamiento, alojamiento, inscripcin en conferencias) con al menos 15 das de antelacin respecto a la fecha de inicio del viaje.
+* **Presentacin de la hoja previaje**: La hoja previaje debe ser presentada en el L-5001 en horario de atencin (de 11 a 12 de la maana), al menos con quince das de antelacin.
+Recuerda que es importante cumplir con estos plazos para evitar retrasos en el reintegro de las cantidades gastadas en razn del viaje.
+Si tienes alguna otra pregunta o necesitas ms informacin, no dudes en preguntar. Te parece bien si te proporciono ms detalles sobre cada uno de estos plazos?
+USER: Sunday, November 10, 2024 at 11:47AM  - Y del previaje me puedes decir?
+
+USUARIO: Y del previaje me puedes decir?
+
+
+
+A continuacin voy a dar una breve explicacin breve a la pregunta formulada:
+ABIGAIL: 
+
+
+==========
+
+Hola de nuevo! Me alegra poder ayudarte con tu pregunta sobre el previaje. Segn lo que hemos extrado, la hoja previaje debe ser presentada en el L-5001 en horario de atencin (de 11 a 12 de la maana), al menos con quince das de antelacin.
+En cuanto a más detalles sobre el previaje, puedes consultar el documento " Orden EDU 3083 2009, de 6 de noviembre, por la que se convocan ayudas para becas y contratos de Formación de Profesorado Universitario.pdf" (en concreto, en la página 25), donde se describe el proceso de presentación de solicitudes y la documentación requerida.
+Recuerda que es importante cumplir con los plazos establecidos para evitar retrasos en el reintegro de las cantidades gastadas en razón del viaje. Si tienes alguna otra pregunta o necesitas más información, no dudes en preguntar.

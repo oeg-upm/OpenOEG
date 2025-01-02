@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 29\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nEquiparación de variables (IV) \nSe pueden realizar comprobaciones adicionales sobre las variables \nRi: Si (Casilla $i $j) ($i < 4) ($j > 0)... \nRj: Si (Casilla $i $j $color) ($color ≠ Rojo) ($i ≠ $j) ... \n \n",
+  "speaker": "SYSTEM",
+  "uuid": "02130aa1-0a46-4c7f-9e93-3839e4d7aa3e"
+}

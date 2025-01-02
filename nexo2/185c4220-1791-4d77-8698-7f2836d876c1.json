@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 1._Intro-Sweb.pdf: Página 25\n©Asunción Gómez-Pérez\n- 25\n<rdf:Description rdf:about='Asunción Gómez-Pérez'> \n<rdf:type rdf:resource=‘Associate Prof'/> \n<NS0:Full_Name>A. GomezPerez</NS0:Full_Name>\n<NS0:Belongs_To>UPM</NS0: Belongs_To > \n<NS0:e-mail>asun@fi.upm.es</NS0:e-mail> \nPerson\nOrganization\nHas_contact_Person\nBelongs_To\nAssociate Prof.\nPartner\nSubclass of\nURL\nWeb Page\nxmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' \nxmlns:NS0='http://www.esperonto.net/semanticportal/RDFS/Person_Ontology#' \nxmlns:NS1='http://www.esperonto.net/semanticportal/RDFS/Organization_Ontology#' \n<rdf:Description rdf:about='UPM'> \n<rdf:type rdf:resource='Partner'/> \n<NS1:Acronym>UPM</NS1:Acronym>\n<NS1:Has_Contact_Person>Asunción Gómez-Pérez\n             </NS1:Has_Contact_Person > \nInstance of\nInstance of\nSubclass of\nAnnotation\n(RDF)\nhttp://www.esperonto.net\nhttp://www.esperonto.net\nOntologies and Metadata\nOntologies\n",
-  "speaker": "SYSTEM",
-  "uuid": "185c4220-1791-4d77-8698-7f2836d876c1"
-}

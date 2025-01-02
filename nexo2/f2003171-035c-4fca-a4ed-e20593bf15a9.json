@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Intro-RC-II-v1%28asun%29.pdf: Página 18\nIntroducción a la Representación de Conocimientos\nSistemas de Producción\nBase de Reglas\nBase de Hechos\nR1: Si (Animal $A) ^ (Esqueleto $A sí) \nEntonces  (Vertebrado $A)\nBase de Hechos\n(Animal Tucky) \n(Animal Piolín) \n(Esqueleto Piolín sí) \nR2: Si (Animal $A) ^(Esqueleto $A no)\nEntonces  (Invertebrado $A)\nR3: Si (Vertebrado $A) (Ladra $A)\n(Esqueleto Tucky sí) \n(ladra Tucky)\n(Vertebrado Tucky)\n(Vertebrado Piolín)\nR3: Si (Vertebrado $A)  (Ladra $A)\nEntonces (Perro $A)\n(Vertebrado Piolín)\nEstrategia de Control\nCiclo 3: \nR1, $A= Tucky\nR1 $A= Piolín\n(Animal Tucky) \n(Animal Piolín) \n(Esqueleto Piolín sí) \n(Esqueleto Tucky sí)\nR1, $A= Piolín\n(Esqueleto Tucky sí) \n(ladra Tucky)\n(Vertebrado Tucky)\n(Vertebrado Piolín)\nR3, $A= Tucky\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\n(Perro Tucky)\n",
-  "speaker": "SYSTEM",
-  "uuid": "f2003171-035c-4fca-a4ed-e20593bf15a9"
-}

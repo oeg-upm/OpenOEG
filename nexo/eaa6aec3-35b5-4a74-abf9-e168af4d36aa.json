@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 113\n© O. Corcho, R.García-Castro, O. Muñoz-García\n113\nRDF and RDF Schema\nSPARQL query forms: ASK\n@prefix foaf:       <http://xmlns.com/foaf/0.1/> .\n_:a  foaf:name       \"Alice\" .\n_:a  foaf:homepage   <http://work.example.org/alice/> .\n_:b  foaf:name       \"Bob\" .\n_:b  foaf:mbox       <mailto:bob@work.example> .\nPREFIX foaf:    <http://xmlns.com/foaf/0.1/>\nASK\n{ ?x foaf:name  \"Alice\" }\nyes\nQuery result:\n",
+  "speaker": "SYSTEM",
+  "uuid": "eaa6aec3-35b5-4a74-abf9-e168af4d36aa"
+}

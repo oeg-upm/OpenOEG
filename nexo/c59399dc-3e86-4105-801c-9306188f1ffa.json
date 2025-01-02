@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion-2013.pdf: Página 46\nPlanificación \n \n \nBúsqueda del plan en STRIPS \nsujeto (A) \nDEJAR (A) \nbrazo-libre \nen-mesa (C) ^ libre (C) ^ brazo-libre \nLEVANTAR (C) \nlibre (B) ^ sujeto (C) \nPONER (C, B) \nen-mesa (A) \nR \nEsta meta está en el estado E2 \nDEJAR (A) \nbrazo-libre \nen-mesa( C) ^ libre (C) ^ brazo-libre \nLEVANTAR (C) \nlibre (B) ^ sujeto (C) \nPONER (C, B) \nen-mesa (A) \nR \nA \nB \nC \nEstado E2 \n",
+  "speaker": "SYSTEM",
+  "uuid": "c59399dc-3e86-4105-801c-9306188f1ffa"
+}

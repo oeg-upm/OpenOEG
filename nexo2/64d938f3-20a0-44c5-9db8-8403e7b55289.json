@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_Terminolog%C3%ADa.pdf: Página 12\n© Guadalupe Aguado de Cea\n12\nRelaciones entre conceptos:\nrelaciones jerárquicas\nEstrecha relación entre concepto y característica (predicado, rasgo, faceta)\nA.RELACIONES GENÉRICAS (género-especie) IS_A\n- Se basan en la semejanza de los conceptos (uno de los conceptos incluye al otro) \n•\nvertical: hiperonimia- hiponimia; superordinado –subordinado\n•\nhorizontal: dos nociones específicas del mismo genérico, con alguna característica \nque los diferencia\n• En los tesauros se limitan a:\n–\nBroader than (BT)\n–\nNarrower than (NT)\n–\nAssociated to (AT)\nB. RELACIONES PARTITIVAS\n- Se llaman también relaciones meronímicas o parte-todo. PART_OF\n- Coche: ruedas, asientos, volante, puertas, caja de cambios…\n- Distintos tipos de relaciones meronímicas\n",
-  "speaker": "SYSTEM",
-  "uuid": "64d938f3-20a0-44c5-9db8-8403e7b55289"
-}

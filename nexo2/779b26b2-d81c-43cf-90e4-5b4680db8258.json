@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: AMPER08_-_Introduction_to_SPARQL.pdf: Página 12\nRDF(S) Access APIs, May 2008\n12\n© García-Castro, Corcho, Muñoz-García\nTurtle: Triples and abbreviations\n• Triples separated by .\n:a :b :c . :d :e :f .\n• Common triple predicate and subject:\n:a :b :c, :d .\nwhich is the same as :a :b :c . :a :b :d .\n• Common triple subject:\n:a :b :c; :d :e .\nwhich is the same as: :a :b :c . :a :d :e . \n• Blank node as a subject\n:a :b [ :c :d ]\nwhich is the same as: :a :b _:x . _:x :c :d .\nfor blank node _:x\n• RDF Collections\n– :a :b ( :c :d :e :f )\nwhich is short for many triples\n",
-  "speaker": "SYSTEM",
-  "uuid": "779b26b2-d81c-43cf-90e4-5b4680db8258"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Hiroaki_Yamada_talk_Jan19.pdf: Página 15\nOur corpus\nOverview\n# of docs\n89\n# of units\n136972\n# of sentences\n37590\n# of characters\n2528604\nDistribution of labels (units)\nFACT\n43022\nFRAMING-main\n36648\nFRAMING-sub\n28857\nOTHER\n16816\nCONCLUSION\n5841\nIDENTIFYING\n4565\nBACKGROUND\n791\nIssueTopic\n432\n15\nLast week, we had just finished \nthe additional annotation with 31 \ndocs. Now 120 docs are available.\n",
+  "speaker": "SYSTEM",
+  "uuid": "756dc489-66ca-4a9f-ab04-6d73b2c6dc41"
+}

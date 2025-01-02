@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 27\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nFOAF: A model excerpt \n28 \nAn excerpt of FOAF model \nfoaf:Person\nfoaf:Document\nfoaf:knows\nfoaf:Image\nfoaf:publications\n- foaf:firstName\n- foaf:surname\nowl:Thing\nfoaf:mbox\nfoaf:Agent\nfoaf:Group\nfoaf:Organization\n- foaf:familyname\nwgs_84:SpatialThing\nfoaf:based_near\nfoaf:homepage\nfoaf:img\nfoaf:depiction\n",
-  "speaker": "SYSTEM",
-  "uuid": "95b7a12d-91af-4d4d-999e-4d90c7effb24"
-}

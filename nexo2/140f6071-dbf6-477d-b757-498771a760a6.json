@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 00.Presentaci%C3%B3nAsignatura.pdf: Página 2\n30/09/11\t\r  \n2\t\r  \nContenidos \n  Razonamiento sobre modelos taxonómicos \n¡  Formalismos de representación de conocimientos (repaso) \n÷ Lógica formal (lógica de predicados, lógica de primer orden) \n÷ Redes semánticas \n÷ Marcos \n÷ Sistemas de producción \n¡  Lógica de descripciones \n÷ Introducción y elementos básicos \n÷ Detección de inconsistencias y clasificación \n÷ Depuración y modularización \n¡  Prácticas con las herramientas Protégé/SWOOP y los \nrazonadores Pellet/SHER \nContenidos \n  Razonamiento espacial \n¡  Representación de datos espaciales \n÷  Conceptos espaciales fundamentales \n÷  Modelos continuos \n¢  Estructuras de datos de información geo-espacial \n¢  Algoritmos geométricos y de razonamiento espacial fundamentales \n¢  Razonamiento espacial e incertidumbre \n÷  Modelos discretos \n¢  Razonamiento espacial cualitativo (QSR) \n¡  Búsqueda espacial \n¡  Prácticas con Sistemas de Información Geográfica y Prolog/QSR  \n",
-  "speaker": "SYSTEM",
-  "uuid": "140f6071-dbf6-477d-b757-498771a760a6"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 27\n©O. Corcho\n27\nOntological Engineering\nCopyright © 2005, The University of Manchester\nPolyhierarchies\n•\nBy the end of this tutorial we intent to create a VegetarianPizza\n•\nSome of our existing Pizzas should be types of VegetarianPizza\n•\nHowever, they could also be types of SpicyPizza or CheeseyPizza\n•\nWe need to be able to give them multiple parents in a principled \nway\n•\nWe could just assert multiple parents like we did with \nMeatyVegetableTopping (without disjoints)\nBUT…\n",
+  "speaker": "SYSTEM",
+  "uuid": "767060d5-fda9-433d-9d4c-7903a7b84eaa"
+}

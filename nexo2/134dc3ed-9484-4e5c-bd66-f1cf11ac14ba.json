@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 37\n•  How to concatenate first name and last name? \n•  Now possible without problems per subqueries! \n \n \nPREFIX foaf: <http://xmlns.com/foaf/0.1/> \nPREFIX fn: <http://www.w3.org/2005/xpath-functions#> \n \nCONSTRUCT{ ?P foaf:name ?FullName } \nWHERE { \n SELECT ?P ( fn:concat(?F, \" \", ?L) AS ?FullName )  \n WHERE { ?P foaf:firstName ?F ; foaf:lastName ?L. } \n} \n \n43 \nOntological Engineering Group \nSubqueries to realise complex mappings \n",
-  "speaker": "SYSTEM",
-  "uuid": "134dc3ed-9484-4e5c-bd66-f1cf11ac14ba"
-}

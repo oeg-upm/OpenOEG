@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OEG_Status_report_Software_March_2022.pdf: Página 27\nOpen Science, Software and AI: A year at the Ontology Engineering Group. March, 2022\nInspect4py\n27\nStatic code analysis in Python\n-\nExtraction of available classes and functions\n-\nDocumentation\n-\nRequirements (reusing existing libraries)\n-\nCall list\n-\nFile hierarchy\n-\nControl ﬂow (reusing existing libraries)\n-\nSoftware invocation \n-\nService? Package? Library? & invocation command\n-\nMetadata export in JSON\nBeneﬁts\n-\nUnderstanding, reuse, ML featurization, similarity, best practices\nFilgueira, R. and Garijo, D. (2022). Inspect4py: A Knowledge Extraction Framework for Python Code Repositories. To appear in Mining Software Repositories, 2022 (demo)\nRosa Filgueira\n",
+  "speaker": "SYSTEM",
+  "uuid": "43f45ba9-3676-49b3-855e-bc9ceb60b3e3"
+}

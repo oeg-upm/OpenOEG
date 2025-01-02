@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 33\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nEjercicio de formalización y deducción\na) Formalizar el siguiente texto en lógica de primer orden\n“El que no estudia una asignatura no aprueba su examen”\n“Hay alumnos que además de no estudiar ninguna asignatura tienen mala suerte\nen el examen de Inteligencia Artificial”\n“El que estudia una asignatura y no se pone nervioso en su examen, lo aprueba a\nno ser que tenga mala suerte en su examen”\n“Juan ha aprobado Inteligencia Artificial”\n“Luego Juan ha estudiado Inteligencia Artificial”\nb) Comprobar si la estructura deductiva anterior es correcta utilizando el método de resolución\n",
+  "speaker": "SYSTEM",
+  "uuid": "5981cd7e-a654-4c46-b0b1-bbbda4056ba6"
+}

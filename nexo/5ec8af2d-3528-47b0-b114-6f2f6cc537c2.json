@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OReuse-DecisionAnalysis.pdf: Página 3\n3\n\nWith the goal of speeding up the ontology development process, ontology \npractitioners are reusing\n\nother ontologies [Simperl, 2009]\n\nontology modules [Cuenca-Grau et al., 2007]\n\nontology design patterns [Gangemi, 2007]\n\nnon-ontological resources [Jimeno-Yepes et al., 2009]\n\nDifferent approaches for reusing ontologies have been proposed [Gómez-\nPérez et al., 2003; Uschold et al., 1998; Pinto and Martins, 2001; Paslaru and Mochol, \n2005; Suárez-Figueroa, 2010] \n\nThe selection of the most suitable domain ontologies for reuse in the \ndevelopment of a new ontology is a complex decision-making problem\nMotivation\nThe selection of ontologies for reuse in the development of a \nnew ontology can be performed applying the decision \nanalysis methodology.\n",
-  "speaker": "SYSTEM",
-  "uuid": "5ec8af2d-3528-47b0-b114-6f2f6cc537c2"
-}

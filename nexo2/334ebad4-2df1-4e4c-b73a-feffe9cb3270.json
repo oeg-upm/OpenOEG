@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS-Applications-v5-boris.pdf: Página 50\nEgoIR\n• The system is the result of integrating Ontological \nWorkbench WebODE , and a text search engine library, \n,\ng\ny,\nLucene.\n•\nThe system integration of the EgoIR is built and \ny\ng\ng\ncomposed by the Search Client, the Search Server and \nthe Ontology Server modules.\nQuery Builder\nDocument \nViewer\nSearch Client\nViewer\nOntology Server\nSearch Server\nWebODE\nDocument \nServer\nLegal\nLegal \nOntology Server\nSearch Server\n50\ng\nOntologies\ng\nDocument Base\n",
-  "speaker": "SYSTEM",
-  "uuid": "334ebad4-2df1-4e4c-b73a-feffe9cb3270"
-}

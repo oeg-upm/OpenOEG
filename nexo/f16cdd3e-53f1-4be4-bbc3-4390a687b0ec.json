@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_OWL.pdf: Página 40\n© O. Corcho, MC Suárez de Figueroa Baonza\n40\nOWL and SWRL\nInteresting results (I). Automatic classification\nAnd old lady is a person who is elderly and female. \nOld ladies must have some animal as pets and all their pets are cats.  \ncat\nhasPet\nanimal\nhasPet\noldLady\nelderly\nfemale\nperson\noldLady\ncat\nhasPet\nperson\ncatOwner\nadult\nfemale\nperson\nwoman\nadult\nperson\nelderly\n.\n.\n.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWe obtain: \nOld ladies must be women.\nEvery old lady must have a pet cat\nHence, every old lady must be a cat owner\ncatOwner\nelderly\nwoman\noldLady\n\n\n\n",
+  "speaker": "SYSTEM",
+  "uuid": "f16cdd3e-53f1-4be4-bbc3-4390a687b0ec"
+}

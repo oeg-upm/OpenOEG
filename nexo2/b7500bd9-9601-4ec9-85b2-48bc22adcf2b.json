@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 49\n© O. Corcho, R.García-Castro, O. Muñoz-García\n52\nRDF and RDF Schema\nSPARQL query forms: SELECT\n@prefix  foaf:  <http://xmlns.com/foaf/0.1/> .\n_:a    foaf:name   \"Alice\" .\n_:a    foaf:knows  _:b .\n_:a    foaf:knows  _:c .\n_:b    foaf:name   \"Bob\" .\n_:c    foaf:name   \"Clare\" .\n_:c    foaf:nick   \"CT\" .\nPREFIX foaf:    <http://xmlns.com/foaf/0.1/>\nSELECT ?nameX ?nameY ?nickY\nWHERE\n{ ?x foaf:knows ?y ;\nfoaf:name ?nameX .\n?y foaf:name ?nameY .\nOPTIONAL { ?y foaf:nick ?nickY }\n}\nnameX\nnameY\nnickY\n\"Alice\"\n\"Bob\"\n\"Alice\"\n\"Clare\"\n\"CT\"\n",
-  "speaker": "SYSTEM",
-  "uuid": "b7500bd9-9601-4ec9-85b2-48bc22adcf2b"
-}

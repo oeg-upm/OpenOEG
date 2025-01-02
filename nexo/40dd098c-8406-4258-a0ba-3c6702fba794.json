@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 5\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nEjemplo de Sistemas de Producción \nR1: Si (Animal $A) ^ (Esqueleto $A sí)  \n       Entonces  (Vertebrado $A) \n \nR2: Si (Animal $A) ^(Esqueleto $A no) \n       Entonces  (Invertebrado $A) \n \nR3: Si (Vertebrado $A)  (Ladra $A) \n       Entonces (Perro $A) \nBase de Reglas \nBase de Hechos \n(Animal Tucky)  \n(Animal Piolín)  \n(Esqueleto Piolín sí)  \n(Esqueleto Tucky sí)  \n(ladra Tucky) \nEstrategia de Control \n(Animal Tucky)  \n(Animal Piolín)  \n(Esqueleto Piolín sí)  \n(Esqueleto Tucky sí)  \n(ladra Tucky) \n(Vertebrado Tucky) \nCiclo 1:  \nR1, $A= Piolín \nR1, $A= Tucky \n",
+  "speaker": "SYSTEM",
+  "uuid": "40dd098c-8406-4258-a0ba-3c6702fba794"
+}

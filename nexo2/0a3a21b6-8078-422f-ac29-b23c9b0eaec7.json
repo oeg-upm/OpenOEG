@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: DevTools.pdf: Página 19\nAdministrar « DevTools » : \n \nconfiguración de las herramientas\nLos plug-ins eclipse \nCarpeta /my-project/reference\nFicheros de preferences\nAl arranque de eclipse, simple copia de estos ficheros.\n#Fichero org.eclipse.team.svn.core\neclipse.preferences.version=1\nrepositories/c0044acf4cf4001e157aba4f34f0533d=c0044acf4cf4001e157aba4f34f0533d;ht\ntps\\://svn.seals-project.eu/seals-dev;https\\://svn.seals-project.eu/seals-\ndev;branches;tags;trunk;true;0be4c893-6316-5341-9597-\nc3b3b8aa611f;https\\://svn.seals-project.eu/seals-dev;;false;;;22\n",
-  "speaker": "SYSTEM",
-  "uuid": "0a3a21b6-8078-422f-ac29-b23c9b0eaec7"
-}

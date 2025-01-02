@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Chowlk_framework_slides.pdf: Página 8\nChowlk framework© María Poveda Villalón  & Serge Chávez-Feria\nChowlk Ontology visual notation\n8\nhttps://chowlk.linkeddata.es/chowlk_spec\n§ UML-based\n§ Building blocks\no OWL entities\n• Classes\n• Object properties\n• Datatype properties\n• Properties Characteristics\n• Relations between properties\n• Constraints\n• Individuals\no Metadata\n§ Alternatives \no Compact vs extended versions\no Notation alternatives\n§ Other recommendations\no Colour\no Modules \nUML_Ont (Haase, Peter, et al. \"D1. 1.2 \nupdated version of the networked ontology\nmodel.\" NeOn Project Deliverable D 1 (2009).\nAdaptation for PhD \ndissertation\nBlog posts\nBook chapter “Best Practices for \nImplementing FAIR Vocabularies \nand Ontologies on the Web” D. \nGarijo & M. Poveda-Villalón\nChowlk visual notation\n",
-  "speaker": "SYSTEM",
-  "uuid": "55a1a1ef-3ff7-4eab-9669-0b3887985bca"
-}

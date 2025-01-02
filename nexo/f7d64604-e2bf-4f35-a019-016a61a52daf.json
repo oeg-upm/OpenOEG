@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Presentaci%C3%B3n_Everis.v1.pdf: Página 17\nRepository Service\nRepositoryAccess\nRepositoryFactory\nRepository\nDescription\nClass Service\nClassAccess\nClass\nDescription\nRepository Selector \nService\nRepositorySelectorAccess\nRepositorySelectorFactory\nRepository \nSelector\nDescription\nGT4 Java WS Core \nContainer\nClient\nRDF(S) \nResource\nRDF(S) \nResource\nExperimentación – RGAB: Ejemplos de uso (VI)\n Recorriendo la taxonomía de claseses\nRepository\nResource\nRepository \nResource \nEndpoint \nReference\nClass\nResource\nGetRelatedClassesRequest(\n  class-resource-id,\n  lineage-relationship\n)\nGetRelatedClassesResponse(\n  class-uri*\n)\nClass \nResource \nEndpoint \nReference\nload\nuse\n17\nMiguel Esteban Gutiérrez\n",
+  "speaker": "SYSTEM",
+  "uuid": "f7d64604-e2bf-4f35-a019-016a61a52daf"
+}

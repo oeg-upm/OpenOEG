@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Intro-SemanticWeb.pdf: Página 23\n©Asunción Gómez-Pérez\n23\nIB-4321\nIberia\nCompany-name\nsingleFare\n500 euros\ndepartureDate\n10/11/2005\narrivalDate\nMetadata\n<Travel rdf:ID=“IB-4321\">\n<Company-name>Iberia</Company-name>\n<singleFare>500 Euros</singleFare>\n<departureDate rdf:datatype=\"&xsd;date\">\n2005-11-10\n</departureDate>\n<arrivalDate rdf:datatype=\"&xsd;date\">\n2005-11-10\n</arrivalDate>\n<arrivalPlace rdf:resource=\"#Paris\"/>\n</Travel>\n",
+  "speaker": "SYSTEM",
+  "uuid": "e167510a-c831-474b-ac64-b50caf90e436"
+}

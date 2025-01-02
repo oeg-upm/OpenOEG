@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 3\nATHENS 2010 \n© Raúl García Castro et al. \nRDF: Resource Description Framework \n•  W3C recommendation \n•  RDF is graphical formalism ( + XML syntax + semantics) \n-  For representing metadata \n-  For describing the semantics of information in a machine- \naccessible way \n•  RDF is a basic ontology language \n-  Resources are described in terms of properties and property \nvalues using RDF statements \n-  Statements are represented as triples, consisting of a subject, \npredicate and object. [S, P, O] \noeg:Oscar \noeg:Asun \noeg:Raul \n“http://www.fi.upm.es/” \nperson:hasHomePage \n“Oscar Corcho García” \nperson:hasName \nperson:hasColleague \nperson:hasColleague \n3 \n",
+  "speaker": "SYSTEM",
+  "uuid": "d7c2f172-9539-4703-a252-ab4b10ea2920"
+}

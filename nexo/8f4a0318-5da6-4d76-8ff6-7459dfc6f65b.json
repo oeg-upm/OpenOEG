@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 49\nRunning the evaluation scenario \nPreparing the request message (II) \n• The header: \nESWC 2011, 29/05/2011 \n49 \n<header:Header xmlns:header=\"http://www.seals-project.eu/resources/res/common/header/xsd/v1\"> \n  <header:Destination> \n    <header:HttpURI>http://localhost</header:HttpURI> \n  </header:Destination> \n  <header:ExecutionRequestId>urn:erq:6ba7b810-9dad-11d1-80b4-00c04fd430c7</header:ExecutionRequestId> \n</header:Header> \n",
+  "speaker": "SYSTEM",
+  "uuid": "8f4a0318-5da6-4d76-8ff6-7459dfc6f65b"
+}

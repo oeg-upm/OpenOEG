@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Restricciones.pdf: Página 7\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nRestricciones\nModelización de las  Restricciones\nTipos de Restricciones\n• Unarias X > 30\n• Binarias  X-4=Y\n• ....\nFormulación Implícita\n• Ecuaciones  X +Y =Z\n• Inecuaciones  X +Y > 4\n• Producto Cartesiano\n• Relaciones de orden  \n• ....\nFormulación Explícita\nCriterios de Diseño de la restricción\n• No usar disyunciones\n• No asignar valores a variables\nEj: evitar expresiones X1=v1 \n• Intentar minimizar el número de variables\n• ....\n",
-  "speaker": "SYSTEM",
-  "uuid": "5f568b38-5b94-43af-8e7d-1efdb97b23c4"
-}

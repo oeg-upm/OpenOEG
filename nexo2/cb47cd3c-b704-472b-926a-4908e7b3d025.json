@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2.-GCIntro-RC-II-v1%28asun%29.pdf: Página 14\nIntroducción a la Representación de Conocimientos \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nEjemplo de Sistemas de Producción \nR1: Si (Animal $A) ^ (Esqueleto $A sí)  \n       Entonces  (Vertebrado $A) \n \nR2: Si (Animal $A) ^(Esqueleto $A no) \n       Entonces  (Invertebrado $A) \n \nR3: Si (Vertebrado $A)  (Ladra $A) \n       Entonces (Perro $A) \nBase de Reglas \nBase de Hechos \nEstrategia de Control \nCiclo 2:  \nR1, $A= Tucky \nR3, $A= Tucky \n(Animal Tucky)  \n(Animal Piolín)  \n(Esqueleto Piolín sí)  \n(Esqueleto Tucky sí)  \n(ladra Tucky) \n(Vertebrado Tucky) \n(Animal Tucky)  \n(Animal Piolín)  \n(Esqueleto Piolín sí)  \n(Esqueleto Tucky sí)  \n(ladra Tucky) \n(Vertebrado Tucky) \n(Vertebrado Piolín) \nR1, $A= Piolín \n",
-  "speaker": "SYSTEM",
-  "uuid": "cb47cd3c-b704-472b-926a-4908e7b3d025"
-}

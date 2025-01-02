@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: B%C3%9ASQUEDA_grado-2013.pdf: Página 40\nALGORITMO A \n \nf*(n) = g*(n) + h*(n) \n \nf*(n) ES EL COSTE REAL DE UN CAMINO \nÓPTIMO DESDE EL NODO INICIAL s A \nUN NODO META, RESTRINGIDO A QUE \nDICHO NODO PASE POR EL NODO n \n",
-  "speaker": "SYSTEM",
-  "uuid": "0ca7c667-6412-40ff-b03a-64ec69eac81d"
-}

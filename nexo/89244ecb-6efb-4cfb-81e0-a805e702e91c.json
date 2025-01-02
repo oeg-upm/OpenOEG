@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 05_OWL.pdf: Página 9\n© O. Corcho, MC Suárez de Figueroa Baonza\n11\nOWL 2\nDo we understand these constructors?\n•\n∃hasColleague.Lecturer\n•\n∀hasColleague.Lecturer\n•\n∃hasColleague.{Oscar}\nOscar\nLecturer\nhasColleague\nhasColleague\nhasColleague\nhasColleague\nhasColleague\nhasColleague\nhasColleague\nhasColleague\n",
-  "speaker": "SYSTEM",
-  "uuid": "89244ecb-6efb-4cfb-81e0-a805e702e91c"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 20161215-MappingpediaPresentation.pdf: Página 14\nExecute Use Cases\n14\nWhat the user has\nWhat the user wants to do\nHow Mappingpedia can \nhelp him\nDatasets: Yes\nMappings: Yes\nOntology: Yes/No\n-\nExecute his mappings \nto generate RDF data \nfrom his datasets.\n-\nTo find instances of a \ncertain ontology \nconcept\n-\nExecute R2RML \nmappings using \nMorph-RDB.\n-\nGenerate an SQL \nquery using SPARQL \nquery translation.\nExecute\nUC7\nUC8\n",
-  "speaker": "SYSTEM",
-  "uuid": "dcac0b10-a957-4079-abd2-4cf3cf2b05a6"
-}

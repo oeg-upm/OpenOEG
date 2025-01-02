@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 3._Metodolog%C3%ADa-1-scenarios%2Bspec-v1%28asun%29.pdf: Página 13\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n14\nOntological Engineering\nSENSUS as a basis for a domain-specific \nontology (II)\nSensus Term\nSeed\nPath to root\nFrequent Parent\nSubtree Term\n1. Identify “seed” terms \n2. Link seed terms to SENSUS  by hand\n3. Include nodes on the path to root\n4. Add entire subtrees using the heuristic:\nIf many nodes in a subtree are relevant, \nthe other nodes in the subtree are relevant\nMETHOD\nB. Swartout; R. Patil; k. Knight; T. Russ.  Toward Distributed Use of Large-Scale Ontologies\nOntological Engineering. AAAI-97 Spring Symposium Series. 1997. 138-148.\n",
-  "speaker": "SYSTEM",
-  "uuid": "735ef6ce-e9d4-4431-91d9-b0fded2b6f73"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas.pdf: Página 4\n4\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nIndice\n1.\nArquitectura de los Sistemas de Producción\n2. Base de Hechos\n3. Base de Reglas\n4. Estrategia de Control\n4.1. Ciclo de Funcionamiento\n4.2.  Encadenamientos\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nBase de Hechos\nRepresenta el estado actual de la tarea o problema\n–\nEstado Inicial: situación inicial\n–\nEstado Final: situación objeto (puede haber más de uno)\n–\nEstados Intermedios: situación actual o en curso de resolución\nParte de la BH es permanente, otra es temporal (pertenece a la solución del problema \nen curso).\nContiene conocimiento declarativo.\nLa ejecución de reglas modifica la BH al añadir o borrar hechos en ella.\n",
-  "speaker": "SYSTEM",
-  "uuid": "bcc4e30a-b67e-4a58-8dc4-f8f78e80b509"
-}

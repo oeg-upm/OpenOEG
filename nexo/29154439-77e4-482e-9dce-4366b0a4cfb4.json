@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ResearchPlan2014_slides.pdf: Página 5\nAlejandro Llaves - Research Plan 2014\n5\nBackground: PlanetData\n●PlanetData: a scalable RDF streaming engine\n●What is Scalability? (Hill 1990)\n●Define scalability based on certain dimensions: data size, query \ncomplexity, number of concurrent queries, input rate...\n“Scalability is a frequently-claimed attribute of multiprocessor systems. While the \nbasic notion is intuitive, scalability has no generally-accepted definition. For this \nreason, current use of the term adds more to marketing potential than technical \ninsight.\n \nIn this paper, I first examine formal definitions of scalability, but I fail to find a \nuseful, rigorous definition of it. I then question whether scalability is useful and \nconclude by challenging the technical community to either (1) rigorously define \nscalability or (2) stop using it to describe systems.”\n",
+  "speaker": "SYSTEM",
+  "uuid": "29154439-77e4-482e-9dce-4366b0a4cfb4"
+}

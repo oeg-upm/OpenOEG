@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Metodolog%C3%ADa-2.pdf: Página 28\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n28\nOntological Engineering\nReusing Ontology Statements. \nOntology Statement Integration\nThe question here is: how to reuse the selected ontology \nstatements.\nThere are three modes:\n\u0001 Import the selected ontology statements.\n\u0001 Copy the selected ontology statements.\n\u0001 Map the selected ontology statements.\nAfter reusing an ontology statement, the following work must \nbe probably done: \n\u0001 changing names (concepts, properties) to adapt them to the \nnaming conventions used in the ontology network being \ndeveloped.\n\u0001 adding range in properties; and changing cardinalities.\n\u0001 restrictions should be added too.\n\u0001 check local inconsistencies in the ontology network.\n",
+  "speaker": "SYSTEM",
+  "uuid": "0fbd096c-a67f-40bc-a856-01dfebc85258"
+}

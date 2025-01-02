@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentacion_reunion_de_grupo_02mar2017.pdf: Página 11\nSparql queries \n Retrieve the protocols using mouse as a sample \nPREFIX sp: <http://purl.org/net/SMARTprotocol#>\nPREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\nPREFIX ro: <http://http://www.obofoundry.org/ro/ro.owl#> \nPREFIX foaf: <http://xmlns.com/foaf/0.1/>\nPREFIX owl: <http://www.w3.org/2002/07/owl#>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nPREFIX dbo: <http://dbpedia.org/ontology/>\nSELECT ?title ?externalUri\nWHERE {\n  ?protocol sp:hasTitle ?title_uri .\n  ?title_uri rdf:value ?title .\n  ?protocol ro:hasPart ?materials .\n  ?materials a sp:MaterialsSection .\n  ?materials ro:hasPart ?reagents .\n  ?reagents a sp:SpecimenList .\n  ?reagents ro:hasPart ?reagent .\n  ?reagent owl:sameAs ?externalUri .\n  ?reagent sp:hasName ?nameUri .\n  ?nameUri rdf:value ”mouse\" .\n}\nhttp://bit.do/googledocs-sparql-sp \nhttps://smartprotocols.github.io/queries/ \n",
-  "speaker": "SYSTEM",
-  "uuid": "8b75f74c-15d0-4f27-a306-5b345760eb57"
-}

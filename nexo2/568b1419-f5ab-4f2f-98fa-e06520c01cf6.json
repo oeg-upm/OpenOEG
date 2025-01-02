@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_09_-_OntologiesDatabases.pdf: Página 18\nBuild the ontologies\n–\nFunding opportunity ontology:\n•\nConcepts: 32\n•\nInstance attributes: 12\n•\nSubclass-of: 25\n•\nAd-hoc relations: 8\n–\nFunding Body ontology:\n•\nConcepts: 7\n•\nSubclass-of: 5\n•\nAd-hoc relations: 2\n–\nApplicant ontology:\n•\nConcepts: 22\n•\nInstance attributes: 4\n•\nSubclass-of: 18\n•\nAd-hoc relations: 4\n–\nOfficial Publication ontology:\n•\nConcepts: 9\n•\nInstance attributes: 6\n•\nSubclass-of: 7\n•\nAd-hoc relations: 1\n–\nOrganization ontology:\n•\nConcepts: 6\n•\nInstance attributes: 10\n•\nAd-hoc relations: 6\n–\nPerson ontology:\n•\nConcepts: 5\n•\nInstance attributes: 9\n•\nAd-hoc relations: 4\n–\nLocation ontology:\n•\nConcepts: 4\n•\nInstance attributes: 2\n•\nSubclass-of: 3\n•\nAd-hoc relations: 3\nInter ontology relations.\nWHAT?\nWHO?\nFOR WHOM?\nWHERE?\nPUBLISHED?\n",
-  "speaker": "SYSTEM",
-  "uuid": "568b1419-f5ab-4f2f-98fa-e06520c01cf6"
-}

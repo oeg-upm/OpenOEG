@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 98\n© O. Corcho, R.García-Castro, O. Muñoz-García\n98\nRDF and RDF Schema\n@prefix foaf:  <http://xmlns.com/foaf/0.1/> .\n_:a  foaf:name   \"Alice\" .\n_:b  foaf:name   \"Bob\" .\nPREFIX foaf:   <http://xmlns.com/foaf/0.1/>\nSELECT ?x ?name\nWHERE  { ?x foaf:name ?name }\nx  \nname\n_:c\n\"Alice\"\n_:d\n\"Bob\"\nx  \nname\n_:r\n\"Alice\"\n_:s\n\"Bob\"\n=\nBasic graph patterns: Blank node labels in query results\n",
-  "speaker": "SYSTEM",
-  "uuid": "9404ff75-0771-4f98-98b4-e8abc58cbf90"
-}

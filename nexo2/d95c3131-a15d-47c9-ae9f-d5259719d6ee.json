@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 89\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nDCAT: Model and instances \n91 \ndcat:Dataset\nfoaf:Organization\ndcat:Distribution\ndc:publisher\ndcat:distribution\ndcat:dataset\ndcat:Catalog\n- dc:title\n- dcat:size\n- dc:format\noeg:oegCatalog\noeg:sparqlEndpointAEMET\n“AEMET \nmetereological \ndataset”\noeg:datasetAEMET\ninstanceOf\n“6400”\ndcat:dataset\noeg:dump1AEMET\ndcat:distribution\ndcat:distribution\ninstanceOf\ninstanceOf\ninstanceOf\noeg:OEG\ninstanceOf\ndc:publisher\ndc:title\ndcat:accessURL\ndcat:accessURL\ndcat:accessURL\ndcat:bytes\n“application/x-ntriples”\ndc:format\nrdfs:Resource\nowl:Thing\ndcat:accessURL\nhttp://aemet.linkeddata.es/sparql.html\ninstanceOf\nhttp://aemet.linkeddata.es/source/rdf/data.zip\nhttp://aemet.linkeddata.es/\ninstanceOf\ninstanceOf\n",
-  "speaker": "SYSTEM",
-  "uuid": "d95c3131-a15d-47c9-ae9f-d5259719d6ee"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OWL.pdf: Página 35\n© O. Corcho, MC Suárez de Figueroa Baonza \n39 \nOWL 2 \nInteresting results (III). Instance classification and \nredundancy detection \nAn animal lover is a person who has at least three pets \nWalt is a person who has pets called Huey, Louie and Dewey. \n)\n,\n(\n)\n,\n(\n)\n,\n(\n)\n3\n(\nDewey\nWalt\nhasPet\nLouie\nWalt\nhasPet\nHuey\nWalt\nhasPet\nperson\nWalt\nhasPet\nperson\nr\nanimalLove\n∈\n≥\n∩\n≡\nWe obtain:  \n Walt is an animal lover \n Walt is a person is redundant \nr\nanimalLove\nWalt ∈\n",
-  "speaker": "SYSTEM",
-  "uuid": "2613cd56-25c2-42ea-8d8f-367c6fbaf6e7"
-}

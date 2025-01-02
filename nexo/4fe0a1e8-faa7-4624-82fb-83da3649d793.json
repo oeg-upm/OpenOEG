@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 48\nRunning the evaluation scenario \nPreparing the request message (I) \n• The payload: \nESWC 2011, 29/05/2011 \n48 \n<snap1:initiate  \n  xmlns:snap1=\"http://www.seals-project.eu/resources/res/engine/evaluation/wsdl/v2\"  \n  xmlns:snap2=\"http://www.seals-project.eu/resources/res/common/types/xsd/v1\"> \n  <snap1:argument> \n    <snap2:name>conformanceTestSuite</snap2:name> \n    <snap2:value>Ontology Engineering Tools OWL Lite Test Data Suite Collection</snap2:value> \n  </snap1:argument> \n  <snap1:argument> \n    <snap2:name>conformanceTestSuiteVersion</snap2:name> \n    <snap2:value>v1.0</snap2:value> \n  </snap1:argument> \n  <snap1:argument> \n    <snap2:name>tool</snap2:name> \n    <snap2:value>ProtegeOWL</snap2:value> \n  </snap1:argument> \n  <snap1:argument> \n    <snap2:name>toolVersion</snap2:name> \n    <snap2:value>ProtegeOWLVersion1</snap2:value> \n  </snap1:argument> \n</snap1:initiate> \n",
-  "speaker": "SYSTEM",
-  "uuid": "4fe0a1e8-faa7-4624-82fb-83da3649d793"
-}

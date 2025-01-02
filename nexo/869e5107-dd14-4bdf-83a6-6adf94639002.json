@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Helio.pdf: Página 21\nSet your title here in Slide Master Options\nLinking Challengee\n21\n§  Cities & Countries were tricky to [link]\n\"relationships\": [ \n    {  \n      \"condition\" : \"levenshtein(lower(regexp_replace(trim(escapeHtml4(stripAccents(regexp_replace( \n \n regexp_replace(S({$.name}), '.*\\\\s+-', ''), ',.*', '')))), '\\\\s+', '_')),  \n \n \n \n lower(regexp_replace(escapeHtml4(stripAccents(T({$.city}))), '\\\\s+', '_'))) < 3\", \n      \"predicates\" : [\"http://www.w3.org/2002/07/owl#sameAs\"], \n      \"inverse_predicates\" : [\"http://www.w3.org/2002/07/owl#sameAs\"], \n      \"source_resource_rule_id\" : \"STARS4ALL Alerts Cities metadata\", \n      \"target_resource_rule_id\" : \"STARS4ALL Cities metadata\" \n    } \n  ] \n\"country\":\"España\",\"city\":\"Coslada\",\"place\":\"Coslada\", \n\"name” : \"stars001 - Coslada, España” \n",
+  "speaker": "SYSTEM",
+  "uuid": "869e5107-dd14-4bdf-83a6-6adf94639002"
+}

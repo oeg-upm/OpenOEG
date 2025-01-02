@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OWL.pdf: Página 12\n© O. Corcho, MC Suárez de Figueroa Baonza \n12 \nOWL 2 \nSome basic DL modelling guidelines \n• \nX must be Y, X is an Y that...  \n \n à  X ⊆ Y \n• \nX is exactly Y, X is the Y that... \n \n à X ≡ Y \n• \nX is not Y (not the same as X is whatever it is not Y)\n à X ⊆ ¬Y \n• \nX and Y are disjoint \n \n \n à X ∩ Y ⊆ ⊥ \n• \nX is Y or Z \n \n \n \n à X ⊆Y∪Z \n• \nX is Y for which property P has  \nonly instances of Z  as values  \n \n à X ⊆ Y ∩ (∀P.Z) \n• \nX is Y for which property P has at  \nleast an instance of Z as  a value\n \n à X ⊆ Y ∩ (∃P.Z) \n• \nX is Y for which property P has at  \nmost 2 values\n \n \n \n à X ⊆ Y∩ (≤ 2.P) \n• \nIndividual X is a Y  \n \n \n à X∈Y \n",
-  "speaker": "SYSTEM",
-  "uuid": "7e60457a-940a-4936-8820-05c6e3836284"
-}

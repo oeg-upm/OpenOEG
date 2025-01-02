@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: MasterIA_Dic2009.pdf: Página 13\nSemantic Measures\n13\nSemantic relatedness measure. Given R, E\nrel: E x E →\nsuch that:\nSemantic similarity measure. Given RS, E\nsim: E x E →\nsuch that:\n∀x, y ∈E, rel(x,y) ≥ 0\n(positiveness)\n∀x, y, z ∈E, rel(x,x) ≥ rel(y,z)\n(maximality)\n∀x, y ∈E, rel(x,y) = rel(y,x) \n(symmetry)\n∀x, y ∈E, (x, y) ∉R, rel(x,y) = 0\n∀x, y ∈E, sim(x,y) ≥ 0\n(positiveness)\n∀x, y, z ∈E, sim(x,x) ≥ sim(y,z)\n(maximality)\n∀x, y ∈E, sim(x,y) = sim(y,x) \n(symmetry)\n∀x, y ∈E, (x, y) ∉RS, sim(x,y) = 0\n",
-  "speaker": "SYSTEM",
-  "uuid": "f8f89d9d-6d7b-4c4c-94b6-ab5c2aed46fa"
-}

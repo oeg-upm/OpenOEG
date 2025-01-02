@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ODEMapster-EVERIS%28v1-boris%29.pdf: Página 14\n14\nMDB2RDF \n•\nMapping defined\n•\nRDF Query Posed\n•\nRDF Query to Global \nQuery\n•\nGlobal query is sent to \nDQP\n•\nDQP distributes global \nqueries into local queries \nand evalute them\n•\nDatabases return local \nresults\n•\nLocal results sent to DQP\n•\nDQP integrates the results \ninto global result\n•\nGlobal result is sent to be \ntransformed into RDF\n•\n RDF documents \ncontaining RDF instances\n",
+  "speaker": "SYSTEM",
+  "uuid": "8dc6c4b4-0f1d-4dd3-b1a8-d92ca1605583"
+}

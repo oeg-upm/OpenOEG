@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01.Introduction.pdf: Página 26\n©Asunción Gómez-Pérez \n- 26 \nIB-4321 \nIberia \nCompany-name \nsingleFare \n500 euros \ndepartureDate \n10/11/2005 \narrivalDate \nMetadata \n<Travel rdf:ID=“IB-4321\"> \n  <Company-name>Iberia</Company-name> \n  <singleFare>500 Euros</singleFare> \n  <departureDate rdf:datatype=\"&xsd;date\"> \n     2005-11-10 \n  </departureDate> \n <arrivalDate rdf:datatype=\"&xsd;date\"> \n     2005-11-10 \n  </arrivalDate> \n  <arrivalPlace rdf:resource=\"#Paris\"/> \n</Travel> \n",
-  "speaker": "SYSTEM",
-  "uuid": "5bc66b79-f17a-4231-97c2-91eaf7f46553"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Neon_2008_d2.2.2.pdf: Página 86\nPage 86 of 124\nNeOn Integrated Project EU-IST-027595\nTable 5.2: Pattern for Re-engineering a Thesaurus(continued)\nSlot\nValue\nExample\nThe AGROVOC Thesaurus is an structured and controlled vocabulary designed to cover the\nterminology of all subject ﬁelds in agriculture, forestry, ﬁsheries, food and related domains.\nThe relation semantics between the sub-ordinate and the super-ordinate concepts is\nsubClassOf.\nGraphical Representation\nGeneral\nExample\nOUTPUT: Designed Ontology\nGeneral\nThe generated ontology will be based on the lightweight ontology architectural pattern\n(AP-LW-01)[SFBG+07]. Each thesaurus term is mapped to a class. A subClassOf relation\nis deﬁned between the new classes for the BT/NT relation. A relatedClass relation is\ndeﬁned between the new classes for the RT relation. A equivalentClass relation is deﬁned\nbetween the new classes for the UF/USE relation.\nGraphical Representation\n(UML) General Solution\nOntology\n(UML) Example Solution\nOntology\nPROCESS: How to Re-engineer\n",
+  "speaker": "SYSTEM",
+  "uuid": "d0353ed9-71ec-43e7-b800-fe264730715f"
+}

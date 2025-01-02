@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_OWL.pdf: Página 41\n© O. Corcho, MC Suárez de Figueroa Baonza\n41\nOWL and SWRL\nInteresting results (II). Instance classification\nA pet owner is a person who has animal pets\nOld ladies must have some animal as pets and all their pets are cats.\nHas pet has domain person and range animal  \nMinnie is a female, elderly, who has a pet called Tom.\n)\n,\n(\n)\n,\n(\n.\n.\n.\nTom\nMinnie\nhasPet\nelderly\nfemale\nMinnie\nanimal\nperson\nhasPet\ncat\nhasPet\nanimal\nhasPet\noldLady\nanimal\nhasPet\nperson\npetOwner\n\n\n\n\n\n\n\n\n\n\nWe obtain: \nMinnie is a person\nHence, Minnie is an old lady\nHence, Tom is a cat\ncat\nTom\noldLady\nMinnie\npetOwner\nMinnie\nanimal\nTom\nperson\nMinnie\n\n\n\n\n\n;\n",
-  "speaker": "SYSTEM",
-  "uuid": "366a9433-5c1e-4854-a151-aeeae730be1e"
-}

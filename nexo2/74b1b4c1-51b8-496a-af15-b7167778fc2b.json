@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: AnaIglesiasMolina-MBC_TFM.pdf: Página 27\nUPM / Japan collaboration\nResults\n27\nOntology-based data access technology applied to Bio2RDF\n§\nAn essential step in the methodology proposed is the creation of a \ndatabase from CSV files\n§\nSometimes, there is not a field or combination of them that serve \nas primary key because some of the fields contain NULL values.\n§\nAs a result, data is lost in the conversion\nPrimary Keys\ntax_id\nGeneID\nEnsembl_gene\nEnsembl_rna\nEnsembl_protein\n7227\n30970\nFBgn0040373\nNULL\nFBpp0309182\n7227\n30970\nFBgn0040373\nFBtr0070108\nFBpp0070103\n7227\n30971\nFBgn0040372\nNULL\nNULL\n",
-  "speaker": "SYSTEM",
-  "uuid": "74b1b4c1-51b8-496a-af15-b7167778fc2b"
-}

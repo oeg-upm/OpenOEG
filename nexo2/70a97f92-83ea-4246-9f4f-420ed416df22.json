@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_10_-_Annotation.pdf: Página 15\nHerramientas de anotación. Knowledge Parser\nSemantic\nSearch\nAutomatic\nPublishing\nInference\nAvatars & Tutors\n3D Visualización\nLayout Model\nNLP Model\nDOM Model\nText Model\nCheck\nTake\nExec\nOperators\nGreedy\nHeur\nBKT\nStrategies\nPopulation Algorithm\nDocuments\nStructured\nSources\nWeb Sites\nDomain Instances\nWrapping\nOntology\nDomain\nSchema\n•\nPopulación basada en la semántica\n–\nConocimiento de wrapping explícito\n–\nBootstrapping\n•\nEstrategias\n–\nHeurística\n–\nBacktracking\n–\nFuerza bruta, etc.\n•\nDiferentes operadores\n–\nIn-Row\n–\nIs-Proper-Name\n–\nIs-Integer-Greater-Than, etc.\n•\nDiferentes pre-procesados\n–\nLenguaje natural\n–\nLayout\n–\nXML/DOM\n–\nTexto plano\n•\nSectores en los que se ha aplicado\n–\nCultural\n–\nSubvenciones\n–\nFinanciero\n–\nRelaciones internacionales\n",
-  "speaker": "SYSTEM",
-  "uuid": "70a97f92-83ea-4246-9f4f-420ed416df22"
-}

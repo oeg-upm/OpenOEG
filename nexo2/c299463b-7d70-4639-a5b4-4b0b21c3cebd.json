@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 13_LDGeneration.pdf: Página 9\n18/12/12 \n9 \nQB4OLAP \n•  QB4OLAP adds to Data Cube vocabulary (QB) the \ncapability of representing: \n•  dimension levels \n•  level members \n•  rollup relations between levels and level members \n•  associating aggregate functions to measures \n•  It allows to represent OLAP cubes in RDF \n•  It allows to implement OLAP operators (such as Roll-\nup, Slice, and Dice) as SPARQL queries directly on \nthis RDF representation \n17 \nhttp://publishing-multidimensional-data.googlecode.com/git/index.html \nNOR2O – Exercise \n18 \n•  What you need: \n•  Java 1.5 o superior  \n•  What to do: \n•  Download NOR2O  \n http://oeg-dev.dia.fi.upm.es/nor2o/#download \n•  Extract the files in your workspace folder. \n•  The current distribution comes with three examples in folders \nexample1, example2 and example3. \n•  Files in the wiki \n•  “Paro” case: Unemployement for each city by date, genre and age \n•  “Atlas” case: Number of health centers for each city by year \n",
-  "speaker": "SYSTEM",
-  "uuid": "c299463b-7d70-4639-a5b4-4b0b21c3cebd"
-}

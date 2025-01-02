@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 14\nFILTERs allow to specify FILTER conditions on patterns \nExample:  \n“Give me all names of co-authors of Tim Berners-Lee \nwhere their homepage starts wit http://www.w3 “ \n \n15 \nOntological Engineering Group.  \nFILTERING out query results \ndifferent  from Tim B.-L. himself” \nPREFIX foaf: <http://xmlns.com/foaf/0.1/>  \nSELECT ?N ?H  \nWHERE {  \n       ?D foaf:maker <http://dblp.l3s.de/…/authors/Tim_Berners-Lee>. \n       ?D foaf:maker ?CoAuth .  \n       ?CoAuth foaf:name ?N .  \n       ?CoAuth foaf:homepage ?H . \n       FILTER( regex( str(?H) , \"^http://www.w3\" ) && \n       ?CoAuth != <http://dblp.l3s.de/…/authors/Tim_Berners-Lee> ) \n      } \n",
-  "speaker": "SYSTEM",
-  "uuid": "936c0f5a-581b-434b-a82f-23a25d8c33af"
-}

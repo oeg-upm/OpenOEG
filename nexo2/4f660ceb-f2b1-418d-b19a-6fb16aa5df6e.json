@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GeneralOntologies.pdf: Página 109\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work \n109 \nSTUDY CASE.  CHECKING COMPETENCY QUESTIONS (I) \nInformal CQ \nFormal CQ \nExample of answer \nWhat drugs do have \nparacetamol? \n# CQ1 \nSELECT ?X \nWHERE \n{ \n ?X rdf:type ub:DrugSubstance . \n ub:Paracetamol ub:isProperPartOf ?X . \n} \n--------------------- \n|X                  | \n===================== \n|FrenadolSubstance    \n|BisolgripSubstance \n|CortafriolSubstance \n|DolgesicSubstance \n|TermalginSubstance \n|AlgidolSubstance \n|EfferalganSubstance \n|DolostopSubstance \n|GelocatilSubstance \n|ApiretalSubstance \n|PharmagripSubstance  \n--------------------- \nWhich is the \ncomposition of \nFrenadol®? \n# CQ2 \nSELECT ?X \nWHERE \n{ \n ?X ub:isProperPartOf  \n    ub:FrenadolSubstance . \n} \n--------------------- \n|X                  | \n===================== \n|Dextrometorphan \n|CitrateOfChlorpheniramine \n|Caffeine \n|Paracetamol \n--------------------- \n",
-  "speaker": "SYSTEM",
-  "uuid": "4f660ceb-f2b1-418d-b19a-6fb16aa5df6e"
-}

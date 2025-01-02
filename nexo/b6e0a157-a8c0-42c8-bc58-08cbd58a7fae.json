@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RDF%28S%29.pdf: Página 41\nSet up\n•\nRequirements:\n– Java JDK 5\n– Eclipse (optional)\n•\nCreate a directory for your project\n•\nInstall Jena from the USB:\n– Unzip Jena-2.5.5.zip/lib in the project directory\n•\nCopy the ontologies from the USB:\n– Copy ontologies/rdf in the project directory\n•\nIn Eclipse:\n– Create a new Java project (from existing source)\nOr copy the JenaProjectTemplate\ndirectory in your computer\n© O. Corcho, R.García-Castro, O. Muñoz-García\n81\nRDF and RDF Schema\np\nj\n(\ng\n)\n– Append the Jena libraries to your classpath if needed (check JDK libs)\n– Write Java code using the Jena API\nhttp://jena.sourceforge.net/javadoc/index.html\n– Compile \n– Run\nHints\n• Create ontology model:\npublic static OntModel \ncreateOntologyModel(OntModelSpec spec)\n• Read the ontology in the file\nModel read(java.lang.String url)\n• Add all the statements in another model to this model \nModel add(Model m)\n© O. Corcho, R.García-Castro, O. Muñoz-García\n82\nRDF and RDF Schema\n",
+  "speaker": "SYSTEM",
+  "uuid": "b6e0a157-a8c0-42c8-bc58-08cbd58a7fae"
+}

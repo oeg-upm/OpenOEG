@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: Se encuentra disponible para uso del grupo un Web Service con diferentes métodos que permiten consultar EuroWordNet. El siguiente es el WSDL:\nhttp://pinto.dia.fi.upm.es:8080/TranslationService/EWN?wsdl\nEl servicio no es de uso libre fuera del grupo, por esta razón es necesario que el web service se consulte utilizando una clave de acceso, la cual puede ser solicitada a José Ángel.\nAdemás de la clave de acceso, los servicios deben ser invocados especificando el idioma en el que se quiere hacer la consulta. Los idiomas disponibles son inglés(en), español (es) y alemán(de).\nDefinición de los métodos soportados por el servicio de EuroWordNet",
-  "speaker": "SYSTEM",
-  "uuid": "16d7e3f7-c61a-4bdf-955f-b5a001f63663"
-}

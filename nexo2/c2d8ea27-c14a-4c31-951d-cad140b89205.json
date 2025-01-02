@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: MasterIA_Dic2009.pdf: Página 30\nOntology Matching\nHow does an alignment looks like? E.g. (in RDF): \n<Alignment>\n<xml>yes</xml>\n<level>0</level>\n<type>11</type>\n<onto1>./models/Nitrogen cycling.owl</onto1>\n<onto2>./ models/Phosphorus cycling.owl</onto2>\n....\n<map>\n<Cell>\n<entity1 rdf:resource=‘http://www.dynalearn.eu/models/Nitrogen#plant'/>\n<entity2 rdf:resource=' http://www.dynalearn.eu/models/Phosphorus#plantas'/>\n<relation>=</relation>\n<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.8</measure>\n</Cell>\n</map>\n....\n</Alignment>\n30\n",
-  "speaker": "SYSTEM",
-  "uuid": "c2d8ea27-c14a-4c31-951d-cad140b89205"
-}

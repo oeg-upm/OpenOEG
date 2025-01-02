@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 24\nData Translation\n• Data translation:\nTagged tuples Æ SPARQL bound variables\n<ns9:sparql>\n<ns9:head>\n<ns9:variable name=\"waveheight\"/>\n<ns9:variable name=\"wavets\"/>\n</ns9:head>\n<ns9:results>\n<ns9:result>\n<ns9:binding name=\"waveheight\">\n<ns9:literal datatype=\"http://www.w3.org/2001/XMLSchema#double\">4.850</ns9:literal>\n</ns9:binding>\n<ns9:binding name=\"wavets\">\n<ns9:literal datatype=\"http://www.w3.org/2001/XMLSchema#long\">1272588663</ns9:literal>\n</ns9:binding>\n</ns9:result>\n<ns9:result>\n<ns9:binding name=\"waveheight\">\n<ns9:literal datatype=\"http://www.w3.org/2001/XMLSchema#double\">2.1230</ns9:literal>\n</ns9:binding>\n<ns9:binding name=\"wavets\">\n<ns9:literal datatype=\"http://www.w3.org/2001/XMLSchema#long\">1272587400</ns9:literal>\n</ns9:binding>\n</ns9:result>\n</ns9:results>\n</ns9:sparql>\n",
+  "speaker": "SYSTEM",
+  "uuid": "14adfc31-e480-4fda-b44d-d480dafd838b"
+}

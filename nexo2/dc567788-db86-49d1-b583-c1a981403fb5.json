@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_09_-_OntologiesDatabases.pdf: Página 10\nOntology-based view over a relational model (I)\nPunto Europeo\nPuntoGPS\nPuntoAsiatico\n=\nAeropuertos\nf (Aeropuertos)\nOntología O2\nModelo Relacional M1\nPuntoEuropeo\nPuntoEspañol\nEstación\nCentro\nComunicaciones\nAeropuerto\n=\nAeropuerto\nf (Aeropuertos)\nOntología O1\nRC(O2,M1)\nRC(O1,M1)\n",
-  "speaker": "SYSTEM",
-  "uuid": "dc567788-db86-49d1-b583-c1a981403fb5"
-}

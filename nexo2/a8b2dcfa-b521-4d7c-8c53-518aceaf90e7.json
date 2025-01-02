@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: TalkOEG_Abril2015_Apertium.pdf: Página 34\nSome results of aplying OTIC  \n34 \nLanguage path Threshold Precision Recall Effect on recall \nEN-CA-ES \n0.0 \n76% \n48% 1.0 \n0.5 \n77% \n48% 0.99 \n1.0 \n82% \n43% 0.89 \nES-EN-CA \n0.0 \n53% \n39% 1.0 \n0.5 \n55% \n39% 1.0 \n1.0 \n61% \n36% 0.92 \nEN-ES-CA \n0.0 \n73% \n38% 1.0 \n0.5 \n76% \n38% 0.99 \n1.0 \n83% \n33% 0.87 \n",
-  "speaker": "SYSTEM",
-  "uuid": "a8b2dcfa-b521-4d7c-8c53-518aceaf90e7"
-}

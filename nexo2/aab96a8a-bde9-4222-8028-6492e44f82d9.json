@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Marcos.pdf: Página 16\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nRelaciones “ad hoc” entre Marcos Instancias\nEstán bien definidas si:\na) Si la relación “ad hoc” se ha definido entre marcos clase\nb) Los marcos instanciados son instancias de dicha MC\nMC Hombre\nMC Mujer\nCasado Con\nCasado Con\nMI Juan\nMI María\nCasado Con\nCasado Con\nInst\nInstancia\nMI Pepe\nInst\nMI Ana\nMI Carmen\nCas Con\nCas Con\nInst\nInst\nNo se cumple que uno de los \ndos MI es instancia del MC \nHombres\n",
-  "speaker": "SYSTEM",
-  "uuid": "aab96a8a-bde9-4222-8028-6492e44f82d9"
-}

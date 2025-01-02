@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_09_-_OntologiesDatabases.pdf: Página 11\nBDR\nModelo\nRelacional\nPersonal\nOrganización\nPregunta: Nombre de \nlos profesores de la \nuniversidad UPM\n* Un profesor es una persona\ncuyo puesto es “docente”\n* Una universidad es una \norganización de tipo “3”\nConsulta: valores de la columna nombre de los \nregistros de la tabla Personal para los que el \nvalor de la columna puesto is “docente” que \nestén relacionados con al menos un registro de \nla tabla Organización con el valor “3” en la \ncolumna tipo y “UPM” en la columna nombre.\n<xml>\nDescripción\nFormal de\nCorrespondencia\n</xml>\nProcesado de la consulta de \nacuerdo a la descripción \nformal de correspondencia\nOntología\nProfesor\nDoctorando\nUniversidad\nProcesador\nOntology-based view over a relational model (II)\n",
+  "speaker": "SYSTEM",
+  "uuid": "566ab14b-33ec-4d6c-ade1-48c07e4df3b5"
+}

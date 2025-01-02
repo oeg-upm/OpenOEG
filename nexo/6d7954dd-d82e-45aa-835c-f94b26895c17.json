@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Marcos.pdf: Página 21\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nCriterios de Diseño (II)\n7. Definir propiedades como marcos si se desean conocer propiedades de las propiedades\nMC TRANSPORTE\n(*) Destino: string\nDestino: Madrid\nMI Transporte - 1\nInstancia\na)\n¿Cuántos habitantes tiene Madrid?\na) No se puede responder \nporque Madrid es un \nconjunto de caracteres.\nMI MADRID\nINFORMACIÓN\nDE\nMADRID\nb)\nMC TRANSPORTE\n(*) Destino\nDestino\nMI Transporte - 1\nInstancia\nMC Lugar\nNº Habitantes\nCines\nMº\n....\nb) Usando el enlace entre ambos MI se \npuede dar esta información\nInstancia\n",
+  "speaker": "SYSTEM",
+  "uuid": "6d7954dd-d82e-45aa-835c-f94b26895c17"
+}

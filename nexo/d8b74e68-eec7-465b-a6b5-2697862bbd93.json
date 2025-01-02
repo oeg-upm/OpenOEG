@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2019-07-18-Lefrancois-Seminar.pptx: Diapositiva {30}\nImplementable on top of existing SPARQL engines\nEasy to learn when you know SPARQL\nYou get to know SPARQL better when you use SPARQL-Generate\nOutput template (Basic Graph Pattern) is not subject-centric\n\nSPARQL 1.1 FILTER BIND OPTIONAL,...\n\nSPARQL 1.1 Standard binding functions and operators\nSTR LANG LANGMATCHES DATATYPE BOUND IRI URI BNODE RAND ABS CEIL FLOOR ROUND CONCAT SUBSTR  STRLEN REPLACE UCASE LCASE ENCODE_FOR_URI CONTAINS STRSTARTS STRENDS STRBEFORE STRAFTER YEAR MONTH DAY HOURS MINUTES SECONDS TIMEZONE TZ NOW UUID STRUUID MD5 SHA1 SHA256 SHA384 SHA512 COALESCE IF STRLANG STRDT sameTerm isIRI isURI isBLANK isLITERAL isNUMERIC REGEX  + * / = > < || && \n\nSPARQL 1.1 Binding functions extension mechanism\n\nSPARQL 1.1 ORDER LIMIT OFFSET\n\nSPARQL 1.1 GROUP BY, HAVING, Aggregate functions\nCOUNT SUM MIN MAX AVG SAMPLE GROUP_CONCAT",
+  "speaker": "SYSTEM",
+  "uuid": "d8b74e68-eec7-465b-a6b5-2697862bbd93"
+}

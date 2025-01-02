@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion.pdf: Página 26\nPlanificación\nFormalización de STRIPS. Ejemplo de descripción \nde estados\nA\nB\nC\nC\nB\nA\nencima (A, B)\nen-mesa (C)\nen-mesa (B)\nbrazo-libre\nlibre (A)\nlibre (C)\nSITUACIÓN INICIAL\nencima (C, B)\nen-mesa (A)\nen-mesa (B)\nbrazo-libre\nlibre (A)\nlibre (C)\nMETA\nAl objeto de simplificar la representación y dado que una parte de la \nMETA coincide con la SITUACIÓN INICIAL la denominaremos R\nPor el mismo motivo a la conjunción de metas, se le denominará M\nAsí  M = encima (C, B) ^ en-mesa (A) ^ R\n",
-  "speaker": "SYSTEM",
-  "uuid": "ebd483c4-f86c-42a1-a5ed-08090353fc23"
-}

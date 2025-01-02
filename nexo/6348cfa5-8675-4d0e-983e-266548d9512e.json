@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 07_Applications.pdf: Página 40\nComparison between planning and product generation\nDMOP_File#(n+1)\nStartTime\nDMOP#(n+1)_\nFile\nDMOP_File#n(StartTime)\nDMOP_File#n(StopTime)\n(StopTime)\nInstr#1\nInstr#n\nDMOP_er \n(ORBIT_NUMBER,\nELAPSED_TIME)\n#\nplanning\n...\n...\nInstr#n\n(RA_2)\nplanning\nDURATION\nInstr#n(RA_2)\nPRODUCT_FILE\nStart time\nPRODUCT_FILE\nStop time\nProduct\nGeneration\nRA2_CAL_1P\nRA2_CAL_1P\nPRODUCT_data_gap\n...\n...\nStart_time\n(SENSING_START)\nStop_time\n(SENSING_STOP)\nStop_time\n(SENSING_STOP)\nStart_time\n(SENSING_START)\n",
+  "speaker": "SYSTEM",
+  "uuid": "6348cfa5-8675-4d0e-983e-266548d9512e"
+}

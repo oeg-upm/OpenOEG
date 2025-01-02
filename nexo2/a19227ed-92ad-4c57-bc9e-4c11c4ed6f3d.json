@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ClaseGLD-v3%28boris-asun%29.pdf: Página 39\nDescription \n2. prnor.xml for describing the transformation between \nthe NOR elements and the ontology elements. It has \nonly one section \n \n \n- PRNOR section, that includes the description \nof the transformations from the NOR schema \ncomponents (e.g., schema entities, atributes and \nrelations) into ontology elements (e.g., classes, \nobject properties, datatype properties, and \nindividuals). Additionally it indicates the \ntransformation approach, e.g., TBox, ABox, or \nPopulation. \n46 \n",
-  "speaker": "SYSTEM",
-  "uuid": "a19227ed-92ad-4c57-bc9e-4c11c4ed6f3d"
-}

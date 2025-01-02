@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 90\n© O. Corcho, R.García-Castro, O. Muñoz-García\n90\nRDF and RDF Schema\nA simple SPARQL query\n@prefix dc: <http://purl.org/dc/elements/1.1/> . \n@prefix : <http://example.org/book/> . \n:book1 dc:title \"SPARQL Tutorial\" .\ntitle\n\"SPARQL Tutorial\" \nSELECT ?title\nWHERE\n{\n<http://example.org/book/book1> <http://purl.org/dc/elements/1.1/title> ?title .\n}\nData:\nQuery:\nQuery result:\n•\nA pattern is matched against the RDF data \n•\nEach way a pattern can be matched yields a solution \n•\nThe sequence of solutions is filtered by: Project, distinct, order, limit/offset \n•\nOne of the result forms is applied: SELECT, CONSTRUCT, DESCRIBE, ASK\n",
-  "speaker": "SYSTEM",
-  "uuid": "a57c1e0b-14ad-4f56-9d41-2af8448808da"
-}

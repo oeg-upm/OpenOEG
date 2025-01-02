@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 3._GC-Redes_Sem%C3%A1nticas-v3.pdf: Página 16\nRedes Semánticas  \nFacultad de Informática. Universidad Politécnica de Madrid \n© Asunción Gómez Pérez \nEjemplo de Jerarquía de Marcos \nPersona \nFraternal \nDisjunto \nCasado-Con \nDivorciado-De \nMujer \nHombre \nSubclase-de \nSubclase-de \nInstancia \nInstancia \nMaría \nCasado-Con \nAna \nJuan \nInstancia \nInstancia \nPepe \nCasado-Con \nDivorciado de \nLuis \nInstancia \n",
-  "speaker": "SYSTEM",
-  "uuid": "f8afb77c-b844-464d-8ba3-e40660c15a68"
-}

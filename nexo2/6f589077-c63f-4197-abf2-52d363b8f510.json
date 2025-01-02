@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas.pdf: Página 20\n20\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nEstrategia de Control: Fases\n1. Selección\n1.1. Restricción\n1.2. Equiparación:\n1.3. Resolución del Conjunto Conflicto\n2. Acción o ejecución\nConjunto Conflicto (CC): conjunto de instanciaciones de posibles  reglas ejecutable\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nResolución del Conjunto Conflicto\nSelección de la regla que va a ser ejecutada en la fase de ejecución\nEstrategias de selección:\n1. Explícito un orden lineal en la BR\n2. La regla de mayor prioridad\n3. La regla más específica: con elementos de condición restrictivos\n4. Edad del elemento en la MT: La regla con elementos de la BH más recientemente añadidos\n5. Utilizar el principio de refracción: no pueden ejecutar instanciaciones de reglas ya ejecutadas.\n6. Arbitrariedad\nCombinación de estrategias\n",
-  "speaker": "SYSTEM",
-  "uuid": "6f589077-c63f-4197-abf2-52d363b8f510"
-}

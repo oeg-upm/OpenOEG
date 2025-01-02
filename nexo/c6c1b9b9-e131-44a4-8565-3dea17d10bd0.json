@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PURE.pdf: Página 21\n●Goal: Assess Impact of Privacy Validation on Total \nExecution Time\n●Metrics:\n○\nQuery execution time: elapsed time in seconds between the \nsubmission of a query and the delivery of the answers\n○\nRewriting time and Query execution time are measured for \nseveral configurations of number of rules: 40, 80, 120, 150  (time \nin seconds).\nExperiment 2\n21\n",
+  "speaker": "SYSTEM",
+  "uuid": "c6c1b9b9-e131-44a4-8565-3dea17d10bd0"
+}

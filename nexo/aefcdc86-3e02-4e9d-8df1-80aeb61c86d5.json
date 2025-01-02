@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01.03_NonStandardOWLReasoning_ModularisationAndDebugging.pdf: Página 14\n14 \nJustifications \n•  Justifications are a kind of explanation \n•  Justifications are minimal subsets of an ontology that are \nsufficient for a given entailment to hold \n•  Also known as MUPS (Minimal Unsatisfiability-Preserving \nSub-TBox), MinAs \n27 \nJustifications and root unsatisfiable classes \n•  There may be multiple justifications for an entailment \n•  For a given entailment, if there are multiple \njustifications they may overlap \n•  Removing one axiom from each justification breaks \nthe justifications so that the entailment is no longer \nsupported by the remaining axioms. \n•  A class is a derived unsatisfiable class if it has a \njustification that is a superset of a justification for \nsome other unsatisfiable class. \n•  An unsatisfiable class that is not derived is a root \nunsatisfiable class, i.e., none of its justifications \ncontains a justification of another unsatisfiable class. \n28 \n",
-  "speaker": "SYSTEM",
-  "uuid": "aefcdc86-3e02-4e9d-8df1-80aeb61c86d5"
-}

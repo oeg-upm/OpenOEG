@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion.pdf: Página 40\nPlanificación\nBúsqueda del plan en STRIPS\nsujeto (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nLEVANTAR (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nQUITAR (C, y)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\n",
+  "speaker": "SYSTEM",
+  "uuid": "7b38955b-d229-4f4d-8dde-b64294d702d6"
+}

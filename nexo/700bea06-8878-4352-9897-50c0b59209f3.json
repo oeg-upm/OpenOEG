@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2019-07-18-Lefrancois-Seminar.pptx: Diapositiva {70}\nThe sender can be…\n\tReq/Res: client sends some content to the server\n\tReq/Res: server responds to the client\n\tPub/Sub: client broadcasts some content to its subscribers\n\nBoth agents can also…\n\tbe constrained in some ways (battery, storage, comput,…)\n\timplement some of the principles we devise (be semantically flexible)\n\trely on a third party to operate lifting/lowering/…",
-  "speaker": "SYSTEM",
-  "uuid": "700bea06-8878-4352-9897-50c0b59209f3"
-}

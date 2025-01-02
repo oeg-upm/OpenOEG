@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_09_-_OntologiesDatabases.pdf: Página 12\nUpgrading Database content to the semantic Web\n• Integrating information from different DB sources \n• Reuse of legacy DBs and legacy ontologies\n• R2O: Declarative Mapping description language\n• ODEMapster: Generic query processor.\n– asking queries to a relational database using ontology \nterms \n– On demand query answering \n– Batch ontology population\n• A well defined method for upgrading and \nintegrating content from heterogeneous sources.\n",
-  "speaker": "SYSTEM",
-  "uuid": "b3c661c9-594e-4314-823d-0349cd5fe280"
-}

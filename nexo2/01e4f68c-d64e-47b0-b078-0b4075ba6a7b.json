@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Restricciones.pdf: Página 8\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nRestricciones\nEl Motor de Inferencias\nCaracterísticas:\n•\nEficaz: alcanzar todas las soluciones\n•\nEficiente: En el menor número de pasos\nProblema:\n•\nNP completo\nSolución:\n•\nBuscar restricción a restricción inconsistencias en los valores de las variables\n•\nIteración de procesos de resolución de inconsistencias locales\nAlternativas:\n•\nAlgoritmo de Waltz (1 variable)\n•\nAlgoritmo de Martelli (3 variables)\n•\nAlgortimo de Freuder (k variables)\n",
-  "speaker": "SYSTEM",
-  "uuid": "01e4f68c-d64e-47b0-b078-0b4075ba6a7b"
-}

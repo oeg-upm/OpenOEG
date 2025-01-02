@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 27\n© O. Corcho, R.García-Castro, O. Muñoz-García\n27\nRDF and RDF Schema\nRDF(S) query language families\n•\nSquishQL Family\n–\nSquishQL\n–\nrdfDB Query Language\n–\nRDQL\n–\nBRQL\n–\nTriQL\n•\nXPath, XSLT, XQuery\n–\nXQuery for RDF\n–\nXsRQL\n–\nTreeHugger and RDFTwig\n–\nRDFT, Nexus Query Language\n–\nRDFPath, Rpath and RXPath\n–\nVersa\n•\nRQL Family\n–\nRQL\n–\nSeRQL\n–\neRQL\n•\nControlled natural language\n–\nMetalog\n•\nOther\n–\nAlgae\n–\niTQL\n–\nN3QL\n–\nPerlRDF Query Language\n–\nRDEVICE Deductive Language\n–\nRDFQBE\n–\nRDFQL\n–\nTRIPLE\n–\nWQL\nSPARQL \nW3C Recommendation\n 15 January 2008\nTriple \ndatabase \nQuery \nstructure\nDescription \ngraphs \nQuery \nsemantics\nXML \nrepository \nQuery \nsyntax\n",
+  "speaker": "SYSTEM",
+  "uuid": "dfc62adb-1209-47eb-b783-3ef00cbca0c7"
+}

@@ -5,6 +5,8 @@ from selenium.webdriver.firefox.options import Options
 from bs4 import BeautifulSoup
 from pineconeupload import PineconeUploader
 import time
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+#from langchain_community.vectorstores.utils import filter_complex_metadata
 
 def open_file(filepath):
         """Lee las páginas desde el archivo dado."""
@@ -49,7 +51,15 @@ class WikiAnalysis:
             for link in links:
                 file.write(link + '\n')
 
-
+    def divide_text(self, text):
+        #texts = []
+        
+        texts = RecursiveCharacterTextSplitter(chunk_size=8180, chunk_overlap=100).split_text(text) #https://medium.com/@vndee.huynh/build-your-own-rag-and-run-it-locally-langchain-ollama-streamlit-181d42805895
+        # sacado de https://huggingface.co/jinaai/jina-embeddings-v2-base-es 
+        # un poco menos para que entre lo la parte de get_embedding
+        #texts = filter_complex_metadata(texts)
+        
+        return texts
 
     def scrape_pages(self):
         """Recorre cada página, busca y guarda enlaces a presentaciones."""
@@ -66,7 +76,13 @@ class WikiAnalysis:
             # Extraer texto útil (opcionalmente puede usarse PineconeUploader aquí)
             if content_div:
                 useful_text = content_div.get_text(separator="\n", strip=True).replace("[\nedit\n]", "")
-                self.pcuploader.upload_text("Wiki: "+pagina  + " \n\n"+useful_text, rol="SYSTEM") 
+                
+                
+                
+                divided_texts = self.divide_text(useful_text)
+                
+                for text in divided_texts:
+                    self.pcuploader.upload_text("Wiki: "+pagina  + " \n\n"+text, rol="SYSTEM") 
 
             # Extraer enlaces de presentaciones
             presentation_links = [

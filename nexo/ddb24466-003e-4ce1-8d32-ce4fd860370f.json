@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 16\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nNo son REGLAS \nProblema 1: Una regla no es una estructura “If ... Then ... Else” \n \nRi: Si Condición-1 Λ Condición-2 Λ Condición-3 Λ ... \nEntonces acciones-1 \nEn caso contrario acciones -2  \n \nSolución: Crear dos reglas, una para cada bloque de acciones \n•  Identificar las condiciones que no se cumplen para la ejecución de las “acciones-2” \n•  Identificar condiciones adicionales en alguno de los bloques de acciones   \n",
-  "speaker": "SYSTEM",
-  "uuid": "ddb24466-003e-4ce1-8d32-ce4fd860370f"
-}

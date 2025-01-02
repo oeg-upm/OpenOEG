@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OntologyLanguages_RDF%28S%29.pdf: Página 42\nMore hints\n• List root classes\nExtendedIterator listHierarchyRootClasses()\n• List subclasses of a class\nList subclasses of a class\nExtendedIterator listSubClasses(boolean \ndirect)\n• List instances of a class\nExtendedIterator listInstances(boolean direct)\n© O. Corcho, R.García-Castro, O. Muñoz-García\n83\nRDF and RDF Schema\nTable of Contents\n1.\nAn introduction to knowledge representation formalisms\n2.\nResource Description Framework (RDF)\n3.\nRDF Schema\n3.\nRDF Schema\n4.\nRDF(S) management APIs\n5.\nRDF(S) query languages: SPARQL\n5.1 RDF(S) query languages and SPARQL\n5.2 Turtle RDF syntax\n5.3 Graph patterns\n© O. Corcho, R.García-Castro, O. Muñoz-García\n84\nRDF and RDF Schema\n5.4 Restricting values and solutions\n5.5 SPARQL query forms\n5.6 Hands-on activity\n",
-  "speaker": "SYSTEM",
-  "uuid": "7c036695-443f-4597-b0c3-2aaa0d90c974"
-}

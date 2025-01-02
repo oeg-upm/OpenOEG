@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ontologies%26multilinguality%40wiki_24-01-08.pdf: Página 24\n©Guadalupe Aguado de Cea\n24\nMultilinguality in KB systems (3) \nKnowledge representation\n• Data: instances or individuals, lower level in Knowledge\nRepresentation (KR) (Mickey, Minnie, Pluto, Madroño…)\n• Model: intermediate level in KR. It represents the organization\nof data structure. (Ontology of fiction animals and ontology of\nreal animals)\n• Metamodel: upper level in KR. It represents the structure\nmodel. (Ontology composed of concepts, relations, ...)\n• Mapping: Relation between elements of different set of\nresources: two ontologies, one ontology and one DB, etc.\n",
-  "speaker": "SYSTEM",
-  "uuid": "c62fde57-9b72-4c2c-9830-8de9417504b1"
-}

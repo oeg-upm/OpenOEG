@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 4\nATHENS 2010 \n© Raúl García Castro et al. \nRDF and URIs \n•  RDF uses URIRefs (Uniform Resource Identifiers \nReferences) to identify resources \n-  A URIRef consists of a URI and an optional Fragment Identifier \nseparated from the URI by the hash symbol ‘#’ \n-  Examples \n•  http://www.co-ode.org/people#hasColleague \n•  coode:hasColleague \n•  A set of URIRefs is known as a vocabulary \n-  E.g., the RDF Vocabulary  \n•  The set of URIRefs used in describing the RDF concepts: \nrdf:Property, rdf:Resource, rdf:type, etc. \n-  The RDFS Vocabulary  \n•  The set of URIRefs used in describing the RDF Schema \nlanguage: rdfs:Class, rdfs:domain, etc. \n-  The ‘Pizza Ontology’ Vocabulary  \n•  pz:hasTopping, pz:Pizza, pz:VegetarianPizza, etc. \n4 \n",
-  "speaker": "SYSTEM",
-  "uuid": "31e24bd4-ffaa-49ee-9fb4-f579700c9cca"
-}

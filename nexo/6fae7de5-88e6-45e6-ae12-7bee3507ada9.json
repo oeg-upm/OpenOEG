@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 116\n© O. Corcho, R.García-Castro, O. Muñoz-García\n116\nRDF and RDF Schema\nSample ontology\nLugarTuristico\nPalacio\nIglesia\nErmita\nCatedral\nEstablecimiento\nHotel\nHostal\nAlbergue\nLugarDeInteres\nLugar\nLocalidad\nVilla\nPueblo\nCiudad\nSpatialThing\nDireccionPostal\nrdfs:Literal\nNumeroHabitantes\nSituadoEn\nrdfs:Literal\nCalle\nProvincia\nDireccion\nNumero\n",
+  "speaker": "SYSTEM",
+  "uuid": "6fae7de5-88e6-45e6-ae12-7bee3507ada9"
+}

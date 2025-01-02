@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SPARQL_optimization_slides.pdf: Página 13\nDARQ: Logical Rewriting\nEquivalence rules of Pérez et al (2006)\nSplit and push filter constraints to sources\nProposed Improvements:\nUpdate to equivalence rules of Schmidt et al (2010)\nExtend for streaming language constructs (minimal effort)\n",
+  "speaker": "SYSTEM",
+  "uuid": "e69244d5-e4bf-4fbb-9282-b9d88e5f044f"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 7\n© O. Corcho, R.García-Castro, O. Muñoz-García\n7\nRDF and RDF Schema\nFormalización en lógica de predicados de primer orden                                                                        \nMariano Fernández \nLópez\nFirst order logic. Formalisation\n•\nSe tiene un robot que distribuye paquetes en oficinas. Se sabe que:\n–\nLos paquetes de la habitación 27 son más pequeños que los de la habitación 28.\n–\nTodos los paquetes de la misma habitación son del mismo tamaño.\n–\nEn un instante concreto el robot sabe que:\n•\ni)  El paquete A está en la habitación 27 ó 28 (pero no sabe en cuál).\n•\nii)  El paquete B está en la habitación 27.\n \n•\niii) El paquete B no es más pequeño que el A.\n–\nEl robot quiere probar que el paquete A está en la habitación 27.\n",
+  "speaker": "SYSTEM",
+  "uuid": "57b99eea-2b49-4a82-bec6-dfb7a91fd3eb"
+}

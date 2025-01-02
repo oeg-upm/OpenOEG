@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentacion_OEG26-02-2014.pdf: Página 22\n22\nWorkflow Motifs\n•Workflow motif:  Domain independent conceptual abstraction on the workflow \nsteps.\n1.\nData-oriented motifs: What kind of manipulations does the workflow have?\n•E.g.: \n•Data retrieval \n•Data preparation\n• etc.\n2.     Workflow-oriented motifs: How does the workflow perform its operations?\n•E.g.:\n•Stateful steps\n•Stateless steps\n•Human interactions\n•etc.\nWHAT?\nHOW?\n",
-  "speaker": "SYSTEM",
-  "uuid": "5c73113f-f917-43f3-be48-73bb62131732"
-}

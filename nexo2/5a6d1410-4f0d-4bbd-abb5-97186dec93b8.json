@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 40\nPreparing the evaluation scenario \nPopulating the test data repository (III) \n• Registering the test data set version: \nESWC 2011, 29/05/2011 \n40 \n> groovy AddTestDataVersion.groovy  \n \nhttp://localhost:8080/tdrs-web-1.1-b/ \n \nOntology+Engineering+Tools+OWL+Lite+Test+Data+Suite+Collection  \n \n..\\evaluation-scenario\\test-data\\TestDataVersion \nAdding persistent test data version '..\\evaluation-data\\binaries\\TestDataVersion' to persistent test data set \n'Ontology+Engineering+Tools+OWL+Lite+Test+Data+Suite+Collection'. \n- Target TDRS.........: 'http://localhost:8080/tdrs-web-1.1-b/'. \n- Source metadata file: '..\\evaluation-scenario\\test-data\\TestDataVersion.xml'. \n- Source data file....: '..\\evaluation-scenario\\test-data\\TestDataVersion.zip'. \nSUCCESS [Created (201)]: Creado. \nVersion published at 'http://localhost:8080/tdrs-web-1.1-\nb/testdata/persistent/Ontology+Engineering+Tools+OWL+Lite+Test+Data+Suite+Collection/v1.0/' \n",
-  "speaker": "SYSTEM",
-  "uuid": "5a6d1410-4f0d-4bbd-abb5-97186dec93b8"
-}

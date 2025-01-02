@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Marcos.pdf: Página 22\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nCriterios de Diseño (III)\n8. No mezclar conceptos:\nUn viajero va a un Destino usando un Transporte que tiene un precio\nViajero\n(*) Nombre\n(*) Edad\n(*) Destino\n(*) Precio\n(*) Nº Habitantes\n....\nMezcla información\nViajero\nViajero A\nViaja En \n(*) Precio\nMC Lugar\nNº Habitantes\nMC Transporte\n",
+  "speaker": "SYSTEM",
+  "uuid": "0af188e4-c9a6-4e46-b546-ec8a35935f34"
+}

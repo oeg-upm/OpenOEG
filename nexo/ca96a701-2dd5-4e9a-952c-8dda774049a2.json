@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Presentacion_OEG24-04-2014.pdf: Página 15\nFOUR current ways of consuming HDT \n• [1] Command line Tool: \n– Export/Import \n• $ rdf2hdt file.nt output.hdt \n• $ hdt2rdf file.hdt output.nt \n– Query \n• $ hdtsearch file.hdt \nrdfhdt.org \n",
+  "speaker": "SYSTEM",
+  "uuid": "ca96a701-2dd5-4e9a-952c-8dda774049a2"
+}

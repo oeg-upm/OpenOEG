@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Marcos.pdf: Página 33\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nFacetas de Propiedad de Clase, Instancia y Relación\nTipo Ranura: Tipo de datos con los que se rellena la propiedad/relación\nPropiedades: Tipo de datos básico, marco\nRelaciones: marco\nCardinalidad Mínima: Número mínimo de valores con los que se rellena\nCardinalidad Máxima: Número máximo de valores con los que se rellena\nMultivaluada: La propiedad puede tomar más de un valor\n",
+  "speaker": "SYSTEM",
+  "uuid": "51b6569e-4510-4185-966d-39b33ed678eb"
+}

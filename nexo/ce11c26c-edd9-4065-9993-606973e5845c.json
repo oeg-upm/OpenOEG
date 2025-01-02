@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 26\nWhat is behind Google Voice? [7]\nGoogle Voice transcription improved using Long \nShort-term Memory Recurrent Neural Networks \n(LSTM RNNs)\nIt used Gaussian Mixture Model (GMM) at the \nbeginning (2009)\nmodelingeach phonetic unit\neach variable assumed to be distributed according to a \nmixture of K Gaussians Distributions\n(also used for anomaly detection)\nThe service was improved with LSTM RNNs in 2012\nthey differentiate phonetic units with “discriminative \ntraining” instead of modeling each one independently\nLSTM RNNs use recurrent connections and memory cells \nallow them to “remember” the data they’ve seen so far  \n(as we interpret the words you hear based on previous \nwords in a sentence)\nComplex data gathering and preprocessing \nold transcriptions could not be used (tainted with \nrecognition errors)\niterative pipeline to retrain the model\nImprove models\nRecognize existing voicemails to get better transcriptions \nRetrain model and repeat\nError rate dropped around 50%!!\n26\n",
-  "speaker": "SYSTEM",
-  "uuid": "ce11c26c-edd9-4065-9993-606973e5845c"
-}

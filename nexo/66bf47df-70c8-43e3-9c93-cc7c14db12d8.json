@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_RDF%28S%29.pdf: Página 15\nExercise 1.a. Create a graph from a text file\n•\nOpen the file StickyNote_PureRDF.rdf\n•\nCreate the corresponding graph from it\n•\nCompare your graph with those of your colleagues\n© O. Corcho, R.García-Castro, O. Muñoz-García\n30\nRDF and RDF Schema\nExercise 1.b. Create RDF/XML and N3 text files \nfrom an RDF graph\n•\nTransform the following graph into RDF/XML and N3 syntaxes\nP\nSaber_1\nVer_1   \nObjeto\nAgente\nVoz\nPepe\nActiva\nPresente\nLuis\nTiempo\nAgente\nEl Prado\nObjeto\nLugar\nTiempo\nActiva\nVoz\n© O. Corcho, R.García-Castro, O. Muñoz-García\n31\nRDF and RDF Schema\nMadrid\nPasado\n",
-  "speaker": "SYSTEM",
-  "uuid": "66bf47df-70c8-43e3-9c93-cc7c14db12d8"
-}

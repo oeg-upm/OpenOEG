@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: LinkedDataGeneration.pdf: Página 41\n41\nContents\n• Introduction to Linked Data\n• Linked Data publication\n- Methodological guidelines for Linked Data publication\n- RDB2RDF tools\n- Technical aspects of Linked Data publication\n• [Linked Data consumption]\n81\nUsing an RDF repository\n• It allows storing and accessing RDF data\n• For example, SESAME (http://www.openrdf.org/)\n• Download it from\nDownload it from\nhttp://www.openrdf.org/download.jsp\n- openrdf-sesame-2.3.0-sdk.zip\n- Deploy the .war in Tomcat (JDK and Tomcat needed)\n• Create a repository at\n- http://localhost:8080/openrdf-sesame\n• Check:\nCheck: \n- http://localhost:8080/openrdf-sesame/repositories/XXXX\n- http://localhost:8080/openrdf-\nsesame/repositories/XXX/statements\n",
-  "speaker": "SYSTEM",
-  "uuid": "63de6ebb-cd33-404b-a1bf-7913bec334d4"
-}

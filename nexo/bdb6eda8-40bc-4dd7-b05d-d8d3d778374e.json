@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Fpriyatna-oeg-20141002.pdf: Página 33\nQRP Problem\nApproach - Step 4 \n(P1)\nP1 = SELECT ?s ?p ?o \nWHERE {?s ?p ?o}\n<http://ex.com/Person/7369> rdf:type ex:Employee.\n<http://ex.com/Person/7369> ex:name \"SMITH\".\n<http://ex.com/Person/7369> ex:name \"ADAM\".\n<http://ex.com/Person/7369> ex:fullname \"SMITH,ADAM\".\n<http://ex.com/Person/7369> ex:worksIn <http://ex.com/Department/10APPSERVER>.\n<http://ex.com/Department/10APPSERVER> rdf:type ex:Department.\n<http://ex.com/Department/10APPSERVER> ex:name \"APPSERVER\".\n",
-  "speaker": "SYSTEM",
-  "uuid": "bdb6eda8-40bc-4dd7-b05d-d8d3d778374e"
-}

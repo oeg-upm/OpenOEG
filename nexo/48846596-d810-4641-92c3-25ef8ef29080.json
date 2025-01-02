@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Marcos.pdf: Página 10\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nclass-Partition\nPerson\nDog\nCat\nSubclass-Of\nPluto\nInstance-Of\nCartoon Dog\nMammal\nNúmero\nPar\nImpar\nConocimientos Disjuntos en Taxonomías (III)\nclass-Partition\nDisjoint\nDisjoint\n4\nInstance-Of\nInstance-Of\nHas-Instance\nPluto  no puede ser una instancia simultáneamente\nde Cartoon Dog y Cat porque son disjuntos.\nNo tiene problema en clasificar 4 como número\nCuatro es una instancia de Par\n",
+  "speaker": "SYSTEM",
+  "uuid": "48846596-d810-4641-92c3-25ef8ef29080"
+}

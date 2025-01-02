@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SPARQL_optimization_slides.pdf: Página 4\nRelated Work: SPARQL Optimization\nCost models & selectivities, e.g.\n|AG| is cardinality of expression A over graph G\nsel(AG) =  |AG|/|G|  is the selectivity of AG\nJoin expression cardinality:\n|AGi·BGj| = |AGi|x|BGj| x min(sel(AGi),sel(BGj)) \nCost functions\ncnested-loop-join(A,B)= |A|·|B|·ccompare\nDifferent estimation methods, cost functions.\nSee Stocker et al. (2008), Görlitz et al. (2010), Quillitz et al (2008), \nStuckenschmidt et al (2004)\n",
-  "speaker": "SYSTEM",
-  "uuid": "12988ec4-943f-4a52-bc7f-31ce4a2285a9"
-}

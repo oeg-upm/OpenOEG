@@ -1,11 +1,11 @@
 import os
 import time
-import hashlib
 import requests
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.firefox.options import Options
+
 
 class WikiDownloader: #TODO archivos repetidos?
     def __init__(self, username, password, geckodriver_path, download_path="./tfg/documentosnexo/"):

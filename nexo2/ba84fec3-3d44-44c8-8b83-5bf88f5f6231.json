@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_OWL.pdf: Página 38\n© O. Corcho, MC Suárez de Figueroa Baonza\n38\nOWL and SWRL\nDescription Logics Reasoning with Tableaux\nUse tableaux algorithms to determine whether the following formulae are satisfiable or not\nExercise 1:  \nR.(R.D)  S.D S.(R.D)\nExercise 2:  \nR.(CD)  R.C  R.D\n",
-  "speaker": "SYSTEM",
-  "uuid": "ba84fec3-3d44-44c8-8b83-5bf88f5f6231"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ontologies.pdf: Página 29\n©Asunción Gómez-Pérez\n29\nProperties and Class Inheritance\n Properties are inherited and should be attached to the most general class in the \nhierarchy\n A subclass inherits all the properties from the superclass\n If a wine has a name and flavor, a red wine also has a name and flavor\n If a class has multiple superclasses, it inherits properties from all of them\n Port is both a dessert wine and a red wine. It inherits “sugar content: high”\nfrom the former and “color:red” from the latter\nWine\nFrench\nwine\nWinery\nFrench\nwinery\nis-a\nis-a\nproducer\nproducer\n",
-  "speaker": "SYSTEM",
-  "uuid": "6774f7dd-2f1d-4056-aaf1-69d25750405b"
-}

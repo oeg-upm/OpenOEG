@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas-II.pdf: Página 24\nSistemas de Producción\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nPermite elegir aquellas reglas que conducen a la solución del problema,\nal comparar cada una de las condiciones de las reglas \ncon el estado actual de la Memoria de trabajo\nEl resultado de la equiparación es el conjunto conflicto, formado por\nel conjunto de posibles reglas instanciadas que se pueden ejecutar.\nEquiparación\n•\nEquiparación de constantes\n•\nEquiparación de Variables\n",
-  "speaker": "SYSTEM",
-  "uuid": "659bafb2-064e-44f3-bbbd-f8bbc409c297"
-}

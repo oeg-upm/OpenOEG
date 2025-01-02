@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Annotation.pdf: Página 35\nConceptMap definition\nBNF\nBNF\n<conceptmap-def\nname=\"Customer\">\n/\nBNF\n:\nBNF\n:\nExample:\nExample:\n<identified-by> Table key </identified-by>\n<uri-as> operation </uri-as>\n<applies-if> condition </applies-if>\n<joins-via> expression </joins-via>\n<documentation>description\n</documentation>\n<documentation>description …</documentation>\n<described-by>attributes,relations</described-by>\n</conceptmap-def>\n© O. Corcho, B Villazón, A. Gómez-Pérez\n35\nAnnotation\n",
-  "speaker": "SYSTEM",
-  "uuid": "1f2bf508-e48d-4521-9c0d-39d75b750f35"
-}

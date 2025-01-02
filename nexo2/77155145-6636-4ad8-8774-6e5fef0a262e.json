@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: PURE.pdf: Página 17\nThe Berlin SPARQL Benchmark (BSBM):\n●\n200M triples \n●\n12 queries\n●\nQuery Q3 of BSBM was omitted because it is a union query. \nThe set of rules:  \n●\nRandomly generated \n●\nEach one corresponds to a star-join between 1 and 3 predicates. \n●\nThe number of rules varies from 10 to 150\nMCDSAT: https://github.com/bonetblai/mcdsat \nExperimental Setup\n17\n",
-  "speaker": "SYSTEM",
-  "uuid": "77155145-6636-4ad8-8774-6e5fef0a262e"
-}

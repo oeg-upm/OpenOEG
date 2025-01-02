@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Elozano_resultsINRIA.pdf: Página 15\nQR models as application scenario \n•\nManagement of QR models in a central semantic repository \n•\nGrounding of QR models using DBpedia as background knowledge \n•\nSelection of QR relevant models to the user from the repository, based \non QR modeling similarity and users’ ratings \n•\nAlignment of QR models using ontology matching techniques \n•\nDetection of discrepancies in the learner’s model based on mappings \n•\nGeneration of feedback suggesting actions to avoid the discrepancies \n•\nSystem for rating the obtained feedback \n \n15 \nConceptual Modeling Supported by Semantic Techniques \nDynaLearn results \n",
+  "speaker": "SYSTEM",
+  "uuid": "9c487dd4-667c-477b-8764-ee0d753f7d10"
+}

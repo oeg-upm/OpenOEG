@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: Planning for Journal of Web Semantics\n\nGoal of the paper: present a survey of the current approaches for federating queries to a set of SPARQL endpoints?\nGoal of the paper: present the SparqlDQP approach for accessing ditributed RDF data repositories via SPARQL endpoints.\nFinish pending issues of SparqlDQP\nWrite the paper",
-  "speaker": "SYSTEM",
-  "uuid": "3eb1d1c1-df60-4122-a2a0-8ee773d7cde8"
-}

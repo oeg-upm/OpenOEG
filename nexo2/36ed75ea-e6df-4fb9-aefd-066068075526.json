@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 82\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nVoID: Vocabulary of Interlinked Datasets \n•\nRDFS vocabulary published by \nW3C  \n \n•\nVoID \nallows \nexpressing \nmetadata about RDF datasets \n \n•\nVoID helps in the discovery and \nuse of datasets by potential \nusers \n(e.g., \napplication \ndevelopers, \nindexers, \naggregators, etc.) \n84 \nhttp://www.w3.org/TR/void/ \n•\nGeneral \nMetadata: \nlicense, \nauthor, topic, number of triples, \netc. \n•\nAccess methods: \nSPARQL \nendpoint, downloaded files, etc. \n•\nStructural metadata: resource \nexamples, URI pattern, used \nvocabularies, etc. \n•\nLinksets (datasets linked to the \ndataset): \ndescribe \nthe \nused \nproperty \n(e.g. \nowl:sameAs, \nskos:closeMatch), linked dataset \nURI, link examples, etc.  \n",
-  "speaker": "SYSTEM",
-  "uuid": "36ed75ea-e6df-4fb9-aefd-066068075526"
-}

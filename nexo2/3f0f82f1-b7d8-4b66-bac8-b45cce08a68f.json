@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Marcos.pdf: Página 48\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nPaso 2\nCrear para cada nodo  que aparezca en la lista anterior su lista de pares de elementos.\nNodos\nLista de pares de elementos\nMickey Mouse\n(Mickey Mouse, Ratón Macho)\n(Ratón Macho, Ratón Walt Disney)\nRatón Wal Disney, Ratón Dibujos Animados)\nRatón Macho\n(Ratón Macho, Ratón)\n(Ratón, Animal Macho)\nRatón \n(Ratón , Animal)\nAnimal\n(Animal, NIL)\nAnimal Macho\n(Animal Macho, Animal)\nRatón Walt Disney\n(Ratón Walt Disney, Ratón de Ficción)\nRatón de Ficción\n(Ratón de Ficción, Ratón)\n(Ratón, Animal de Ficción)\nAnimal de Ficción\n(Animal de Ficción, Animal)\nRatón Dibujos Animados\n(Ratón Dibujos Animados, Ratón de Ficción)\nRatón\nN. patas =4\nAnimal\nAnimal\nMacho\nAnimal\nFicción\nRatón\nMacho\nRatón de\nFicción\nRatón\nWalt Disney\nRatón\nDibj. \nAnimados\nM\nMickey\nMouse\nInstancia\nInstancia\nInstancia\nInstancia\nSubClase\nSubClase\nSubClase\nSubClase\nSubClase\nSubClase\nSubClase\nSubClase\nN. patas = 2\n",
-  "speaker": "SYSTEM",
-  "uuid": "3f0f82f1-b7d8-4b66-bac8-b45cce08a68f"
-}

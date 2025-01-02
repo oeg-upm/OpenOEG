@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: KGEOntologies.Elvira.pdf: Página 10\nEnhancing KGE with ontological information for fresh entity introduction\nProposed solution\n10\nRoger Federer\nEntity embedding\nClass hierarchy embedding\nEmbeddings of \nontology\nclasses\nEntity\nembeddings\nRetrieve class\nhierarchy of the\nentity\nClass 3\nClass 2\nClass 1\nArithmetic mean\nVector 3\nVector 2\nVector 1\nA pretrained Word2Vec model was employed to generate the embeddings\nof the ontological information.\n",
+  "speaker": "SYSTEM",
+  "uuid": "f27848ab-1f52-4721-ba25-fe0d618d33d9"
+}

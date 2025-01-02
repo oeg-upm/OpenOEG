@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GeneralOntologies.pdf: Página 35\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work \n35 \nW3C MEREOLOGY USE CASES: FAULT FINDING \nSYSTEM \nFunctional part 1 \nFunctional part 1.1 \nFunctional part 1.2 \nFunctional part 1.3 \nFunctional part 1.1.1 \nFunctional part 1.1.2 \nFunctional part 1.3.1 \nFunctional part 1.3.2 \nA fault finding system for a device in which we want to progressively narrow down the functional region of the fault. \nisPartOf \nRector A, Welty C (eds), Noy N, Wallace E (contributors) (2005) Simple part-whole relations in \nOWL Ontologies . W3C Editors Draft \n(http://www.w3.org/2001/sw/BestPractices/OEP/SimplePartWhole/) \n",
-  "speaker": "SYSTEM",
-  "uuid": "dbdc6301-964a-48fc-8255-35e58afac5b5"
-}

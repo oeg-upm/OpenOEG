@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Hypernym-3.pdf: Página 16\nHypernym Detection\nState of the Art\n16\nState of the Art\nPaper: Roller et al.2018 (Facebook AI)\nPattern based and Distributional models were evaluated against \neach other on various datasets, using Average Precision.\nConclusions from the Paper:\nPattern based methods outperform Distributional methods. \n",
+  "speaker": "SYSTEM",
+  "uuid": "2c9c0b95-fde3-4dc7-a6b2-61838f5fdafe"
+}

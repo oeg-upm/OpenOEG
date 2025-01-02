@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 02_RDF%28S%29.pdf: Página 19\n19 \n© Raúl García Castro et al. \nRDF-S vocabulary summary \nClasses \nProperties \nIndividuals \nClassification \nrdfs:Resource \nrdfs:subClassOf \nrdfs:Class \nProperties \nrdfs:domain \nrdfs:range \nrdfs:subPropertyOf \nDatatypes \nrdfs:Literal \nrdfs:Datatype \nContainers \nrdfs:Container \nrdfs:member \nrdfs:ContainerMembershipProperty \nAnnotation \nrdfs:label \nrdfs:comment \nrdfs:seeAlso \nrdfs:isDefinedBy \n37 \n© Raúl García Castro et al. \nIndex \n•  Overview \n•  RDF \n-  Introduction \n-  RDF components \n-  Serializing RDF \n-  Hands-on \n•  RDF Schema \n-  Introduction \n-  Main RDF-S components \n-  Serializing RDF-S \n-  Hands-on \n-  RDF(S) Limitations \n-  Hands-on \n•  Reasoning \n-  Reasoning with RDF \n-  Reasoning with RDF-S \n•  RDF(S) management APIs \n38 \n",
-  "speaker": "SYSTEM",
-  "uuid": "4c3cd234-97af-4215-8397-158380123f12"
-}

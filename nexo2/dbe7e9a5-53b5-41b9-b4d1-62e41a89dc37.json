@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 107\n© O. Corcho, R.García-Castro, O. Muñoz-García\n107\nRDF and RDF Schema\nValue tests\n• Based on XQuery 1.0 and XPath 2.0 Function and \nOperators \n• XSD boolean, string, integer, decimal, float, double, \ndateTime \n• Notation <, >, =, <=, >= and != for value comparison\nApply to any type \n• BOUND, isURI, isBLANK, isLITERAL \n• REGEX, LANG, DATATYPE, STR (lexical form) \n• Function call for casting and extensions functions \n",
-  "speaker": "SYSTEM",
-  "uuid": "dbe7e9a5-53b5-41b9-b4d1-62e41a89dc37"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Marcos.pdf: Página 45\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nEjemplo para recorrer el grafo\n1.\nEn Profundidad  y de Izquierda a derecha\n2.\nEn Profundidad, de izquierda a derecha y exhaustividad\n3.\nEn Profundidad, de izquierda a derecha, exhaustividad y especificidad\nSubClase\nRatón\nN. patas =4\nAnimal\nAnimal\nMacho\nAnimal\nFicción\nRatón\nMacho\nRatón de\nFicción\nRatón\nWalt Disney\nRatón\nDibj. \nAnimados\nM\nMickey\nMouse\nInstancia\nInstancia\nInstancia\nInstancia\nSubClase\nSubClase\nSubClase\nSubClase\nSubClase\nSubClase\nSubClase\nSubClase\nN. patas = 2\n",
-  "speaker": "SYSTEM",
-  "uuid": "b228b8e5-ae2c-4463-b61a-6a079620a130"
-}

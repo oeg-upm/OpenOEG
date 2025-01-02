@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OWL.pdf: Página 7\n© O. Corcho, MC Suárez de Figueroa Baonza \n7 \nOWL 2 \nMost common constructors in class definitions \n• \nIntersection: C1 ∩ ... ∩ Cn\n \n Human ∩ Male \n• \nUnion: C1 ∪ ... ∪ Cn  \n \n Doctor ∪ Lawyer \n• \nNegation: ¬C\n \n \n  ¬Male \n• \nNominals: {x1} ∪ ... ∪ {xn}\n \n {john} ∪ ... ∪ {mary} \n• \nUniversal restriction: ∀P.C\n \n ∀hasChild.Doctor \n• \nExistential restriction: ∃P.C\n \n ∃hasChild.Lawyer \n• \nMaximum cardinality: ≤nP.C  \n  ≤3hasChild.Doctor \n• \nMinimum cardinality: ≥nP.C  \n ≥1hasChild.Male \n• \nSpecific Value: ∃P.{x} \n \n ∃hasColleague.{Matthew} \n• \nNesting of constructors can be arbitrarily complex \n–  Person ∩ ∀hasChild.(Doctor ∪ ∃hasChild.Doctor) \n• \nLots of redundancy \n–  A∪B is equivalent to ¬(¬ A ∩ ¬B) \n–  ∃P.C is equivalent to ¬∀P. ¬C \n",
-  "speaker": "SYSTEM",
-  "uuid": "23ac3dd5-620a-49ef-ab9a-98f3b13e48dd"
-}

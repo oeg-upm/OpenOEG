@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Fpriyatna-oeg-20141002.pdf: Página 25\nIP Problem \nApproach - Step 2\nGenerating Q\nSet Q = trans(P, M) \nP = SELECT \n    ?s AS ?rdf:subject \n    ?p AS ?rdf:predicate \n    ?o AS ?rdf:object \n  WHERE { ?s ?p ?o }.\n",
-  "speaker": "SYSTEM",
-  "uuid": "ad90fbae-eb7d-48d2-b86d-6bb08f9887ea"
-}

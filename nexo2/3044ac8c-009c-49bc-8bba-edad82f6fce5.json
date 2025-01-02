@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 48\nTranslation from PROLEG to PROLOG(ASP)\n(JURISIN 2010)\nP = ⟨H, E⟩where H is as follows:\nC ⇐B11, ..., B1n1.\nC ⇐B21, ..., B2n2.\n...\nC ⇐Bk1, ..., Bknk.\nand E is as follows:\nexception(C, E1).\n...\nexception(C, Em).\n⇓\nC: −B11, ..., B1n1, not E1, ..., not Em.\nC: −B21, ..., B2n2, not E1, ..., not Em.\n...\nC: −Bk1, ..., Bknk, not E1, ..., not Em.\nNote that rules with the same head has the same negative literals.\n48\n",
-  "speaker": "SYSTEM",
-  "uuid": "3044ac8c-009c-49bc-8bba-edad82f6fce5"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RedesBayesianas_Introducci%C3%B3n.pdf: Página 20\nDistribuciones Conjuntas\nSi tenemos un conjunto de variables X una distribución de\nprobabilidad conjunta asocia a cada posible valor de estas x, su\nprobabilidad p(x).\nEjemplo:\nTenemos las variables X(Color de los ojos) e Y\n(Color del pelo), una distribución conjunta sobre estas variables\npuede ser\nY\nMoreno\nRubio\nX\nMarrones\n0.5\n0.15\nAzules\n0.05\n0.3\nTambién podemos tener distribuciones que dependan de más\nde dos variables, p.e. p(x,y,z).\nUna Introducción a las Redes Bayesianas– p.18/??\n",
+  "speaker": "SYSTEM",
+  "uuid": "ea709014-b29b-4767-bc18-f5f26043f7f6"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 19\n©O. Corcho\n19\nOntological Engineering\nCopyright © 2005, The University of Manchester\nhasBase \nPizzaBase\nWhy?\n•\nWe have created a restriction: hasBase PizzaBase\non Class Pizza as a necessary condition\nPizzaBasehasBasehasBasehasBasehasBasehasBasehasBase\nEach Restriction or Class Expression describes the set of all individuals \nthat satisfy the condition\n",
+  "speaker": "SYSTEM",
+  "uuid": "43d5ccc9-095b-442c-9c6f-dc3be189f71c"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ontologies%26Multilinguality.pdf: Página 6\n©Guadalupe Aguado de Cea\n6\nInternationalization\n• Internationalization is the process of generalizing a product \nso that it can handle multiple languages and cultural \nconventions without the need for re-design. \nInternationalization takes place at the level of program design \nand document development (LISA).\n• Important aspects:\n– Separating text from the source code – > prevents \ntranslators from changing the source code\n– Internationalization is also applied to online help, \ndocumentation and web sites\n– Technical writers have to take internationalization into \naccount: “writing for a global audience”, “web site \nglobalization”\n",
-  "speaker": "SYSTEM",
-  "uuid": "743d82e7-3980-4347-95df-da88776ffc48"
-}

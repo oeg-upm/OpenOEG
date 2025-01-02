@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 95\n© O. Corcho, R.García-Castro, O. Muñoz-García\n95\nRDF and RDF Schema\nGraph patterns\n• Basic Graph Patterns, where a set of triple patterns must \nmatch\n• Group Graph Pattern, where a set of graph patterns must \nall match\n• Optional Graph patterns, where additional patterns may \nextend the solution\n• Alternative Graph Pattern, where two or more possible \npatterns are tried\n• Patterns on Named Graphs, where patterns are matched \nagainst named graphs\n",
-  "speaker": "SYSTEM",
-  "uuid": "b034a4ac-cf91-436b-9395-bf3e99ff6a46"
-}

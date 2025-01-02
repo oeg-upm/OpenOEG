@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 04_MGLD.pdf: Página 7\n22/10/12 \n7 \nOntology \n13 \n• \nAn ontology is an engineering artifact, which provides:  \n• \nA set of terms \n• \nA set of explicit assumptions regarding the intended meaning of the terms.  \n•  Almost always including concepts and their classification \n•  Almost always including properties between concepts \n• \nShared understanding of a domain of interest  \n• \nOntologies expressed in OWL or RDF(S), both based on RDF \nModelling \nReuse available vocabularies \n14 \nSearch for suitable \nvocabularies \nLinked Open Vocabularies \nare there \nsuitable \nvocabularies? \nBuild the vocabulary by \nreusing available \nvocabularies \nYes \nNo \n… \nModelling \n",
+  "speaker": "SYSTEM",
+  "uuid": "592a8e5e-8f76-4857-bf1b-2d683fb4d96d"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: DynaLearn_exersises.pdf: Página 5\nDynaLearn exercises  \n5 \n \nStep 10: Additional Issues \n• It is possible to create alternative scenarios by specifying another initial value for \nthe quantity Size. Try to run these scenarios, and compare the results. \n• Remove the influence from the 'Growth of tree' model fragment, and simulate the \nresult. Look at the Value History. What is the reason only one state is generated? \nWhat is wrong with the Value History? Restore the influence. \n• \nRemove the proportionality from the 'Tree with shade' model fragment, and \nsimulate the result. Explain why only one state is generated. Restore the \nproportionality. \n \n \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "25ce64d3-55db-43ca-b599-98af5e284733"
-}

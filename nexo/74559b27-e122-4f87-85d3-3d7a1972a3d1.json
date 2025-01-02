@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OOPSandBabelnet.pdf: Página 9\nOOPS! and linguistic resources \n9 \nImprovement of existing detections \n \n-  P03. Creating the relationship “is” instead of using \n''rdfs:subClassOf'', ''rdf:type'' or ''owl:sameAs'’ \n-  P05. Defining wrong inverse relationships \n-  P07. Merging different concepts in the same class \n-  P13. Missing inverse relationships \n-  P21. Using a miscellaneous class \n \n-  P02. Creating synonyms as classes \n-  P30. Missing equivalent classes \n-  P31. Defining wrong equivalent classes \n-  P12. Missing equivalent properties \nAutomation of pitfalls not yet detected \n \n-  P01. Creating polysemous elements \n-  P09. Missing basic information \n \nLexico-syntactic \npatterns \nLinguistic resources \nLinguistic resources \n + \n Lexico-syntactic patterns \nLinguistic resources \n",
+  "speaker": "SYSTEM",
+  "uuid": "74559b27-e122-4f87-85d3-3d7a1972a3d1"
+}

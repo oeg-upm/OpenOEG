@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 05_OWL.pdf: Página 39\nTableaux Algorithm — Example\nTest satisﬁability of ∃S.C ⊓∀S.(¬C ⊔¬D) ⊓∃R.C ⊓∀R.(∃R.C)} where R is\na transitive role\nw\nL(w) = {∃S.C, ∀S.(¬C ⊔¬D), ∃R.C, ∀R.(∃R.C)}\nReasoning with Expressive Description Logics – p. 7/27\n",
-  "speaker": "SYSTEM",
-  "uuid": "91d8cc1d-59b1-4f84-81e6-03a9086e9ad6"
-}

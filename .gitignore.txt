@@ -1,0 +1,5 @@
+/documentosnexo/
+/documentosnexo_cpy/
+/nexo/
+/nexo_cpy/
+/textos/logs/*.txt

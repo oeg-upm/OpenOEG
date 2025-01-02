@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 3.TI-Redes_Sem%C3%A1nticas-v3%28asun%29.pdf: Página 10\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nRedes Semánticas\nVer-?\nVarón?\nVarón\nSuceso-ver\nInst\nAgente\nInstancia\n¿Hay algún varón que \nviera algún\nMuseo en Madrid?\nMadrid\nMuseo\nObjeto\nLugar\nRespuesta: Ver-? = Ver-1\nVarón? = Pepe\n",
-  "speaker": "SYSTEM",
-  "uuid": "5e3adb34-b3a8-4adc-8557-8639d92625a0"
-}

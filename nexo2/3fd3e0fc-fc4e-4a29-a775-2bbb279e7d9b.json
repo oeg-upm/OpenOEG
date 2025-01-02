@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 3._Metodolog%C3%ADa-1-scenarios%2Bspec-v1%28asun%29.pdf: Página 29\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n32\nOntological Engineering\nMotivation\nIn our team, we want to build an ontology about the\nhuman\nresources\nmanagement\ndomain.\nThe\nontology\nshould\ninclude\ninformation\nabout\noccupations and activity sectors, data must be kept\nin the original DBs, and we want to have the\nontology in several natural languages.\nClassical\nRe-engineering \nNon-ontological \nresources\nOntological \nResource Reuse\nLocalizing Ontological\nResources\nOntology\nMappings\nOntology-DB \nmapping\n",
-  "speaker": "SYSTEM",
-  "uuid": "3fd3e0fc-fc4e-4a29-a775-2bbb279e7d9b"
-}

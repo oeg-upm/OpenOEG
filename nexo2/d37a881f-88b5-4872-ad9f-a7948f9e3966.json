@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Designing_a_Text_Classification_System_using_Statistical_NLP.pdf: Página 19\nDocument Representation \n• In summary we use: \n– Tokens  \n– Named Entities: Freeling to spot candidates but not to classify \n– Chunks \n• grup-nom: noun, nominal chunk \n• sp-de:  preposition, prepositional phrase “de” \n• grup-sp: preposition, prepositional chunk \n \n \n \n[token] objeto [162193][NCMS000] \n[token] instalar[160024][VMP00SM] \n[token] versión[147360][NCFS000] \n[token] cliente[136134][NCCS000] \n[token] haber[105036][VAIP3S0] \n[token] entorno_de_cliente [26694][NP00000] \n[chunk]versión instalar[1820] \n[chunk]cliente distinto[1806] \n[chunk]entorno distinto[1806] \n[chunk]en entorno[80375] \n[chunk]en el cliente CLIENTE[49381] \n[chunk]de el objeto OBJETO[37384] \n",
-  "speaker": "SYSTEM",
-  "uuid": "d37a881f-88b5-4872-ad9f-a7948f9e3966"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RicoMayo2018.pdf: Página 10\nSupervised learning\n• Training set for English-Spanish (EN-ES)\n• We also used ES-DE, EN-NL and EN-GR\n• We trained for objects as IRIs (e.g. EN-ES-IRI) and \nliterals (e.g.EN-ES-lit).\nTemplate(en)\nAttribute(en) Template(es)\nAttribute(es)\nProp(en)\nProp(es)\nAnnotation\nInfobox_French_commune\nelevation_m\nFicha_de_entidad_subnacional\nelevación_media\ndbo:elevation\ndbo:height\nWrong mapping\nInfobox_company\nfoundation\nFicha_de_organización\nfundación\ndbo:foundingYear dbo:formationYear\nWrong mapping\nInfobox_mountain\nelevation_m\nFicha_de_montaña\nElevación\ndbo:elevation\ndbo:prominence\nWrong mapping\nInfobox_album\nArtist\nFicha_de_álbum\nproductor\ndbo:artist\ndbo:producer\nCorrect\nIn this case dbo:elevation\nwas the expected property \nto be used with mountains\nSometimes the ontology \nhas similar properties for \nthe same thing but this is \nstill a wrong mapping\nThe producer is the same \nperson as the artist in some \nalbums\n",
-  "speaker": "SYSTEM",
-  "uuid": "e8e33676-8c6a-446e-bc8c-50f4ca831dd4"
-}

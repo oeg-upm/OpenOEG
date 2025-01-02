@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Vadim.pdf: Página 60\nNovember 12, 2015\n60\nGravitation and Fitness in Ontology Dynamics\nOntology: TBox and ABox\n•\n \nAn ontology comprises its schema and the assertional\n \npart: \nO=(S, A)\n•\n \nOntology Schema S\n \n(terminological component –\n \nTBox) \ncontains the statements describing:\n–\n \nThe concepts of O\n–\n \nThe properties of those concepts, and \n–\n \nThe axioms over the schema constituents\n•\n \nThe set of individuals A\n \n(assertional\n \ncomponent –\n \nABox) \ncontains the ground statements about:\n–\n \nThe individuals, and \n–\n \nTheir attribution to the schema\n",
+  "speaker": "SYSTEM",
+  "uuid": "24682858-71b2-494e-b555-247334191abd"
+}

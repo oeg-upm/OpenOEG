@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RDF%28S%29.pdf: Página 31\nSample resulting ontology\nSpatialThing\nNumeroHabitantes\nLugarTuristico\nEstablecimiento\nLugarDeInteres\nLugar\nLocalidad\nVilla\nPueblo\nCiudad\nDireccionPostal\nrdfs:Literal\nSituadoEn\nrdfs:Literal\nCalle\nProvincia\nDireccion\nNumero\n© O. Corcho, R.García-Castro, O. Muñoz-García\n61\nRDF and RDF Schema\nLugarTuristico\nPalacio\nIglesia\nErmita\nCatedral\nEstablecimiento\nHotel\nHostal\nAlbergue\nTable of Contents\n1.\nAn introduction to knowledge representation formalisms\n2.\nResource Description Framework (RDF)\n2.\nResource Description Framework (RDF)\n3.\nRDF Schema\n4.\nRDF(S) management APIs\n4.1 RDF(S) management APIs\n4.2 The Jena API, with a hands-on activity\n5.\nRDF(S) query languages: SPARQL\n© O. Corcho, R.García-Castro, O. Muñoz-García\n62\nRDF and RDF Schema\n",
-  "speaker": "SYSTEM",
-  "uuid": "83f87eaa-132f-4742-b49c-5200d039028d"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 3.RDF%28S%29.pdf: Página 9\n• 9 \nRDF Containers \n•  Describe groups of things \n•  A book was created by several authors \n•  A lesson is taught by several persons \n•  etc. \n•  RDF provides a container vocabulary \n•  rdf:Bag. Group of resources or literals, including duplicates, \nwhere order is not significant \n•  rdf:Seq. Group of resources or literals, including duplicates, \nwhere order is significant \n•  rdf:Alt. Group of resources or literals that are alternatives \n(typically for a single value of a property) \n17 \npeople:Raul \n      \nproperties:hasEmailAddress \n“rgarcia@fi.upm.es” \nrdf:_1 \n“r.garcia@upm.es” \nrdf:_2 \nrdf:Seq \nrdf:type \nRDF Collections \n•  Groups of things represented as a list structure \n•  “A container with limits” \n•  Constructed using rdf:List, rdf:first, rdf:rest, and \nrdf:nil \n18 \nuniversity:Course1 \n      \nuniversity:hasTeacher \nrdf:next \npeople:Raul \nrdf:first \nrdf:nil \nrdf:next \npeople:Oscar \nrdf:first \nrdf:List \nrdf:type \n",
+  "speaker": "SYSTEM",
+  "uuid": "39e88142-92b2-45c8-8d26-1960984ebf49"
+}

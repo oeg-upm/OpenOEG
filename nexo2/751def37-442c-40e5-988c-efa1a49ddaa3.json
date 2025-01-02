@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: BUSQUEDA.pdf: Página 119\nBÚSQUEDA \n \n119 \nJ. Rubio / P.R. Muro / J. Bañares \n \nOctubre 2004 - Curso 2004-2005 \nmarcado en la figura 6 para esa casilla (suponemos que MAX juega con negras). Si \nuna ficha negra está fuera del tablero cuenta por 50. Recíprocamente, una ficha \nblanca cuenta según la numeración que aparece en la figura 7 y -50 si está fuera del \ntablero. \n10\n25\n40\n35\n30\n5 \n20\n0 \n15\n \nFigura 6 \n-30 \n-35 \n-40 \n-25 \n-10 \n-15 \n-20 \n0 \n-5\n \nFigura 7 \nCon esa heurística, la configuración recogida en la figura 8 tendría valor heuristíco -\n30. \n \nFigura 8 \nLa heurística anterior puede ser mejorada si añadimos además una puntuación para \nlos bloqueos directos e indirectos. En la figura 9 aparece un bloqueo directo de las \nfichas negras sobre las blancas y en la figura 10 un bloqueo indirecto. A los primeros \npodemos asignarles un peso 40 y a los segundos 30. Recíprocamente, un bloqueo \ndirecto de las blancas sobre las negras contará como -40 y uno indirecto como -30. \n",
-  "speaker": "SYSTEM",
-  "uuid": "751def37-442c-40e5-988c-efa1a49ddaa3"
-}

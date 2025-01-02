@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Editwiki \n\nVolver a Sistemas y Equipos\nuso de colores\n<span style=\"color:red\"> texto color </span> → se ve como:\ntexto color\nTablas\n{| class=\"wikitable collapsible sortable\" border=\"1\" style=\"background-color:white; border:1px solid red; padding:2px\"\n! C1 !! C2 !! C3 \n|-\n| A || B ||C\n|-\n|}\n→ se ve como:\nC1\nC2\nC3\nA\nB\nC",
+  "speaker": "SYSTEM",
+  "uuid": "78c24bab-a1b8-419c-b423-f16a76f5ed7a"
+}

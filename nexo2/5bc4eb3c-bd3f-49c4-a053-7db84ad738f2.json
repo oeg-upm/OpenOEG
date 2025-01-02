@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion-2013.pdf: Página 54\nPlanificación \n \n \nBúsqueda del plan en STRIPS \nLEVANTAR (C) \nlibre (B) ^ sujeto (C) \nPONER (C, B) \nen-mesa (A) \nR \nA \nB \nC \nEstado E4 \nlibre (B) ^ sujeto (C) \nPONER (C, B) \nen-mesa (A) \nR \nPONER(C, B) \nen-mesa(A) \nR \nSe cumplen las precondiciones del \noperador en el estado E4, por tanto, se \nejecuta \n",
-  "speaker": "SYSTEM",
-  "uuid": "5bc4eb3c-bd3f-49c4-a053-7db84ad738f2"
-}

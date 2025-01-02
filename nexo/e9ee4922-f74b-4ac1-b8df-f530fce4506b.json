@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Re-engineer_NOR-_EVERIS%28v3-boris%29.pdf: Página 7\n7\nNon-Ontological Resource Re-engineering (III)\nTask 4. Search for a suitable \npattern for re-engineering non-\nontological resources\nTask 5.a Use the pattern to \nguide the transformation \nIs there a \nsuitable \npattern?\nTask 5.b. Perform an ad-hoc \ntransformation\nNo\nYes\nOntology Development Team\nOntology Development Team\nOntology Development Team\nActivity 2\nNon-Ontological Resource \nTransformation\nTask 6. Manual refinement\nOntology Development Team\nThe goal is to generate a conceptual model from the NOR\nCriteria for searching  for a suitable pattern:\n• NOR Type: classification scheme, thesauri, lexicon, glossary, or \nfolksonomy \n• Data model: C.Scheme (path enumeration, adjacency list, \nsnowflake, or flattened), Thesaurus (record-based, relation-based)\n• Transformation approach: TBox, ABox, or population\n",
-  "speaker": "SYSTEM",
-  "uuid": "e9ee4922-f74b-4ac1-b8df-f530fce4506b"
-}

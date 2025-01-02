@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PlanetData_SIMON_OEGPresentation_oct16.pdf: Página 5\nBackground\nStorm - http://storm.incubator.apache.org/\n⚫\nDistributed system for real-time processing of \nstreams\n⚫\nWhy Storm? \n⚫\nSimple processing model (parallelization)\n⚫\nOpen source community backing the project\n⚫\nUsed by relevant companies, e.g. Twitter.\nLambda Architecture\n⚫\nBatch layer: stores ALL the incoming data in an \nimmutable master dataset and pre-computes batch \nviews on historic data.\n⚫\nServing layer: indexes views on the master dataset.\n",
+  "speaker": "SYSTEM",
+  "uuid": "67835c65-c41d-48f6-9392-73c4ffad9822"
+}

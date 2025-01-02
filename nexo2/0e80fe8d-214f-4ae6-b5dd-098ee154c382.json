@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 75\n© O. Corcho, R.García-Castro, O. Muñoz-García\n75\nRDF and RDF Schema\nQuerying a model\n// select all the resources with a VCARD.FN property\nResIterator iter = model.listSubjectsWithProperty(VCARD.FN);\nif (iter.hasNext()) { \nSystem.out.println(\"The database contains vcards for:\");\nwhile (iter.hasNext()) { \nSystem.out.println(\" \" + iter.nextStatement() \n.getProperty(VCARD.FN) .getString()); \n} \n} else { \nSystem.out.println(\"No vcards were found in the database\");\n} \nThe database contains vcards for: \nSarah Jones \nJohn Smith \nMatt Jones \nBecky Smith \n",
-  "speaker": "SYSTEM",
-  "uuid": "0e80fe8d-214f-4ae6-b5dd-098ee154c382"
-}

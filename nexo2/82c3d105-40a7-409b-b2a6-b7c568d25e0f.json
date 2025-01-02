@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 56\nATHENS 2010 \n© Raúl García Castro et al. \nBasic Inference Tasks \n• \nSubsumption – check knowledge is correct (captures intuitions) \n-  Does C subsume D w.r.t. ontology O? (in every model I of O, CI ⊆ DI ) \n• \nEquivalence – check knowledge is minimally redundant (no unintended \nsynonyms) \n-  Is C equivalent to D w.r.t. O? (in every model I of O, CI = DI ) \n• \nConsistency – check knowledge is meaningful (classes can have \ninstances) \n-  Is C satisfiable w.r.t. O? (there exists some model I of O s.t. CI ≠ ∅ ) \n• \nInstantiation and querying \n-  Is x an instance of C w.r.t. O? (in every model I of O, xI ∈ CI ) \n-  Is (x,y) an instance of R w.r.t. O? (in every model I of O, (xI,yI) ∈ RI ) \n• \nAll reducible to KB satisfiability or concept satisfiability w.r.t. a KB \n• \nCan be decided using highly optimised tableaux reasoners  \n56 \n",
-  "speaker": "SYSTEM",
-  "uuid": "82c3d105-40a7-409b-b2a6-b7c568d25e0f"
-}

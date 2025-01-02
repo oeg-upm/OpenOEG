@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 20\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nFormalización (III)\nFormalización en lógica de predicados de primer orden                                                                        \nMariano Fernández López\nEnunciado:\nSe tiene un robot que distribuye paquetes en oficinas. Se sabe que:\n• Los paquetes de la habitación 27 son más pequeños que los de la habitación 28.\n• Todos los paquetes de la misma habitación son del mismo tamaño.\n• En un instante concreto el robot sabe que:\ni)\nEl paquete A está en la habitación 27 ó 28 (pero no sabe en cuál).\nii)\nEl paquete B está en la habitación 27.\niii)   El paquete B no es más pequeño que el A.\nEl robot quiere probar que el paquete A está en la habitación 27.\nSe pide:\na)\nModelizar con lógica de predicados de primer orden.\n",
-  "speaker": "SYSTEM",
-  "uuid": "96f71d5f-533a-4dad-b84d-bf99ba731c97"
-}

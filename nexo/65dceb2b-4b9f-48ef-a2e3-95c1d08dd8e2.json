@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_OWL.pdf: Página 46\n© O. Corcho, MC Suárez de Figueroa Baonza\n46\nOWL and SWRL\n1. Pre-coordinated delivery: classifier as compiler\n•\nDevelop an ontology\n–\nA classifier can be used to detect and correct inconsistencies\n•\nClassify the ontology\n•\nCommit classifier results to a pre-coordinated ontology\n•\nDeliver it \n–\nIn OWL-Lite or RDFS\n•\nUse RDQL, SPARQL, or your favourite RDF(S) query tool\nAssert (“Commit”) changes \ninferred by classifier\n",
+  "speaker": "SYSTEM",
+  "uuid": "65dceb2b-4b9f-48ef-a2e3-95c1d08dd8e2"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Hypernym-3.pdf: Página 32\nHypernym Detection\nFuture work\n33\nFuture work from here:\n1) Extract dependency paths between known hypernym \npairs from large text corpora and form new patterns\n2) Explore Distributional methods that form space \nthrough linguistic features. Trying to encode patterns in \nDSMs\n3) ML/DL approaches\n",
-  "speaker": "SYSTEM",
-  "uuid": "b6a99e16-8a80-4937-95c6-3f8ba4111c86"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: AMPER08_-_RDF%28S%29_access_APIs.pdf: Página 11\nRDF(S) Access APIs, May 2008\n11\n© García-Castro, Corcho, Muñoz-García\n<rdf:RDF\nxmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'\nxmlns:vcard='http://www.w3.org/2001/vcard-rdf/3.0#'\n>\n<rdf:Description rdf:nodeID='A0'>\n<vcard:Given>John</vcard:Given>\n<vcard:Family>Smith</vcard:Family>\n</rdf:Description>\n<rdf:Description rdf:about='http://somewhere/johnsmith'>\n<vcard:FN>John Smith</vcard:FN>\n<vcard:N rdf:nodeID='A0'/>\n</rdf:Description>\n</rdf:RDF>\nWriting RDF\nModel model = ModelFactory.createDefaultModel();\nResource jsmith =\nmodel.createResource(“http://somewhere/johnsmith”)\n.addProperty(VCARD.FN, “John Smith”)\n.addProperty(VCARD.N, model.createResource()\n.addProperty(VCARD.Given,”John”)\n.addProperty(VCARD.Family, “Smith”));\nmodel.write(new PrintWriter(System.out));\nmodel.write(System.out, \"RDF/XML-ABBREV\"); \nmodel.write(System.out, \"N-TRIPLE\"); \n",
-  "speaker": "SYSTEM",
-  "uuid": "defb804b-fa37-4fc4-9f99-2e535c6796b6"
-}

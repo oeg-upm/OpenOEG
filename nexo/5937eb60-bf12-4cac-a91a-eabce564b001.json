@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: LPS_BIGGER-09.03.2017.pdf: Página 27\nDifferent paths for each emotion (3)\n27\nAMOR\nV=0\nODIO\nCONFIANZA\nTEMOR\n0.5\nSATISFACCIÓN\nL1\nINSATISFACCIÓN\n0.5\nFELICIDAD\n0.1\nTRISTEZA\n0.5\n0.3\n0.5\nV=1\nV=1\n0.1\nV=0\nL1y2\n0.5\nL3\n0.4\nF\nI\nL\nT\nE\nR\nS\nE\nM\nO\nT\nI\nC\nO\nN\nS\nAMOR+SATISFACCIÓN\nV=0\nTEMOR+ODIO\nCONFIANZA\nTEMOR\n0.5\nSATISFACCIÓN\nL1\nINSATISFACCIÓN\n0.5\nFELICIDAD\n0.1\nTRISTEZA\n0.5\n0.3\n0.5\nV=1\nV=1\n0.1\nV=0\nL1y2\n0.5\nL3\n0.4\nF\nI\nL\nT\nE\nR\nS\nE\nM\nO\nT\nI\nC\nO\nN\nS\nAMOR\nFuture?\nUse the correlations of \nemotions as classes\nCrossed paths\ndepending on\nresults\n",
+  "speaker": "SYSTEM",
+  "uuid": "5937eb60-bf12-4cac-a91a-eabce564b001"
+}

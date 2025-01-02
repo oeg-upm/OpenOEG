@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 64\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nCartography points: WGS84 \n• Vocabulary for representing Points: \n• Latitude \n• Longitude \n• @en \n \n• http://www.w3.org/2003/01/geo/ \n66 \nAsunción Gómez Pérez \n<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"  \nxmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\">  \n<geo:Point>  \n     <geo:lat> 55.701</geo:lat>  \n     <geo:long>12.552</geo:long>  \n</geo:Point>  \n</rdf:RDF> \n",
-  "speaker": "SYSTEM",
-  "uuid": "7a580f49-4eb0-4e4c-b306-87ed5611399e"
-}

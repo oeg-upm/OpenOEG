@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_MGLD.pdf: Página 10\n22/10/12 \n10 \nTransformation \n•  Take the data sources selected in the specification \nactivity and transform them to RDF according to the \nvocabulary created in the modelling activity \n•  Some tools \n•  CSV and spreadsheets \n•  Apache Any23, RDF Refine, XLWrap, RDF123, NOR2O \n•  RDB \n•  D2R Server, ODEMapster, Morph, W3C RDB2RDF WG – \nR2RML \n•  XML \n•  GRDDL, ReDeFer \n•  http://www.w3.org/wiki/ConverterToRdf \n19 \nGeneration \n20 \nGeneration \nGeoLinkedData - Transformation \nINE \nNOR2O\t\r  \nODEMapster\t\r  \nIGN \nIGN \nGeospatial  \ncolumn \nGeometry2RDF\t\r  \n",
-  "speaker": "SYSTEM",
-  "uuid": "35ff4aa2-0432-4f29-88bd-187008c7857b"
-}

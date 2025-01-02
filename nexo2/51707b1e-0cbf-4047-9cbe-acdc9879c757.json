@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 53\nIntroduction \n•  How many of you have been in the need of making \nqueries to distributed SPARQL endpoints? \n \n   Example \n \n•  Using the Pubmed references obtained from the Geneid gene \ndataset, retrieve information about genes and their references in the \nPubmed dataset.  \n•  From Pubmed we access the information in the National Library of \nMedicine’s controlled vocabulary thesaurus, stored at the MeSH \nendpoint, so we have more complete information about such genes.  \n•  Finally, we also access the HHPID endpoint, which is the knowledge \nbase for the HIV-1 protein. \n \n \n \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "51707b1e-0cbf-4047-9cbe-acdc9879c757"
-}

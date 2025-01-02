@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 39\nATHENS 2010 \n© Raúl García Castro et al. \nSample RDF APIs \n• \nRDF libraries for different languages:  \n-  Java, Python, C, C++, C#, .Net, Javascript, Tcl/Tk, PHP, Lisp, Obj-C, \nProlog, Perl, Ruby, Haskell \n-  List in http://esw.w3.org/topic/SemanticWebTools \n• \nUsually related to a RDF repository \n• \nMultilanguage: \n-  Redland RDF Application Framework (C, Perl, PHP, Python and Ruby):  \n http://www.redland.opensource.ac.uk/ \n• \nJava: \n-  Jena: http://jena.sourceforge.net/ \n-  Sesame: http://www.openrdf.org/ \n• \nPHP: \n-  RAP - RDF API for PHP: http://www4.wiwiss.fu-berlin.de/bizer/rdfapi/ \n• \nPython: \n-  RDFLib: http://rdflib.net/ \n-  Pyrple: http://infomesh.net/pyrple/ \n39 \n",
-  "speaker": "SYSTEM",
-  "uuid": "fc26e248-546c-4407-9216-be279c23f33f"
-}

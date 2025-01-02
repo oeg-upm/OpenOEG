@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: II-Redes_Sem%C3%A1nticas-v3.pdf: Página 4\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nTipos de Arcos\nARCOS ESTRUCTURALES  (Semántica indep. dominio)\nInstancia:  une un objeto con su tipo (clase) genérica\nSubclase-de:  une una clase con otra más general\nCompuesto de:  liga un objeto con sus componentes\nARCOS DESCRIPTIVOS (Semántica. Depend. Dominio)\nPropiedades: Profesión, Color-Pelo, etc.\nPersona\nCabeza\nCara\nTiene\nParte-de\nHombres\nMujeres\nSubclase-de\nSubclase-de\nLuis\nPepe\nInformático\nInstancia\nInstancia\nProfesión\nEdad2\nEdad1\nRubio\nEdad\nEdad\nColor_Pelo\n25\nAzules\nMayor_que\nValor\nColor_Ojos\nMayor_que\nPROFESIÓN (Pepe, Informático)\nCOLOR-PELO (Pepe, Rubio)\nCOLOR-OJOS (Pepe, Azul)\nEDAD (Pepe, Edad1)\nVALOR (Edad1, 25)\nMAYOR_QUE (Pepe, Luis)\nINST (Pepe, Hombres)\nSUB-CLASE (Hombre, Persona) \nx   Hombre (x)  => Persona (x)\nTIENE (Persona, Cabeza)\nPARTE_DE (Cara, Cabeza)\nEn Lógica\n",
+  "speaker": "SYSTEM",
+  "uuid": "b59308c6-2b68-476b-b96a-35e553d8d4c2"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SPARQL_optimization_slides.pdf: Página 15\nDARQ: Physical Optimisation – Joins\nTwo join implementations:\nNested Loop Join: transfer cost estimate\n \nBind Join: transfer cost estimate\n \nwhere ct and cr are the transfer cost of one tuple and one query\nResult size estimate:\n \n    where sel12 = 0.5\nProposed Improvements:\n\u0000Improve estimates\nApply streaming cost models\n",
+  "speaker": "SYSTEM",
+  "uuid": "2e417c1a-3402-4751-8868-450374f0bbfe"
+}

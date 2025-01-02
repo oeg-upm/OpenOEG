@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: MasterIA_Dic2009.pdf: Página 9\n9\nSemantic Measures\nSemantic similarity\nHierarchy-based relationships\ndoctor is highly similar to nurse\ndoctor is not similar to hospital\nSemantic relatedness\nConsiders similarity + any other relationship\ndoctor is highly related to hospital\nSemantic distance\nInverse of relatedness\n",
+  "speaker": "SYSTEM",
+  "uuid": "ce9bf24a-5d37-43ed-8878-a3665e7b0710"
+}

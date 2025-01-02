@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PlanetData_SIMON_OEGPresentation_oct16.pdf: Página 9\nStorm-based operators for querying RDF streams\nStorm topology example\nSELECT ?obs.value ?sensors.location\nFROM NAMED STREAM <obs> [60 SEC TO NOW]\nFROM NAMED STREAM <sensors> [60 SEC TO NOW]\nWHERE obs.sensorId = SENSORS.id ;\nSPOUT\n <obs>\nTriple2Graph\nWindowing\nWindowing\n<t0, t2...>\nWindowing\nWindowing\n<t1, t3...>\nWindowing\nWindowing\n<t0, t2...>\nWindowing\nWindowing\n<t1, t3...>\nOutput\nSPOUT\n <sensors>\nTriple2Graph\nWindowing\nSimple Join\nWindowing\nSimple Join\nWindowing\nSimple Join\nWindowing\nSimple Join\nWindowing\nProject\nWindowing\nProject\nWindowing\nProject\nWindowing\nProject\n",
+  "speaker": "SYSTEM",
+  "uuid": "5f3a592c-80f7-4730-a5a9-168c6f2e6d43"
+}

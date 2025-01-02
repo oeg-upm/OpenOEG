@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 3._Metodolog%C3%ADa-1-v1%28asun%29.pdf: Página 52\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n54\nOntological Engineering\nSlide 54\nOntology Requirements Specification. Task 5\nInput: the list of CQs\nObjective: obtaining different groups of CQs\nTechniques: Card Sorting, when the grouping is\ndone manually, and Clustering NL sentences or\nInformation Extraction when the grouping is done\nautomatically\nTools: MindMap Tools or Cicero Tool (for\ndistributed teams)\nOutput: a set of groups including CQs\nHybrid approach:\n\nThe analysis of the frequency of terms and the\ngrouping of CQs based on those terms that\nhave a higher frequency.\n\nThe use of pre-established categories, such as\ntime and date, units of measure, currencies,\nlocation, languages, etc.\n",
-  "speaker": "SYSTEM",
-  "uuid": "6333a2d4-1f1c-49eb-a8ef-76796fe97b0b"
-}

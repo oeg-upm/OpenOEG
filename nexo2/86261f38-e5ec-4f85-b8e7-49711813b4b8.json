@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Examples.pdf: Página 9\nGeometry – Instances\ngeoes: http://geo linkeddata es/\ngeoes: http://geo.linkeddata.es/\ngeo: http://www.w3.org/2003/01/geo/wgs84_pos#\nt l\n/Ai\nt\nP i t\ngeo:geometry\ngeoes:ontology/Airport\ngeo:Point\nrdf:type\nrdf:type\ngeo:geometry\ngeoes:resource/Airport/Barajas\ngeoes:resource/wgs84/39_39\ngeo:lat\ngeo:long\n39\n39\n9\n",
-  "speaker": "SYSTEM",
-  "uuid": "86261f38-e5ec-4f85-b8e7-49711813b4b8"
-}

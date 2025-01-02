@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 67\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \n69 \ngeoes:resource/Embalse/Embalse\n%20de%20Orellana \nrdf:type \ngeoes:ontology/Embalse \n(reservoir) \ngeo:geometry \notalex:resource/4e994dad1c44d2\nb50597dd64ddfbcac30de06d80 \n-5.498 \n38.985 \ngeo:lat \ngeo:long \ngeoes:  http://geo.linkeddata.es/ \notalex: http://otalex.linkeddata.es/ \ngeo: http://www.w3.org/2003/01/geo/wgs84_pos# \nEmbalse de Orellana \nrdfs:label \notalex:resource/ 38.984222213320045_-\n5.49938294416971 \notalex:resource/wgs84/38.982575823226234_-\n5.495821779307759 geo:formadoPor(composedby)\notalex:resource/wgs84/38.98531526569159_-\n5.498594084713078 \ngeoes:Polígono \n(Polygon) \nrdf:type \notalex:resource/wgs84/… \n69 \nGeoes: Polygon \n",
+  "speaker": "SYSTEM",
+  "uuid": "6a58425b-5bcf-4b91-b757-8b8c9eb3c229"
+}

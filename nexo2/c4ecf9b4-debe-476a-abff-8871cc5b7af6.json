@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Modelado_Conceptual_y_Compromisos_Ontol%C3%B3gicos_en_Humanidades.pdf: Página 10\nSubjetividad\nb.Dirección: Texto\nb.Estado: col enum EstadoDeConservación\n[: AspectoSubjetivo]\n(b.Estado $ x: AspectoSubjetivo): enum \nEstadoDeConservación\nCopyright © 2018 César González-Pérez\n10\nCualificación de predicación\nb: Edificio\nDirección =  San Roque,   \nEstado $Alicia = Bueno\nEdificio\nDirección: 1 Texto\nEstado: 0..1 enum EstadoDeConservación (S)\n",
-  "speaker": "SYSTEM",
-  "uuid": "c4ecf9b4-debe-476a-abff-8871cc5b7af6"
-}

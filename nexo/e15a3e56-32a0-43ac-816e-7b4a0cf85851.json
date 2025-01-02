@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion.pdf: Página 29\nPlanificación\nBúsqueda del plan en STRIPS\nSe elige una \nrama\nM = encima (C, B) ^ en-mesa (A) ^ R\nencima (C, B)\nen-mesa (A)\nR\nen-mesa (A)\nencima (C, B)\nR\n",
+  "speaker": "SYSTEM",
+  "uuid": "e15a3e56-32a0-43ac-816e-7b4a0cf85851"
+}

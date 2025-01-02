@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Sensores.pdf: Página 7\nNivel de sesión – Flujos (Streams)\n• Dos métodos de funcionamiento en redes de \nsensores\n• Pull (consulta): la red devuelve información bajo petición\n• Push (subscripción): la red lanza valores ante otra clase de \neventos\n• Si la red lanza estos valores de forma habitual \ntenemos un flujo de datos (stream)\n• Cantidad de información\n• Tiempo real\n• Problemas para la integración\n",
-  "speaker": "SYSTEM",
-  "uuid": "918a0919-a3b9-4a02-9ca2-28fca62be9cf"
-}

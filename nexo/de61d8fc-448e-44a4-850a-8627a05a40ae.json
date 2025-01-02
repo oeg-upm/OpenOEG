@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Sensores.pdf: Página 9\nEstándares SWE\n• Observations & measurements\n• Representa observaciones, medidas, procedimientos y \nmetadatos de sensores \n• Información abundante, énfasis en la eficiencia\n• SensorML \n• Define sensores funcionalmente, como procesos\n• De medida (físicos) o post-procesamiento (abstractos)\n• Simples o compuestos\n• Para el descubrimiento y uso de los recursos descritos\n• Geography Markup Language\n•\nRepresenta el mundo como un conjunto de fenómenos \n(simples o compuestos) localizados\n• TransducerML\n• Transductor = superconjunto de sensores y actuadores\n• Información de control (mandatos) y de sensor (estado)\n",
-  "speaker": "SYSTEM",
-  "uuid": "de61d8fc-448e-44a4-850a-8627a05a40ae"
-}

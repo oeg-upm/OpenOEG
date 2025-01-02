@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_LDFromDB_Boris.pdf: Página 10\nTransformation – RDB2RDF\n•\nA majority of dynamic Web content is backed by relational databases \n(RDB), and so are many enterprise systems.\n•\nW3C RDB2RDF Working Group 1\n•\nR2RML: RDB to RDF Mapping Language - http://www.w3.org/TR/r2rml/\n•\nDirect Mapping - http://www.w3.org/TR/rdb-direct-mapping/\n•\nR2RML and Direct Mapping Test Cases - http://www.w3.org/2001/sw/rdb2rdf/test-cases/\nR2RML/Direct Mapping in process to be a W3C Recommendation\n10\n1   http://www.w3.org/TR/r2rml/\n",
-  "speaker": "SYSTEM",
-  "uuid": "271256da-d45f-4777-b605-fac4d26d6de2"
-}

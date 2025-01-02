@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SSSW_gomez-perez-vFinal.pdf: Página 48\n© A. Gómez Pérez, M.C. Suarez de Figueroa, B. Villazón,  E.Montiel, G. Aguado, M. Espinoza\n48\nOntological Engineering\nMs\nMs\nMs\nMs\nMs\nMs\nMs\nMs\nMs\nMs\nCentralized network of \nontologies where data are \ndistributed\n1. Build a reference ontology\nFederated network of ontologies\nwhere data are distributed\n1.\nBuild a reference ontology for the domain\n2.\nBuild local ontologies\n3.\nBuild mappings between the core and local ontologies\n4.\nBuild mappings between the local ontologies and the data \nsources\nMs\nMs\nMs\nMs\nMs\n2. Build mappings between the \nreference ontology and the data sources\n",
+  "speaker": "SYSTEM",
+  "uuid": "619b5665-d1e6-41a8-861f-446f081e4bc0"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RDF%28S%29-SPARQL-Pr%C3%A1ctica.pdf: Página 10\n•10\nIndex\n• Resource Description Framework (RDF)\n• RDF Schema\n• RDF(S) Management APIs\nRDF(S) Management APIs\n• SPARQL\n• Assignment details\n19\nSample RDF APIs\n•\nRDF libraries for different languages: \n•\nJava, Python, C, C++, C#, .Net, Javascript, Tcl/Tk, PHP, Lisp, Obj-C, \nProlog, Perl, Ruby, Haskell\n•\nList in http://esw.w3.org/topic/SemanticWebTools\n•\nUsually related to a RDF repository\n•\nMultilanguage:\n•\nRedland RDF Application Framework (C, Perl, PHP, Python and Ruby): \nhttp://www.redland.opensource.ac.uk/\n•\nJava:\n•\nJena: http://jena.sourceforge.net/\n•\nSesame: http://www.openrdf.org/\np\np\ng\n•\nPHP:\n•\nRAP - RDF API for PHP: http://www4.wiwiss.fu-berlin.de/bizer/rdfapi/\n•\nPython:\n•\nRDFLib: http://rdflib.net/\n•\nPyrple: http://infomesh.net/pyrple/\n20\n",
-  "speaker": "SYSTEM",
-  "uuid": "eb90baac-bd60-4b15-8e73-05c45563aab0"
-}

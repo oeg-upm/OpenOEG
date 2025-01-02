@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: CeballosSept2017.pdf: Página 11\nResearch Questions \n1.  Which of the existing technologies in Big Data are appropiate?  \n2.  Based on such techonology: \n     Is it possible to process continuous queries on RDF streams?  \n     Is the set of operations available (e.g., map, reduce, filter, join) sufficient?  \n     What other operators are required and necessary to be implemented?  \n     What query optimization techniques are necessary to be adapted? \n3.  What tests can be used to evaluate performance, scalability, \ncompleteness and correctness properties on the proposed extensions?   \nOscar CEBALLOS, M.Sc. \nRDF Stream Processing on Big Data \n11/34 \n",
-  "speaker": "SYSTEM",
-  "uuid": "7b2786b3-43cd-4ba5-bfa8-99e6a5547c5d"
-}

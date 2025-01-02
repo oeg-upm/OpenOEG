@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Sparqlex.pdf: Página 22\nOther Queries\n• Construct the RDF graph that relates directly\nall the turistic places with their provinces by \ndefining a new property called \"estaEn\" (is in) \nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nCONSTRUCT {?x pr:estaEn ?y} \nWHERE { \n?x a pr:LugarTuristico;\npr:SituadoEn $town.\n$town pr:Provincia ?y.\n}\n",
+  "speaker": "SYSTEM",
+  "uuid": "17bc3bb2-863d-40ed-ba08-42cf58500248"
+}

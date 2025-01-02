@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ModelosRazonam_DynaLearn_Nov2011.pdf: Página 27\nQ1 – Semantic Web resources\nCoverage Study\nKnowledge source\nCoverage Ratio\nDBpedia + Yahoo Spelling Suggestion\n78%\nWhat if we fix spelling errors and suggest nearby terms?:\nWhat if we combine several sources?:\n“fiter feeding” \u0001 “filter feeding”\n27\nWhat if we combine several sources?:\nKnowledge source\nCoverage Ratio\nDBpedia + OpenCyc\n87%\nDBpedia + Watson\n73%\nDbpedia + WordNet\n72%\nDbpedia + OpenCyc + WordNet + Watson\n88%\n",
-  "speaker": "SYSTEM",
-  "uuid": "453fe55f-9a32-49f5-b5e0-4a55ff32de2a"
-}

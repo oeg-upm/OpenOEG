@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Presentacion_reunion_de_grupo_02mar2017.pdf: Página 9\nMore about our LD model \nPro1 \nProcess1 \n\"Defining transcribed \nregions using RNA-\nseq\" \n\"Yeast culture\" \nrdfs:label \nrdfs:label \nhas process \nProcess\n1.2 \nProcess\n1.3 \nProcess\n1.1 \n\"Yeast culture step 1\" \n\"Yeast culture step 2\" \n\"Yeast culture step 3\" \nrdfs:label \nrdfs:label \nrdfs:label \nbfo:precedes \nbfo:precedes \nhas process \nhas process \nhas process \n",
+  "speaker": "SYSTEM",
+  "uuid": "464e3f1f-9c0b-4699-afe1-ecf738665ac3"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: TalkOEG_Abril2015_Apertium.pdf: Página 20\nURIs design \n# Apertium English lexicon:  \nhttp://linguistic.linkeddata.es/id/apertium/lexiconEN \n  \n# Apertium Spanish lexicon:   \nhttp://linguistic.linkeddata.es/id/apertium/lexiconES \n \n# Apertium English-Spanish translation set:   \nhttp://linguistic.linkeddata.es/id/apertium/tranSetEN-ES  \n \nFollowing ISA recommendations [Archer et al.]: \n \n http://{domain}/{type}/{concept}/{reference} \n \n{domain}: http://linguistic.linkeddata.es/ \n{type}: id (real-world object) \n{concept}: apertium \n{reference}: resource ID \n",
+  "speaker": "SYSTEM",
+  "uuid": "0e5f1f43-8fd7-4aa1-bec0-4afae8dfaa39"
+}

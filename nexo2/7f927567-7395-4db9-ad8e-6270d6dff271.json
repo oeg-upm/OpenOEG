@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 51\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nDC: A model excerpt \n52 \nAn excerpt of DC model \ndc:BibliographicResource\nowl:Thing\ndc:coverage\ndc:Agent\ndc:LocationPeriodOrJurisdiction\ndc:MediaTypeOrExtent\ndc:creator\ndc:contributor\ndc:publisher\ndc:description\ndc:identifier\ndc:format\ndc:type\ndc:rights\ndc:relation\ndc:source\ndc:subject\ndc:language\ndc:LinguisticSystem\ndc:RightsStatement\ndc:Class\n- dc:title\n",
-  "speaker": "SYSTEM",
-  "uuid": "7f927567-7395-4db9-ad8e-6270d6dff271"
-}

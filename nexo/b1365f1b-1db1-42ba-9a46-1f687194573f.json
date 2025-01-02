@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 23\nPer charter (http://www.w3.org/2009/05/sparql-phase-II-charter.html) \n•  “The scope of this charter is to extend SPARQL technology \nto include some of the features that the community has \nidentified as both desirable and important for interoperability \nbased on experience with the initial version of the \nstandard.” \nè No inclusion of new features that still require research \nè Upwards compatible with SPARQL1.0 \nè The name SPARQL1.1 shall indicate an incremental change \nrather than any fundamental changes. \n \n29 \nOntological Engineering Group \nGoals of SPARQL1.1 \n",
-  "speaker": "SYSTEM",
-  "uuid": "b1365f1b-1db1-42ba-9a46-1f687194573f"
-}

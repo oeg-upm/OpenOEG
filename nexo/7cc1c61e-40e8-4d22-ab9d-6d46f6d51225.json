@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: KGEOntologies_2021.pdf: Página 11\nAn Ontology-Based Deep Learning Approach for Triple Classification with Out-of-Knowledge-Base Entities\nQuestion 2\n11\nWhat are the common elements of both KG and KGE \nmodels?\nKGE \nModels\nKGs\nEntities are initialized with\nrandom values\nThe model ‘learns’ internal\nconstraints based on the interactions\nbetween entities and relations\nEntities in the graph are introduced\nunder a common ontology\n",
-  "speaker": "SYSTEM",
-  "uuid": "7cc1c61e-40e8-4d22-ab9d-6d46f6d51225"
-}

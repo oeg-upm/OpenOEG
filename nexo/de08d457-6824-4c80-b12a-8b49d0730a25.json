@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: Encuesta de prueba\nPlease vote below. Results will be shown when you have voted.\nYou are not entitled to view results of this poll before you have voted.\nNice idea!\nMeh\nNo, I do not like polls.\nUna tercera linea\nThere were 8 votes since the poll was created on 12:14, 2 March 2018.\npoll-id 6F4C1A5EDB7AA44216A2396D2D2192B2\nHow to make a poll (syntax):\n<poll>\nQuestion or text here\nChoice 1\nChoice 2\nChoice 3\nChoice n\n</poll>",
-  "speaker": "SYSTEM",
-  "uuid": "de08d457-6824-4c80-b12a-8b49d0730a25"
-}

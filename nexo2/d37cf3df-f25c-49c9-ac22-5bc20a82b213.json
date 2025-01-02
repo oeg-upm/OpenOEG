@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 43\n© O. Corcho, R.García-Castro, O. Muñoz-García\n43\nRDF and RDF Schema\nRDFS: RDF Schema\n•\nW3C Recommendation\n•\nRDF Schema extends RDF to enable talking about classes of \nresources, and the properties to be used with them. \n–\nClass definition: rdfs:Class, rdfs:subClassOf\n–\nProperty definition: rdfs:subPropertyOf, rdfs:range, rdfs:domain\n–\nOther primitives: rdfs:comment, rdfs:label, rdfs:seeAlso, rdfs:isDefinedBy\n•\nRDFS vocabulary adds constraints on models, e.g.:\n–\nx,y,z type(x,y) and subClassOf(y,z) →type(x,z)\nex:Person\nrdf:type\nex:Oscar\nex:Animal\nrdfs:subClassOf\nex:Person\nex:Animal\nrdf:type\n",
-  "speaker": "SYSTEM",
-  "uuid": "d37cf3df-f25c-49c9-ac22-5bc20a82b213"
-}

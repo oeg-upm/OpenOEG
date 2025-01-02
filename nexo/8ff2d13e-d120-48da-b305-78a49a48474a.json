@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion.pdf: Página 70\nPlanificación\nSupóngase que se desea programar varios robots\npar que sean capaces de resolver determinados\nproblemas\nde\nmovimientos\nde\ncajas\nentre\ndespachos (que pueden contener más de una\nmesa) de una misma planta de un edificio. Las\nacciones que puede realizar cada robots son:\nLEVANTAR UNA CAJA DE UNA MESA, si esta\nen la misma oficina que ella y está libre (cada\nrobot sólo puede llevar una caja en cada instante).\n",
+  "speaker": "SYSTEM",
+  "uuid": "8ff2d13e-d120-48da-b305-78a49a48474a"
+}

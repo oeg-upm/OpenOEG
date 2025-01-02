@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Maven-Artifactory.pdf: Página 12\nArtifactory\nSnapshots y Releases\nLos Snapshots son versiones de desarrollo de artefactos que \nse están implementando\nLas Releases son versiones intermedias o final de dichos \nartefactos\nLos Snapshots cambian con frecuencia y son, por tanto, \ninestables\nLas Releases no cambian y son, por tanto, estables\nEn Artifactory, configuramos tres repositorios por \nmódulo o proyecto\n[module]-snapshots-repository\n[module]-releases-repository\n[module]-external-libs-repository\n",
-  "speaker": "SYSTEM",
-  "uuid": "4808dec9-68e9-4f83-ac0a-cb2a6cb6ed04"
-}

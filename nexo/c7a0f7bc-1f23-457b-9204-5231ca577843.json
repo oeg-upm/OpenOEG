@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II.pdf: Página 17\nSistemas de Producción\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nNo son REGLAS\nProblema 4: En el consecuente de la regla no hay elementos de decisión\nRi Si Condiciones-1 \nCondición-2 \nCondición-3 \n...\nEntonces acciones-1\nSi condiciones-4 ...\nEntonces acciones-2\nSolución:\n•\nNunca se deben introducir elementos de decisión en el consecuente de la regla\n•\nIntroducir señalizadores que provoquen la ejecución prioritaria de reglas con tales elementos\n•\nNo olvidar borrar los señalizadores\nRi: Si Condiciones-1 \nCondición-2 \nCondición-3 \n...\nEntonces acciones-1\nAñadir (S)\nRj: Si S ^ condiciones-4 \nEntonces acciones-2\nBorrar (S)\nRj no se puede ejecutar\nsi no se ha ejecutado antes Ri\nLas reglas con señalizadores, las mas prioritarias\n",
+  "speaker": "SYSTEM",
+  "uuid": "c7a0f7bc-1f23-457b-9204-5231ca577843"
+}

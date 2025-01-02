@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 05_OWL.pdf: Página 101\n© O. Corcho, MC Suárez de Figueroa Baonza\n81\nOWL 2\nAutomatic Classification and Open World Assumption (I)\nWe want to use the reasoner to automatically compute the\nsuperclass-subclass\nrelationship\n(subsumption\nrelationship)\nbetween MargheritaPizza and VegetarianPizza.\nWe believe that MargheritaPizza should be vegetarian pizza (they\nshould be subclasses of VegetarianPizza). This is because they have\ntoppings that are essentially vegetarian toppings — by our\ndefinition,\nvegetarian\ntoppings\nare\nmembers\nof\nthe\nclasses\nCheeseTopping or VegetableTopping and their subclasses.\nHaving previously created a definition for VegetarianPizza (using a\nset of necessary and sufficient conditions) we can use the reasoner\nto perform automatic classification and determine the vegetarian\npizzas in our ontology.\n",
+  "speaker": "SYSTEM",
+  "uuid": "82302f5a-18a9-4eb5-b82b-36da48cf6dcd"
+}

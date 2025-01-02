@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 10_LDCasoPractico.pdf: Página 2\nDescripción \n•  Generar RDF de los datos relativos a nacionalidad \n(instancias de la clase http://aims.fao.org/aos/\ngeopolitical.owl#territory ) \n•  Obtener las diferentes nacionalidades de los \nmiembros de OEG \n•  Crear enlaces entre las naciones de nuestro dataset \ny las instancias de la clase http://dbpedia.org/\nontology/Country en dbpedia \n2 \n",
-  "speaker": "SYSTEM",
-  "uuid": "c2f89f13-9169-4141-ada0-73ff4d914f8f"
-}

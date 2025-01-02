@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 55\nPRs\nLSPs Demo\n•GATE Morphological Analyser: finds the root and \nand affixes of a token\n•E.g.: infinitive form of the verb – to be (is, are, \nwas, etc.)\n• singular form of a noun – company (companies)\n•Noun Phrase Chunker: identifies nominal groups that \nhave the same function\n•E.g.: Thyroid medicines belong to the general \ngroup of hormone medicines\n•Flexible Gazetteer: wordlists grouped in different \ncategories to perform NE or Key Phrase Lookups\n",
+  "speaker": "SYSTEM",
+  "uuid": "4ad48e4b-cd6a-4768-aea0-ffbffb29d0bd"
+}

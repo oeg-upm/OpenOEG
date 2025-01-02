@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PlanetData_SIMON_OEGPresentation_oct16.pdf: Página 8\nStorm-based operators for querying RDF streams\n⚫\nTriple2Graph operator\n⚫\nTime Window operator\n⚫\nSimple Join operator\n⚫\nProjection operator\nSimple Join\nStream<Set<Tuple>>\n(join attribute)\nStream<Set<Tuple>, Set<Tuple>>\nWindowing\nStream<Set<Graph>>\n(window size,\nemission time)\nStream<Graph, t>\nProject\nStream<Tuple<o1, o2,..., on>>\n(input, output)\nStream<Tuple<i1, i2,..., in>>\nTriple2Graph\nStream<Graph, t>\n(graph starter)\nStream<s, p, o>\n",
+  "speaker": "SYSTEM",
+  "uuid": "b63f240a-bc7c-48e7-9019-7c98b6bfc448"
+}

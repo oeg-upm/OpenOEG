@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Annotation.pdf: Página 37\nRelationMap definition\n<relationmap-def name=\"http://esperonto/ff#isCandidateFor\">\n<to-concept name=\"http://esperonto/ff#FundOpp\">\nBNF\n:\nBNF\n:\nExample:\nExample:\n<to concept name= http://esperonto/ff#FundOpp >\n<joins-via>\n<operation oper-id=“equals\">\n<arg-restriction on-param=\"value1\">\n<has-column>fsb_ajut.id</has-column>\n</arg-restriction>\ng\n<arg-restriction on-param=\"value2\">\n<has-column>fsb_candidate.forFund</has-column>\n</arg-restriction>\n</operation>\n</joins-via>\n© O. Corcho, B Villazón, A. Gómez-Pérez\n37\nAnnotation\n/att\nbute ap de\n</attributemap-def>\n",
+  "speaker": "SYSTEM",
+  "uuid": "62793142-1edc-4361-b400-f253907ff460"
+}

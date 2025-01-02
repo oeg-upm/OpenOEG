@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA_grado-2013.pdf: Página 97\nCaso \nde Γ  \nCondiciones satisfechas \npor el estado (n,s,h)  \nAcción  de Γ  \n \n \n5 \n \nSi s = ESTUDIADO,  \nn = MAX y n no tiene \nhermanos sin \nestudiar \n \nAñadir al principio de \nABIERTA el padre de n \n(padre(n), ESTUDIADO, h) \ncon h(hijo) = h(padre) y \nBORRAR n  \n \n \n \n6 \n \n \n \nSi s = ESTUDIADO, y \nn = MIN \n \nAñadir al principio de \nABIERTA el padre de n \n(padre(n), ESTUDIADO, h) \ncon h(hijo) = h(padre), \nBORRAR n y todos los \nsucesores de padre(n) \n",
+  "speaker": "SYSTEM",
+  "uuid": "c7c760bd-fdf3-4ce5-a0ea-1bd6735e4091"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 32\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nFormalización en lógica de predicados de primer orden                                                                        \nMariano Fernández López\nDeducción (VIII)\nSi la formalización se ha realizado en lógica de predicados de primer orden, entonces, en la \nimplementación, además de resolución, también hay que aplicar sustitución (e.g.)\nQ(x) T(x)\nQ(a)\n----------\nT(a)\n",
+  "speaker": "SYSTEM",
+  "uuid": "0c2c8180-e95c-4c2e-9ebb-9b2c57e20ad7"
+}

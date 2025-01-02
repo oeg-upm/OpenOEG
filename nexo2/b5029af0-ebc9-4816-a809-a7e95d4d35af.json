@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 35\n“pick one sample name per person, plus a concatenated \nlist of nicknames ” \n41 \nOntological Engineering Group \nPREFIX foaf: <http://xmlns.com/foaf/0.1/> !\nSELECT ( SAMPLE(?N) as ?Name) !\n       ( GROUP_CONCAT(?M; SEPARATOR = \", \") AS ?Nicknames )!\nWHERE { ?P a foaf:Person ; !\n           foaf:name ?N ;!\n           foaf:nick ?M . }!\nGROUP BY ?P  !\n \n@prefix ex: <http://example.org/> . \n@prefix foaf: <http://xmlns.com/foaf/0.1/> . \n \nex:alice a foaf:Person; foaf:name \"Alice Wonderland\"; \n           foaf:nick \"Alice\", \"The real Alice\". \n \nex:bob a foaf:Person; \n       foaf:name \"Robert Doe\", \"Robert Charles Doe\",      \n                 \"Robert C. Doe\"; \n       foaf:nick \"Bob\",\"Bobby\",\"RobC\",\"BobDoe\". \n \nex:charles a foaf:Person; \n       foaf:name \"Charles Charles\"; \n       foaf:nick \"Charlie\" .  \n \nExample GROUP_CONCAT, SAMPLE \n",
-  "speaker": "SYSTEM",
-  "uuid": "b5029af0-ebc9-4816-a809-a7e95d4d35af"
-}

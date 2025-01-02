@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 35\nReﬂection of Lawyers’ Reasoning:\nRulebase\n• We could formalize about by logic programming with “Negation as\nFailure”, but the semantics may not be understandable for lawyers.\n• Instead of direct representation of JUF theory in logic program-\nming, we use a meta-term to re represent the JUF theory.\n• We introduce “exception” predicate which takes two arguments,\nthe former of which is the head of default rule and the latter of\nwhich is an exception of the rule.\n35\n",
-  "speaker": "SYSTEM",
-  "uuid": "91deabd3-25d0-4dfd-b1b7-fe1d1cf31abf"
-}

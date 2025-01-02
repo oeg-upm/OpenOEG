@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 59\nApplication to Constitution Law(continued)\nprohibitted(X,Y,Constraint)\n<=\nconstrain(X,Y,Constraint).\nallowed(X,Y,Constraint) <=\npurpose_of_constraint_compelling(X,Y,Constraint,Purpose),\nmethod_of_constraint_narrowly_tailored(X,Y,Constraint,Metho\nallowed(X,Y,Constraint) <=\ncontent_neutral_constraint(Constraint),\npurpose_of_constraint_imporant(X,Y,Constraint,Purpose),\nmethod_of_constraint_least_restrictive(X,Y,Constraint,Metho\nand exception can be expressed as follows:\nexception(prohibitted(X,Y,ConstrainedExpression),\nallowed(X,Y,ConstrainedExpression)).\n59\n",
+  "speaker": "SYSTEM",
+  "uuid": "ccfb77e9-b5e7-4aa6-abb9-8117691d6964"
+}

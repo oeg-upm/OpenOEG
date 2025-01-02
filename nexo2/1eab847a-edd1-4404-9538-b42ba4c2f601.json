@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_OWL.pdf: Página 64\n© O. Corcho, MC Suárez de Figueroa Baonza\n64\nOWL and SWRL\n// some definitions \nstatic String personURI = \"http://somewhere/JohnSmith\";\nstatic String fullName = \"John Smith\"; \n// create an empty Model\nModel model = ModelFactory.createDefaultModel(); \n// create the resource\nResource johnSmith = model.createResource(personURI);\n// add the property\njohnSmith.addProperty(VCARD.FN, fullName); \nhttp://.../JohnSmith\nJohn Smith\nvcard: FN\nData Model\n",
-  "speaker": "SYSTEM",
-  "uuid": "1eab847a-edd1-4404-9538-b42ba4c2f601"
-}

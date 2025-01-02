@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Helio.pdf: Página 7\nSet your title here in Slide Master Options\nUsing Helio\n7\n§  Download the jar\n§  Write speciﬁcations to setup helio:\no  Connectors \no  Datasources\no  Translation rules (mappings)\no  Linking rules\n§  Run the jar à A service is published automatically\nConnector\nDatasource\nVirtualizer \nLinker \nPublisher \n",
-  "speaker": "SYSTEM",
-  "uuid": "c8dacf47-613c-4f29-906a-feb0aee0c758"
-}

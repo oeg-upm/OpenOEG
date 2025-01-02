@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planning.pdf: Página 1\n1\nDocumento sobre búsqueda de datasets para Li...\n6 days? 24/01/11 8:00\n31/01/11 17:00\n2\nDeterminar ontologías a reutilizar\n6 days? 24/01/11 8:00\n31/01/11 17:00\n3\n \nDiagrama de ontología\n1 day? 31/01/11 8:00\n31/01/11 17:00\n4\n \nCorrespondencia entre ontología y otras ontolo...\n1 day? 1/02/11 8:00\n1/02/11 17:00\n5\n \nConstruir ontología\n2 days? 2/02/11 8:00\n3/02/11 17:00\n6\n \nRepasar análisis de datos en crudos, analizar po...\n2 days? 4/02/11 8:00\n7/02/11 17:00\n7\n \nMapear base de datos con ontología\n3 days? 8/02/11 8:00\n10/02/11 17:00\n8\n \nGeneración de RDFs\n2 days? 11/02/11 8:00\n14/02/11 17:00\n9\n \nAnálisis de RDFs generados\n2 days? 15/02/11 8:00\n16/02/11 17:00\n10\n \nBúsqueda de datasets para linkar\n2 days? 17/02/11 8:00\n18/02/11 17:00\n11\n \nLinkar datos\n3 days? 22/02/11 8:00\n24/02/11 17:00\n12\n \nComprobar datos generados\n3 days? 25/02/11 8:00\n1/03/11 17:00\nNombre\nDuración\nInicio\nTerminado\nPredecesores\nNombres del Recurso\nV S\nUPM_LinkData  - página1\n",
-  "speaker": "SYSTEM",
-  "uuid": "b04afa76-a010-44f2-9bf2-37a0a3b47559"
-}

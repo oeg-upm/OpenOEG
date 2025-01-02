@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: FernandezM.Feb2019.pdf: Página 22\nResults and discussion\nResults concerning Objective 1 “Measure reuse, hard reuse and soft\nreuse” and Objective 2 “Measure reuse across the same domain”\n1\nOWLOntologyCreationIOException: This exception arises when the\nontology is not longer available. (70 ontologies)\n2\nUnloadableImportException: This exception happens when some of the\nontologies imported by the ontology could not be loaded. (34 ontologies)\n3\nException: This a generic exception. The precise cause has not been\ndetermined by the tool. (1 ontology)\nFern´andez, Poveda, Su´arez, G´omez\nOntology reuse across the same domain\nFebruary 21, 2019\n22 / 43\n",
-  "speaker": "SYSTEM",
-  "uuid": "4d172ace-0c9c-4695-b46f-e47898142393"
-}

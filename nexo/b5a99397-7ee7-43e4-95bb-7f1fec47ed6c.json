@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion.pdf: Página 37\nPlanificación\nBúsqueda del plan en STRIPS\nQUITAR (A, B)\nsujeto (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nSe ejecuta el operador, pues sus precondiciones se dan \nen el estado inicial\nA\nB\nC\nA\nB\nC\nQUITAR (A, B)\nPLAN = QUITAR (A, B)\n",
+  "speaker": "SYSTEM",
+  "uuid": "b5a99397-7ee7-43e4-95bb-7f1fec47ed6c"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: Contents\n[\nhide\n]\n1\nTareas 7.2\n2\nTarea 2.3\n3\nTarea 1.4\n4\nTarea 7.1\nTareas 7.2\n\nTarea 1. Mecanismo de extracción de semántica a partir de anotaciones\n.\nPreparación de la versión final (camera ready) del paper aceptado en el KCAP2011 (Multipedia: Enriching DBpedia with Multimedia)\nRevisiones finales del paper \"DBpedia Spotlight: Shedding the light on the web of documents\" que se ha enviado a la conferencia I-SEMANTICS.\nTarea 2. Procesado de fuentes de información no semántica ya existentes\n.\nTarea 2.3\n\n- Instalación de la infraestructura cloud privada, detectados y corregidos los siguientes errores:\n- Corrección de la máquina virtual para añadir la versión correcta del script giscov.\n    - Documentación y pruebas para la creación de imágenes de maquina virtual como Amazon Machine Image.\nTarea 1.4\n\nTarea 7.1\n\n- Visualizador OGC (WMS-IDEE). Pruebas con WMS-C\n- Pruebas para la generación RDF procedente de shapefiles\n- Generación de owl:sameAs y revisión de resultados",
-  "speaker": "SYSTEM",
-  "uuid": "bd35a941-59e5-41e6-8ed2-e52f702d7519"
-}

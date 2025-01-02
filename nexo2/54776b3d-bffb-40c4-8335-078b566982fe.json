@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: AMPER08_-_RDF%28S%29_access_APIs.pdf: Página 21\nRDF(S) Access APIs, May 2008\n21\n© García-Castro, Corcho, Muñoz-García\nSet up\n•\nRequirements:\n– Java JDK 5\n– Eclipse (optional)\n•\nCreate a directory for your project\n•\nInstall Jena from the USB:\n– Unzip Jena-2.5.5.zip/lib in the project directory\n•\nCopy the ontologies from the USB:\n– Copy ontologies/rdf in the project directory\n•\nIn Eclipse:\n– Create a new Java project (from existing source)\n– Append the Jena libraries to your classpath if needed (check JDK libs)\n– Write Java code using the Jena API\nhttp://jena.sourceforge.net/javadoc/index.html\n– Compile \n– Run\nOr copy the \nJenaProjectTemplate\ndirectory in your computer\n",
-  "speaker": "SYSTEM",
-  "uuid": "54776b3d-bffb-40c4-8335-078b566982fe"
-}

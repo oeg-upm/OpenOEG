@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: B%C3%9ASQUEDA-2011.pdf: Página 79\nEn el primer instante se ha creado el nodo \ninicial representado en la lista cerrada por su \nnúcleo en blanco, al pasarlo a cerrada se ha \npuesto su núcleo en negro, se ha desarrollado \naleatoriamente uno de los nodos (al lado de  \ncada arco figura su coste de acceso) y se han \ncolocado los direccionadores a su antecesor, a \ncontinuación se ha desarrollado otro nodo \n(aleatoriamente)  y se han añadido al grafo sus \ndos descendientes (que son nuevos), nuevo\n",
-  "speaker": "SYSTEM",
-  "uuid": "57e63421-7005-4ad9-9747-0dbebcf9237d"
-}

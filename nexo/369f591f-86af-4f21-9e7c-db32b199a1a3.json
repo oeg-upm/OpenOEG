@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Sensores.pdf: Página 5\nCapa de Red – Determinación de la ruta\n• La ruta debe ser mínima en coste energético\n• Balanceo entre número de saltos y longitud de cada uno\n• Rutas no pueden ser fijadas en antemano\n• Disponibilidad de los nodos\n• Nodos heterogéneos\n• Sensores / repetidores / sumideros …\n• Balanceo de carga entre nodos\n• Alto consumo cerca del sumidero\n• Balanceo cuesta energía\n• Nodos móviles (sumidero)\n",
+  "speaker": "SYSTEM",
+  "uuid": "369f591f-86af-4f21-9e7c-db32b199a1a3"
+}

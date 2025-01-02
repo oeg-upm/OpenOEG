@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Re-engineer_NOR.pdf: Página 11\nClassification Scheme Components\n+cs_name\nClassification Scheme\n+csi_name\nClassification Scheme Item\n+contains\n1..*\n+contained in\n1\n11\n+csi_attribute\n+name\nClassification Scheme Item Relationship\n+association\n0..*\n+association\n0..*\n1. International Standard Organization (ISO). Information technology - Metadata registries – Part 1: Framework, 2004. \nReport ISO/IEC FDIS 11179-1.\n© A Method for Re-engineering Non-Ontological Resources for Building Ontologies \nBoris Villazón-Terrazas, Mari Carmen Suárez Figueroa\n",
-  "speaker": "SYSTEM",
-  "uuid": "e513c2dd-9c1b-4870-856c-6f9cd5357366"
-}

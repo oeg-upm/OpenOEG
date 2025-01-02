@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 05.Annotation.pdf: Página 27\n• 27 \nHow to embed the ODEMapster Processor \n63 \nMDB2RDF  \n• \nMapping defined \n• \nRDF Query Posed \n• \nRDF Query to Global Query \n• \nGlobal query is sent to DQP \n• \nDQP distributes global queries \ninto local queries and evalute \nthem \n• \nDatabases return local results \n• \nLocal results sent to DQP \n• \nDQP integrates the results into \nglobal result \n• \nGlobal result is sent to be \ntransformed into RDF \n• \n RDF documents containing \nRDF instances \n",
-  "speaker": "SYSTEM",
-  "uuid": "001a1084-2977-41ac-9d3d-0d9d6c75f992"
-}

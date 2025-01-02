@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: NeOn-Methodology-v1.pdf: Página 5\n5\nScenarios for Building Ontology Networks within the NeOn Methodology\nScenario 1: From Specification to Implementation\n❑Ontology requirements specification\nactivity, whose objective of this activity\nis to output the ontology requirements\nspecification document (ORSD).\n❑A quick search for knowledge-aware\nresources using the terms appearing in\nthe ORSD as input. The search results\nallow knowing which types of resources\nare available for a possible reuse during\nthe ontology network development.\n❑Scheduling activity using the ORSD and the results of the quick search.\n❑After this activity, the ontology developers should carry out the ontology\nconceptualization,\nthe\nontology\nformalization,\nand\nthe\nontology\nimplementation activities following METHONTOLOGY or On-To-Knowledge.\nDevelop the ontology network from scratch\n",
+  "speaker": "SYSTEM",
+  "uuid": "ebf50949-6a1e-40b5-a850-706bc831ef1a"
+}

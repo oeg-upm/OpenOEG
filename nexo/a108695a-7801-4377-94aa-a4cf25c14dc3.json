@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 29\nSimple RHS Limitations\n• The simple RHS of a JAPE rule can only \nadd simple annotations and features\n• Feature values are hard coded or can be \ncopied from annotations matched by the \nLHS\n• You may need more complex processing\n• Removing temporary annotations\n• Building complex features\n• RHS of a rule can consist of arbitrary Java \ncode\nJAPE RULES\n:email.Email = \n{rule = \"emailaddress\"}\n",
+  "speaker": "SYSTEM",
+  "uuid": "a108695a-7801-4377-94aa-a4cf25c14dc3"
+}

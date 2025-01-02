@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GeneralOntologies.pdf: Página 104\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work \nSTUDY CASE. CUSTOMIZE GENERAL ONTOLOGY \nPruning the MO \n(e.g. the relation \noverlap is not \nnecessary in our \ndomain ontology) \nEnriching the MO \nWe added (a) transitivity to \nthe part and properPart \nobject properties; (b) \nreflexivity to part; (c) \nasymmetry to \nproperPart; and (d) \nantisymmetry to part. \n \n \nOWL \nEvaluating \nWe checked that the \nresulting ontology has \nthe expected \nattributes \nOWL \nOWL \n",
+  "speaker": "SYSTEM",
+  "uuid": "21069cbf-7acf-4b73-b2cd-0e428f339404"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: MGPGLD-v3.pdf: Página 11\nRDF - SPARQL\n11\n•\nQuery: “Tell me who are the persons who have Antonio as colleague”\n© Slide adapted from “RDF and RDF Schema”- Raúl García et al.\nurjc:Antonio\n?\nperson:hasColleague\n•\nResult: urjc:Alberto and urjc:Idafen\n•\nSPARQL query language for RDF. W3C recommendation\nSELECT ?s \nWHERE { ?s person:hasColleague urjc:Antonio.}\nurjc:Alberto\nurjc:Antonio\nurjc:Idafen\n“Alberto Fernández”\nperson:hasName\nperson:hasColleague\nperson:hasColleague\n“Male”\nperson:hasSex\n",
-  "speaker": "SYSTEM",
-  "uuid": "50b269a9-c837-4609-989c-766514fa0bc3"
-}

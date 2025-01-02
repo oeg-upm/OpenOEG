@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Metodolog%C3%ADa-1-v1%28asun%29.pdf: Página 42\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n45\nOntological Engineering\nOntology Specification: Priorities to CQ\n Input: the groups of CQs written in\nnatural language (obtained in task 5)\n Objective: to give different levels of\npriority to the different groups of CQs, and\nwithin\neach\ngroup\nto\nthe\nidentified\nrequirements (in the form of CQs)\n Output: a set of priorities attached to\neach group of CQs and to each CQ in a\ngroup\nWithin\nthe\nSEEMP\nReference\nOntology\nspecification we did not carry out this step. This\nmeans the first version of the ontology must be\nable to represent the knowledge contained in all\nthe competency questions.\n",
-  "speaker": "SYSTEM",
-  "uuid": "bbeb7bf4-2da9-48a3-9124-3a5eac61a192"
-}

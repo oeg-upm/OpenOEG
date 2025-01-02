@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologias-Multilingualidad.pdf: Página 9\n©\n9\nAlgunos sistemas que incorporan \nmultilingualidad: EWN\n¾ EuroWordNet\n•\nBasado en Wordnet, http://wordnet.princeton.edu/perl/webwn\n¾ Objetivos:\n•\nCrear una BD léxica multilingüe para holandés, italiano, español,  inglés, \nalemán, francés, estonio y checo\n•\nMantener las relaciones específicas de las lenguas en sus redes\n•\nLograr la máxima compatibilidad entre los distintos recursos\n•\nConstruir las redes de forma independiente, reutilizando recursos propios de cada \nlengua\n•\nRedes de palabras: wordnets -> ontologías autónomas monolingües, conectadas \nmediante un ILI\n•\nSynsets (sinónimos)\n¾ Instituciones: 8 universidades (UNED, UPC), 3 empresas.\n¾ Financiado por la U.E. \n",
+  "speaker": "SYSTEM",
+  "uuid": "059a4e1e-9bfd-4bea-a997-bf33c774bca2"
+}

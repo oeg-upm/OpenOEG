@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: MariaNavas_STLab_Research_Stay.pptx: Diapositiva {31}\nSo we have about 200 judgments in \t\t\t   the form of sets of named graphs, with \t         some hierarchical metadata.\nWe input it to Virtuoso and Blazegraph to start playing…\nFrom the two lines of research previously discussed, I of course started with events \nAldo Gangemi provides some queries to “detect most verbal events”\nI start exploring both how to detect these events and temporal expressions…\nFunnily, it works more or less nice for events (acceptable precission, bad recall) but not for temporal expressions!\n\n\n\n\n\n\n\n\n",
-  "speaker": "SYSTEM",
-  "uuid": "d2774c6d-80e5-4dce-b929-5a2e69db065f"
-}

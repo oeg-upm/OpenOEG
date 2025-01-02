@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentaci%C3%B3n_Everis.v1.pdf: Página 4\nWS-DAIOnt-RDF(S) Specification\nRDF(S) Grid Access Bridge\nRepository\nSelectorService\nRepositoryService\nResource\nService\nList\nService\nContainer\nService\nStatement\nService\nProperty\nService\nClass\nService\nAlt\nService\nMecanismo Grid\nde acceso a RDF(S)\nGestión y explotación de recursos RDF(S) en arquitecturas Grid orientadas a servicios\n1.\nAcceso granular a nivel conceptual\n2.\nVirtualización de recursos\n3.\nInterfaces de acceso homogéneas\n4.\nSoporte CRUD total (más allá del protocolo SPARQL)\nRecursos\n4\nMiguel Esteban Gutiérrez\n",
-  "speaker": "SYSTEM",
-  "uuid": "748bf589-e555-46ef-ac0d-0f95ee008593"
-}

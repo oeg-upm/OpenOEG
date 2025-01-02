@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion-2013.pdf: Página 48\nPlanificación \n \n \nBúsqueda del plan en STRIPS \nDEJAR (A) \nbrazo-libre \nen-mesa (C) ^ libre (C) ^ brazo-libre \nLEVANTAR (C) \nlibre (B) ^ sujeto (C) \nPONER (C, B) \nen-mesa (A) \nR \nSe ejecuta el operador, pues sus precondiciones se dan \nen el estado E2 \nA \nB \nC \nEstado E2 \nDEJAR(A) \nA \nB \nC \nPLAN = QUITAR (A, B), DEJAR (A) \nEstado E3 cuyas \ncondiciones hay \nque comprobar \nen los siguientes \npasos \n",
+  "speaker": "SYSTEM",
+  "uuid": "148ae490-c78b-43a2-b20a-e5cc7894c402"
+}

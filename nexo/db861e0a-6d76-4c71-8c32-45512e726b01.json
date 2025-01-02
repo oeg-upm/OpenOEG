@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_06_-_Lifecycle-selection.pdf: Página 21\nNeOn Lifecycle Models\n©Asunción Gómez-Pérez, Carmen Suarez-Figueroa\nSeveral Ontology Life Cycle Models are possible\n Assumption: Uncertainties in the ontology requirements can derive into risks\nin the project. \nRisks can be: \n\nProperties became classes\n\nMove from frames to DL\n\nReuse new existing resources\nSpiral\n Planning: in this phase it is carried out the whole schedule for the ontology network \ndevelopment and the specification of the ontology network requirements.\n Risk analysis: after analysing the possible risk within the ontology network development, \nthe decision of continuing or not with a new iteration around the spiral is taken.\n Engineering: in this phase it is developed a prototype of the ontology network based on the \nspecified requirements, following any type of waterfall ontology network life cycle model.\n",
+  "speaker": "SYSTEM",
+  "uuid": "db861e0a-6d76-4c71-8c32-45512e726b01"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 18\n•  Limitations \n•  Again, no assignment, creation of values \n•  How to concatenate first name and last name? \n \n•  No aggregation (e.g. COUNT, SUM, …): \n•  How to create a graph that has publication count per \nperson for DBLP? \n•  No RDFS/OWL inference (so combining mappings in RDFS/\nOWL with queries in SPARQL not possible) \n \n24 \nOntological Engineering Group. \nConstructing Graphs \n",
-  "speaker": "SYSTEM",
-  "uuid": "b5076a20-4533-47dc-800e-611d1cb2f2b6"
-}

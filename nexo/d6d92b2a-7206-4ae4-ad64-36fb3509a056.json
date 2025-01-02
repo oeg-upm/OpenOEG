@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RD11-12_Intro-Sweb.pdf: Página 51\n©Asunción Gómez-Pérez \n- 51 \n \n• \nGeographically distributed organizations \n• \n Organizations send plans to the Envisat \n• \n Envisat has Instruments on board that take \n“pictures” \n• \n Envisat sends back information to the \nEarth \n \nUSE CASE DIMENSION: \n• \n1 planning file (DMOP) is generated per \nplanning day \n– \nParameters for instrument  operation (taking \npictures) \n– \n Parameters for the satellite general configuration. \n– \n MacroCommands (MCMD’s): translation from \nplanning \n• \n For each DMOP file: \n– \n Hundreds of planning activities per instrument  and \ninstrument mode \n– \n Hundreds of Product files are generated per instrument and \ninstrument mode \n– \n Each product file corresponds with a planning activity \nProcessing satellite information \nAnalysis needs to be carried out  \non the existence, contents and  \ncorrelation of these files \n",
+  "speaker": "SYSTEM",
+  "uuid": "d6d92b2a-7206-4ae4-ad64-36fb3509a056"
+}

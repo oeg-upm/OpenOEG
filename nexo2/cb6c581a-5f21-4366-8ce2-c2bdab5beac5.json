@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RicoMayo2018.pdf: Página 13\nFeatures\n• Instance-based features\n• Direct: M1, M2, M3, M4. Values: integer\n• Indirect: C1, C2, C3, C4. Values: float in [0-1]\n• C1= M2/M1\n• C2 = M3/M1\n• C3 = C3(EN) = M4(EN)/M1\n• C4 = C3(ES) = M4(ES)/M1\n• Schema-based features\n• TB1 to TB11. Values 0/1\n",
-  "speaker": "SYSTEM",
-  "uuid": "cb6c581a-5f21-4366-8ce2-c2bdab5beac5"
-}

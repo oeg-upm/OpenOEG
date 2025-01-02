@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Guiones.pdf: Página 6\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nLos Guiones\nESCENA 2:  Pedir la Carta\nSi la carta está en la mesa\nEntonces     El cliente coge la carta\nSINO           Si el camarero no trae la carta\nEntonces\nEl cliente llama al camarero\nEl camarero viene a la mesa\nEl cliente pide la carta\nEl camarero va a por ella\nEl camarero trae la carta\nIr a escena 3\nESCENA 3:  Decidir la comida\nEl cliente lee la carta\nEl cliente decide que va a pedir\nEl cliente pide lo que desea\nSi     El camarero dice “no queda”\nEntonces\na Escena 3 o a Escena 7\nSINO\nEl camarero ordena la comida\nEl cocinero prepara la comida\nIr a Escena 4\n",
-  "speaker": "SYSTEM",
-  "uuid": "c4481631-5ce8-4a49-a4e9-beba599872a3"
-}

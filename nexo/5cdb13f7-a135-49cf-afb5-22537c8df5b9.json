@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RDF%28S%29.pdf: Página 24\nExercise\n•Objective\n• Get used to the different syntaxes of RDF(S)\n•Tasks\n© O. Corcho, R.García-Castro, O. Muñoz-García\n47\nRDF and RDF Schema\n•Tasks\n• Take the text of an RDF(S) file and create its corresponding graph\n• Take an RDF(S) graph and create its corresponding RDF/XML and N3 files \nExercise 2.a. Create a graph from a text file\n•\nOpen the files StickyNote.rdf and StickyNote.rdfs\n•\nCreate the corresponding graph from them\n•\nCompare your graph with those of your colleagues\n© O. Corcho, R.García-Castro, O. Muñoz-García\n48\nRDF and RDF Schema\n",
-  "speaker": "SYSTEM",
-  "uuid": "5cdb13f7-a135-49cf-afb5-22537c8df5b9"
-}

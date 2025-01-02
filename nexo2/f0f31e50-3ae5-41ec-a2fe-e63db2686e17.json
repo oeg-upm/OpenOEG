@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 107\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nGeolinkeddata Ontologies \nhasStatisticalData\non\nOntology\nSpecification\nLegend\nhydrOntology\n4\nFAO\nFAO \nGeopolitical \nontology\nWGS84\n4\nW3C \nVocabulary\nGML\n4\nGML \nSpecification\nO. \nStatistics\nSCOVO\nO. \nTime\nW3C Time\nhasLat/Long\nhasGeometry\nhasLat/Long\nhasGeometry\nhasLocation/isLocated\nThesaurus\nUNESCO \n4\nEGM / ERM\nGeoNames\n…\nscv:Dimension \nscv:Item \nscv:Dataset \nWGS84 Geo \nPositioning: an RDF \nvocabulary \nhydrographical \nphenomena (rivers, \nlakes, etc.) \nOntology for OGC \nGeography Markup \nLanguage  \nVocabulary for \ninstants, intervals, \ndurations, etc. \nNames and \ninternational code \nsystems for \nterritories and \ngroups \nFollowing the INSPIRE  \n(INfrastructure for SPatial InfoRmation in Europe) recommendation. \nhydrOntology,SCOVO, FAO Geopolitcal, WGS84, GML, and Time \nClasses \n33 \n33 \nObject Properties \n44 \n44 \nData Properties \n318 \n318 \nreused \n",
-  "speaker": "SYSTEM",
-  "uuid": "f0f31e50-3ae5-41ec-a2fe-e63db2686e17"
-}

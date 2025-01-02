@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: B%C3%9ASQUEDA_grado-2013.pdf: Página 89\nALGORITMO DE PODA ALFA-BETA \n3\nMAX\nMAX\nMIN\n[-inf, 3]\n[-inf, +inf]\n12\n3\nMAX\nMAX\nMIN\n[-inf, 3]\n[-inf, +inf]\n[-inf,3] es el valor que puede tomar MIN hasta el \nmomento. \n-inf: puesto que MIN elige el mínimo valor de sus \nhijos, le queda una alternativa para elegir un valor \nmás bajo que 3.  \n3: nunca MIN elegirá un valor superior a 3, que es el \nmás pequeño encontrado hasta el momento. \n",
-  "speaker": "SYSTEM",
-  "uuid": "11c19a6b-f5d6-4a8e-9d13-f08ff2f219e5"
-}

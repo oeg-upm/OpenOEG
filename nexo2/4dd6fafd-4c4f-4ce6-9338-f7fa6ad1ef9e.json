@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Control_de_versiones_con_Subversion_v1.2.pdf: Página 5\nCap´ıtulo 2\nRepositorios\n2.1.\n¿Qu´e es un repositorio?\nEn Subversion, un repositorio es una secuencia de ´arboles de directorios.\nUna revisi´on es una instant´anea del repositorio en un punto determinado\ndel tiempo. Cada vez que se realiza un cambio en un ﬁchero o directorio de un\nrepositorio, el n´umero de revisi´on de ´este se incrementa en uno.\n2.2.\nCreaci´on recomendada de un repositorio\nA la hora de crear un nuevo repositorio (por ejemplo el repositorio ”prueba”)\nse recomienda hacerlo con la siguiente jerarqu´ıa de directorios:\n/prueba/trunk Para la copia actual en desarrollo del proyecto.\n/prueba/branches Para las ramas del proyecto.\n/prueba/tags Para las etiquetas del proyecto.\n4\n",
-  "speaker": "SYSTEM",
-  "uuid": "4dd6fafd-4c4f-4ce6-9338-f7fa6ad1ef9e"
-}

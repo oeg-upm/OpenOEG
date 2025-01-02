@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: D5.3.2.pdf: Página 43\nD5.3.2 Revision and Extension of the NeOn Development Process and Ontology Life Cycle \nPage 43 of 48 \n2006–2009 © Copyright lies with the respective authors and their institutions. \n \nSpecific Requirements for Ontology Development Team:  \n\u0001 To use the ontology network project schedule.  \n\u0001 This kind of user can not edit ontology network project schedules. \n \nWe are currently implementing the gOntt plug-in using the aforementioned requirements. We have \nplanned the first version of gOntt plug-in for month 36.   \nFigure 18 and Figure 19 show respectively the appearance of gOntt plug-in in two different \nexample situations: (1) the schedule for the reuse phase in an ontology development project, and \n(2) the inclusion of a new activity in an existing schedule. \n \nFigure 18. Screenshot of gOntt Plug-in (1) \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "b2632b02-ec8c-4c5a-b19d-a99a61de129d"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OWL.pdf: Página 4\n© O. Corcho, MC Suárez de Figueroa Baonza \n4 \nOWL 2 \nWhat doesn’t RDFS give us? \n• \nRDFS is too weak to describe resources in sufficient detail \n–  No localised range and domain constraints \n•  Can’t say that the range of hasEducationalMaterial is Slides when applied to \nTheoreticalSession and Code when applied to HandsonSession \n–  TheoreticalSession \n hasEducationalMaterial  Slides \n–  HandsonSession \n hasEducationalMaterial  Code \n–  No existence/cardinality constraints \n•  Can’t say: \n–  Sessions must have some EducationalMaterial \n–  Sessions have at least one Presenter \n–  No boolean operators \n•  Can’t say: \n–  Or / not \n–  No transitive, inverse or symmetrical properties \n•  Can’t say that presents is the inverse property of isPresentedBy \n",
-  "speaker": "SYSTEM",
-  "uuid": "239f015a-a130-4ff5-b667-96debb8004d8"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISSGC08.pdf: Página 7\n©<Miembro Grupo>\n7\nGrid Security\n• Different clusters access to other clusters information\n• Why should the OEG cluster trust the cluster UPC in \nBarcelona? Who do I know they are who they say they are?\n– Sensitive information must be protected\n– The cluster resources must be protected\n• Communication happens through internet\n– Internet is not the most secure channel\n• Two levels of security\n– Network level security (Authentication)\n– VO level security (Authorization)\n",
-  "speaker": "SYSTEM",
-  "uuid": "958564c3-9c6b-43cb-9561-5538fa5c74f0"
-}

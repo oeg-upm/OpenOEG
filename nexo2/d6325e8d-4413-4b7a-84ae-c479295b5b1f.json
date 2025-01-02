@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Guidelines.pdf: Página 36\nProblem LAP UEWI_2\nUniversalExistenceWithInheritance2\nForget one of the axiom during the development of the \nontology.\nC1⊆C2, C1⊆∀R.C3, C2⊆∃R.C4, Disj(C3,C4) \n36\nModelos de Razonamiento. Oscar Corcho\nC3\nC4\nC1 ?\nC2\n",
-  "speaker": "SYSTEM",
-  "uuid": "d6325e8d-4413-4b7a-84ae-c479295b5b1f"
-}

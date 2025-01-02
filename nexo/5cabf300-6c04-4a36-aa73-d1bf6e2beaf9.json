@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Fpriyatna-oeg-20141002.pdf: Página 31\n1. Normalize mappings in MLite form to M where M is in 3rd \nNF\n2. Set Q = trans(P, M) \no\nP = SELECT ?s AS ?rdf:subject ?p AS rdf:predicate ?o \nAS rdf:object WHERE { ?s ?p ?o }.\n3. Set        = CREATE VIEW rdf:statement AS Q;\n4. Set      = {}\n5. For P1 = SELECT ?s ?p ?o WHERE {?s ?p ?o} \nset P2 = SELECT ?s ?p ?o WHERE {\n  ?st a rdf:Statement .  \n  ?st rdf:Statement#rdf:subject ?s .\n  ?st rdf:Statement#rdf:predicate ?p .  \n  ?st rdf:Statement#rdf:object ?o .}\nQRP Problem\nVertical Approach\n",
+  "speaker": "SYSTEM",
+  "uuid": "5cabf300-6c04-4a36-aa73-d1bf6e2beaf9"
+}

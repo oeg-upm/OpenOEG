@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 10\nSPARQLStream\n10\nEnabling  Ontology-based Access to Streaming Data Sources\n•\nRDF-Stream\n...\n...\n( <si-1,pi-1, oi-1>, ti-1 ),\n( <si,  pi,  oi>,   ti ),\n( <si+1,pi+1, oi+1>, ti+1 ),\n...\n...\nExample:\n• “provide me with the wind speed observations over the last minute in the Solent Region ” \ncd:Observation\nxsd:double\ncd:observationResult\n...\n...\n( <ssg4e:Obs1,rdf:type, cd:Observation>, ti ),\n( <ssg4e:Obs1,cd:observationResult,”34.5”>,   ti ),\n( <ssg4e:Obs2,rdf:type, cd:Observation>, ti+1 ),\n( <ssg4e:Obs2,cd:observationResult,”20.3”>,   ti+1 ),\n...\n...\nSTREAM \n<http://www.semsorgrid4env.eu/ccometeo.srdf>\n",
-  "speaker": "SYSTEM",
-  "uuid": "37ccc6de-067a-4e2f-9aef-306e2c7f2400"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Control_de_versiones_con_Subversion_v1.2.pdf: Página 16\nCap´ıtulo 6\nMantenimiento del\nSubversion\nPor motivos desconocidos, los repositorios del Subversion se corrompen de\nvez en cuando dando mensajes de error al intentar manejar un repositorio.\nLa soluci´on es simple, pero hay que seguir los siguientes pasos para no es-\ntropear nada:\n1. Apagar el servicio del apache.\nrcapache2 stop\n2. Recuperar el repositorio.\nsvnadmin recover <path_to_repository>\n3. Encender el servicio del apache.\nrcapache2 start\nDepende de con qu´e usuario se haga esto, los permisos del repositorio pue-\nden cambiar. En este caso, hay que volver a asignar los permisos correctos al\nrepositorio.\nchown -R wwwrun:www <path_to_repository>\n15\n",
-  "speaker": "SYSTEM",
-  "uuid": "cb8b85e4-655b-4a8a-beba-8d8c1ab4a819"
-}

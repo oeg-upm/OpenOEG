@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 17\n•17\nExercise 1.b. Create files from a graph\n• Transform the following graph into N3 syntax\nSensor029\nClass01\nMeasurement8401\n2010-06-12T12:00:12\n29\nComputer101\nincludes\nincludes\nhasMeasurement\nhasTemperature\natTime\n33\nComputer101\nUser10A\nPedro\nhasOwner\nhasName\nBlank nodes: structured property values\n•\nMost real-world data involves structures that are more \ncomplicated than sets of RDF triple statements\nThis intermediate URI does not\noeg:Oscar\ncity:BoadillaDelMonte\nCampus de Montegancedo s/n\naddress:hasStreetName\n“Oscar Corcho García”\nperson:hasName\naddress:city\nperson:hasPostalAddress\nThis intermediate URI does not\nneed to have a name\n•\nIn RDF/XML, it is an <rdf:Description> node with no \nrdf:about\n•\nIn N3, it is a resource identifier that starts with ‘_’ \n•\nE.g., “_:nodeX”\ny\np\ng\n34\n",
+  "speaker": "SYSTEM",
+  "uuid": "55894157-35ed-4b59-89ef-2daf3ff1280b"
+}

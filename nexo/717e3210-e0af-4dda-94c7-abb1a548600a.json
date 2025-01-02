@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Enunciados-SP.pdf: Página 2\nEjercicios de Sistemas de Producción \n_____________________________________________________________________________________ \n_____________________________________________________________________________________ \nAsunción Gómez Pérez.  Facultad de Informática. Universidad Politécnica de Madrid. \n2 \nEjercicio 1: Girar Monedas \n \nSe tienen cinco monedas dispuestas como se encuentran a continuación: \n \nA \nR \nA \nR \nA \n \nEl anverso de la moneda está representado por A y el reverso por R. \n \nEn cada movimiento se puede dar la vuelta a cualquier par de monedas contiguas. \n \nLa situación final  que se quiere obtener es la siguiente: \n \nR \nR \nR \nA \nR \n \nSe pide: \n \na) Descripción de la Base de Hechos. \nb) Descripción de las reglas que forman la Base de Reglas. \nc) Descripción de la Estrategia de Control. \nd) Determinar las reglas que se ejecutan para pasar de la situación inicial a la situación final. \n \n \n \n \n \n \n",
+  "speaker": "SYSTEM",
+  "uuid": "717e3210-e0af-4dda-94c7-abb1a548600a"
+}

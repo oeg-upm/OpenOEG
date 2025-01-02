@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OEG_Status_report_Software_March_2022.pdf: Página 31\nOpen Science, Software and AI: A year at the Ontology Engineering Group. March, 2022\nExploring software similarity\n31\nHow can we identify similarities between software components?\n-\nCan we identify diﬀerences?\n-\nWhat does similarity mean?\n-\nMetadata?\n-\nDescription?\n-\nDocumentation? \n-\nFunctions?\n-\nKG diﬀ?\n-\nCode?\nTopic modeling (TFM)\n-\nAre readme ﬁles appropriate for topic modeling-based similarity?\n-\nLDA\n-\nBERT-topics\n-\nComparison against human-tagged categories  \nClark Wang\nMaría Ayuso\n",
+  "speaker": "SYSTEM",
+  "uuid": "d5d5e9d0-1eb1-4b26-b836-c0a2e444aa1a"
+}

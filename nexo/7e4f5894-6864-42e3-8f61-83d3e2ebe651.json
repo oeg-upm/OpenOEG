@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2019-07-18-Lefrancois-Seminar.pptx: Diapositiva {68}\nLifting rule maps all the tos in p to their corresponding graph (unique)\nLowering rule maps all the graphs in p to a *chosen* corresponding typed stream\nValidation rule checks if there is a pair with that graph\nRepresentation validation rule checks if there is a pair with that tos",
-  "speaker": "SYSTEM",
-  "uuid": "7e4f5894-6864-42e3-8f61-83d3e2ebe651"
-}

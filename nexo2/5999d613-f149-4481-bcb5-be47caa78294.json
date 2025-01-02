@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2019.02.OEG.Work.on.Events.pptx: Diapositiva {9}\nRelevance is related to objective and to representation.\nPrevious efforts:\n\n\t(Chasin, 2010) No metrics are provided:\nThey use a temporal tagger.\nAsume the event is the tagged sentence.\nThey rank them with different measures (POS, gramatical, distance to Named Entities, length…). Also considered negation.\n\t(Prasojo et al, 2018) No metrics on events:\nExtract events.\nUse them for summarization.\nThey evaluate the summary (sum. metrics + human assessment)\n\n",
-  "speaker": "SYSTEM",
-  "uuid": "5999d613-f149-4481-bcb5-be47caa78294"
-}

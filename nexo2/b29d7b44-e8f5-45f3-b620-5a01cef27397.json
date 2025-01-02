@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS-Applications-v5-boris.pdf: Página 24\nKey aspects of Ontological Engineering\n• Ontologies\n• Single versus network of ontologies?\nA\nl\ni\nb il f\nh\ni\nk\nl d\n• Are ontologies built from scratch or reusing knowledge-aware \nresources?\n• Are mappings used for solving conceptual mistmaches?\n• Instances\n• Where are the data/instances?\nI\nt\ni\nth\nt l\n• Instances are in the ontology\n• Instances are in RDF files independently of the ontology\n• Data are kept in the original sources\n• Are instances distributed or centralized?\n• Have instances a very high rate of changes?\n• Heterogeneous provenance of instances\nHeterogeneous provenance of instances\n• Degrees of data quality\n• Permissions\n24\n",
-  "speaker": "SYSTEM",
-  "uuid": "b29d7b44-e8f5-45f3-b620-5a01cef27397"
-}

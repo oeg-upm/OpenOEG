@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: B%C3%9ASQUEDA-2011.pdf: Página 80\ndesarrollo de otro nodo el cual, en este \ncaso, genera dos descendientes, uno nuevo \ny otro viejo (esta en la lista abierta), para \neste último se estudia si se redirige o no su \npuntero, resultando que si, a continuación \notro nodo de abierta es desarrollado y \ngenera un sucesor nuevo y otro viejo (este \nesta en cerrada) por lo que es necesario \ndecidir si se regirige su puntero y los de sus \ndescendientes\n",
-  "speaker": "SYSTEM",
-  "uuid": "d8eb0385-aeb0-4cc7-94ae-2066ef8ebc0c"
-}

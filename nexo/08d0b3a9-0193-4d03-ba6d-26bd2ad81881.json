@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ThesisCarlos3rdYear.pdf: Página 8\nWorking Hypotheses\n• There is a large set of distributed RDF stores with a large \namount of triples (billions of triples)\n• RDF data is linked, or has links between them\n• A SPARQL query can be translated into a SQL query, without \nlosing expressivity\nAssumptions\n• Users have a minimal knowledge of the vocabulary used in \nthose RDF datasets\nRestriction\n• It is possible to use existing SQL distributed query processing \ntechniques to process distributed SPARQL queries\nHypotheses to test\n",
-  "speaker": "SYSTEM",
-  "uuid": "08d0b3a9-0193-4d03-ba6d-26bd2ad81881"
-}

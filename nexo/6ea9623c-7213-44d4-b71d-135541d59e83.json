@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_RDF%28S%29.pdf: Página 18\nTable of Contents\n1.\nAn introduction to knowledge representation formalisms\n2.\nResource Description Framework (RDF)\n2.\nResource Description Framework (RDF)\n2.1. RDF primitives\n2.2. Reasoning with RDF\n3.\nRDF Schema\n3.1 RDF Schema primitives\n3.2 Reasoning with RDFS\n© O. Corcho, R.García-Castro, O. Muñoz-García\n37\nRDF and RDF Schema\n4.\nRDF(S) management APIs\n5.\nRDF(S) query languages: SPARQL\nRDF inference. Graph matching techniques \n•\nRDF inference is based on graph matching techniques\n•\nBasically, the RDF inference process consists of the following \nsteps:\nT\nf\nRDF\ni\nl\nh h\nh\nb\nh d\ni\nh\n–\nTransform an RDF query into a template graph that has to be matched against the \nRDF graph\n•\nIt contains constant and variable nodes, and constant and variable edges between nodes.\n–\nMatch against the RDF graph, taking into account constant nodes and edges.\n–\nProvide a solution for variable nodes and edges.\n© O. Corcho, R.García-Castro, O. Muñoz-García\n38\nRDF and RDF Schema\n",
-  "speaker": "SYSTEM",
-  "uuid": "6ea9623c-7213-44d4-b71d-135541d59e83"
-}

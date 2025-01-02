@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 27\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nEquiparación de variables (II) \nUna variable que aparece dos o más veces en una regla  \ndebe equipararse en todas las ocurrencias con el mismo valor. \nR1: (animal $x) Λ (piel pelo $x) → (especie mamífero $x) \nMT: (animal Tucky) \n \n(Piel Pelo Dolly) \n \n(Piel Pelo Tucky) \n \n(animal Dolly) \n \n(animal Dumbo) \nEq1: $x = Tuky :  (animal Tuky)  (Piel Pelo Tuky) \nEq2: $x = Dolly : (animal Dolly) (Piel Pelo Dolly) \nEq3: $x = Dumbo: no se equipara por no tener (Piel Pelo Dumbo) en MT \nConjunto Conflicto ={R1 (Animal Tucky) R1 (Animal Dolly)} \n",
+  "speaker": "SYSTEM",
+  "uuid": "9760378b-9c3a-4c51-893a-ca485c7b55d2"
+}

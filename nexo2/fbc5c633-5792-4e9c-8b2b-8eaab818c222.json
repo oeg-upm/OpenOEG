@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Marcos.pdf: Página 61\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nTécnica de la Longitud del Camino\nSe visita en amplitud todos los nodos\nLa longitud del camino se mide en función del número de arcos\n• Buscar en la instancia\n• Buscar en marcos clase que  están a Distancia 1 (son los “padres” del nodo)\n• Buscar en marcos clase que están a Distancia 2 (son los “abuelos” del nodo)\n•.....\nEl proceso finaliza una vez que se ha encontrado la propiedad en un nodo\nProblema: la propiedad se puede encontrar definida con dos valores en más de un nodo que esté a la misma distancia\nBuscar \nen la \ninstancia\nDistancia 1\nDistancia 2\n",
-  "speaker": "SYSTEM",
-  "uuid": "fbc5c633-5792-4e9c-8b2b-8eaab818c222"
-}

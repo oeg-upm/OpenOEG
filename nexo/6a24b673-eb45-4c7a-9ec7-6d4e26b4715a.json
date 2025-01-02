@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: AMPER08_-_Introduction_to_SPARQL.pdf: Página 17\nRDF(S) Access APIs, May 2008\n17\n© García-Castro, Corcho, Muñoz-García\nBasic graph patterns: Blank node \nlabels in query results\n@prefix foaf:  <http://xmlns.com/foaf/0.1/> .\n_:a  foaf:name   \"Alice\" .\n_:b  foaf:name   \"Bob\" .\nPREFIX foaf:   <http://xmlns.com/foaf/0.1/>\nSELECT ?x ?name\nWHERE  { ?x foaf:name ?name }\nx  \nname\n_:c\n\"Alice\"\n_:d\n\"Bob\"\nx  \nname\n_:r\n\"Alice\"\n_:s\n\"Bob\"\n=\n",
-  "speaker": "SYSTEM",
-  "uuid": "6a24b673-eb45-4c7a-9ec7-6d4e26b4715a"
-}

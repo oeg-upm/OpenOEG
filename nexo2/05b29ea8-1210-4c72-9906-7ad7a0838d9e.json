@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 58\n© O. Corcho, R.García-Castro, O. Muñoz-García\n58\nRDF and RDF Schema\nTravel\nrdfs:Literal\nrdfs:Class\nCompany-name\nsingleFare\nunits:currencyQuantity\nrdfs:range\nrdfs:range\nrdfs:domain\nrdfs:domain\nrdf:Type\ndepartureDate\nrdfs:domain\ntime:Date\nrdfs:range\narrivalDate\nrdfs:range\nrdfs:domain\nrdf:Property\nrdf:Type\nrdf:Type\nrdf:Type\nrdf:Type\nRDF\nRDFS\nIB-4321\n“Iberia”\n500 euros\n10/11/2005\nsingleFare\ndepartureDate\narrivalDate\nCompany-name\nrdf:Type\nrdf:Type\nrdf:Type\nrdf:Type\nRDF(S) Example\n",
-  "speaker": "SYSTEM",
-  "uuid": "05b29ea8-1210-4c72-9906-7ad7a0838d9e"
-}

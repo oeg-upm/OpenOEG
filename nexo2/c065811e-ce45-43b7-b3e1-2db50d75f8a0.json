@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: EN_%28wiki%29_terminology_in_ontologies_08-10-09%28V3%29.pdf: Página 47\n47\nData Models (II)\n• Snowflake Data Model is a normalized \nstructure for hierarchy representations. For each \nhierarchy level a entity is created. In this model \neach hierarchy node has a column linked to its \nparent node.\nWater area\n20000\nEnvironmental \narea\n21000\nJurisdiction \narea\n24020\nFishing\nStatistical area\n22000\nInland/marine\n21001\nOcean\n21002\nNorth/South/\nEquatorial\n21003\nFAO statistical \narea\n22001\nAreal \ngrid system\n22002\n•\nFlattened Data Model, is a denormalized \nstructure.  The hierarchy is represented with a \ntable where each hierarchy level is stored on a \ndifferent column. \nWater area\n20000\nEnvironmental \narea\n20000.21000\nJurisdiction \narea\n20000.24020\nFishing\nStatistical area\n20000.22000\nFAO statistical area\n20000.22000.22001\nAreal grid system\n20000.22000.22002\nOcean\n20000.21000.21002\nNorth/South/\nEquatorial\n20000.21000.21003\nInland/marine\n20000.21000.21001\nFirst\nSecond\nThird\nFirst\nSecond\nThird\n",
-  "speaker": "SYSTEM",
-  "uuid": "c065811e-ce45-43b7-b3e1-2db50d75f8a0"
-}

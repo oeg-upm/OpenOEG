@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OEG_-_Scalability_in_Semantic_Labeling_Approaches.pdf: Página 18\nScalability in Semantic Labeling Approaches\nTRank\n18\nInput: Knowledge base\nTask: Entity type ranking\ngiven entity e in a document d\nTe: the types of the entity e\nCe: Context (surrounding text of an entity e) in a \ndocument d containing an entity e\nText -> NER -> Inverted Index. Then given a context \nand an entity, the system will suggest a type\n1- Web Crawl\n2- NER\n3- Inverted Index\n4- Given a context and an entity, it suggests a type \n",
+  "speaker": "SYSTEM",
+  "uuid": "3ea028d8-7c59-4255-9967-d3ccbf6d6a38"
+}

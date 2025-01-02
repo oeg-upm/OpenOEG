@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OntologyLanguages_RDF%28S%29.pdf: Página 15\nExercise\n•Objective\n• Get used to the different syntaxes of RDF\n•Tasks\n© O. Corcho, R.García-Castro, O. Muñoz-García\n29\nRDF and RDF Schema\n•Tasks\n• Take the text of an RDF file and create its corresponding graph\n• Take an RDF graph and create its corresponding RDF/XML and N3 files \nExercise 1.a. Create a graph from a text file\n•\nOpen the file StickyNote_PureRDF.rdf\n•\nCreate the corresponding graph from it\n•\nCompare your graph with those of your colleagues\n© O. Corcho, R.García-Castro, O. Muñoz-García\n30\nRDF and RDF Schema\n",
-  "speaker": "SYSTEM",
-  "uuid": "55aaf4a8-9712-46c1-ada6-3999d1c91002"
-}

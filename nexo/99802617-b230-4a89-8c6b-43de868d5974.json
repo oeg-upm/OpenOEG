@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2.RDF%28S%29.pdf: Página 40\n• 40 \nExercise \n• Objective \n•  Understand how to use an RDF(S) management API \n• Tasks \n•  Read an ontology in RDF(S) from two files:  \n•  GP_Santiago.rdf (conceptualization) \n•  GP_Santiago.rdfs (instances) \n•  Write the class hierarchy of the ontology, including the instances of each class \nHands-on \n•  Read an ontology in RDF(S) from two files: \n•  GP_Santiago.rdf (conceptualization) \n•  GP_Santiago.rdfs (instances) \n•  Write the class hierarchy of the ontology, including the \ninstances of each class: \nClass Practica2:MedioTransporte  \n  Class Practica2:Tren  \n  Class Practica2:Bicicleta  \n    Instance Practica2:GP_Santiago_Instance_70  \n  Class Practica2:Automovil  \n  Class Practica2:AutoBus  \n  Class Practica2:APie  \nClass Practica2:InfraEstructuraTransporte  \n  Class Practica2:ViaFerrea  \n  Class Practica2:Sendero  \n  Class Practica2:Carretera  \n    Instance Practica2:A6  \n... \n",
+  "speaker": "SYSTEM",
+  "uuid": "99802617-b230-4a89-8c6b-43de868d5974"
+}

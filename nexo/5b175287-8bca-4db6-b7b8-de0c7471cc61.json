@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SparqlDQPGrupo.pdf: Página 18\nSparql LQP Builder\n• The LQP builder crawls the AST and builds an LQP\n• The Sparql LQP builder uses OGSA-DQP operators\n• RDF Table Scan Operator (not DQP)\n• DQP (SQL) Select Operator\n• DQP (SQL) Project Operator\n• DQP (SQL) Inner theta join (with an equality) for triple \npatterns\n• DQP (SQL) Left Outer Join for OPTIONAL\n",
+  "speaker": "SYSTEM",
+  "uuid": "5b175287-8bca-4db6-b7b8-de0c7471cc61"
+}

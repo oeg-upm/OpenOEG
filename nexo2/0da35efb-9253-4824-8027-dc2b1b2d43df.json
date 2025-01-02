@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 40\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nDL constructors\n3 hasChild, 1 hasMother\n{Colombia, Argentina, México, ...} MercoSur countries\nhasChild- (hasParent)\n2 hasChild.Female, 1 hasParent.Male\nOther:\nConcrete datatypes:  hasAge.(<21)\nTransitive roles: hasChild* (descendant)\nRole composition: hasParent o hasBrother (uncle)\n",
-  "speaker": "SYSTEM",
-  "uuid": "0da35efb-9253-4824-8027-dc2b1b2d43df"
-}

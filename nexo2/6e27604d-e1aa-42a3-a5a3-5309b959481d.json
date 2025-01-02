@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2022.11.PublicProcurementNLPChallenges.pdf: Página 31\nChallenges in Public Procurement textual data\nExploiting previous data\n31\nProblem: How to retrieve info\n•\nThey want to be able to make queries to the\nsystem.\n•\nHow many pills X were bought last year?\n•\nCould this be done with a KG?\nPossible Solutions\n•\nQA system\n•\nPreprocessing NLP in tenders to derive triples.\n•\nProbably SPARQL queries should be expressed\nas natural language.\n",
-  "speaker": "SYSTEM",
-  "uuid": "6e27604d-e1aa-42a3-a5a3-5309b959481d"
-}

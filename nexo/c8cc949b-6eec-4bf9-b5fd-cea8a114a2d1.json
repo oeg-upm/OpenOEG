@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: NLP.Dissociating_language_and_thought_in_large_language_models.pdf: Página 32\n4. The failure of LLMs in acquiring functional \nlinguistic competence\n(iv) Social Reasoning (pragmatics & intent) (2/2)\n• Problemas con las tareas de la Teoría de la Mente (no entiende \nel sarcasmo, no completa bromas…)\n• No tiene intención comunicativa (como mucho, adapta el \ndiscurso a un agente) => Como consecuencia, al generar \nmucho texto se degrada (*).\n• La gramática es correcta, pero llevan mal “prompt injection” \n(next slide).\n• Hay intentos de añadir distintos objetivos (e.g., instructGPT), \npero resultados aún imperfectos.\n* No de acuerdo! Certeza, Accuracy, Contexto, Memoria… árbol\nLLM\n",
-  "speaker": "SYSTEM",
-  "uuid": "c8cc949b-6eec-4bf9-b5fd-cea8a114a2d1"
-}

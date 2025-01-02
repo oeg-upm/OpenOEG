@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Fpriyatna-oeg-20141002.pdf: Página 36\nSummary\n●R2RML <-> DM\no DM -> R2RML (obvious)\no R2RML -> DM ( ? )\n▪\nR2RMLLite\n●We say they are “equivalent”, if\no Information preservation property holds\no Query result preservation property holds\n●The consequence\no R2RML engine (morph-RDB, D2RQ, ontop, etc) is \nnot the only option for evaluating R2RMLLite \nmappings\n",
-  "speaker": "SYSTEM",
-  "uuid": "5604c5a3-49a0-4545-8cf8-9a92d2e1e0ad"
-}

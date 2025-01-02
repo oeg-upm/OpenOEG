@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 05_OWL.pdf: Página 32\n© O. Corcho, MC Suárez de Figueroa Baonza\n36\nOWL 2\nTableaux Algorithms\n•\nTry to prove satisfiability of a knowledge base\n•\nHow do they work\n–\nThey try to build a model of input concept C\n•\nTree model property\n– If there is a model, then there is a tree shaped model\n•\nIf no tree model can be found, then input concept unsatisfiable\n–\nDecompose C syntactically \n•\nWork on concepts in negation normal form (De Morgan’s laws)\n•\nUse of tableaux expansion rules\n•\nIf non-deterministic rules are applied, then there is search\n–\nStop (and backtrack) if clash\n•\nE.g. A(x), ¬A(x)\n–\nBlocking (cycle check) ensures termination for more expressive logics\n•\nThe algorithm finishes when no more rules can be applied or a \nconflict is detected\n",
-  "speaker": "SYSTEM",
-  "uuid": "b90e270b-9d49-4449-b4e7-ebe4d782fddb"
-}

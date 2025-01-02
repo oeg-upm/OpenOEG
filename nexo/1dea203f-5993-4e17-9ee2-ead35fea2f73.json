@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 16\n© O. Corcho, R.García-Castro, O. Muñoz-García\n16\nRDF and RDF Schema\nQuerying a model\n// select all the resources with a VCARD.FN property\nResIterator iter = model.listSubjectsWithProperty(VCARD.FN);\nif (iter.hasNext()) { \nSystem.out.println(\"The database contains vcards for:\");\nwhile (iter.hasNext()) { \nSystem.out.println(\" \" + iter.nextStatement() \n.getProperty(VCARD.FN) .getString()); \n} \n} else { \nSystem.out.println(\"No vcards were found in the database\");\n} \nThe database contains vcards for: \nSarah Jones \nJohn Smith \nMatt Jones \nBecky Smith \n",
+  "speaker": "SYSTEM",
+  "uuid": "1dea203f-5993-4e17-9ee2-ead35fea2f73"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 20161215-MappingpediaPresentation.pdf: Página 3\nExodus [RDB2RDF, 2000s]\n3\nSELECT ?s ?name\nWHERE {\n  ?s a foaf:Person .\n  ?s foaf:name ?name . }\nSELECT ?s ?name\nWHERE {\n  ?s a foaf:Person .\n  ?s foaf:name ?name . }\nSELECT id AS s,nombre AS name\nFROM Estudiante\nWHERE id IS NOT NULL AND nombre IS NOT NULL;\nMIRROR, Ultrawrap, etc\nmorph-RDB, ontop, etc\n",
-  "speaker": "SYSTEM",
-  "uuid": "18a2f990-87d4-4f4c-a218-95378f3e84af"
-}

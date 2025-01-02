@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 58\nWord2Vec  [13]\nVector space models (VSMs) represent (embed) words in a \ncontinuous vector space  \nsemantically similar words are mapped to nearby points\nall methods relies on distributional Hypothesis\nwords that appear in the same contexts share semantic meaning.\nWord2vec is a two-layer neural net that processes text\ninput: text corpus\noutput: vocabulary in which each item has a vector attached to it\ncan be fed into a DNN \nor queried to  detect relationships between words\nNot a DNN, but allows DNNs to understand text\ncan be seen as a representational layer in DL\nnot just for sentences: genes, code, playlists, social media graphs \nand other verbal or symbolic series \n58\n",
-  "speaker": "SYSTEM",
-  "uuid": "42552c3d-12d0-4d96-93a2-ac4b45786ab1"
-}

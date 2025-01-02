@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RDF%28S%29.pdf: Página 8\n•\nMen and women are persons\n•\nA person can be married to another person\n•\nNobody can be a man and a woman at the same time\n•\nJohn, Paul and Michael are men\nPerson\nMarried-to\nFrames. Example\n,\n•\nMary and Anne are women\n•\nJohn is married to Mary\n•\nPaul is married to Anne\nDisjoint\nWoman\nMan\nsubclassOf\nsubclassOf\ninstanceOf\ninstanceOf\ninstanceOf\n© O. Corcho, R.García-Castro, O. Muñoz-García\n15\nRDF and RDF Schema\ninstanceOf\ninstanceOf\nMary\nMarried-to\nAnne\nJohn\ninstanceOf\ninstanceOf\nPaul\nMarried-to\nMichael\ninstanceOf\nDescription Logics. Basic elements\n•\nA subset of first order logic with good reasoning properties\n•\nAutomatic classification\nInvertebrate\nLiving Being\nVertebrate\nDog\nPlant\nCat\nAutomatic \nClassification\nSubclass of\nLiving Being\nVertebrate\nInvertebrate\nSubclass of\nPlant\nSubclass of\nSubclass of\nSubclass of\n© O. Corcho, R.García-Castro, O. Muñoz-García\n16\nRDF and RDF Schema\nFrame-based design\nDog\nCat\n",
-  "speaker": "SYSTEM",
-  "uuid": "d5d7f21c-d594-4af5-b540-926834b39899"
-}

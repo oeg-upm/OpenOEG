@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 23\n© O. Corcho, R.García-Castro, O. Muñoz-García\n23\nRDF and RDF Schema\nRDF (and other W3C Recommendations) and URIs\n•\nA URI (Unique Resource Identifiers) is a Web identifier\n–\ne.g. http://www.oeg-upm.net/ontologies/people#Oscar\n–\nURI ≠ URL\n•\nIf we open a Web browser and point to that URI, the corresponding object will not be \ndownloaded or shown\n•\nIf URLs work for locating uniquely (with no collisions) a Web page/resource, why not \nusing the same approach for identifying Web resources?\n–\nOther valid URIs could be\n•\nftp://www.oeg-upm.net/ontologies/people#Oscar\n•\npersons://www.oeg-upm.net/ontologies/people#Oscar\n•\n...\n•\nURIs allow identifying\n–\nIndividuals: \nhttp://www.oeg-\nupm.net/ontologies/people#Oscar\n–\nKinds of things: \nhttp://www.ontologies.org/ontologies/people#Person\n–\nProperties of those things:\nhttp://www.ontologies.org/ontologies/people#hasColleague\n",
+  "speaker": "SYSTEM",
+  "uuid": "055d64c9-c556-4b3f-904b-289126de55ca"
+}

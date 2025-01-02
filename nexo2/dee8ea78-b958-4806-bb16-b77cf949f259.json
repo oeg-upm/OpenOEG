@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 13_LDGeneration.pdf: Página 11\n18/12/12 \n11 \nPublishing Linked Data from \nRDB \nBoris Villazón-Terrazas. Oscar Corcho \nFacultad de Informática, Universidad Politécnica de Madrid \nCampus de Montegancedo sn, 28660 Boadilla del Monte, Madrid \nhttp://www.oeg-upm.net \nocorcho@fi.upm.es \nPhone: 34.91.3366605, Fax: 34.91.3524819 \n \nAcknowledgements: Freddy Priyatna, Jan Schulte, Richard \nCyganiak  and many others that we may have omitted. \n \nRDB2RDF. Existing approaches \n1. \nTo build a new ontology from a \ndatabase schema and content \n(direct mappings) \n2. \nTo map the ontology created in \napproach (1) to a legacy ontology  \n3. \n To map an existing DB to a  legacy \nontology\n  \nnew ontology \nexisting ontology \n1 \n2 \n3 \n",
-  "speaker": "SYSTEM",
-  "uuid": "dee8ea78-b958-4806-bb16-b77cf949f259"
-}

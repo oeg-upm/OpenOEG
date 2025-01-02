@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2016.09.26.OpinionMining.pptx: Diapositiva {3}\nRule-based sentiment analysis\n\nMachine learning based sentiment analysis\nUsing OpenNLP and IXA-PIPES and FREELING to chunk sentences, lemmatize\nUsing Sentiment dictionaries\nUsing Babelfy to disambiguate",
-  "speaker": "SYSTEM",
-  "uuid": "e6a87b57-8743-499c-8dae-1526c2ba5325"
-}

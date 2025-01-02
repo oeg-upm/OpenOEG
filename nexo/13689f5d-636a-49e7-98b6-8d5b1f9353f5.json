@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RicoMayo2018.pdf: Página 14\nFeatures\n• Schema-based features\n• TB1 to TB11. Values 0/1\n• TB1: is dbo:elevation subproperty of dbo:height?\n• TB2 (reverse TB1): is dbo:height subproperty of dbo:elevation?\n• TB3: class in EN and ES is the same?\n• TB4: class in EN is subclass of class in ES?\n• TB5: class in ES is subclass of class in EN?\n• TB6: domain in ES and ES is the same?\n• TB7: domain in EN is subclass of domain in ES?\n• TB8: domain in ES is subclass of domain in EN?\n• TB9: range in ES and ES is the same?\n• TB10: range in EN is subclass of range in ES?\n• TB11: range in ES is subclass of range in EN?\n",
+  "speaker": "SYSTEM",
+  "uuid": "13689f5d-636a-49e7-98b6-8d5b1f9353f5"
+}

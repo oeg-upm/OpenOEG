@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Integrator_UseCase.pdf: Página 2\nFlood Prediction\nWave period is > 10 \nseconds AND wave \nenergy is > X\nWave train will arrive at \nPortsmouth at time1\nHigh tide at Portsmouth is \nat time2\nDifference between time1 \nand time2 is < Y hours\nY is dependent on:\nTideWave location\nPerhaps windspeed\nTideWave(\n    Location:string,\n    Timestamp:int, \n    DateTime:string, \n    Observed:float, \n    Tz:float, \n    Hs:float, \n    HMax:float, \n    Tp:float\n)\nWaveEnergy ≈ Hs2\nFROM TideWave[NOW] w, TideTable t\nWHERE\n    Tp > 10 AND\n    (t.Hs * t.Hs) > X AND\n    t.location = 'Portsmouth' AND\n    t.highTime - w.timestamp < Y\n",
-  "speaker": "SYSTEM",
-  "uuid": "e79ffddb-89f9-4cde-be4a-11ab2269f782"
-}

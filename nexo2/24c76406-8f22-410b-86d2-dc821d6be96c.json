@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2._Ontolog%C3%ADas-long-RD.pdf: Página 41\n©Asunción Gómez-Pérez\n05/11/2024 12:27 - 43\nLibraries of Ontologies\nRepresentation Ontology: Frame- Ontology\nGeneral/Common Ontologies: Time, Units, space, ...\nGeneric Domain O.: components\nDomain O.: body\nGeneric Task O.: plan \nDomain Task O.: plan-surgery\nApplication\nDomain O. : heart-deseases Application Domain\nTask O.: surgery heart\n-\n+\nReusability\n-\n+\nUsability\nExample library\nExample library\nhttp://delicias.dia.fi.upm.es/mirror-server/ont-serv.html\nhttp://delicias.dia.fi.upm.es/mirror-server/ont-serv.html\n",
-  "speaker": "SYSTEM",
-  "uuid": "24c76406-8f22-410b-86d2-dc821d6be96c"
-}

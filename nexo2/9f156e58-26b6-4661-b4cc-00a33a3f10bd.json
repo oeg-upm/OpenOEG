@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: KGEOntologies_2021.pdf: Página 34\nAn Ontology-Based Deep Learning Approach for Triple Classification with Out-of-Knowledge-Base Entities\nConclusions\n34\nThe proposed method, despite its simplicity, can help\nclassical KGE models to progress at least in the triple \nclassification task in the standard benchmarks. \nBy using a proper initialization, KGE models also\nconverge much faster to their optimal solution\nThe proposed initialization enables triple \nclassification over OOKB entities while being\ncomputationally inexpensive and easy to implement\nalongside any KGE model.\n",
-  "speaker": "SYSTEM",
-  "uuid": "9f156e58-26b6-4661-b4cc-00a33a3f10bd"
-}

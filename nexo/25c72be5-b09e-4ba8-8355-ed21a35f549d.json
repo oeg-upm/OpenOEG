@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 34\nWeb Ontology Language\nOWL semantics\nExistential restrictions\nowl:someValuesFrom: the anonymous class comprised of the individuals \nthat, ammongst other things, have at least one relation to an individual of \na given class with a given property: humano subClassOf come some \nPlanta\n(Tutorial Manchester)\n",
+  "speaker": "SYSTEM",
+  "uuid": "25c72be5-b09e-4ba8-8355-ed21a35f549d"
+}

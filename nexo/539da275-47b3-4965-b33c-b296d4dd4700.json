@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 6\nExample of E-discovery(U.S. v. Philip Morris et al.)\n• 32 million Clinton-era email records held by National Archives are\ninvestigated.\n• 25 people made information retrieval task for 6 month to give 80000\nrelevant emails to Philip Morris et al.\nExample of Retrieval Command:\n(((master settlement agreement OR msa) AND NOT (medical savings\naccount OR metropolitan standard area)) OR s. 1415 OR (ets AND\nNOT educational testing service) OR (liggett AND NOT sharon a.\nliggett) OR atco OR lorillard OR (pmi AND NOT presidential man-\nagement intern) OR pm usa OR rjr OR (b&w AND NOT photo*)\nOR phillip morris OR batco OR ftc test method OR star scientiﬁc\nOR vector group OR joe camel OR (marlboro AND NOT upper marl-\nboro)) AND NOT (tobacco* OR cigarette* OR smoking OR tar OR\nnicotine OR smokeless OR synar amendment OR philip morris OR r.j.\nreynolds OR (”brown and williamson”) OR (”brown & williamson”)\nOR bat industries OR liggett group)\n6\n",
+  "speaker": "SYSTEM",
+  "uuid": "539da275-47b3-4965-b33c-b296d4dd4700"
+}

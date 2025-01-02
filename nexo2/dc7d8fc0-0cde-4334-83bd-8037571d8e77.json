@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 21\nIntroduction \nEvaluation scenario (I) \n• Evaluation description: \n– Purpose: exercise an ontology engineering tool with \n“conformance-alike” test data \n– Contract: \n• Parameters: \n– conformanceTestSuite \n– conformanceTestSuiteVersion \n– tool \n– toolVersion \n• Outputs: \n– rawResult \n– numberToolBridgeFaults \n– numberToolFaults  \n ESWC 2011, 29/05/2011 \n21 \n",
-  "speaker": "SYSTEM",
-  "uuid": "dc7d8fc0-0cde-4334-83bd-8037571d8e77"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 37\nReﬂection of Lawyers’ Reasoning:\nRulebase(continued)\nexception(cancellation due to sublease,\nget approval of sublease).\nexception(cancellation due to sublease,\nnonabuse of confidence).\nget approval of sublease <=\napproval of sublease,approval before cancellation.\nnonabuse of confidence<=\nfact of nonabuse of confidence.\n37\n",
-  "speaker": "SYSTEM",
-  "uuid": "7e9411ab-8c29-4434-9f45-5e81f5122aad"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 11\nATHENS 2010 \n© Raúl García Castro et al. \nExercise 1.b. Create files from a graph \n•  Transform the following graph into RDF/XML and N3 \nsyntaxes \n11 \nSensor029 \nClass01 \nMeasurement8401 \n2010-06-12T12:00:12 \n29 \nComputer101 \nUser10A \nPedro \nincludes \nincludes \nhasOwner \nhasName \nhasMeasurement \nhasTemperature \natTime \n",
-  "speaker": "SYSTEM",
-  "uuid": "464816a4-cb25-4dc5-bf51-188cbea450b3"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01.01.FormalismosRepresentaci%C3%B3n.pdf: Página 5\n• 5 \nSemantic networks. Example. Solution \n•  Paul and John are persons \n•  El Prado is a museum \n•  Paul knows that John visited El Prado in Madrid \n Know_1\n \n \n                   \n  Visit_1    \nObject \n \n        Agente \nVoice \nJohn \nActive \nPresent \nPaul \nTense \nAgent \nEl Prado \nObject \nMadrid \n Place \nPast \nTense \nActive \nVoice \nMuseum \nPerson \ninstanceOf \ninstanceOf \ninstanceOf \nFrames. Basic elements \nCONCEPTS \nInferences: \n• Property inheritance \n• Matching \n• Daemons \nFRAMES \nClass \nInstance \nSLOTS \nRelations \nsubclassOf \ninstanceOf \nSibling \nDisjoint \nNon Disjoint \nAd hoc \nProperties \nof Class \nof Instance \nFacets \nType \nMin cardinality \nMax cardinality \nMultivalued \nAllowed values \nDefault values \nPrecondition \nIfNeeded \nIfModified \nIfAdded \nIfRemoved \nFrame \nFacets \nDescription \nValue \nProcedure \nPointer \nProperties \nRelations \nF1 \nF2 \nFn \n... \nR1 \nRn \n",
+  "speaker": "SYSTEM",
+  "uuid": "8c3a3e85-f913-4a83-88b9-e068e8f5c60c"
+}

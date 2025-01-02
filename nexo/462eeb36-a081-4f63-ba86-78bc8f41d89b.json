@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OWL.pdf: Página 6\n© O. Corcho, MC Suárez de Figueroa Baonza \n6 \nOWL 2 \nStructure of DL Ontologies \n• \nA DL ontology can be divided into two parts: \n–  Tbox (Terminological KB): a set of axioms that describe the \nstructure of a domain : \n•  Doctor ⊆ Person \n•  Person ⊆ Man ∪ Woman \n•  HappyFather ⊆ Man ∩ ∀hasDescendant.(Doctor ∪ \n∀hasDescendant.Doctor) \n–  Abox (Assertional KB): a set of axioms that describe a specific \nsituation : \n•  John ∈ HappyFather  \n•  hasDescendant (John, Mary) \n",
-  "speaker": "SYSTEM",
-  "uuid": "462eeb36-a081-4f63-ba86-78bc8f41d89b"
-}

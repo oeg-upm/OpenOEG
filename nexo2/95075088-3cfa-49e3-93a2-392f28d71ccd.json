@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: IntegratorDesignDocument.pdf: Página 8\nhave chose to adopt the semantics proposed in SPARQL1.1 which conform more to the style of \nSQL aggregates.\nQuery Optimization\nDesign of optimizer and relationship with C-SPARQL and DARQ\n \nThe distributed query processor consist of a Query Compiler and a Query Evaluator\n \nQuery Compiler\n \nProposal consists of following steps\n \n \nParsing\nParsing the SPARQLStream query into an abstract syntax tree (AST). This AST is an extended \nversion of the ARQ AST already provided.\n",
-  "speaker": "SYSTEM",
-  "uuid": "95075088-3cfa-49e3-93a2-392f28d71ccd"
-}

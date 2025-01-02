@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologies-Methodology.pdf: Página 59\n59\nTypes of Ontology Design Patterns\nhttp://ontologydesignpatterns.org/wiki/OPTypes\nContent \nOPs \n(CPs) \nencode \nconceptual, rather than logical design \npatterns.\n• Logical OPs solve design problems \nindependently \nof \na \nparticular \nconceptualization.\n• CPs propose patterns for solving design \nproblems for the domain classes and \nproperties that populate an ontology. \nThey address content problems.\nLogical ODPs are formal expressions, \nwhose only parts are expressions from a \nlogical vocabulary e.g., OWL DL, that \nsolve a problem of expressivity\n• Logical ODPs are independent from a \nspecific domain of interest, i.e. they are \ncontent-independent\n• Logical ODPs solve design problems \nwhere the primitives of the representation \nlanguage do not directly support certain \nlogical constructs\n",
+  "speaker": "SYSTEM",
+  "uuid": "23803636-ce22-43a1-94e7-3aaf3cce752f"
+}

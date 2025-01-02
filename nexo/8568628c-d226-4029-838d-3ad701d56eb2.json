@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Protege-Pizzas-v5.pdf: Página 17\n© O. Corcho, MC Suárez de Figueroa Baonza\n17\nOWL and SWRL\nAntisymmetric Properties\nIf a property is antisymmetric, and the property relates individual\na to individual b then individual b cannot be related to individual a\nvia the property.\nisChildOf is antisymmetric\n",
-  "speaker": "SYSTEM",
-  "uuid": "8568628c-d226-4029-838d-3ad701d56eb2"
-}

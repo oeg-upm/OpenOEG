@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Semantic_Integration_Sensor_Networks_%28short_overview%29.pdf: Página 7\nStreaming Data Access\n(t9, a1, a2, ... , an)\n(t8, a1, a2, ... , an)\n(t7, a1, a2, ... , an)\n...\n...\n(t1, a1, a2, ... , an)\n...\n...\nStreaming \nData\nWindow \n[t7 - t9]\n• Continuously appended data\n• Potentially infinite\n• Time-stamped tuples\n• Continuous queries\n• Latest information used in queries\n• Windows: time and tuple based\n• Archival data \nQuery\n• Sensor Networks characteristics\n• Cheap, Nosiy, Unreliable (depends)\n• Low computational, power resources, \nstorage \n• Distributed query execution \n• Routing, OptimizationSNEESNEEql\nSTREAM\nAurora/Borealis\nCougar\nTinyDB\nSensor\n7\nSemantic Integration Streaming Data Sources\n",
-  "speaker": "SYSTEM",
-  "uuid": "007330ba-f8b5-4b10-ac30-546a727fea6f"
-}

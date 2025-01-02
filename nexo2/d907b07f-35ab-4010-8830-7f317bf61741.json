@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 47\nExamples of PROLEG semantics(continued)\nExample 3 Let P3 = {H3, E3} and H3 be the following set of\nrules:\nP <=.\nand E3 be the following set of exceptions:\nexception(P,P).\nLet M4 = {P}. Then, since HM4 = {} and M4 ̸= min(HM\n4 ), M4\nis not an extension.\nLet M5 = {}. Then, since HM5 = {P <=.} and M5 ̸= min(HM\n5 ),\nM5 is neither an extension.\nSince there is no other possibility of extension of P2, there is no\nextension for P2.\n47\n",
-  "speaker": "SYSTEM",
-  "uuid": "d907b07f-35ab-4010-8830-7f317bf61741"
-}

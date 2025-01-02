@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 37\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nLógicas Descriptivas\n•\nClasificación automática realizada por el motor de inferencias del lenguaje\n•\nEn tiempo de Ejecución\nSer vivo\nInvertebrado\nVertebrado\nPerro\nPlanta\nGato\nClasificación \nautomática\nSubclass of\nSer vivo\nVertebrado\nInvertebrado\nSubclass of\nPlantas\nSubclass of\nSubclass of\nSubclass of\nTiempo diseño\nPerro\nGato\n",
+  "speaker": "SYSTEM",
+  "uuid": "e9dc710e-6aef-470f-8761-5c398cc0cff3"
+}

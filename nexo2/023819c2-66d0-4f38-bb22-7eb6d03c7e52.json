@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OntologyLanguages_RDF%28S%29.pdf: Página 58\nExercise\n•Objective\n• Understand how to perform SPARQL queries\n•Tasks\n© O. Corcho, R.García-Castro, O. Muñoz-García\n115\nRDF and RDF Schema\n•Tasks\n• Perform a set of SPARQL queries over the sample ontology. \n• Browse to:\n• http://my.computer.ip:8080/openrdf-workbench\n• Select repository GP-native-rdfs\n• Select the Query option from the left menu\nSample ontology\nSpatialThing\nNumeroHabitantes\nLugarTuristico\nEstablecimiento\nLugarDeInteres\nLugar\nLocalidad\nVilla\nPueblo\nCiudad\nDireccionPostal\nrdfs:Literal\nSituadoEn\nrdfs:Literal\nCalle\nProvincia\nDireccion\nNumero\n© O. Corcho, R.García-Castro, O. Muñoz-García\n116\nRDF and RDF Schema\nLugarTuristico\nPalacio\nIglesia\nErmita\nCatedral\nEstablecimiento\nHotel\nHostal\nAlbergue\n",
-  "speaker": "SYSTEM",
-  "uuid": "023819c2-66d0-4f38-bb22-7eb6d03c7e52"
-}

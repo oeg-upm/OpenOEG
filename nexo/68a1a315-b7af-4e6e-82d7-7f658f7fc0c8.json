@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Vidal.Sep19.pdf: Página 36\nPage 36\n●\n23 Docker containers\n○\n10 RDF sources (Virtuoso 6.01.3127)\n○\n10 RDB sources (MySQL 5.7)\n○\nThree \nengines \n(FedX, \nMULDER, \nOntario)\n●\nMetrics:\n○\nExecution \ntime: \nTime \nelapsed \nbetween \nquery \nsubmission \nand \nretrieval of last answer\n○\nCardinality: \nNumber \nof \nanswers \nproduced by the engine\n○\nCompleteness: \nPercentage \nof \nanswers returned w.r.t the ground truth\n○\nThroughput: number of answers \nproduced per second\n○\ndief@t [15]:  Continuous efficiency at \ntime t\n■\nArea-under-the-curve \nof \nthe \nanswer traces\nExperimental Setup\n[15] Maribel Acosta, Maria-Esther Vidal, York Sure-Vetter: Diefficiency Metrics: Measuring the Continuous \nEfficiency of Query Processing Approaches. International Semantic Web Conference, 2017\nExperimental Configuration\n",
+  "speaker": "SYSTEM",
+  "uuid": "68a1a315-b7af-4e6e-82d7-7f658f7fc0c8"
+}

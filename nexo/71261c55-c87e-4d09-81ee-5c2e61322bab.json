@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Fpriyatna-oeg-20141002.pdf: Página 30\nIP Problem\nSolved\n<http://ex.com/Person/7369> rdf:type ex:Employee.\n<http://ex.com/Person/7369> ex:name \"SMITH\".\n<http://ex.com/Person/7369> ex:name \"ADAM\".\n<http://ex.com/Person/7369> ex:fullname \"SMITH,ADAM\".\n<http://ex.com/Person/7369> ex:worksIn <http://ex.com/Department/10APPSERVER>.\n<http://ex.com/Department/10APPSERVER> rdf:type ex:Department.\n<http://ex.com/Department/10APPSERVER> ex:name \"APPSERVER\".\n",
+  "speaker": "SYSTEM",
+  "uuid": "71261c55-c87e-4d09-81ee-5c2e61322bab"
+}

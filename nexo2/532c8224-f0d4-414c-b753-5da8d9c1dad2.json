@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: LinkedDataGeneration.pdf: Página 32\n32\n3. Generation of the RDF Data – Geometry2RDF\nOracle STO UTIL package \nSELECT  TO_CHAR(SDO_UTIL.TO_GML311GEOMETRY(geometry)) \nAS Gml311Geometry\nFROM \"BCN200\".\"BCN200_0301L_RIO\" c\nWHERE   c.Etiqueta='Arroyo'\n3. Generation of the RDF Data – Geometry2RDF\n",
-  "speaker": "SYSTEM",
-  "uuid": "532c8224-f0d4-414c-b753-5da8d9c1dad2"
-}

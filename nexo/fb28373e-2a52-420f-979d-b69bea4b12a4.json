@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 83\n© O. Corcho, R.García-Castro, O. Muñoz-García\n83\nRDF and RDF Schema\nMore hints\n• List root classes\nExtendedIterator listHierarchyRootClasses()\n• List subclasses of a class\nExtendedIterator listSubClasses(boolean \ndirect)\n• List instances of a class\nExtendedIterator listInstances(boolean direct)\n",
+  "speaker": "SYSTEM",
+  "uuid": "fb28373e-2a52-420f-979d-b69bea4b12a4"
+}

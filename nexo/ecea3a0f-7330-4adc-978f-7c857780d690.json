@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GC-Intro-RC-II-v1%28asun%29.pdf: Página 11\nIntroducción a la Representación de Conocimientos\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nObjeto-Atributo-Valor\nPara cada objeto existen tantas ternas como atributos se quieran representar\n(Objeto, Atributo, Valor)\n(Vertebrado, Esqueleto, Sí)\n(Invertebrado, Esqueleto, No)\n(Perro-1, Nombre, Tucky)\n(Perro-1, Peso, 25)\n(Perro-1, Altura, 50)\nInconvenientes:\n• No se pueden definir relaciones entre conceptos: Vertebrado subclase de animal\n• No se puede definir el tipo de una propiedad en un concepto\n• .....\n",
+  "speaker": "SYSTEM",
+  "uuid": "ecea3a0f-7330-4adc-978f-7c857780d690"
+}

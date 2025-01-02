@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion-2013.pdf: Página 71\nPlanificación \n \n \n \nDEJAR UNA CAJA EN UNA MESA, se supone \nque las mesas tienen capacidad infinita. \n \nIR DE UNA OFICINA A OTRA, si hay conexión \nentre ellas. \n \nPASARLE UNA CAJA A OTRO ROBOT, si el \notro esta libre y están en la misma oficina. \n \nFormalizar dicho dominio en STRIPS \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "f2949d69-ad0b-4ca4-a000-6ddad9ab6573"
-}

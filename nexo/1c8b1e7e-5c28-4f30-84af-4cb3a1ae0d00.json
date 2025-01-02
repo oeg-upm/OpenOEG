@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 14\n©O. Corcho\n14\nOntological Engineering\nCopyright © 2005, The University of Manchester\nCreating Properties. Naming conventions\n• Use camelNotation \n– Lowercase letter to begin\n• Create properties using 2 standard naming patterns:\n– has… (eg hasColour)\n– is…Of (eg isTeacherOf) or other suffixes (eg …In …To)\n• Advantages:\n– It is easier to find properties\n– It is easier for tools to generate a more readable form\n(see tooltips on the classes in the hierarchy later)\n– Inverses properties typically follow this pattern\neg hasPart, isPartOf\n",
-  "speaker": "SYSTEM",
-  "uuid": "1c8b1e7e-5c28-4f30-84af-4cb3a1ae0d00"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Extending_ontology_engineering_practices.pdf: Página 9\nExtending ontology engineering practices for ontology-based application development\nORSD\nProposed approach\n9\n§ A method for ontology-based API generation based \non the intended use cases.\nOntology \nvalidation\nAdapted from LOT Methodology https://lot.linkeddata.es\nIcons taken from https://www.flaticon.com\nSpecification\nImplementation\nPublication\nMaintenance\nOWL\nDefine intended \nuse cases\nDefine user \nstories\nBuild the API\nDesign the API\nfail\npass\nAnnotate user \nstories\n",
+  "speaker": "SYSTEM",
+  "uuid": "a8f75977-d6e0-490f-a009-3cfb5f4f4b71"
+}

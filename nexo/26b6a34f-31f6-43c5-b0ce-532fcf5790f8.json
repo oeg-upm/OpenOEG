@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_SPARQL.pdf: Página 17\nConstruct new graphs:  \n•  “everybody knows their co-authors” \nCONSTRUCT { ?X foaf:knows ?Y } \nWHERE{ ?D foaf:maker ?X, ?Y .  \n   FILTER( ?X != ?Y ) } \n \n22 \nOntological Engineering Group \nConstructing Graphs \n",
+  "speaker": "SYSTEM",
+  "uuid": "26b6a34f-31f6-43c5-b0ce-532fcf5790f8"
+}

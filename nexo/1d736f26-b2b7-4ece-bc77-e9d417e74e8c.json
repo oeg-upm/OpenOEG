@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Re-engineer_NOR.pdf: Página 45\nProcess\n2.4   Identify the thesaurus terms, tr, which are related terms of ti. They are referenced in \nthe same record that contains ti.\n2.5   For each one of the above identified thesaurus terms tr:\n2.5.1  Create the corresponding ontology class, Cr class, if it is not created yet.\n2.5.2  Set up the relatedClass relation between Cr and Ci.\n2.5.3   Repeat from step 2.4 for tr as a new ti.\nPR-NOR Example\n45\n© A Method for Re-engineering Non-Ontological Resources for Building Ontologies \nBoris Villazón-Terrazas, Mari Carmen Suárez Figueroa\n",
+  "speaker": "SYSTEM",
+  "uuid": "1d736f26-b2b7-4ece-bc77-e9d417e74e8c"
+}

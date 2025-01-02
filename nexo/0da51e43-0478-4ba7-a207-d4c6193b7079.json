@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Helio.pdf: Página 38\nSet your title here in Slide Master Options\nConclusions\n38\n§  Publish data from heterogeneus datasources\no  Clean & transform\no  Data interlinking\n§  Integrate existing technoligies to generate RDF\n§  Helio is meant to be pluggable\n§  Speciﬁcations for the pipeline with:\no  RML\no  SPARQL-Generate\no  ….\n§  Helio can validate published data with Shapes in \ndifferent levels of pipleline due to its modularity\n§  Helio aim at integrating current technoliges\n",
+  "speaker": "SYSTEM",
+  "uuid": "0da51e43-0478-4ba7-a207-d4c6193b7079"
+}

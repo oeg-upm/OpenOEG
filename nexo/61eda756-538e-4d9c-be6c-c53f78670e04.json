@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 18\n©O. Corcho\n18\nOntological Engineering\nCopyright © 2005, The University of Manchester\nWhat does this mean?\n•\nWe have created a restriction: hasBase PizzaBase\non Class Pizza as a necessary condition\nPizza\nPizzaBasehasBasehasBasehasBasehasBase\n►“There can be no individual, that is a member of this class, that \ndoes not have at least one hasBase relationship with an \nindividual from the class PizzaBase”\n",
+  "speaker": "SYSTEM",
+  "uuid": "61eda756-538e-4d9c-be6c-c53f78670e04"
+}

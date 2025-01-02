@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 33\n© O. Corcho, R.García-Castro, O. Muñoz-García\n33\nRDF and RDF Schema\nTyped literals\n•\nSo far, all values have been presented as strings\n•\nXML Schema datatypes can be used to specify values (objects in \nsome RDF triple statements)\n•\nIn RDF/XML, this is expressed as:\n–\n<rdf:Description rdf:about=”#Oscar”>\n<person:hasBirthDate \nrdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">02/02/1976\n</person:hasBirthDate>\n</rdf:Description>\n•\nIn N3, this is expressed as:\n–\noeg:Oscar person:hasBirthDate ”02/02/1976”^xsd:date .\noeg:Oscar\n02/02/1976\nperson:hasBirthDate\n",
-  "speaker": "SYSTEM",
-  "uuid": "b1297ad4-8e32-4ebb-921d-a9aea9dbd13e"
-}

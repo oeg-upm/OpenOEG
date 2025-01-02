@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OntologyLanguages_RDF%28S%29.pdf: Página 55\nTable of Contents\n1.\nAn introduction to knowledge representation formalisms\n2.\nResource Description Framework (RDF)\n3.\nRDF Schema\n3.\nRDF Schema\n4.\nRDF(S) management APIs\n5.\nRDF(S) query languages: SPARQL\n5.1 RDF(S) query languages and SPARQL\n5.2 Turtle RDF syntax\n5.3 Graph patterns\n© O. Corcho, R.García-Castro, O. Muñoz-García\n109\nRDF and RDF Schema\n5.4 Restricting values and solutions\n5.5 SPARQL query forms\n5.6 Hands-on activity\nSPARQL query forms\n• SELECT\n– Returns all, or a subset of, the variables bound in a query pattern \nmatch.\n• CONSTRUCT\nCONSTRUCT\n– Returns an RDF graph constructed by substituting variables in a set \nof triple templates.\n• ASK\n– Returns a boolean indicating whether a query pattern matches or \nnot.\n• DESCRIBE\n– Returns an RDF graph that describes the resources found.\n© O. Corcho, R.García-Castro, O. Muñoz-García\n110\nRDF and RDF Schema\n",
-  "speaker": "SYSTEM",
-  "uuid": "f9d33b27-37ca-4339-b9fd-f8f8bbed3c83"
-}

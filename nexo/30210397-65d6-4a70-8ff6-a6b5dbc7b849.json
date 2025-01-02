@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion-2013.pdf: Página 61\nPlanificación \n \n \nAprendizaje de planes en STRIPS \nLas secuencias de acciones que se realizan a menudo pueden ser aprendidas \nmediante una tabla triangular \nInicio \nOperador 1 \nOperador 2 \n... \nFin \nLa columna contiene los añadidos del operador, posiblemente repetidos \n",
+  "speaker": "SYSTEM",
+  "uuid": "30210397-65d6-4a70-8ff6-a6b5dbc7b849"
+}

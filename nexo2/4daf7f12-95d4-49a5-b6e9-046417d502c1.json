@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: BUSQUEDA.pdf: Página 100\nBÚSQUEDA \n \n100 \nJ. Rubio / P.R. Muro / J. Bañares \n \nOctubre 2004 - Curso 2004-2005 \n                          ; esto ultimo a veces supone cambio y otras no  \n \n(defun encuentra (estado lista-nodos) \n  (do ((nodos lista-nodos (rest nodos))) \n      ((or (endp nodos) (estados-iguales? (estado-de-nodo (first nodos)) \n                                          estado)) \n       (if (endp nodos) nil (first nodos))))) \nVeamos algunos ejemplos del comportamiento del algoritmo A. Consideremos el \nespacio de estados que aparece en la figura 7, en el que los valores heurísticos de \nlos estados están escritos entre paréntesis. \nI (8)\nA (3)\nB (5)\nC (2)\nD (3)\nO (0)\n3\n2\n1\n3\n2\n3\n4\n \nFigura 7 \nEl árbol de búsqueda queda recogido en la figura 8, en la que los números a \ncontinuación de los estados corresponden a los valores de g y h, respectivamente. \nI, 0, 8 \nA 3, 3\nB, 2, 5 \nC, 1, 2 \nD, 4, 3 \nO, 6, 0 \n1 \n2 \n3 \n4 \n \nFigura 8 \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "4daf7f12-95d4-49a5-b6e9-046417d502c1"
-}

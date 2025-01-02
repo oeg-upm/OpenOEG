@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentaci%C3%B3n_Everis.v1.pdf: Página 18\nEstandarización en el  OGF\n• ¿De qué trata?\n▪Proporcionar un mecanismo de acceso a fuentes de datos RDF(S) en el Grid\n• Dos formas distintas de interactuar:\n▪Acceso programático: usando primitivas ontológicas basadas en el modelo \nde RDF(S)\n▪Acceso basado en consultas: usando SPARQL\n• Alternativos, pero no exclusivos\n▪Utilización conforme a las necesidades del usuario\n• Documentos:\n•\nWS-DAI RDF(S) Realization: Introduction, Motivational Use Cases and Terminologies\n•\nWS-DAI-RDF(S) Querying (Kojima et al.)\n•\nWS-DAI-RDF(S) Ontology Specification, Profile 0 (Esteban Gutiérrez et al.)\n18\nMiguel Esteban Gutiérrez\n",
-  "speaker": "SYSTEM",
-  "uuid": "826c3ace-5241-4168-a609-fb6a426969bb"
-}

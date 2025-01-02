@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: KGEOntologies.Elvira.pdf: Página 5\nEnhancing KGE with ontological information for fresh entity introduction\nKnowledge Graph Completion\n5\nTriple classification:\no Is this fact feasible or not?\nTriple prediction:\no What is the relation that best joins these two entities? \no What is the missing part of this fact?\nKGE \nModel\nYes\n(Albert Einstein, gender, male) ?\n(Albert Einstein, nationality, ?)\nKGE \nModel\n1. Swiss\n2. German\n3. Belgian\n…\n",
-  "speaker": "SYSTEM",
-  "uuid": "8589d1b9-11e9-4529-a728-0927270a4c24"
-}

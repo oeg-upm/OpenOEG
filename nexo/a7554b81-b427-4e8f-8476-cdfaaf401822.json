@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Re-engineer_NOR.pdf: Página 39\nProcess\n2.6   Identify the thesaurus terms, tq, which are equivalent terms of ti. They are \nreferenced in the same record that contains ti.\n2.7   For each one of the above identified thesaurus terms tq:\n2.7.1  Use the logical pattern proposed by Corcho et al.\nTerm\nBT\nNT\nRT\nUF\nTerm1\nBTTerm1\nNTTerm1\nNTTerm2\nTerm2\nUFTerm1\nTerm2\nBTTerm2\nNTTerm3\nNTTerm4\nRTerm3\nRTerm4\nRTerm5\nPR-NOR Example\n39\nRTerm5\n© A Method for Re-engineering Non-Ontological Resources for Building Ontologies \nBoris Villazón-Terrazas, Mari Carmen Suárez Figueroa\n",
+  "speaker": "SYSTEM",
+  "uuid": "a7554b81-b427-4e8f-8476-cdfaaf401822"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Presentaci%C3%B3n_Everis.v1.pdf: Página 14\nRepository Service\nRepositoryAccess\nRepositoryFactory\nRepository\nDescription\nClass Service\nClassAccess\nClass\nDescription\nRepository Selector \nService\nRepositorySelectorAccess\nRepositorySelectorFactory\nRepository \nSelector\nDescription\nGT4 Java WS Core \nContainer\nClient\nRDF(S) \nResource\nRDF(S) \nResource\nExperimentación – RGAB: Ejemplos de uso (III)\n Solicitando acceso indirecto a un repositorio\nGetRepositoryFactoryRequest(\n  repository-name\n)\nGetRepositoryFactoryResponse(\n  endpoint-reference\n)\nRepository\nResource\ncreate\ncreate\nRepository \nResource \nEndpoint \nReference\n14\nMiguel Esteban Gutiérrez\n",
+  "speaker": "SYSTEM",
+  "uuid": "b5d13036-923d-4060-ba48-b98929d1e4ad"
+}

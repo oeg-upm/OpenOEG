@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: DynaLearn_exersises.pdf: Página 8\nDynaLearn exercises  \n8 \n \n \nWhen simulating the model, run a simulation in which the Number_of starts at Zero. \nThis should result in a state-graph in which this population starts growing from Zero and \nreaches it maximum size. Also run a simulation in which Number_of starts at a value \nhigher than Zero. Does this situation lead to the population becoming extinct (thus \nNumber_of going to Zero)? Why not? An additional assignment could be to adapt the \nmodel such that it does go to Zero, e.g. by including an emigration process. \n \n",
+  "speaker": "SYSTEM",
+  "uuid": "5db26fbc-f1d1-40e5-b2e5-6fecdea45b97"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 4._methodologies-Concpt-REEng.pdf: Página 32\nOntological Engineering \n©Asunción Gómez-Pérez,\nExample of Content Pattern: Participation\nOntology Design Pattern \nInformal \nGeneral  \nThe pattern consists in a ‘participant-in’ relation between objects and events, and assumes a time \nindexing for it. Time indexing is provided by the temporal location of the event at a time interval, \nwhile the respective spatial location at a space region is provided by the participating object. \nThe pattern should instantiate the classes Class and ObjectProperty. \nGraphical \n(UML) Diagram for the \nGeneral Solution \n \nNote: Diagram based on slides from the EKAW 2006 Tutorial about ‘Ontology Design Patterns). \n \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "1c0047c1-7ec4-49c9-93ee-27b36856e0fc"
-}

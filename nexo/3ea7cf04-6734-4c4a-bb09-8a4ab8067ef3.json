@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Examples.pdf: Página 4\nSCOVO Example - Model\ngeoes: http://geo linkeddata es/\ngeoes: http://geo.linkeddata.es/\nscovo: http://purl.org/NET/scovo#\ngeoes:ontology/Province\ngeoes:ontology/Year\nscovo:Dimension\nrdfs:subClassOf\nrdfs:subClassOf\nscovo:Item\nscovo:dimension\nscovo:Dataset\nscovo:dataset\n4\nSCOVO information\nhttp://sw.joanneum.at/scovo/schema.html\n",
+  "speaker": "SYSTEM",
+  "uuid": "3ea7cf04-6734-4c4a-bb09-8a4ab8067ef3"
+}

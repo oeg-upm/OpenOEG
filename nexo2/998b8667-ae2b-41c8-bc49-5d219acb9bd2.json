@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Helio.pdf: Página 16\nSet your title here in Slide Master Options\nDatasource Challenge\n16\n§  Twitter API has a limitation of the number of calls\no  Our speciﬁcation updates the data asyncronously from user \nrequests\n{ \n        \"id\" : \"Twitter asungomezperez\", \n        \"type\" : \"JsonDatasource\", \n        \"refresh\" : \"300000\", \n        \"arguments\" : [\"$.tweets.[*]\"], \n        \"connector\"  : { \n         \"arguments\" :[\"65UsI12RvUVH”,\"uHUQcp9YXP”, \"100880-QcvtT3”, \n \n \n \n \n ”o4SZmiRfTh6\",\"asungomezperez\",\"100\"], \n         \"type\" : \"TwitterConnector\", \n        } \n      } \n",
-  "speaker": "SYSTEM",
-  "uuid": "998b8667-ae2b-41c8-bc49-5d219acb9bd2"
-}

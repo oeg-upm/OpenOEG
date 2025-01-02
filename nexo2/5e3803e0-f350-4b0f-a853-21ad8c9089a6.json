@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_06_-_Lifecycle-selection.pdf: Página 20\nNeOn Lifecycle Models\n©Asunción Gómez-Pérez, Carmen Suarez-Figueroa\nSeveral Ontology Life Cycle Models are possible\n Assumption: Ontology requirements are known at the begining of the\nontology development project.\n Assumption: Ontology requirements can be not known at the begining of the\nontology development project and can change during the project.\nEvolutionary Prototyping\nRapid Throwaway Prototyping\nWaterfall\nThere is no a unique life cycle model valid for all the ontology development \nprojects and that each life cycle model is appropriate for a concrete project, \ndepending on several features. \nFor example, sometimes it is better a simple one (like waterfall), whereas other \ntimes it is most suitable a spiral one (if the analysis of the risk is needed within the \nproject).\n",
-  "speaker": "SYSTEM",
-  "uuid": "5e3803e0-f350-4b0f-a853-21ad8c9089a6"
-}

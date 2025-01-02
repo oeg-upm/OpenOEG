@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Sparqlex.pdf: Página 5\nQueries about the model\n• Give me all the instances of the class 'Ciudad' \n(city)\nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nSELECT ?x WHERE { ?x a pr:Ciudad. }\n",
+  "speaker": "SYSTEM",
+  "uuid": "9095d436-d1ab-4f55-b724-6072a149dd27"
+}

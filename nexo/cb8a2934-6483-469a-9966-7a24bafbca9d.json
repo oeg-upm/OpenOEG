@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SPARQL_optimization_slides.pdf: Página 11\nDARQ: Query Planning\nSource Assemblage\nFor each triple pattern, identify the sources which \npotentially contribute that pattern\nUses predicate information from service description\nBuilding Sub-queries\nFor each triple pattern\nFor each potential data source\n Add triple pattern to source sub-query\nProposed Improvements\nSource assemblage after logical (and physical?) \noptimisation\nGraph pattern matching (see next slide)\n",
-  "speaker": "SYSTEM",
-  "uuid": "cb8a2934-6483-469a-9966-7a24bafbca9d"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_05_-la-terminologia-en-las-ontologias-y-otros-recursos.pdf: Página 31\n© Guadalupe Aguado de Cea\n31\n¿Cómo se utilizan los lexicones en PLN?\n• Contienen toda la información lingüística necesaria para construir\nrepresentaciones de significado\nJohn went to the store\nGO\nAGENT John     TARGET store\nLexicon\nLexicon\nWent v past GO\nGo v. (NP_\nAccount n.  Domain [financial ]\nAccount v. …\nBank_1 n domain [financial ]\nBank_2 n domain [geography ]\nMoney n. domain [financial]\nTopic= \nfinancial\nbank……………\n………account\n………………………\nmoney…………\nWent vpast GO\nGo v. (NP_SUNJ ((role AGENT) (sem + animate))\n(VP ((verb GO)\n(PP ((prep TO)\n(NP ((role TARGET) (sem +loc))))\nJohn n. sem: human\nStore n. sem: loc\nAdaptado de Nancy Ide\n",
+  "speaker": "SYSTEM",
+  "uuid": "52c73d83-4ea4-403d-9e90-ee7ed9eeaf13"
+}

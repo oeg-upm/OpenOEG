@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 12\n©O. Corcho\n12\nOntological Engineering\nCopyright © 2005, The University of Manchester\nTable of contents\n•\nReasoning with OWL ontologies\n– Consistency checking\n•Disjointness\n•Restrictions\n– Primitive and Defined classes\n– Alternative definitions for a class (Vegetarian Pizzas: only vegetarian \ntoppings, no meat or fish toppings or not a MeatyPizza?)\n•Union classes and covering axioms\n–The Open World Assumption (closure)\n•Negation in OWL\n",
+  "speaker": "SYSTEM",
+  "uuid": "bdfa9e64-cf44-46df-852b-f3552f5c91b1"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 52\n© O. Corcho\n52\nOntological Engineering\nChunk 3. Formalize in DL, and then in OWL DL\n1. Concept definitions:\nA magazine is a publication. Broadsheets and tabloids are newspapers. A quality broadsheet \nis a type of broadsheet. A red top is a type of tabloid. A newspaper is a publication that must\nbe either a broadsheet or a tabloid.\nWhite van mans must read only tabloids.\n2. Restrictions:\nTabloids are not broadsheets, and broadsheets are not tabloids.\n3. Properties:\nThe only things that can be read are publications.\n4. Individuals:\nDaily Mirror\nThe Guardian and The Times are broadsheets\nThe Sun is a tabloid\n",
-  "speaker": "SYSTEM",
-  "uuid": "7584b3bb-47f7-4ee1-bf38-4a3257430766"
-}

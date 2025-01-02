@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 35\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nImplementación en PROLOG (I)\nFormalización en lógica de predicados de primer orden                                                                        \nMariano Fernández López\nEjemplo:\nLas cláusulas de la forma \nP,\nQ P,\nR PQ\nse escriben en PROLOG como\np.\nq :- p,\nr:- p, q\nHay recursos para atenuar el inconveniente de que no todas\nlas fórmulas lógicas se pueden expresar como cláusulas de Horn\nSe basa en la formalización en cláusulas de Horn:\n",
+  "speaker": "SYSTEM",
+  "uuid": "37ee70ff-0357-47b0-ac59-5743cca91928"
+}

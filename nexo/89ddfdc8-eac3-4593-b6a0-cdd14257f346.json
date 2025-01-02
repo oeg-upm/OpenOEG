@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion-2013.pdf: Página 9\nPlanificación \n \n \n \n \n REPRESENTACIÓN \n \n \n     (W,X,Y,Z) siendo: \nW =  posición horizontal del mono (una variable) \nX = 1 ó 0, dependiendo de si el mono está o no encima de \nla caja \nY = posición horizontal de la caja (una variable) \nZ = 1 ó 0, dependiendo de si el mono tiene o no las \nbananas \n  \n",
+  "speaker": "SYSTEM",
+  "uuid": "89ddfdc8-eac3-4593-b6a0-cdd14257f346"
+}

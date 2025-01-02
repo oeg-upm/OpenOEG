@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: DevTools.pdf: Página 12\nAdministrar «DevTools» : bootstrap\nREM   == ======================= ==\nREM   == TOOLS INSTALLATION      ==\nREM   == ======================= ==\nSET MAVEN_COMMAND=STEP - tools installation with devtools (download\nand extract)\nECHO [BOOTSTRAP] %MAVEN_COMMAND% >> %LOG_FILE%\nECHO [BOOTSTRAP] %MAVEN_COMMAND%\nCD /D %PROJECT_HOME%\nCALL mvn.bat -U -e devtools:update\nIF NOT %ERRORLEVEL% EQU 0 GOTO :finErreur\nEjecución de un batch shell en 3 etapas (después descompresión)\n◼Etapa 2 : ejecución del plugin DevTools\ne:/tools\n…/eclipse\n…/tomcat\n…/subclipse\n",
-  "speaker": "SYSTEM",
-  "uuid": "0fa1a8d3-0bac-4b10-9f21-e54bca88cd1c"
-}

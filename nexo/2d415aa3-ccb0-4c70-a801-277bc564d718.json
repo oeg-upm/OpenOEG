@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion-2013.pdf: Página 39\nPlanificación \n \n \nBúsqueda del plan en STRIPS \nQUITAR (A, B) \nsujeto (C) \nlibre (B) ^ sujeto (C) \nPONER (C, B) \nen-mesa (A) \nR \nsujeto (C) \nlibre (B) ^ sujeto (C) \nPONER (C, B) \nen-mesa (A) \nR \nComo la condición de la cima no está satisfecha en E2, \nse busca el operador que la añada \nA \nB \nC \nEstado E2 \n",
-  "speaker": "SYSTEM",
-  "uuid": "2d415aa3-ccb0-4c70-a801-277bc564d718"
-}

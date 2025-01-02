@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentacion_reunion_de_grupo_02mar2017.pdf: Página 8\nLinked Data model \nPro1 \nv \nProcess1 \nProcess2 \nProcess3 \n\"Defining transcribed \nregions using RNA-\nseq\" \n\"Yeast culture\" \n\"RNA extraction\" \n\"RNA purification\" \nrdfs:label \nrdfs:label \nrdfs:label \nrdfs:label \nhas process \nhas process \nhas process \nbfo:precedes \nbfo:precedes \n",
-  "speaker": "SYSTEM",
-  "uuid": "28aad019-ba76-437f-b220-f59e4948469c"
-}

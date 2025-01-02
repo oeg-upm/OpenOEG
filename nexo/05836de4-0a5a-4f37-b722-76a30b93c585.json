@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GC-Redes_Sem%C3%A1nticas-v3.pdf: Página 10\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nRedes Semánticas\nSuceso-ver\nVer-?\nX?\nInst\nAgente\nMadrid\nMuseo\nObjeto\nLugar\nCONSULTA: ¿quién vió un museo en Madrid?\nEQUIPARACIÓN 1:\nVer-? = Ver-1\nX? = Pepe\nEQUIPARACIÓN 2:\nVer-? = Ver-3\nX? = María\n",
-  "speaker": "SYSTEM",
-  "uuid": "05836de4-0a5a-4f37-b722-76a30b93c585"
-}

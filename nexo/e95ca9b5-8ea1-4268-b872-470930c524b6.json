@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 56\n© O. Corcho, R.García-Castro, O. Muñoz-García\n59\nRDF and RDF Schema\nQueries on the instances\n4) Get the number of inhabitants of Santiago de Compostela\nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nSELECT ?x WHERE { pr:Santiago_de_Compostela pr:NumeroHabitantes ?x. }\n5) Get the number of inhabitants of Santiago de Compostela and of Arzua\nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nSELECT ?x WHERE { \n{pr:Santiago_de_Compostela pr:NumeroHabitantes ?x.} \nUNION   \n{pr:Arzua pr:NumeroHabitantes ?x.}\n}\n6) Get different places with the inhabitants number, ordering the results by the name of the place (ascending) \nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nSELECT ?x ?y  WHERE { $sitio pr:NumeroHabitantes ?y;\nrdfs:label ?x.}\nORDER BY ASC(?x)\n",
-  "speaker": "SYSTEM",
-  "uuid": "e95ca9b5-8ea1-4268-b872-470930c524b6"
-}

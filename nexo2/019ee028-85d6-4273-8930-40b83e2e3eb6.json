@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Helio.pdf: Página 34\nSet your title here in Slide Master Options\nHelio Virtualizer \nHelio scenario 5: Using third-part RDF generators\n34\nPublisher\nSPARQL \nResources \nDump \nRDFDatasource\nHelio Linker \nHelio Virtualizer \nRDFDatasource\nSPARQL \nConnector\nLocalFile \nConnector\nHelio Virtualizer \nRDFDatasource\nGet \nConnector\nRDF \nRDF \nSPARQL Generate \nMORPH \nMORPH \nRDF \nRML Mapping \nRML Mapping \nSPARQL Mapping \nLinking \nCleaning \nRDF generation \nReal Time data \nUnderneath software \nnot always generates \nRDF on demand \n",
-  "speaker": "SYSTEM",
-  "uuid": "019ee028-85d6-4273-8930-40b83e2e3eb6"
-}

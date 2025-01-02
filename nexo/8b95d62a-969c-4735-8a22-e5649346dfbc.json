@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SWRL-v2.pdf: Página 4\n© O. Corcho, MC Suárez de Figueroa Baonza\n4\nOWL and SWRL\nSWRL: Syntax XML Example\nExample:\nhasParent (?x,?y) ^ hasBrother(?y, ?z) → hasUncle(?x, ?z)\n",
+  "speaker": "SYSTEM",
+  "uuid": "8b95d62a-969c-4735-8a22-e5649346dfbc"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SummaryInternship2014-OEG.pdf: Página 8\nFragment detection The problem \nProblem statement:  \n \nGiven a repository of workflows, what are the workflow fragments I can deduce from it?  \n \n \nUseful for: \n•Finding relationships between workflows and sub-workflows. \n•Most used fragments, most executed, etc. \n•Workflow cloud of reused fragments. \n•Proposing new templates with the popular fragments. \n•Summarizing existing workflows using popular fragments. \n \n8 \n",
-  "speaker": "SYSTEM",
-  "uuid": "656bb07d-cabb-4bb1-bd57-231e18b3932d"
-}

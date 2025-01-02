@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SPARQL_Streams.pdf: Página 2\nResearch Goals - Integrator\nMapping & Rewriting\nIdentify extensions to SPARQL algebra for streaming data\nWindows\nC-SPARQL has types issues\nIdentify rewriting rules for the algebra\nUse (Schmidt et al, 2010) as a starting point\nGenerate source mappings from semantic data source \nproperty documents\nIncorporate semantic rewriting for SPARQL-STR queries \n(existing approaches available) \nUse TBox assertions\n",
-  "speaker": "SYSTEM",
-  "uuid": "095c4b55-ad10-4ea2-b3b3-58ef44d53ea1"
-}

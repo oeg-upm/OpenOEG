@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Re-engineer_NOR.pdf: Página 37\nProcess\n2.2   Identify the thesaurus terms, tj, which are narrower terms of ti. They are referenced in \nthe same record that contains ti.\n2.3  For each one of the above identified thesaurus terms tj:\n2.3.1  Create the corresponding ontology class, Cj class, if it is not created yet.\n2.3.2  Set up the subClassOf relation between Cj and Ci\n2.3.3  Repeat from step 2.2 for tj as a new ti.\nTerm\nBT\nNT\nRT\nUF\nTerm1\nBTTerm1\nNTTerm1\nNTTerm2\nTerm2\nUFTerm1\nPR-NOR Example\n37\nTerm2\nBTTerm2\nNTTerm3\nNTTerm4\nRTerm3\nRTerm4\nRTerm5\n© A Method for Re-engineering Non-Ontological Resources for Building Ontologies \nBoris Villazón-Terrazas, Mari Carmen Suárez Figueroa\n",
+  "speaker": "SYSTEM",
+  "uuid": "66b0ef62-2fad-4638-9faa-fa59f821b707"
+}

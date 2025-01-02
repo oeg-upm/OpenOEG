@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Garc%C3%ADaEtAl_CKCaR09.pdf: Página 12\nTagora Sense Repository\n•\nLinked data enabled service endpoint\n•\nMetadata about tags and their possible senses.\n• Wikipedia pages -> Disambiguation or Redirection links \n• Terms and frequencies\n• DBpedia resource related to each Wikipedia page.\n•\nQuery using:\n• REST -> http://tagora.ecs.soton.ac.uk/tag/apple\n• SPARQL end-point.\n•\nResult: RDF document\n•\nDBpedia coverage: \n• 2.6 million things, 213,000 people, 328,000 places, 57,000 music \nalbums, 36,000 films, 20,000 companies.\n• Wordnet as of 2006 contains about 150,000 words \n•\nNamed entity recognition\n•\nClasses, Instances, and semantic relations\n12\n",
-  "speaker": "SYSTEM",
-  "uuid": "24a09257-7058-4c61-ba7c-d629b1aeb469"
-}

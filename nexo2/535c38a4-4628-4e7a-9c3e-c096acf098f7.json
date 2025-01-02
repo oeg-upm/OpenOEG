@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GeneralOntologies-v3_%28mariano%29.pdf: Página 31\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work\n31\nTIME OWL: EXAMPLE OF GENERAL ONTOLOGY\nTemporalEntity\nInstant\nInterval\nProperInterval\nDateTimeInterval\nDateTimeDescription\nJanuary\nDurationDescription\nYear\nTemporalUnit\nTimeZone\nafter\nbefore\nintervalAfter\nintervalBefore\nDayOfWeek\ndayOfWeek\nhasEnd\nhasDateTimeDescription\nhasDurationDescription\nhasBeginning\ninDateTime\ninside\nintervalContains\ntimeZone\n…\nhasUnitType\ninstanceOf\ninstanceOf\ninDateTime\nGelocatil\nhasExpirationDay\ninstanceOf\nGelocatilG13\nGelocatilG13ExpirationDate\nGelocatilG13DateTimeDescription\n",
-  "speaker": "SYSTEM",
-  "uuid": "535c38a4-4628-4e7a-9c3e-c096acf098f7"
-}

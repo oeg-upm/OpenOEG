@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Garc%C3%ADaEtAl_CKCaR09.pdf: Página 20\nConclusions & Future Work\n• Conclusions:\n• Inspired by IR techniques we have presented a tag \ndisambiguation algorithm relying on DBpedia & Wikipedia \ninformation.\n• Vector representation of the tag contexts and Dbpedia \nresources using a common vocabulary based on term \nfrequency.\n• Preliminary results and some identified problems:\n• Few terms in the context\n• Terms in the context do not appear in the common \nvocabulary\n• Few terms in the Dbpedia resource\n• We have presented different definitions of contexts for \ntagging activities as a way to ameliorate tagging data \nscarceness. \n20\n",
-  "speaker": "SYSTEM",
-  "uuid": "5bb3c199-5117-44e3-a4ee-78e03d379b97"
-}

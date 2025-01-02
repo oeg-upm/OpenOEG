@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 36\nSetting up the local infrastructure \nRuntime Evaluation Service (II) \n•\nConfiguration details used for the tutorial, continued: \n– RES Worker, continued: \n•  Configuration file (%FUSE_WORKER%\\SEALS\\configuration.properties): \nESWC 2011, 29/05/2011 \n36 \nenvironment=INTEGRATION TESTING \n \n#### \n# RES Worker Tools Services specific configuration \n#### \n \ntool.oet.location.package=SEALS/itest \ntool.omt.location.package=SEALS/packages/omt \ntool.srst.location.package=SEALS/packages/srst \ntool.sst.location.package=SEALS/packages/sst \ntool.swst.location.package=SEALS/packages/swst \n \n#### \n# RES Worker Repository Access Services specific configuration \n#### \n \ntdrs.url=http://localhost:8080/tdrs-web-1.1-b/ \ntdrs.tmp_directory=SEALS/tmp/repositories/tdrs \n \nrrs.url=http://localhost:8080/rrs-web-1.1-b/ \nrrs.tmp_directory=SEALS/tmp/repositories/rrs \n \n#### \n# RES Worker Utility Services specific configuration \n#### \n \nrc.connection_timeout=5000 \nrc.tmp_directory=SEALS/tmp/rc \n",
-  "speaker": "SYSTEM",
-  "uuid": "a0ce6e0b-b7d2-4bdd-a9b0-16a01162e376"
-}

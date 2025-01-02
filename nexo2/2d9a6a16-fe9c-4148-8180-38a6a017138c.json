@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2._Ontolog%C3%ADas-long-RD.pdf: Página 63\n©Asunción Gómez-Pérez\n05/11/2024 12:27 - 65\nGeolinked data ontologies\nhasStatisticalData\non\nOntology\nSpecification\nLegend\nhydrOntology\n4\nFAO\nFAO \nGeopolitical \nontology\nWGS84\n4\nW3C \nVocabulary\nGML\n4\nGML \nSpecification\nO. \nStatistics\nSCOVO\nO. \nTime\nW3C Time\nhasLat/Long\nhasGeometry\nhasLat/Long\nhasGeometry\nhasLocation/isLocated\nThesaurus\nUNESCO \n4\nEGM / ERM\nGeoNames\n…\nscv:Dimension\nscv:Item\nscv:Dataset\nWGS84 Geo \nPositioning: an \nRDF vocabulary\nhydrographical \nphenomena \n(rivers, lakes, etc.)\nOntology for OGC \nGeography Markup \nLanguage \nVocabulary for \ninstants, \nintervals, \ndurations, etc.\nNames and \ninternational code \nsystems for \nterritories and \ngroups\nFollowing the INSPIRE \n(INfrastructure for SPatial InfoRmation in Europe) recommendation.\nhydrOntology,SCOVO, FAO Geopolitcal, WGS84, GML, and Time\nClasses\n33\n33\nObject Properties\n44\n44\nData Properties\n318\n318\nreused\n",
-  "speaker": "SYSTEM",
-  "uuid": "2d9a6a16-fe9c-4148-8180-38a6a017138c"
-}

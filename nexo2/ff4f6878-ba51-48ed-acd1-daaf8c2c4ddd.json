@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Master_I_AI_Terminology_in_ontologies_28-10-09%284%29.pdf: Página 45\n45\nReusing and sharing KOS in the Semantic Web: \nSKOS \n• Simple Knowledge Organization System\n• Simple, flexible, extensible, machine-understandable \nrepresentation for sharing KOS\n• Goal: to enable easy publication of controlled structured \nvocabularies for the semantic web\n– Thesauri\n– Classification schemes\n– Subject heading systems \n– Taxonomies\n– Other ‘controlled language’\n• How: by using a common data model for sharing and linking \nknowledge organization systems\n• BUT SKOS is not a formal knowledge representation \nlanguage. \nMany exist and are in \nuse in cultural heritage, \nmedicine, libraries, …\n",
-  "speaker": "SYSTEM",
-  "uuid": "ff4f6878-ba51-48ed-acd1-daaf8c2c4ddd"
-}

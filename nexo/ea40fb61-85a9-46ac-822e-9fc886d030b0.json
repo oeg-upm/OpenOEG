@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISSGC08.pdf: Página 8\n©<Miembro Grupo>\n8\nGrid Security Infrastructure (GSI)\n• Security at network level: Public Key Infrastructure (PKI)\n• Based on pair of keys: Public and Private keys\nGenerates and sends \npublic key and requests \npublic certificate\nUser\nCertification \nAuthority\nPrivate key \nencrypted \nand stored\nSends CA Root Certificate\nNew \ngenerated \nCetificate\n",
-  "speaker": "SYSTEM",
-  "uuid": "ea40fb61-85a9-46ac-822e-9fc886d030b0"
-}

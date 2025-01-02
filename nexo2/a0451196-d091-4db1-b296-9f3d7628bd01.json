@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 10\nUnions of conjunctive queries \nExample:  \n“Give me all names of co-authors or friends of Tim \nBerners-Lee \n11 \nOntological Engineering Group.  \nUNIONs of conjunctive queries… \nPREFIX foaf: <http://xmlns.com/foaf/0.1/>  \nSELECT ?CoAuthN ?FrN \nWHERE {  \n { [ foaf:maker <http://dblp.l3s.de/…/authors/Tim_Berners-Lee>,  \n                     [ foaf:name ?CoAuthN ] ] . } \n UNION \n { <http://www.w3.org/People/Berners-Lee/card#i> foaf:knows ?F . \n         ?F foaf:name ?FrN } \n      } \n \n \n \n?CoAuthN \n?FrN \n\"Lalana Kagal\" \n\"Tim Berners-Lee\" \n\"Dan Connolly” \n\"Jim Hendler” \n… \n\"Michael Hausenblas” \n\"Jim Hendler” \n\"Charles McCathieNevile”  \n… \nNote: variables can be  \nunbound in a result! \n",
-  "speaker": "SYSTEM",
-  "uuid": "a0451196-d091-4db1-b296-9f3d7628bd01"
-}

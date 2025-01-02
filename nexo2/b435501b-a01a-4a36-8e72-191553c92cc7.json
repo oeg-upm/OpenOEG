@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OWL.pdf: Página 5\n© O. Corcho, MC Suárez de Figueroa Baonza \n5 \nOWL 2 \nDescription Logics \n• \nA family of logic based Knowledge Representation formalisms \n–  Descendants of semantic networks and KL-ONE \n–  Describe domain in terms of concepts (classes), roles (relationships) and individuals \n•  Specific languages characterised by the constructors and axioms used to assert knowledge \nabout classes, roles and individuals. \n•  Example: ALC (the least expressive language in DL that is propositionally closed) \n–  Constructors: boolean (and, or, not) \n–  Role restrictions \n• \nDistinguished by: \n–  Model theoretic semantics \n•  Decidable fragments of FOL \n•  Closely related to Propositional Modal & Dynamic Logics \n–  Provision of inference services \n•  Sound and complete decision procedures for key problems \n•  Implemented systems (highly optimised) \n",
-  "speaker": "SYSTEM",
-  "uuid": "b435501b-a01a-4a36-8e72-191553c92cc7"
-}

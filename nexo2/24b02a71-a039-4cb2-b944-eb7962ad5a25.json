@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: AnaIglesiasMolina-MBC_TFM.pdf: Página 30\nUPM / Japan collaboration\nConclusion\n30\nOntology-based data access technology applied to Bio2RDF\n1.\nThis work is intended to be a first approach to change the \nmethodology of Bio2RDF using OBDA\n2.\nSeveral mappings have been created for the data sources that \nhave their data published as CSV and relational database\n3.\nThe mappings easily maintained and can be reused in other \nOBDA engines\n4.\nAn evaluation of the process has been made with a subset of the \ndata sources \n5.\nThe issues that appeared on the evaluation are described in \norder to improve the methodology proposed\nConclusions\n",
-  "speaker": "SYSTEM",
-  "uuid": "24b02a71-a039-4cb2-b944-eb7962ad5a25"
-}

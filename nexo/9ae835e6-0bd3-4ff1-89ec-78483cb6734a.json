@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 04_OWL.pdf: Página 14\n© O. Corcho, MC Suárez de Figueroa Baonza \n14 \nOWL 2 \nChunk 1. Formalize in DL \n1. Concept definitions: \nGrass and trees must be plants. Leaves are parts of a tree but there are other parts of a tree \nthat are not leaves. A dog must eat bones, at least. A sheep is an animal that must only eat  \ngrass. A giraffe is an animal that must only eat leaves. A mad cow is a cow that eats brains  \nthat can be part of a sheep. \n \n2. Restrictions: \n Animals or part of animals are disjoint with plants or parts of plants. \n \n3. Properties: \n Eats is applied to animals. Its inverse is eaten_by. \n \n4. Individuals: \n Tom. \n Flossie is a cow. \n Rex is a dog and is a pet of Mick. \n Fido is a dog. \n Tibbs is a cat. \n",
+  "speaker": "SYSTEM",
+  "uuid": "9ae835e6-0bd3-4ff1-89ec-78483cb6734a"
+}

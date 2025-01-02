@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 48\nATHENS 2010 \n© Raúl García Castro et al. \nStructure of DL Ontologies \n•  A DL ontology can be divided into two parts: \n-  Tbox (Terminological KB): a set of axioms that describe the \nstructure of a domain: \n•  Doctor ⊆ Person \n•  Person ⊆ Man ∪ Woman \n•  HappyFather ⊆ Man ∩ ∀hasDescendant.(Doctor ∪ \n∀hasDescendant.Doctor) \n-  Abox (Assertional KB): a set of axioms that describe a \nspecific situation: \n•  John ∈ HappyFather  \n•  hasDescendant (John, Mary) \n48 \n",
-  "speaker": "SYSTEM",
-  "uuid": "5bb81674-d737-4ef0-b706-a40e1f482416"
-}

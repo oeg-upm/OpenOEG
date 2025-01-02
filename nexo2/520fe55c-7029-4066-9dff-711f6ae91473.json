@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 5.metodologia-v2%28asun%29.pdf: Página 53\n© A. Gómez Pérez, M.C. Suarez de Figueroa, B. Villazón,  E.Montiel, G. Aguado, M. Espinoza \n56 \nOntological Engineering \nKey aspects of Ontological Engineering \n• Ontologies \n– Single versus network of ontologies? \n– Are ontologies built from scratch or reusing knowledge-aware \nresources? \n– Are mappings used for solving conceptual mistmaches? \n• Instances \n– Where are the data/instances? \n• Instances are in the ontology \n• Instances are in RDF files independently of the ontology \n• Data are kept in the original sources \n– Are instances distributed or centralized? \n– Have instances a very high rate of changes? \n– Heterogeneous provenance of instances \n– Degrees of data quality \n– Permissions \n",
-  "speaker": "SYSTEM",
-  "uuid": "520fe55c-7029-4066-9dff-711f6ae91473"
-}

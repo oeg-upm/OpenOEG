@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SPARQL_Streams.pdf: Página 8\nResearch Idea\nWhat do we need to do to C-SPARQL to make it work?\nImprove type system\nWindow output timestamped bag of triples\nWindow-to-stream operators\nSPARQL 1.1 Aggregation\nPeriodic evaluation \nDo we need this?\nWhat implications for SNEEql?\n(This is what AG was discussing with Werner last year)\nCan we extend the formalism of the translation approach of \nChebotko et al for the integrator, i.e. formalise R2O/S2O?\nMappings that expose RDBMS data\nStreaming data\n",
+  "speaker": "SYSTEM",
+  "uuid": "1a7385a4-f63e-4c45-bd3d-946de317951e"
+}

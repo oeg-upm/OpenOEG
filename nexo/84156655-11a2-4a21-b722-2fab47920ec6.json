@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 20161215-MappingpediaPresentation.pdf: Página 18\nSummary and Future Work\n• RDB2RDF: dataset, ontology, mapping\n• Mappingpedia: repository of mappings\n•\nuse cases\n•\nscenarios\n• Future Work: Mapping recommendation\n•\nBy label: table/column name\n•\nmost of tables Estudiante is mapped to class \nfoaf:Person\n•\nBy value: integrating with Ahmad’s work\n•\nthe value in column X is most likely about temperature, \nso you can map it to property Y\n• Call for Logo Proposal  \n•\nEx.:\n18\n",
+  "speaker": "SYSTEM",
+  "uuid": "84156655-11a2-4a21-b722-2fab47920ec6"
+}

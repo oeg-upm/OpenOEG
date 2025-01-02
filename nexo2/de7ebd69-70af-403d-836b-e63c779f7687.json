@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 35\nSetting up the local infrastructure \nRuntime Evaluation Service (I) \n• Configuration details used for the tutorial: \n– Used source code from the trunk \n– RES Resources deployed to %ENV%\\resources \n– RES Core: \n• FUSE ESB instance installed in %ENV%\\fuse-esb-\n4.2.0\\core (from now on %FUSE_CORE%) \n– RES Worker:  \n• FUSE ESB instance installed in %ENV%\\fuse-esb-\n4.2.0\\worker (from now on %FUSE_WORKER%) \nESWC 2011, 29/05/2011 \n35 \n",
-  "speaker": "SYSTEM",
-  "uuid": "de7ebd69-70af-403d-836b-e63c779f7687"
-}

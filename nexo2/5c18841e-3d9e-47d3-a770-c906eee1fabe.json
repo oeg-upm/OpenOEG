@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 15\n•15\nRDF Serialisations. N3\n@base  <http://www.oeg-upm.net/ontologies/people >\n@prefix person: <http://www.ontologies.org/ontologies/people#>\n:Asun  person:hasColleague :Raul ;\nh\nH\nP\n“htt\n//\nfi\n/”\nperson:hasHomePage “http://www.fi.upm.es/”.\n:Oscar person:hasColleague :Asun ;\nperson:hasName “Óscar Corcho García”.\n29\nExercise\n• Objective\n• Get used to the different syntaxes of RDF\n• Tasks\n• Take the text of an RDF file and create its corresponding graph\n• Take an RDF graph and create its corresponding RDF/XML and N3 files \n30\n",
-  "speaker": "SYSTEM",
-  "uuid": "5c18841e-3d9e-47d3-a770-c906eee1fabe"
-}

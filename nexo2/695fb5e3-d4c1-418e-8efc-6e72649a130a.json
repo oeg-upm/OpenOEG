@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Extending_ontology_engineering_practices.pdf: Página 10\nExtending ontology engineering practices for ontology-based application development\nEvaluation Plan\n10\n§ Experiment:\no Given a set of ontologies for Open Data publication and their \nintended use cases.\n• Generate APIs from these ontologies. These APIs will be \ngenerated with our approach and one/two from the SoA.\n• Give a set of task to Application Developers and see how \nthey use these APIs to execute them. \n§ Expected results:\no Application developers spends less time understanding our \nontology-based API approach and as a result less time doing \nthose given tasks compared to other tools.\no Data retrieved from the ontology-based API is enough to \nsolve the intended use cases of the ontology.\n",
-  "speaker": "SYSTEM",
-  "uuid": "695fb5e3-d4c1-418e-8efc-6e72649a130a"
-}

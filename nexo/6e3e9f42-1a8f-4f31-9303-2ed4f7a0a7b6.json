@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PatriciaMart%C3%ADn.pdf: Página 16\nStage 2: Conversion into RDF \nMartín-Chozas, OEG\n16\nOEG weekly meeting, 31.05.2018\n■Converted resources\n\nNew LL glossary (ES; TBX)\n\nNew DP glossary (EN; TBX)\n\nNew IS glossary (EN; TBX)\n\nExisting LL Termcat glossary (CA, EN, ES, FR; XML)\n■Vocabularies applied: fist approach\nSKOS\nskos:prefLabel\nskos:altLabel\nskos:definition\nskos:note\nskos:broader\nskos:topConcept\nDublinCore\ndc:creator\ndc:date\ndc:title\ndc:description\n\nOntolex\nVartrans Module\n",
+  "speaker": "SYSTEM",
+  "uuid": "6e3e9f42-1a8f-4f31-9303-2ed4f7a0a7b6"
+}

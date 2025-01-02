@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Vidal.Sep19.pdf: Página 44\nPage 44\nData Changes….\nPREFIX iasis:<http://iasis/vocab/>\nSELECT ?id  ?stage ?limit \n WHERE {\n  ?bm  a  iasis:LungCancerBiomarker .\n  ?bm iasis:associated ?obs .\n  ?bm iasis:limit ?limit .\n  ?bm iasis:stage ?stage\n  ?id iasis:associated ?bm .\n   }\nLung Cancer Biomarkers?\niasis:CYFRA-21-1\niasis:50\niasis:NSE\niasis:70\niasis:CYFRA-21-1\niasis:70\niasis:II\niasis:III\niasis:III\n",
-  "speaker": "SYSTEM",
-  "uuid": "fe0c34e5-c79c-42ee-abf6-1c4f0239dd33"
-}

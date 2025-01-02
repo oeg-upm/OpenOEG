@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_MGLD.pdf: Página 3\n22/10/12 \n3 \nIdentification and analysis of the data sources \nWe have to distinguish  \n•  Open and publish data that government agencies have \nnot yet opened up and published \n•  Task that may require contacting to specific government data \nowners to get access to their legacy data \n•  Reuse and leverage on data already opened up and \npublished by government agencies \n•  Task to look for these data in public government catalogs \n•  Open Government Data \n•  datacatalogs.org \n•  Open Government Catalog \n•  Open Data Euskadi, datos.gob.es \n5 \nSpecification \nIdentification and analysis of the data sources \nAfter we have identified and selected the government data \nsources  \n•  Search and compile all the available data and \ndocumentation about those resources \n•  Identify the schema of those resources including \nconceptual components and their relationships \n•  Identify the items in the domain, i.e., things whose \nproperties and relations are described in the data \nsources \n \n \n6 \nSpecification \n",
-  "speaker": "SYSTEM",
-  "uuid": "c0f9470b-a608-4a0f-8ff6-4f8a38215650"
-}

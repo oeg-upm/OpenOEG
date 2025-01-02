@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2.RDF%28S%29.pdf: Página 19\n• 19 \nRDF Reification \n•  RDF statements about other RDF statements \n•  “Raúl believes that Oscar’s birthdate is on Feb 2nd, 1976 and \nthat his e-mail address is ocorcho@fi.upm.es” \n•  Expressed using rdf:Statement, rdf:subject, \nrdf:predicate, and rdf:object \n•  RDF Reification \n•  Allows expressing beliefs (and other modalities) \n•  Allows expressing trust models, digital signatures, etc. \n•  Allows expressing metadata about metadata \n37 \npeople:Raul \npeople:Oscar \nmodal:believes \n“ocorcho@fi.upm.es” \nproperties:hasEmailAddress \n“1976-02-02”^^xsd:date \nproperties:hasBirthDate \nMain value of a structured value \n•  Sometimes one of the values of a structured value is \nthe main one \n•  The weight of an item is 2.4 kilograms  \n•  The main value is 2.4, which is expressed with rdf:value \n•  Scarcely used \n38 \nproduct:Item1 \n      \nproduct:hasWeight \n“2.4”^^xsd:float \nrdf:value \nunits:Kilogram \nunits:hasWeightUnit \n",
-  "speaker": "SYSTEM",
-  "uuid": "48b902f9-351c-4bd1-8256-7eed277b3065"
-}

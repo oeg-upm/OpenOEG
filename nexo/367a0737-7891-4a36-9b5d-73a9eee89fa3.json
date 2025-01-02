@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Designing_a_Text_Classification_System_using_Statistical_NLP.pdf: Página 5\nIntroduction \nProblem Definition \nS=(Q, U, R)  \nQ = System queries, U=User questions,  \nR = U x Q,  relates user questions with system queries \n \nWe need to find:  \nf (u ϵ U)={q ϵ Q : (u , q) ϵ R} \n \nIf we think of system queries as categories we can address \nthis problem as a text classification problem \n \n<Cuál es la información de los prod.., ?c> \n \n",
+  "speaker": "SYSTEM",
+  "uuid": "367a0737-7891-4a36-9b5d-73a9eee89fa3"
+}

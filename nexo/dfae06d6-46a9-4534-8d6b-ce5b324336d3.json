@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 34\n© O. Corcho, R.García-Castro, O. Muñoz-García\n34\nRDF and RDF Schema\nRDF Containers\n•\nThere is often the need to describe groups of things\n–\nA book was created by several authors\n–\nA lesson is taught by several persons\n–\netc.\n•\nRDF provides a container vocabulary\n–\nrdf:Bag → A group of resources or literals, possibly including duplicate members, \nwhere the order of members is not significant.\n–\nrdf:Seq → A group of resources or literals, possibly including duplicate members, \nwhere the order of members is significant.\n–\nrdf:Alt → A group of resources or literals that are alternatives (typically for a \nsingle value of a property).\noeg:Oscar\n“ocorcho@fi.upm.es”\n“oscar.corcho@upm.es”\nrdf:_1\nperson:hasEmailAddress\nrdf:_2\nrdf:Seq\nrdf:type\n",
+  "speaker": "SYSTEM",
+  "uuid": "dfae06d6-46a9-4534-8d6b-ce5b324336d3"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Helio-no_animations.pdf: Página 3\nSet your title here in Slide Master Options\nCommon challenges\n3\n▪\nCope with the diﬀerent data sources\no Access methods, i.e., API, ﬁle, DB\no Formats, i.e., JSON, CSV, Tabular, HTML\no Security, e.g., APIs with Oath, ﬁles with passwords\n▪\nClean data\no Lowercase, missing values\n▪\nLink data\no Interlink data from diﬀerent sources\n▪\nPublish as an RDF view the data\no Enable a SPARQL endpoint\no Allow resource access\no Dump generation\n▪\nOthers\no Real-time data\no API restrictions in the number of calls per day\n",
-  "speaker": "SYSTEM",
-  "uuid": "812f520d-e215-4fa6-ab2a-596c15ff55cf"
-}

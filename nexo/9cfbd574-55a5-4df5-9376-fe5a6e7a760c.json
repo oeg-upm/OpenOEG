@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ISSGC08.pdf: Página 23\n©<Miembro Grupo>\n24\nDistributed File Management\n• Distributed File Systems\n– Wide Area File Access\n– Storage Resource Manager SRM interface to File Storage\n• Exists OGF Standard\n– Difficulties\n• Scaling issues (servers, clients, updates), secutiry\n• Managed Storage Systems\n– Stores data in the order of Petabytes\n– Total-throughput scales with the size of the installation\n– Supports several hundreds to thousands of clients\n– Adding / removing storage nodes w/o system interruption\n",
+  "speaker": "SYSTEM",
+  "uuid": "9cfbd574-55a5-4df5-9376-fe5a6e7a760c"
+}

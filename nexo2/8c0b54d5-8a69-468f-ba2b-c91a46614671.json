@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 9\nAnnotations\n• \nAnnotations are linguistic information or metadata \nassociated to the content in documents \n• \nAnnotations consist of features with a name and a \nvalue. E.g.: dog   TOKEN  kind=word\npos=NN (Part of speech) \nlength=3\nGATE\n•NP: proper noun\n•VBD: verb past tense\n•DT: determiner\n•NN: noun-singular\n•NP: proper noun\n•VBD: verb past tense\n•DT: determiner\n•NN: noun-singular\n",
-  "speaker": "SYSTEM",
-  "uuid": "8c0b54d5-8a69-468f-ba2b-c91a46614671"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 46\n•  SPARQL1.1 will define SPARQL query answering \nover OWL2 ontologies and RIF rule sets:  \n•  http://www.w3.org/TR/sparql11-entailment/ \n•  RDF Entailment Regime \n•  RDFS Entailment Regime \n•  D-Entailment Regime \n•  OWL 2 RDF-Based Semantics Entailment Regime \n•  OWL 2 Direct Semantics Entailment Regime \n•  RIF Core Entailment \n•  Won’t go into details of those, but sketch the main ideas! \n \n54 \nOntological Engineering Group \nSPARQL1.1 Entailment Regimes \n",
-  "speaker": "SYSTEM",
-  "uuid": "17920158-5ea8-4130-95b4-ff332b9690f2"
-}

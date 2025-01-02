@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologies-TheoreticalAspects.pdf: Página 27\n©Asunción Gómez-Pérez\n27\nClasses and Class Hierarchy (II)\n Organize the classes into a hierarchical taxonomy by asking if by being an instance \nof one class, the object will necessarily (i.e., by definition) be an instance of some \nother class.\n If a class A is a superclass of class B, then every instance of B is also an \ninstance of A\n Apple is a subclass of Fruit Æ Every apple is a fruit\n Red wines is a subclass of Wine Æ Every red wine is a wine\n Chianti wine is a subclass of Red wine  Æ Every Chianti wine is a red wine\n A single person is not a subclass of all persons\n",
+  "speaker": "SYSTEM",
+  "uuid": "2ae1aa5b-27f4-40f6-b22e-da9f53ec21cb"
+}

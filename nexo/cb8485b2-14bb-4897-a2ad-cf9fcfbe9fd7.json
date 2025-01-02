@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 11\n© O. Corcho\n11\nOntological Engineering\nRDF and URIs\n•\nRDF uses URIRefs (Unique Resource Identifiers\nReferences) to identify resources.\n–\nA URIRef consists of a URI and an optional Fragment Identifier separated \nfrom the URI by the hash symbol #.\n–\nExamples\n• http://www.co-ode.org/people#hasColleague\n• coode:hasColleague\n•\nA set of URIRefs is known as a vocabulary\n–\nE.g., the RDF Vocabulary \n•\nThe set of URIRefs used in describing the RDF concepts: rdf:Property,\nrdf:Resource, rdf:type, etc.\n–\nThe RDFS Vocabulary \n•\nThe set of URIRefs used in describing the RDF Schema language: rdfs:Class, \nrdfs:domain, etc.\n–\nThe ‘Pizza Ontology’ Vocabulary \n•\npz:hasTopping, pz:Pizza, pz:VegetarianPizza, etc.\n",
+  "speaker": "SYSTEM",
+  "uuid": "cb8485b2-14bb-4897-a2ad-cf9fcfbe9fd7"
+}

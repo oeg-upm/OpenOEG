@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 13\n© O. Corcho\n13\nOntological Engineering\nRDFS: RDF Schema\n•\nW3C Recommendation\n•\nRDF Schema extends RDF to enable talking about classes of resources, \nand the properties to be used with them.\n–\nClass definition: rdfs:Class, rdfs:subClassOf\n–\nProperty definition: rdfs:subPropertyOf, rdfs:range, rdfs:domain\n–\nOther primitives: rdfs:comment, rdfs:label, rdfs:seeAlso, rdfs:isDefinedBy\n•\nRDF Schema provides the means to describe application specific RDF \nvocabularies.\n•\nRDFS vocabulary adds constraints on models, e.g.:\n–\nx,y,z type(x,y) and subClassOf(y,z) type(x,z)\nex:Person\nrdf:type\nex:Oscar\nex:Animal\nrdfs:subClassOf\nex:Person\nex:Animal\nrdf:type\n",
+  "speaker": "SYSTEM",
+  "uuid": "18dec395-e820-42ac-9ee5-4462978bab8c"
+}

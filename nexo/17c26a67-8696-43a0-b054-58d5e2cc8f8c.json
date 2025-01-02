@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Sparqlex.pdf: Página 24\nWith/without Inferencing\n• Ask if is there an instance of Pueblo (Town) \nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nASK WHERE {?a a pr:Pueblo}\n• Ask if is there an instance of Ermita (Chapel)\nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nASK WHERE {?a a pr:Ermita}\n",
+  "speaker": "SYSTEM",
+  "uuid": "17c26a67-8696-43a0-b054-58d5e2cc8f8c"
+}

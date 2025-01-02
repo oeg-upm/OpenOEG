@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SparqlDQPGrupo.pdf: Página 29\nThe results\n• Problems with the results retrieved from DBPedia: I \ndo not get all of them, limited to a certain amount, \nsolution on its way\n(previous) query:\nPREFIX p: <http://dbpedia.org/property/> \nSELECT ?dbpediaResource.player ?RDFResource.club \nFROM dbpediaResource: <http://dbpedia.org/property/> \nFROM RDFResource: <http://dbpedia.org/property/>  \nWHERE{\n      ?dbpediaResource.player p:cityofbirth \n<http://dbpedia.org/resource/Stryn>. \n      OPTIONAL {?RDFResource.player p:currentclub  ?RDFResource.club}}\n",
+  "speaker": "SYSTEM",
+  "uuid": "19144ac8-e5e0-46af-a1b2-48752d40b3e8"
+}

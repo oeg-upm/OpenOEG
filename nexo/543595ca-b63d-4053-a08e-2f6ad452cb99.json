@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RedesBayesianas_Introducci%C3%B3n.pdf: Página 23\nMuchas Variables\n¿Qué pasa si el número de variables es elevado?\nSupongamos que en el problema de la enfermedad que se\ndetecta con un test, en vez de un sólo test tenemos 10\n(T1,...,T10).\nAhora para especiﬁcar el problema y después poder aplicar el\nteorema de Bayes, deberemos indicar todos los valores\np(t1,...,t10|e),\n∀ti ∈{+,−},e ∈{pres,aus}\nEsto constituye un número importante de valores y crece\nexponencialmente en función del número de tests.\nUna Introducción a las Redes Bayesianas– p.21/??\n",
+  "speaker": "SYSTEM",
+  "uuid": "543595ca-b63d-4053-a08e-2f6ad452cb99"
+}

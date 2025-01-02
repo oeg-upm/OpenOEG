@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 49\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nEjemplo \nR1: Si (envío $e $origen $destino) ^ (dia-entrega $e hoy ) ^ (coste $e $coste)  \n        Entonces Añadir (coste $e $coste + 1000) \n \n    Borrar (dia-entrega $e hoy) \n                        Borrar (coste $e $coste) \nBase de Reglas \nBase de Hechos \n( envío E-1 Madrid Barcelona) \n(dia-entrega E-1 hoy) \n(coste  E-1   700) \nEstrategia de Control \nCiclo 1:  \n$e= E1 \n$origen = Madrid \n$destino = Barcelona \n$coste = 700 \n( envío E-1 Madrid Barcelona) \n(dia-entrega E-1 hoy) \n(coste  E-1   700) \n(coste  E-1  1700) \n",
+  "speaker": "SYSTEM",
+  "uuid": "720bdc95-95ae-488c-9eb9-380b957d82dd"
+}

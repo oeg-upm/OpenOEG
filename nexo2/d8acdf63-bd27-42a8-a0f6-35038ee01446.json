@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Modelado_Conceptual_y_Compromisos_Ontol%C3%B3gicos_en_Humanidades.pdf: Página 17\nExtensión de modelos\nModelos de tipos:\nStandalone\nParticulares (extendidos)\nUn modelo particular es Liskov-compatible con \nsu modelo base\n∀𝑘∈𝐼𝑀; ∀𝑝, 𝑏∈𝑇𝑀, 𝑝> 𝑏; 𝑘: 𝑝⇒𝑘: 𝑏\nPocas restricciones; reglas de reinterpretación\nCopyright © 2018 César González-Pérez\n17\n",
-  "speaker": "SYSTEM",
-  "uuid": "d8acdf63-bd27-42a8-a0f6-35038ee01446"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 79\n© O. Corcho, R.García-Castro, O. Muñoz-García\n79\nRDF and RDF Schema\nExercise\n•Objective\n• Understand how to use an RDF(S) management API\n•Tasks\n• Read an ontology in RDF(S) from two files: \n• GP_Santiago.rdf (conceptualization)\n• GP_Santiago.rdfs (instances)\n• Write the class hierarchy of the ontology, including the instances of each class\n",
-  "speaker": "SYSTEM",
-  "uuid": "d5c97904-6089-43cb-9812-0b05e7a0bc82"
-}

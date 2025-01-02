@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas-II.pdf: Página 25\nSistemas de Producción\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nEquiparación de Constantes\nLas constantes son cualquier secuencia de caracteres no precedidos del símbolo $\nUna constante se equipara con otra constante igual a ella\nque ocupe la misma posición en un elemento de la M.T.\nR1: (A B)\n(C D)\n......\n1 equiparación\nMT: (A B)\n(B C)\nLa ejecución de la regla introduce en la MT a (C D)\nConjunto Conflicto ={R1 (A B)}\n",
-  "speaker": "SYSTEM",
-  "uuid": "1a3d5c66-403c-45c5-8151-7e2e2d5dc2a1"
-}

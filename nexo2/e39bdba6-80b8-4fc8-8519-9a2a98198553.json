@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01.03_NonStandardOWLReasoning_ModularisationAndDebugging.pdf: Página 2\n2 \nScenarios for Modularisation. Motivation \n3 \nReasons for modularisation \n•  Common practice in software engineering \n•  Modular software development allows for: \n•  Importing/reusing modules \n•  Collaborative development \n•  Understanding the code form the interaction between \nmodules \n•  Common practice in knowledge engineering \n•  Borrow terms from other DL knowledge bases \n•  Cover topics that we aren’t experts in \n•  Enable collaborative development \n•  To ensure common understanding \n•  To gain insight into its structure & dependencies \n4 \n",
-  "speaker": "SYSTEM",
-  "uuid": "e39bdba6-80b8-4fc8-8519-9a2a98198553"
-}

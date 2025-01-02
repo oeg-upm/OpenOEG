@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologias-multilingualidad_wiki_24-01-08.pdf: Página 7\n©Guadalupe Aguado de Cea\n7\nSemejanzas entre ambos procesos\n•\nInternacionalización:\n– Contenido léxico: caracteres y símbolos que maneja el ordenador (ASCII \nencoding, UNICODE, etc.)\n– Contenido gramatical: caracteres, estructuras sintácticas y símbolos\nutilizados en determinados lenguajes de ontologías (RDF(S), OWL)\n– Paradigma de representación del conocimiento: marcos, redes semánticas, \nLD, (ontologías)\n•\nLocalización:\n– Contenido léxico-terminológico: términos o palabras que sirven para\ndenominar los elementos de la ontología\n– Contenido conceptual: en cuanto a decisiones de conceptualización, como\nla granularidad, expresividad, perspectiva, etc. Especialmente en \nontologías de dominio.\n– Contenido pragmático: resultado final del modelo (GUI, etc.)\n",
+  "speaker": "SYSTEM",
+  "uuid": "05f1206e-82c2-49ff-9511-dee6b257db01"
+}

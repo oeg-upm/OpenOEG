@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 20\nQuery Translation\n20\nEnabling Ontology-based Access to Streaming Data Sources\nenvdata\n_rhylflats\nDateTime\nHs\ncd:Observation\nxsd:double\ncd:observationResult\nenvdata_hornsea\nDatetime: long\nHs : float\nLon: float\nLat: float\nenvdata_westbay\nDatetime: long\nHs : float\nLon: float\nLat: float\nenvdata_milford\nDatetime: long\nHs : float\nLon: float\nLat: float\nenvdata_rhylflats\nDatetime: long\nHs : float\nLon: float\nLat: float\nU\nU\nU\nenvdata\n_milford\nDateTime\nHs\nenvdata\n_hornsea\nDateTime\nHs\nenvdata\n_westbay\nDateTime\nHs\nDateTime\nHs\n",
+  "speaker": "SYSTEM",
+  "uuid": "220a7a81-4f60-4235-bd27-efdad71ef1e3"
+}

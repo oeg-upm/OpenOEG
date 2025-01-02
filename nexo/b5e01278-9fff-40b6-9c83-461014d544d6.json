@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SPARQL_optimization_slides.pdf: Página 9\nDARQ\nFederates a set of distributed SPARQL \nendpoints into a virtual RDF store\nService descriptions\nPredicates (vocabulary/schema)\nCardinality estimates\nAccess patterns\nQuery optimisation based on\nSource assemblage\nLogical rewriting\nRewrite rules of Pérez et al (2006)\nPush filters down\nCost-based physical optimisation\nJoin re-ordering\nAim: data reduction\nCosts based on cardinality \nestimates\n",
+  "speaker": "SYSTEM",
+  "uuid": "b5e01278-9fff-40b6-9c83-461014d544d6"
+}

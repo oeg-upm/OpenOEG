@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 20161215-MappingpediaPresentation.pdf: Página 13\nMappingpedia Use Cases (Request)\n13\nWhat the user has\nWhat the user wants to do\nHow Mappingpedia can help \nhim\nDatasets: Yes\nMappings: No\nOntology: Yes/No\n-\nGenerate RDF from \nhis datasets, but he \ndoesn't have the \nmappings.\n-\nGenerate default \nmappings via \nMIRROR.\n-\nRequest the ontology \ncorresponding to her \ndataset and request \nthe mappings.\nRequest\nUC5\nUC6\n",
-  "speaker": "SYSTEM",
-  "uuid": "de2ce968-c567-4962-b429-c19fd9b03c69"
-}

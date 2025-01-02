@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 68\n© O. Corcho, R.García-Castro, O. Muñoz-García\n68\nRDF and RDF Schema\n// some definitions \nstatic String personURI = \"http://somewhere/JohnSmith\";\nstatic String fullName = \"John Smith\"; \n// create an empty Model\nModel model = ModelFactory.createDefaultModel(); \n// create the resource\nResource johnSmith = model.createResource(personURI);\n// add the property\njohnSmith.addProperty(VCARD.FN, fullName); \nhttp://.../JohnSmith\nJohn Smith\nvcard: FN\nData Model\n",
-  "speaker": "SYSTEM",
-  "uuid": "70b5bda7-4005-486b-8b4f-ad6686b61b4a"
-}

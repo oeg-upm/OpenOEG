@@ -1,6 +1,7 @@
 import os
 from openai import OpenAI
 import json
+import ollama
 import re
 from time import time,sleep
 from uuid import uuid4
@@ -8,8 +9,8 @@ import datetime
 from pinecone import Pinecone, ServerlessSpec
 
 
-mi_model = "meta-llama-3.1-8b-instruct"
-mi_model_emb = "nomic-embed-text-v1.5"
+mi_model = "llama3.3"
+#mi_model_emb = "nomic-embed-text-v1.5"
 index_name = "oegdb"
 
 def open_file(filepath):
@@ -40,28 +41,20 @@ def timestamp_to_datetime(unix_time):
 # para RAG 
  
 def get_embedding(text, rol):
-   text = text.replace("\n", " ") 
-   
-   # las de sistema search_document:
-   # las de usuario search_query:
-   
-   if rol == "USER":
-        return client.embeddings.create(input = ["search_query: "+text], model=mi_model_emb).data[0].embedding 
-    
-   elif rol == "SYSTEM":
-       return client.embeddings.create(input = ["search_document: "+text], model=mi_model_emb).data[0].embedding 
-   
-   else: #ASSISTANT
-        return client.embeddings.create(input = [text], model=mi_model_emb).data[0].embedding 
-
-client = OpenAI(
-    # This is the default and can be omitted
-    base_url="http://localhost:1234/v1",
-    api_key="lm-studio"
-)
+        text = text.replace("\n", " ")
+        
+        if rol == "USER":
+            text= "search_query: "+text
+            
+        elif rol == "SYSTEM":
+            text = "search_document: "+text
+            
+        else: #ASSISTANT
+            text = text
+        return ollama.embeddings(model="jina/jina-embeddings-v2-base-es", prompt=text)["embedding"]
 
 
-def text_completion(prompt, engine=mi_model, stop=['USER:', 'ABIGAIL:']):
+def text_completion(prompt, engine=mi_model):
     max_retry = 5
     retry = 0
     prompt = prompt.encode(encoding='ASCII',errors='ignore').decode()
@@ -70,16 +63,21 @@ def text_completion(prompt, engine=mi_model, stop=['USER:', 'ABIGAIL:']):
     
     while True:
         try:
-            response = client.chat.completions.create(
-                                messages=[
-                                    {
-                                        "role": "user",
-                                        "content": prompt,
-                                    }
-                                ],
-                                model=mi_model,
-                            )
             
+            #ollama.ChatResponse
+            
+            """ response = ollama.ChatResponse.
+                        model=engine,  # Sustituye por el modelo que quieres usar
+                        messages=[
+                            {
+                                "role": "user",
+                                "content": prompt,
+                            }
+                        ],
+                    ) """
+
+            
+                        
             
             text = response.choices[0].message.content
             #text = response['choices'][0]['text'].strip()
@@ -103,10 +101,10 @@ def load_conversation(results): #esta es la clave TODO
     result = list()
     for m in results['matches']:
         try:
-            info = load_json('./tfg/nexo/%s.json' % m['id']) #TODO cambie por nexo2
+            info = load_json('./tfg/nexo2/%s.json' % m['id']) #TODO cambie por nexo2
             result.append(info)
         except:
-            print("Parece que " + './tfg/nexo/%s.json' % m['id'] + " no esta" )
+            print("Parece que " + './tfg/nexo2/%s.json' % m['id'] + " no esta" )
             continue
     #ordered = sorted(result, key=lambda d: d['time'], reverse=False)  # sort them all chronologically
     messages = [i['message'] for i in result]
@@ -118,7 +116,7 @@ def load_conversation(results): #esta es la clave TODO
 
 
 if __name__ == '__main__':
-    convo_length = 5 # se puede cambiar
+    convo_length = 2 # se puede cambiar
     #openai.api_key = open_file('./tfg/openaiapikey.txt')
     
     pc = Pinecone(

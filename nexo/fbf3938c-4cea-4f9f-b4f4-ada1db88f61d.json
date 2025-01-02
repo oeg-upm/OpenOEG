@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Sparqlex.pdf: Página 4\nQueries about the model\n• Give me all the sub-clases of the class\n'Establecimiento' (Establishment)\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nSELECT ?x WHERE { ?x rdfs:subClassOf pr:Establecimiento. }\n",
+  "speaker": "SYSTEM",
+  "uuid": "fbf3938c-4cea-4f9f-b4f4-ada1db88f61d"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 46\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nChunk 3. Formalize in DL, and then in OWL DL\n1. Concept definitions:\nA magazine is a publication. Broadsheets and tabloids are newspapers. A quality broadsheet \nis a type of broadsheet. A red top is a type of tabloid. A newspaper is a publication that must\nbe either a broadsheet or a tabloid.\nWhite van mans must read only tabloids.\n2. Restrictions:\nTabloids are not broadsheets, and broadsheets are not tabloids.\n3. Properties:\nThe only things that can be read are publications.\n4. Individuals:\nDaily Mirror\nThe Guardian and The Times are broadsheets\nThe Sun is a tabloid\n",
+  "speaker": "SYSTEM",
+  "uuid": "d093144a-6713-4ad1-8333-78f3a278b522"
+}

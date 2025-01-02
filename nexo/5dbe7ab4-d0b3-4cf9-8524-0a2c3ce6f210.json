@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Elozano_resultsINRIA.pdf: Página 27\nOur approach \n•\nMining the LOD to find relations between models \n \n•\nScarlet techniques for ontologies can be applied to Linked Open Data \n•\nScarlet techniques on Linked Open Data can improve our alignment \n \n•\nNo classes, no instances... just concepts \n•\nDBpedia as starting point \n•\nNot always subclass links between DBpedia resources \n•\nowl:sameAs links in DBpedia usually to other DBpedias (not too helpful...) \n \n27 \nConceptual Modeling Supported by Semantic Techniques \nObjective \nHypothesis \nRestriction \n",
+  "speaker": "SYSTEM",
+  "uuid": "5dbe7ab4-d0b3-4cf9-8524-0a2c3ce6f210"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: BNE-UPMLinkedData2.pdf: Página 7\nURI Design\n• Followed Cool URIs and Linked Data patterns \n(Natural keys)\n• A-Box:\n• http://cultura.linkeddata.es/BNE/resource/<Class>/<ID>\n• T-Box:\n• Opaque URIs\n• Multilingual labels (EN, ES, HR..)\n• Available at metadataregistry.org\n• Base URI: http://iflastandards.info/ns/\n• Not published, will be published soon →not dereferenceable\n",
-  "speaker": "SYSTEM",
-  "uuid": "835ddd86-9a11-4d16-89f3-380c2c63c013"
-}

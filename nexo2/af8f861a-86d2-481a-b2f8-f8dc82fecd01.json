@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Fpriyatna-oeg-20141002.pdf: Página 22\nIP Problem \nVertical Approach\n1. Normalize mappings in MLite form to M where \nM is in 3rd NF\n2. Set Q = trans(P, M) \no P = SELECT ?s AS ?rdf:subject ?p AS \n?rdf:predicate ?o AS ?rdf:object WHERE \n{ ?s ?p ?o }.\n3. Set        = CREATE VIEW rdf:statement AS Q;\n4. Set    =\no\nReplace rdf:Statement#rdf:subject with rdf:subject\no\nReplace rdf:Statement#rdf:predicate with rdf:predicate\no\nReplace rdf:Statement#rdf:object with rdf:object\n",
-  "speaker": "SYSTEM",
-  "uuid": "af8f861a-86d2-481a-b2f8-f8dc82fecd01"
-}

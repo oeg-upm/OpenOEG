@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GeneralOntologies-v3_%28mariano%29.pdf: Página 53\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work\n53\nPERFORM A COMPARATIVE TABLE. TIME MODELING\nFeatures required / features provided \nOWL-Time \nSUMO-OWL \nAKT-Time \nTime points \nLight \nLight \nLight \nTime intervals \nLight \nLight \nLight \nAbsolute time \nLight \n \nLight \nRelations between temporal entities \nLight \nLight \n \nModeling of convex intervals \nLight \nLight \n \nModeling of  non convex intervals \n \n \n \nModeling of open intervals \n \n \n \nModeling of closed intervals \nLight \nLight \n \nExplicit modelling of proper intervals \nLight \n \n \nModeling of different temporal granularities \nLight \nLight \nLight \nModeling of different time zones \nLight \n \n \nModeling of total ordering \n \n \n \nModeling of infinity \n \nLight \n \nDensity \n \n \n \nIsomorphism to the real numbers \n \n \n \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "8f862909-7570-46aa-a5cb-56a56a899f83"
-}

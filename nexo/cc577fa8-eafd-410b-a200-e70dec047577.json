@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 97\n© O. Corcho, R.García-Castro, O. Muñoz-García\n97\nRDF and RDF Schema\n@prefix dt:   <http://example.org/datatype#> .\n@prefix ns:   <http://example.org/ns#> .\n@prefix :     <http://example.org/ns#> .\n@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .\n:x   ns:p     \"cat\"@en .\n:y   ns:p     \"42\"^^xsd:integer .\n:z   ns:p     \"abc\"^^dt:specialDatatype .\nSELECT ?v WHERE { ?v ?p \"cat\" }\nv\nSELECT ?v WHERE { ?v ?p \"cat\"@en }\nv\n<http://example.org/ns#x>\nSELECT ?v WHERE { ?v ?p 42 }\nv\n<http://example.org/ns#y>\nSELECT ?v WHERE { ?v ?p \"abc\"^^<http://example.org/datatype#specialDatatype> }\nv\n<http://example.org/ns#z>\nBasic graph patterns: Matching RDF literals\n",
+  "speaker": "SYSTEM",
+  "uuid": "cc577fa8-eafd-410b-a200-e70dec047577"
+}

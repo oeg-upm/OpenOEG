@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Hiroaki_Yamada_talk_Jan19.pdf: Página 21\nModels\n• SVM\n• SVM-Base\n• SVM-All\n• CRF\n• CRF-Base\n• CRF-All\n22\n• NN\n• Single sentence\n• Word+Char embeddings\n• Base\n• Fine-tuning (Word+Char)\n• Fine-tuning (Word+Char) + \nHand crafted features\n• Fine-tuning (Word+Char) + \nAE\n• Inter sentence\n• [ Word + Char FT(w+c) ] + \nLSTM-CRF\n• [ Word + Char FT(w+c) ] + AE \n+ LSTM-CRF\n",
-  "speaker": "SYSTEM",
-  "uuid": "4d6094b5-04f8-4d07-bbe7-d631159a1d21"
-}

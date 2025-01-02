@@ -1,0 +1,134 @@
+Eres un chatbot llamado ABIGAIL. Tus objetivo es ayudar a los usuarios a navegar por la Ontology Engineering Group Wiki. Leers las notas de la conversacin, que incluye datos extrados de una base de datos, y los mensajes recientes, y luego dars una respuesta atenta, alegre y detallada, basando mis respuestas a ser posible en los datos extrados. No hagas referencia a ser posible ms de 1 documento, no siempre hace falta referenciar un documento. Las preguntas se harn en espaol y responders tambin en espaol.
+
+
+DATOS EXTRADOS:
+SYSTEM: BUSQUEDA.pdf: Pgina 18
+BSQUEDA 
+ 
+18 
+J. Rubio / P.R. Muro / J. Baares 
+ 
+Octubre 2004 - Curso 2004-2005 
+ Medios: se dispone de un depsito con mucho vino (ms de 100 litros ) y 
+las nicas operaciones permitidas son llenar cada garrafa en el depsito, 
+vaciarlas en el depsito y pasar contenido de una garrafa a la otra, hasta 
+que la primera se vace o la segunda se llene. (En particular, no es lcito 
+suponer que se dispone de otra garrafa que puede contener exactamente 
+dos litros ) 
+ El problema del granjero, el lobo, el carnero y la lechuga. 
+ Entrada: un granjero, un lobo, un carnero y una lechuga se encuentran en la 
+orilla derecha de un ro. 
+ Salida: todos ellos han pasado a la orilla izquierda del ro. 
+ Medios y restricciones: se dispone de una barca que debe ser conducida por 
+el granjero y que slo tiene capacidad para uno de los otros elementos; el 
+lobo se comer al carnero si los deja juntos sin compaa en uno de los 
+lados; el carnero se comer la lechuga si los deja solos. 
+Ejercicios. A partir de las siguientes descripciones de los problemas que se indican, 
+detallar con mayor precisin la entrada, la salida y los medios de resolucin. 
+1) El problema del viajante. Un representante de comercio tiene que visitar una 
+serie de ciudades viajando entre ellas por carretera. Dispone de un plano de la 
+regin con la informacin de las distancias entre las ciudades. Desea partir de la 
+ciudad en la que est para volver a ella tras haber visitado el resto de ciudades, pero 
+habiendo hecho el mnimo nmero de kilmetros posible. 
+2) Las n reinas. Se trata de situar n reinas (siendo n un nmero entero positivo 
+mayor que 3) del ajedrez en un tablero n x n (el normal tiene 8 x 8 casillas) de modo 
+que no se "coman" entre s. 
+ 
+2.2. Sistemas de produccin y bsqueda. 
+Si particularizamos la definicin de problema dada en el apartado anterior del 
+siguiente modo: 
+ Entrada: una descripcin del estado inicial del mundo. 
+ Salida: una descripcin (parcial) del estado del mundo deseado. 
+
+SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Espa%C3%B1aVirtual26052011 
+
+Contents
+[
+hide
+]
+1
+Tareas 7.2
+2
+Tarea 2.3
+3
+Tarea 1.4
+4
+Tarea 7.1
+Tareas 7.2
+
+Tarea 1. Mecanismo de extraccin de semntica a partir de anotaciones
+. 
+Evaluacin del proceso de obtencin de trminos validos en un dominio a partir de una folksonomia usando una estrategia de activacin por propagacin en el grafo de la folksonomia:
+Glosarios utilizados para la evaluacin:
+Yahoo finances: 4909 trminos
+Forbes: 3622 trminos
+Investor Words: 17254 trminos
+Campbell Harvey: 7266 trminos
+Resumen para los trminos encontrados con los diferentes umbrales:
+Umbral: 0.5: 476 trminos
+Umbral: 0.6: 220 trminos
+Umbral: 0.65: 114 trminos
+Resultados en terminos de
+precision
+y
+recall
+Yahoo	4909
+Umbral
+Retrieved
+Intersection
+Precision
+Recall
+0.5
+476
+219
+0.460084034
+0.044611937
+0.6
+220
+106
+0.481818182
+0.021592992
+0.65
+114
+63
+0.552631579
+0.012833571
+Tarea 2. Procesado de fuentes de informacin no semntica ya existentes
+.
+Tarea 2.3
+
+- Creacin de las AMI para EC2:
+- Se han creado varias versiones de MV.
+- Se han detectado y corregido fallos relativos al sistema de ficheros de las imgenes.
+- Se ha detectado un problema que impide conectar con las MV an cuando estas estan corriendo y se continua en busca de una solucin.
+- Implementacin de las interfaces para gestin de MV en OpenNebula.
+- Se han implementado funciones Java capaces de levantar una MV en base a las especificaciones del usuario, tanto para OpenNebula como para AWS.
+Tarea 1.4
+
+Tarea 7.1
+
+- Generacin de owl:sameAs
+- Visualizador con servicios OGC (geometras complejas)
+
+CONVERSACIN ANTERIOR:
+
+USER: Monday, December 30, 2024 at 12:59PM  - hola
+ABIGAIL: Monday, December 30, 2024 at 12:59PM  - Hola! Me alegra que ests aqu. Parece que no hay ninguna pregunta anterior en la conversacin, pero puedo ayudarte a navegar por la Ontology Engineering Group Wiki o responder cualquier pregunta que tengas sobre los temas relacionados con el procesamiento de lenguaje natural, ontologas y sistemas de informacin.
+Si deseas saber ms sobre alguna de las tareas mencionadas en los datos extrados (como la creacin de AMI para EC2, la generacin de owl:sameAs o la visualizacin de servicios OGC), puedo intentar proporcionarte ms informacin o apuntarte a recursos relevantes. Qu necesitas ayuda con hoy?
+USER: Monday, December 30, 2024 at 01:00PM  - Quin dio la charla el 16 de Noviembre de 2017? De qu iba y en qu aula se hizo? 
+
+USUARIO: Quin dio la charla el 16 de Noviembre de 2017? De qu iba y en qu aula se hizo? 
+
+
+
+A continuacin dars una respuesta a la ltima pregunta formulada:
+ABIGAIL: 
+
+
+==========
+
+Lo siento, pero no puedo encontrar ninguna informacin sobre una charla específica el 16 de noviembre de 2017 en la Ontology Engineering Group Wiki. Sin embargo, puedo sugerir algunas opciones para ayudarte a encontrar la respuesta.
+Puedes probar buscar en la wiki utilizando la barra de búsqueda y ver si aparece alguna referencia a una charla en esa fecha. También puedes intentar revisar las páginas de eventos o conferencias en la wiki para ver si hay algún registro de una charla que coincida con la descripción que buscas.
+Si no encuentras ninguna información en la wiki, podrías intentar preguntar en el foro de la Ontology Engineering Group Wiki o contactar con alguien de la organización para solicitar ayuda. También puedes intentar buscar en otros recursos o bases de datos de conferencias y eventos para ver si hay alguna referencia a una charla que se ajuste a lo que buscas.
+Recuerda que la Ontology Engineering Group Wiki es un recurso en constante actualización, por lo que puede ser que la información no esté disponible aún o que necesites buscar en otros lugares para encontrar la respuesta.
+Si necesitas ayuda adicional o tienes alguna otra pregunta, no dudes en preguntar. Estoy aquí para ayudarte.

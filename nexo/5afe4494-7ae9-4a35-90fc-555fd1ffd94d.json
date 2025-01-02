@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Jmora20100527.pdf: Página 8\nSemantic triple match\n• Sources described with several triples instead of \nsingle n-ary predicates.\n• Requires graph matching in query preconditions\n• Allows partial match\n• Allows composition of conditions\n• Postconditions require more complex unifications\n• Merging of information is more straigtforward\n• Constraints on the information after merging \n(decomposed query) should not be less (correctness) \nor more (completude) than in the original query\n• This problem may already be solved in ISI at the \ncurrent time\n8\n",
+  "speaker": "SYSTEM",
+  "uuid": "5afe4494-7ae9-4a35-90fc-555fd1ffd94d"
+}

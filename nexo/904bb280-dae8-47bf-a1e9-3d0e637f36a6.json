@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ClaseGLD-v3%28boris-asun%29.pdf: Página 23\nURI Design \n• Use meaningful URIs, instead of opaque URIs, when \npossible \n \n• Separate TBox (ontology model) from ABox \n(instances) URIs. \n• Base URI \n \nhttp://data.gov.bo/ \n \nhttp://health.data.gov.bo/ \n• TBox URIs \n \nhttp://data.gov.bo/ontology/{class|property} \n• ABox URIs \n \nhttp://data.gov.bo/resource/ \n \nhttp://data.gov.bo/resource/province/Tiraque \n27 \nSpecification \n",
-  "speaker": "SYSTEM",
-  "uuid": "904bb280-dae8-47bf-a1e9-3d0e637f36a6"
-}

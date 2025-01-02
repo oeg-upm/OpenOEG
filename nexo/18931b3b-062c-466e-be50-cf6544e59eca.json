@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 24\n• \nList of agreed features: \n• \nAdditions to the Query Language: \n• \nProject Expressions \n• \nAggregate functions \n• \nSubqueries \n• \nNegation \n• \nProperty Paths (time permitting) \n• \nExtend the function library (time permitting) \n• \nBasic federated Queries (time permitting) \n• \nEntailment (time permitting) \n• \nSPARQL Update \n• \nFull Update language \n• \nplus simple RESTful update methods for RDF graphs (HTTP methods) \n• \nService Description \n• \nMethod for discovering a SPARQL endpoint’s capabilities \n• \nSummary of its data \n \n30 \nOntological Engineering Group \nGoals of SPARQL1.1 \nWe will focus on these in today’s Tutorial  \n",
-  "speaker": "SYSTEM",
-  "uuid": "18931b3b-062c-466e-be50-cf6544e59eca"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologies.pdf: Página 24\n©Asunción Gómez-Pérez\n24\nExample of axioms\n(define-axiom No-Train-from-USA-to-Europe\n\"It is not possible to travel from the USA to Europe by train\"\n:= (forall (?travel)\n(forall (?city1) \n(forall (?city2)\n(=> (and (Travel ?travel)\n(arrivalPlace ?travel ?city1)\n(departurePlace ?travel ?city2)\n(EuropeanLocation ?city1)\n(USALocation ?city2))\n(not (TrainTravel ?travel)))))))\n(define-axiom No-Train-between-USA-and-Europe\n\"It is not possible to travel by train between the USA and Europe\"\n:= (forall (?travel)\n(forall (?city1)\n(forall (?city2)\n(=> (and (Travel ?travel)\n(arrivalPlace ?travel ?city1)\n(departurePlace ?travel ?city2)\n(or (and (EuropeanLocation ?city1)\n(USALocation ?city2))\n(and (EuropeanLocation ?city2)\n(USALocation ?city1))))\n(not (TrainTravel ?travel)))))))\n",
+  "speaker": "SYSTEM",
+  "uuid": "196a880a-f4fd-4727-8fbd-7115d49c42cc"
+}

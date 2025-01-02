@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Aplicaciones-_v2%28asun%29.pdf: Página 59\n©Asunción Gómez-Pérez\n- 62\nDetección del Fraude en seguros de coches\nSingle versus \nnetwork of \nontologies\nSingle Ontology\nType of Application\nData integration\nSoftware Components Used\nOnt. Built from \nscratch or  reusing \nresources\nBuilt from scratch\nHugeness: Operates \nat scale?\nYes\n1.\nOntology repository\n2.\nMetadata registry\n3.\nQuery answering\n4.\nSemantic query\nprocessor\n5.\nOntology editor\n6.\nOntology browser\n7.\nInstance editor\n8.\nManual annotation\n9.\nAutomatic annotation\n10.\nOntology populator\nConceptual \nHeterogeneity\n(mappings)\nNo\nOpen to semantic \nresources?\nNo\nWhere are the \ndata/instances?\nRDF files\nOpen to web \nresources?\nNo\nAre instances \ndistributed or \ncentralized?\nDistributed\nOpen to web services?\nNo\nVery high rate of \nchange in instances?\nYes\nWeb 2.0 like?\nNo\nHeterogeneous \nProvenance of \ninstances\nYes\nMobile devices?\nNo\nVarious degrees of \ndata quality\nYes\nGeo-spatial \nInformation\nYes\n",
-  "speaker": "SYSTEM",
-  "uuid": "fcfcf34c-d8d1-4413-aeac-62e4a698e2de"
-}

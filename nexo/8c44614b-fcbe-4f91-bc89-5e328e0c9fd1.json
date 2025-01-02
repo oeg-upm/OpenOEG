@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: MGPGLD-v3.pdf: Página 9\nRDF – Resource Description Framework\n9\n• W3C recommendation\n• RDF is a basic KR language based on semantic networks\n• Useful to represent metadata and describe any type of \ninformation in a machine-accesible way (aka data \nmodel)\n• Resources are described in terms of properties and \nproperty values using RDF statement\n• Statements are represented as triples, consisting of a \nsubject, predicate, and object [S,P,O]\nSubject\nObject\nproperty\nStatement\n© Slide adapted from “RDF and RDF Schema”- Raúl García et al.\n",
-  "speaker": "SYSTEM",
-  "uuid": "8c44614b-fcbe-4f91-bc89-5e328e0c9fd1"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 09_LDFromSpreadsheets.pdf: Página 4\nSpecification - URI design \n•  Base URI \n•  http://stats.ull.es \n•  TBOX URI \n•  http://stats.ull.es/ontology/{class|property} \n•  ABOX URI \n•  http://stats.ull.es/resource/{tesourceType}/{resource} \n4 \n",
+  "speaker": "SYSTEM",
+  "uuid": "98dd3e25-abc3-4c1f-874f-9e1a41e15c44"
+}

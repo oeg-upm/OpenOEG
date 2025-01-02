@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: NOR2O%28v2-boris%29.pdf: Página 4\nHow to use the software library?\nThere are 3 config artion files\n•\nThere are 3 configuartion files:\n•\nnor.xml, for describing the non-ontological resource.\n•\nprnor.xml, for describing the pattern for re-engineering.\np\n,\ng\np\ng\ng\n•\nor.xml, for describing the ontology generated.\n•\nThere is a batch file\n•\nnor2o.bat, for performing the transformation\n•\nRequirements\n•\nJava runtime environment (tested in 1.5)\nJa a u t\ne e\no\ne t (tested\n5)\n•\nYou should set tha JAVA_HOME\n",
-  "speaker": "SYSTEM",
-  "uuid": "d2b31334-b769-4dfa-828c-87ca192dcd67"
-}

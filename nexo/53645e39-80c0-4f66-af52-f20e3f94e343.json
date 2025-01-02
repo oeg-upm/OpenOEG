@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 19\nQuery Translation\n19\nEnabling  Ontology-based Access to Streaming Data Sources\n•\nMappings: \nquery\nalgebra expression\nover sources\ncd:Observation\nxsd:double\ncd:observationResult\nenvdata_milford\nDatetime: long\nHs : float\nLon: float\nLat: float\nenvdata_milford\nDatetime\nHs\n",
+  "speaker": "SYSTEM",
+  "uuid": "53645e39-80c0-4f66-af52-f20e3f94e343"
+}

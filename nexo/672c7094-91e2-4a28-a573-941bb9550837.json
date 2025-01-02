@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Neon_2008_d2.2.2.pdf: Página 91\nD2.2.2 Methods and Tools Supporting Re-engineering\nPage 91 of 124\nTable 5.4: Pattern for Re-engineering a Thesaurus(continued)\nSlot\nValue\nGeneral\nExample\nOUTPUT: Designed Ontology\nGeneral\nThe generated ontology will be based on the lightweight ontology architectural pattern\n(AP-LW-01)[SFBG+07]. Each thesaurus concept is mapped to a class. A subClassOf\nrelation is deﬁned between the new classes for the BC (Broader Concept)/NC (Narrower\nConcept) relation. A relatedClass relation is deﬁned between the new classes for the RT\nrelation. A label is created for every non-preferred term of a concept.\nGraphical Representation\n(UML) General Solution\nOntology\n(UML) Example Solution\nOntology\nPROCESS: How to Re-engineer\n2006–2008 c⃝Copyright lies with the respective authors and their institutions.\n",
+  "speaker": "SYSTEM",
+  "uuid": "672c7094-91e2-4a28-a573-941bb9550837"
+}

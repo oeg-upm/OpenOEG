@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ModelosRazonam_DynaLearn_Nov2011.pdf: Página 32\nQ4 - Ontology Matching\nCIDER\nFalcon\nPrecision\nRecall\nTime (s)\nPrecision\nRecall\nTime (s)\nCase 1 (pop.)\n1.00\n1.00\n10.8 \n0.80\n1.00\n1.9\nCase 2 (soil)\n1.00\n1.00\n9.2 \n0.79\n1.00\n2.0\nCase 3 (h./p.)\n1.00\n1.00\n4.2 \n0.63\n1.00\n1.8\nCase 3 (h./p.)\n1.00\n1.00\n4.2 \n0.63\n1.00\n1.8\nCase 4 (a./c.)\n0.67\n0.80\n4.6 \n0.44\n0.80\n1.7\nAVERAGE\n0.92\n0.95\n7.2\n0.67\n0.95\n1.9\n32\n",
+  "speaker": "SYSTEM",
+  "uuid": "74479a1f-fc3f-47ec-b780-cc921061e8f9"
+}

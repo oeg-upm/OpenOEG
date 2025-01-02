@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS-Applications-v5-boris.pdf: Página 43\nLocal Ontologies Building Process\n•\nOption 1: Building Local Ontologies from the Reference Ontology.\nReference\nReference\nOntology\nOntology\nSpecialize\nSpecialize\nExtend\nExtend\nResultant Local Ontology\nResultant Local Ontology\ngy\ngy\nExtend\nExtend\nPrune\nPrune\n•\nOption 2: Building Local Ontologies as a reverse engineering process \nfrom ES Data Sources. \nES Data Sources\nES Data Sources\nR\nResultant Local Ontology\nResultant Local Ontology\nReverse \nReverse \nEngineering\nEngineering\n43\n",
-  "speaker": "SYSTEM",
-  "uuid": "8088e396-cc2a-4e83-908f-90cfaea4892c"
-}

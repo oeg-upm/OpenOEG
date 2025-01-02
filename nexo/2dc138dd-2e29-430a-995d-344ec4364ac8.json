@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Intro-RC-II-v1%28asun%29.pdf: Página 14\nIntroducción a la Representación de Conocimientos\nRedes Semánticas\nGrafos unidireccionales etiquetados\nq\n•Nodos: Conceptos y valores de propiedades\n•Arcos: relaciones y propiedades\nEsqueleto\nEsq eleto\nAnimal\nSC\nSC\nTuky\nSi\nNombre\nNo\nEsqueleto\nN\nb\nVertebrado\nPerro 1\nInstancia\nInvertebrado\nInstancia\nTuky\nNombre\nPeso\nAltura\nPeso\nAltura\nA\n25\n50\n80\n20\nNombre\nPerro 1\nGusano1\n25\n50\n80\n20\nInconveniente: no se pueden representar los tipos de las propiedades, \nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nni conocimientos procedimentales\n",
+  "speaker": "SYSTEM",
+  "uuid": "2dc138dd-2e29-430a-995d-344ec4364ac8"
+}

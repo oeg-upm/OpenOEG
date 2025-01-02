@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OWL.pdf: Página 22\n© O. Corcho, MC Suárez de Figueroa Baonza \n22 \nOWL 2 \nChunk 4. Formalisation in DL \n⊆⊥\n∩\n∃\n∩\n≡\n∃\n∩\n≡\n∃\n∩\n≡\n∃\n∩\n≡\n∃\n∩\n≡\n≥\n∩\n≡\n⊆\n⊆\n⊆\n∃\n¬\n∀\n∩\n¬\n∀\n∩\n≡\nΤ\n∃\n⊆\nΤ\n∃\n≡\ncat\ndog\ndog\nhasPet\nperson\ndogOwner\ndog\nlikes\nperson\ndogLike\ncat\nhasPet\nperson\ncatOwner\ncat\nlikes\nperson\ncatLike\nanimal\nhasPet\nperson\npetOwner\nhasPet\nperson\nr\nanimalLove\nanimal\ntiger\nanimal\ncat\nanimal\nduck\nanimal\npartOf\neats\nanimal\neats\nanimal\nvegetarian\neats\nanimal\nisPetOf\npet\n.\n;\n.\n.\n;\n.\n.\n)\n3\n(\n;\n;\n)\n.\n(\n.\n.\n.\n.\n",
-  "speaker": "SYSTEM",
-  "uuid": "d305d41f-7687-4676-ba88-d3a8ca4c523f"
-}

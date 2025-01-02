@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologias-Multilingualidad.pdf: Página 49\n©\n49\nGuía para la localización\nTAREA 1. \n- Memorias de traducción\n- Glosarios\n- Diccionarios\n- Tesauros\n- BD terminológicas, etc\nTAREA 2. \n-Entrada: una ontología (toda o parte)\n-Salida: términos de la ontología, que se\nvan a localizar con información del \ncontexto\nTAREA 3.\n-Entrada: términos de la ontología, que\nse van a localizar.\n-Salida: conjunto de traducciones para\ncada término de la ontología en la \nLM\nTAREA 4. \nEntrada: los términos traducidos.\nSalida: la ontología en la LM con \ninformación lingüística asociada a \ncada término.\n",
+  "speaker": "SYSTEM",
+  "uuid": "75f89806-6719-4bc5-904f-85206b67894f"
+}

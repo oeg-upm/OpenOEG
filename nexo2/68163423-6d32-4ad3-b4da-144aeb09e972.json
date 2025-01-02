@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 05_OWL.pdf: Página 82\n© O. Corcho, MC Suárez de Figueroa Baonza\n62\nOWL 2\nAntisymmetric Properties\nIf a property is antisymmetric, and the property relates individual\na to individual b then individual b cannot be related to individual a\nvia the property.\nisChildOf is antisymmetric\n",
-  "speaker": "SYSTEM",
-  "uuid": "68163423-6d32-4ad3-b4da-144aeb09e972"
-}

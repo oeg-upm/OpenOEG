@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RD11-12_Intro-Sweb.pdf: Página 26\n©Asunción Gómez-Pérez \n- 26 \nTravel \nrdfs:Literal \nrdfs:Class \nCompany-name \nsingleFare \nunits:currencyQuantity \nrdfs:range \nrdfs:range \nrdfs:domain \nrdfs:domain \nrdf:Type \ndepartureDate \nrdfs:domain \ntime:Date \nrdfs:range \narrivalDate \nrdfs:range \nrdfs:domain \nrdf:Property \nrdf:Type \nrdf:Type \nrdf:Type \nrdf:Type \nRDF \nRDFS \nIB-4321 \n“Iberia” \n500 euros \n10/11/2005 \nsingleFare \ndepartureDate \narrivalDate \nCompany-name \nrdf:Type \nrdf:Type \nrdf:Type \nrdf:Type \n",
+  "speaker": "SYSTEM",
+  "uuid": "4ae4d588-48ec-49c3-9dc5-28998b1965d8"
+}

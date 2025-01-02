@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: PURE.pdf: Página 18\n●Goal: Assess Impact of Number of Rules on Total \nExecution Time\n●Metrics:\n○\nQuery execution time: elapsed time in seconds between the \nsubmission of a query and the delivery of the answers\n○\nFor each query, total execution time is measured for several \nconfigurations of number of rules from 10 to 150\nExperiment 1\n18\n",
-  "speaker": "SYSTEM",
-  "uuid": "56214bb2-c91c-4238-a89f-b52ac2400030"
-}

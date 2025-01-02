@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Annotation.pdf: Página 12\nWeb Page Annotation. Dimensions\n•\nSources\n– Source type\n•\nAnnotation Process\n– Maintenance (adaptivity to\n– Source type\n• Text: HTML, XML, PDF, etc.\n• Multimedia: images, video, \naudio etc\n– Maintenance (adaptivity to \nchanges in the sources)\n• Verification\n• Robustness\naudio, etc.\n• Web Services\n– Origin\n• Static: files\n• Robustness\n• Auto-adaptivity\n– Annotation Supervision\nM\nl\n• Static: files\n• Dynamic: databases and \nforms\n• Manual\n• Supervised (semi-automatic)\n• Unsupervised (automatic)\n•\nUsed technologies\n– Knowledge extraction\n•\nDegree of formality\n–\nWeb 2.0 tagging\n• NLP, IE, Layout\n– Wrapper generation\n• Toolkits, ML, Browsing\nWeb 2.0 tagging\n–\nOntology-based\n© O. Corcho, B Villazón, A. Gómez-Pérez\n12\nAnnotation\ng\n",
-  "speaker": "SYSTEM",
-  "uuid": "bea01dd6-728e-40a0-9558-fa67065899bd"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: AMPER08_-_RDF%28S%29_access_APIs.pdf: Página 8\nRDF(S) Access APIs, May 2008\n8\n© García-Castro, Corcho, Muñoz-García\nData model\nhttp://.../JohnSmith\nJohn Smith\nvcard: FN\n// some definitions \nstatic String personURI = \"http://somewhere/JohnSmith\";\nstatic String fullName = \"John Smith\"; \n// create an empty Model\nModel Model model = ModelFactory.createDefaultModel(); \n// create the resource\nResource johnSmith = model.createResource(personURI);\n// add the property\njohnSmith.addProperty(VCARD.FN, fullName); \n",
-  "speaker": "SYSTEM",
-  "uuid": "70f428e0-f435-43c0-8147-70728ef3e035"
-}

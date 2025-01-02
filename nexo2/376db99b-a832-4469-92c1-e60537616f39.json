@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 42\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \n \nEjemplo: Seleccionar la instanciación con elementos añadidos más recientemente \nR1: Si (A $x) ($x C) Entonces ..... \nR2: Si (BC) ($X B) (CD) Entonces .... \nMT: (98 (BC)) (92 (AB)) (94 (CD)) \nContador: 100 \nCC = {(R1 (92 (AB)) (98 (BC))) \n  (R2(98 (BC)) (92 (AB)) (94 (CD)))} \n \nRegla a ejecutar R2 por ser la regla que tiene el siguiente elemento más joven. \nEdad del elemento en la MT \n• Si el consecuente de una regla modifica un hecho, el Time-tag se actualiza al valor del contador \n• Si el consecuente de una regla crea un hecho, el Time-tag es el del contador \n",
-  "speaker": "SYSTEM",
-  "uuid": "376db99b-a832-4469-92c1-e60537616f39"
-}

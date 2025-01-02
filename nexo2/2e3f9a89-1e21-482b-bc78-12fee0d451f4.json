@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: EWoT.pdf: Página 13\neWoT: A Semantic Interoperability Approach for Heterogeneous IoT Ecosystems Based on the Web of Things\neWoT\n13\n§  Web Service (API) client\no  Enables Semantic Interoperability for IoT Ecosystems\no  Based on the Web of Things\no  Integration performed by means of Mappings\n•  No further code needs to be developed\no  Tasks implemented:\n•  Registering new Thing Description\n•  Discover relevant Thing Descriptions for a given \nSPARQL query\n•  Distributed access to heterogeneous IoT infrastructures\n-  Translation on the ﬂy of their data\n•  Solves SPARQL queries using data allocated in the \nThing Descriptions, or coming from the IoT \ninfrastructures.\n",
-  "speaker": "SYSTEM",
-  "uuid": "2e3f9a89-1e21-482b-bc78-12fee0d451f4"
-}

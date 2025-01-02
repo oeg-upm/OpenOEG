@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 32\nSetting up the local infrastructure \nSEALS Repositories (III) \n•\nDeploying the Results Repository Service (version 1.1-b): \n– Grab the application war from the SEALS Shared Artifacts Repository: \n•\nhttp://www.development.seals-project.eu/artifactory/global-\nrepo/eu/sealsproject/platform/repos/rrs-web/1.1-b/rrs-web-1.1-b.war \n– Copy application war to Tomcat hot deploy directory  (%TOMCAT%\\webapps) \n– Create repository in OpenRDF Sesame: \n•\nId: results \n•\nType: Native Java Store RDF Schema \n•\nTriple indexes: spoc, posc, cpso \n– Configure the application (%TOMCAT%\\webapps \\rrs-web-1.1-b\\WEB-\nINF\\classes\\config.properties): \n•\nSesame repository connection details: \n–\nResultsRepositoryURL =http://localhost:8080/openrdf-sesame \n–\nResultsRepositoryName =results \n•\nLocal file store details: \n–\nRawResultFileDirectory=%ENV%/repositories/results/rawresults/ \n–\nInterpretationFileDirectory=%ENV%/repositories/results/results/interpretations/ \nESWC 2011, 29/05/2011 \n32 \n",
+  "speaker": "SYSTEM",
+  "uuid": "eea56d00-5f75-4d97-a87e-6ea8a6b64be3"
+}

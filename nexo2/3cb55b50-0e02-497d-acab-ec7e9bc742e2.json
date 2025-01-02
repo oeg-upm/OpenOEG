@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 14\n© O. Corcho, R.García-Castro, O. Muñoz-García\n14\nRDF and RDF Schema\nNavigating a model\n// retrieve the John Smith vcard resource from the model \nResource vcard = model.getResource(johnSmithURI); \nThree ways of retrieving property values:\n// retrieve the value of the N property \nResource name = (Resource) vcard.getProperty(VCARD.N).getObject(); \n// retrieve the value of the N property \nResource name = vcard.getProperty(VCARD.N).getResource(); \n// retrieve the given name property \nString fullName = vcard.getProperty(VCARD.N).getString(); \n",
-  "speaker": "SYSTEM",
-  "uuid": "3cb55b50-0e02-497d-acab-ec7e9bc742e2"
-}

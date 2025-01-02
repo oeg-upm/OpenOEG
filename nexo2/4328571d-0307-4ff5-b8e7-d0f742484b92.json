@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Blozano.pdf: Página 23\nSet your title here in Slide Master Options\n23\n▪To evaluate a PTM with a test collection:\n▪Create ground truth by creating a relevant list for \neach document.\n▪Create a retrieved list by pairwise comparison \nwith the PTM representation\n▪Compare both list for all documents in the test-\ncollection to obtain MAP@10\nEVALUATION\nGround truth\n",
-  "speaker": "SYSTEM",
-  "uuid": "4328571d-0307-4ff5-b8e7-d0f742484b92"
-}

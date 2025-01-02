@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SparqlDQPGrupo.pdf: Página 9\nOGSA-DQP\n• OGSA-DQP\n• Developed by Universities of Manchester and Newcastle\n• Refactored for OGSA-DAI 3.0 by EPCC as part of the \nNextGrid project OGSA-DAI DQP package\n• Multiple tables on multiple databases are exposed to \nclients as multiple tables in one “virtual database”\n• Clients are unaware of the multiple databases\n• Databases can be exposed\n• EITHER within one OGSA-DAI server\n• OR via multiple remote OGSA-DAI servers\nSource: http://www.ogsadai.org.uk/documentation/presentations/ogf25/OGF-25-OGSA-DAI-Tutorial.pdf\n",
-  "speaker": "SYSTEM",
-  "uuid": "a22cf4e3-7c19-4fbc-91cd-3a465ba91088"
-}

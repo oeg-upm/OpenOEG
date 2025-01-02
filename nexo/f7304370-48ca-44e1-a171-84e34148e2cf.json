@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SWRL-v2.pdf: Página 2\n© O. Corcho, MC Suárez de Figueroa Baonza\n2\nOWL and SWRL\nWhat is SWRL? (I) \nSWRL is an acronym for Semantic Web Rule Language. \nSWRL is intended to be the rule language of the Semantic Web.\nSWRL is based on OWL: all rules are expressed in terms of OWL \nconcepts (classes, properties, individuals, literals…).\nSWRL is a combination of: OWL DL, OWL Lite, and RuleML.\nSWRL extends OWL by means of including Horn-like rules.\n",
+  "speaker": "SYSTEM",
+  "uuid": "f7304370-48ca-44e1-a171-84e34148e2cf"
+}

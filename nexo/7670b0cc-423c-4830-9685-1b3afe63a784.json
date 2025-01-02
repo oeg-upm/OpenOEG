@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: NLP.Dissociating_language_and_thought_in_large_language_models.pdf: Página 30\n4. The failure of LLMs in acquiring functional \nlinguistic competence\n(iii) Situation Modeling (2/2)\n• Red lingüística no sensible a estructura por encima del nivel de cláusula.\n• Red lingüística no es el proceso downstream que agrega el significado de \noraciones y frases a un total.\n• Nuestra memoria lingüística es muy pobre.\n• “Default network” construye SMs de narrativas linguisticas Y no linguisticas\n=> no es una capacidad específicamente lingüística.\n• Lo pasan mal traceando información en contextos largos (máximo, el \ncapítulo de un libro).\n• También con textos cortos! (por ejemplo, dice lo que no hay).\nH\nLLM\n",
+  "speaker": "SYSTEM",
+  "uuid": "7670b0cc-423c-4830-9685-1b3afe63a784"
+}

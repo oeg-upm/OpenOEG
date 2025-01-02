@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2.RDF%28S%29.pdf: Página 25\n• 25 \nRDF inference. Examples (I) \n•  Sample RDF graph \n•  Query: “Tell me who are the persons who have Asun as a \ncolleague” \n•  Result: oeg:Oscar and oeg:Raúl \noeg:Oscar \noeg:Asun \noeg:Raúl \n“http://www.fi.upm.es/” \nperson:hasHomePage \n“Oscar Corcho García” \nperson:hasName \nperson:hasColleague \nperson:hasColleague \n? \noeg:Asun \nperson:hasColleague \n49 \nRDF inference. Examples (II) \n•  Query: “Tell me which are the relationships between \nOscar and Asun” \n•  Result: oeg:hasColleague \n•  Query: “Tell me the homepage of Oscar colleagues” \n•  Result: “http://www.fi.upm.es/” \noeg:Oscar \noeg:Asun \n? \noeg:Oscar \n? \nperson:hasHomePage \nperson:hasColleague \n50 \n",
-  "speaker": "SYSTEM",
-  "uuid": "2fdede0a-1491-4042-9874-145134216c64"
-}

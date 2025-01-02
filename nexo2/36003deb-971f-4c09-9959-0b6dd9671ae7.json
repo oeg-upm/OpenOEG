@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2023.10.Hallucinations.pdf: Página 15\nTrial readme example (MT)\nMachine Translation\nREADME TRIAL\n{\n\"hyp\": \"I have nothing to do with it.\",        \n\"ref\": \"either\",        \n\"src\": \"J'en ai rien \\u00e0 secouer.\",        \n\"tgt\": \"I don't give a shit about it.\",        \n\"model\": \"\",        \n\"task\": “MT\",        \n\"labels\": [\"Hallucination\",            \"Not \nHallucination\",            \"Hallucination\"],        \n\"label\": \"Hallucination\",        \n\"p(Hallucination)\": 0.6666666666666666\n}\nA Traducir: SRC\nSalida: HYP\nTGT es lo correcto\nThe trial set covers \ndatapoints from definition \nmodeling (DM), machine \ntranslation (MT) and \nparaphrase generation (PG). \nAll other sets should also \ninclude text simplification \n(TS) datapoints.\nFurthermore\n•\nThe train set will not \ncontain manual \nannotations.\n•\nThe validation and \nevaluation sets will \ninvolve five annotators \nper datapoint.\n",
-  "speaker": "SYSTEM",
-  "uuid": "36003deb-971f-4c09-9959-0b6dd9671ae7"
-}

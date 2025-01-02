@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 8\n©O. Corcho\n8\nOntological Engineering\nCopyright © 2005, The University of Manchester\nDisjointness\n•\nOWL assumes that classes overlap\nMeatTopping\nVegetableTopping\n= individual\n►This means an individual could be both a MeatTopping and a \nVegetableTopping at the same time\n►We want to state this is not the case\n",
+  "speaker": "SYSTEM",
+  "uuid": "f33e9899-bd27-44e9-a41f-63f4144e619f"
+}

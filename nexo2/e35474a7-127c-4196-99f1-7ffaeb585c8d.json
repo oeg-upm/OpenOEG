@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Neon_2008_d2.2.2.pdf: Página 65\nD2.2.2 Methods and Tools Supporting Re-engineering\nPage 65 of 124\nTable 4.4: Pattern for Re-engineering a Classiﬁcation Scheme which follows the\nﬂattened data model(continued)\nSlot\nValue\nExample\nOUTPUT: Designed Ontology\nGeneral\nThe generated ontology will be based on the taxonomy architectural pattern (AP-TX-01)\n[SFBG+07]. Each category in the classiﬁcation scheme is mapped to a class, and the\nsemantics of the relationship between children and parent classiﬁcation scheme items are\nmapped to subClassOf relations.\nGraphical Representation\n(UML) General Solution\nOntology\n(UML) Example Solution\nOntology\nPROCESS: How to Re-engineer\n2006–2008 c⃝Copyright lies with the respective authors and their institutions.\n",
-  "speaker": "SYSTEM",
-  "uuid": "e35474a7-127c-4196-99f1-7ffaeb585c8d"
-}

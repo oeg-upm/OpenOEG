@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Aplicaciones-_v2%28asun%29.pdf: Página 22\n©Asunción Gómez-Pérez\n- 23\nData \nrepository\nOntology \nlearner\nOntology \nevaluator\nOntology \neditor\nONTOLOGY \nDEVELOPMENT \n& MANAGEMENT\nQUERYING \nAND \nREASONING\nDATA & METADATA\nMANAGEMENT\nDimensions of the SWF\n•\nFor each dimension, we have identified:\n– Components\n– Component dependencies\n– Existing implementations\nOntology \nrepository\nOntology \nbrowser\nSemantic \nquery \nprocessor\nOntology view \ncustomization\nONTOLOGY \nCUSTOMIZATION\nOntology \nDevelopment & \nManagement\n14 Ontology browser implementations  found\nThree types of implementations:\n• 9 pure ontology browsers: Brownsauce, BrowseRDF, Disco, Drive RDF \nBrowser, Horus, Longwell, Tabulator, RDF Gravity, Welkin\n• 5 Ontology development tool plugins: Jambalaya, OntoSphere3D, OntoViz, \nOWLViz, TGVizTab\n• Ontology development tools: Included in the Ontology Editor component\n",
-  "speaker": "SYSTEM",
-  "uuid": "fa1b4749-94b2-4613-aaba-891fa5964368"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Intro-RC-II-v1%28asun%29.pdf: Página 13\nIntroducción a la Representación de Conocimientos\nMarcos\nMarcos\n•\nSe representa utilizando taxonomías de conceptos en tiempo de diseño\np\np\np\n•\nConocimiento declarativo y procedimental\nAnimal\nAltura: número\nPeso: número\nVertebrados\nEsqueleto: si\nNº patas: [0 ...4]\nInvertebrados\nEsqueleto: no\nNº patas: [0 ...4]\nSubclase\nSubclase\nNombre: string\np\n[\n]\nPerro\n1\nGusano\n1\nInstancia\nInstancia\nPerro - 1\nAltura: 50\nPeso: 25\nNombre: Tuky\nGusano - 1\nAltura: 5\nPeso: 3\nNombre: A\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\n",
-  "speaker": "SYSTEM",
-  "uuid": "22f08d93-11e2-4806-b64e-c2eb5362db3d"
-}

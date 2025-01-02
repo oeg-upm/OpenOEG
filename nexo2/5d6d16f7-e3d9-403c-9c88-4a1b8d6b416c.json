@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: AMPER08_-_Introduction_to_SPARQL.pdf: Página 14\nRDF(S) Access APIs, May 2008\n14\n© García-Castro, Corcho, Muñoz-García\nGraph patterns\n• Basic Graph Patterns, where a set of triple patterns must \nmatch\n• Group Graph Pattern, where a set of graph patterns must all \nmatch\n• Optional Graph patterns, where additional patterns may \nextend the solution\n• Alternative Graph Pattern, where two or more possible \npatterns are tried\n• Patterns on Named Graphs, where patterns are matched \nagainst named graphs\n",
-  "speaker": "SYSTEM",
-  "uuid": "5d6d16f7-e3d9-403c-9c88-4a1b8d6b416c"
-}

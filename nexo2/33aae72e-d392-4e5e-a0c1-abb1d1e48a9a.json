@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Re-engineer_NOR.pdf: Página 49\nHow to use the software library?\n• There are 3 configuartion files:\n• nor.xml, for describing the non-ontological resource.\n• prnor.xml, for describing the pattern for re-engineering.\n• or.xml, for describing the ontology generated.\n• There is a batch file\n49\n• prnor.bat, for performing the transformation\n• Requirements\n• Java runtime environment (tested in 1.5)\n• You should set tha JAVA_HOME to the location of the \ninstallation directory. \n© A Method for Re-engineering Non-Ontological Resources for Building Ontologies \nBoris Villazón-Terrazas, Mari Carmen Suárez Figueroa\n",
-  "speaker": "SYSTEM",
-  "uuid": "33aae72e-d392-4e5e-a0c1-abb1d1e48a9a"
-}

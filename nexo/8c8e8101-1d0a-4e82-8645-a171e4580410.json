@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/2011Athens \n\nIr a Cursos\nTitulo\n: Ontologies, Semantic Web, and Linked Data\nObjetivo\n: The general objective is to provide students with a sound grounding of scientific, methodological and technological fundamentals in the Semantic Web domain that will be later used to build applications that can integrate, combine and infer heterogeneous and distributed information.\nTemario y organización\n:\n[1]\nAula\n: 6302\nProfesores\n: Mari Carmen, Raúl G., Lupe, Boris, Mikel, Jorge, Luis\nPares (por si es necesario sustituir a alguien)\nMetodologías: Mari Carmen, Asun\nLingüística: Elena, Lupe\nRDF, SPARQL: Raul G., Oscar\nOWL: Mikel, Raul G., Oscar\nLD: Boris, Luis\nSoftware\n:\nNTK 2.5.1 (con los plugins Watson y gOntt) -->\nhttp://neon-toolkit.org/wiki/Download/2.5.1\nProtege 4.1 -->\nhttp://protege.stanford.edu/download/registered.html#p4.1\nAlignment API -->\nhttp://alignapi.gforge.inria.fr/\nSPARQL endpoint",
+  "speaker": "SYSTEM",
+  "uuid": "8c8e8101-1d0a-4e82-8645-a171e4580410"
+}

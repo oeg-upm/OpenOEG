@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 23\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nEstrategia de Control: Fases \n1. Selección \n1.1. Restricción \n1.2. Equiparación: \n1.3. Resolución del Conjunto Conflicto \n \n2. Acción o ejecución \n{R1 …R1000} \nRestricción \nEquiparación \nResolución del Conjunto Conflicto \nEjecución \n{R1 …R100} \n{R4, R25, R99} \n{R4} \nBHi \nBHj \n",
+  "speaker": "SYSTEM",
+  "uuid": "aa436b6d-8ef5-456b-8f1f-8d72dfdecae0"
+}

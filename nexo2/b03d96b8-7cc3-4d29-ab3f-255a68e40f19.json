@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 26\nImplementation\n26\nEnabling  Ontology-based Access to Streaming Data Sources\nIntegration \nQuery Service\nIntegrationInterface\nQueryInterface\nPullInterface\nTranslator\nClient\nSNEE\n-WS\nS2O\nmappings\nrepository\nSNEEql\nIntegrateAs (DataResourceAddressList, S2O document)\nDataResourceAddress\nSPARQLQueryFactory (DataResourceName, SPARQLSTR )\nDataResourceAddress\naddQuery\nGetStreamNewestItem(DataResourceName )\nDataSet\ngetResultSet\nrepeat\nCCO-\nWS\n",
-  "speaker": "SYSTEM",
-  "uuid": "b03d96b8-7cc3-4d29-ab3f-255a68e40f19"
-}

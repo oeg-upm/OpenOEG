@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GeneralOntologies.pdf: Página 61\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work \n61 \nREFORMULATE THE CQs AND ADD LINKING AXIOMS \nHeuristic 12 (time points). If we are not interested in the endpoints of the temporal entity returned by the CQ, then we \nshould introduce a linking axiom in the general ontology to relate a domain ontology concept to time points. \nHeuristic 13 (time intervals). If we are interested in the endpoints of the temporal entity returned by the CQ, then we \nshould introduce a linking axiom in the general ontology to relate a domain ontology concept to time intervals. \nWhen was Regulaten ® (a particular drug) \nregistered? \nWhen did Regulaten ® go on sale? \nDrug \nTimePoint \nwas registered \nDrug \nTimeInterval \non sale during \n",
+  "speaker": "SYSTEM",
+  "uuid": "47c6fcbd-f084-4f9c-a982-e6293d91c6ff"
+}

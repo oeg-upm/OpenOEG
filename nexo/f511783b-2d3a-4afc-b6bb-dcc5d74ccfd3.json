@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: II-Redes_Sem%C3%A1nticas-v5.pdf: Página 21\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nTravel\nrdfs:Literal\nrdfs:Class\nCompany-name\nsingleFare\nunits:currencyQuantity\nrdfs:range\nrdfs:range\nrdfs:domain\nrdfs:domain\nrdf:Type\ndepartureDate\nrdfs:domain\ntime:Date\nrdfs:range\narrivalDate\nrdfs:range\nrdfs:domain\nrdf:Property\nrdf:Type\nrdf:Type\nrdf:Type\nrdf:Type\nRDF\nRDFS\nIB-4321\n“Iberia”\n500 euros\n10/11/2005\nsingleFare\ndepartureDate\narrivalDate\nCompany-name\nrdf:Type\nrdf:Type\nrdf:Type\nrdf:Type\n",
-  "speaker": "SYSTEM",
-  "uuid": "f511783b-2d3a-4afc-b6bb-dcc5d74ccfd3"
-}

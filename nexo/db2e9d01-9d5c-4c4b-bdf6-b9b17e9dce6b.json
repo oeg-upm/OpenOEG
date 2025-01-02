@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Metodolog%C3%ADa-2-MC-ODPs.pdf: Página 2\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n2\nOntological Engineering\nPatterns\nPattern is something proposed for imitation. \nDesign Pattern refers to shared guidelines that help solve design problems.\nOntology Design Pattern (ODP) is a modeling solution to solve a recurrent \nontology design problem.\n Pattern\nis\nassociable\nwith\nthe\nwider\n“good/best practice”\nof\nsoftware \nengineering. It includes a wider range of solution types. For example: naming\nconventions in software engineering are considered good practices, they are not\ndesign patterns.\n ODPs can be classified into six families\n\nEach family addresses different kinds of problems, and can be represented with different levels\nof formality.\n",
+  "speaker": "SYSTEM",
+  "uuid": "db2e9d01-9d5c-4c4b-bdf6-b9b17e9dce6b"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 106\n© O. Corcho, R.García-Castro, O. Muñoz-García\n106\nRDF and RDF Schema\nRestricting values\n@prefix dc:   <http://purl.org/dc/elements/1.1/> .\n@prefix :     <http://example.org/book/> .\n@prefix ns:   <http://example.org/ns#> .\n:book1  dc:title  \"SPARQL Tutorial\" .\n:book1  ns:price  42 .\n:book2  dc:title  \"The Semantic Web\" .\n:book2  ns:price  23 .\nPREFIX  dc:  <http://purl.org/dc/elements/1.1/>\nSELECT  ?title\nWHERE   { ?x dc:title ?title\nFILTER regex(?title, \"^SPARQL\") \n}\ntitle\n\"SPARQL Tutorial\"\nPREFIX  dc:  <http://purl.org/dc/elements/1.1/>\nSELECT  ?title\nWHERE   { ?x dc:title ?title\nFILTER regex(?title, \"web\", \"i\" ) \n}\ntitle\n\"The Semantic Web\"\nPREFIX  dc:  <http://purl.org/dc/elements/1.1/>\nPREFIX  ns:  <http://example.org/ns#>\nSELECT  ?title ?price\nWHERE   { ?x ns:price ?price .\nFILTER (?price < 30.5)\n?x dc:title ?title . }\ntitle\nprice\n\"The Semantic Web\"\n23\n",
-  "speaker": "SYSTEM",
-  "uuid": "77817ab9-3f6a-41f2-9c6c-0d70fa0a790c"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 51\n© O. Corcho, R.García-Castro, O. Muñoz-García\n51\nRDF and RDF Schema\nExercise 2.b. Create RDF/XML and N3 text files \nfrom an RDF(S) graph\n•\nTransform the following graph into RDF/XML and N3 syntaxes\nSaber_1 \n \n \n                   Ver_1   \nObjeto\n \n \n      Agente\nVoz\nPepe\nActiva\nPresente\nLuis\nTiempo\nAgente\nEl Prado\nObjeto\nMadrid\nLugar\nPasado\nTiempo\nActiva\nVoz\nMuseo\nrdf:type\nPersona\nrdf:type\nrdf:type\n",
-  "speaker": "SYSTEM",
-  "uuid": "de968635-c283-43c8-a9f9-2ddf5bac7ee3"
-}

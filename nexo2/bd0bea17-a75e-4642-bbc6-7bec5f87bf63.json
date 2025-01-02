@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Vadim.pdf: Página 59\nNovember 12, 2015\n59\nGravitation and Fitness in Ontology Dynamics\nOntology is a Logical Theory\n•\n \nOntology * – a tuple: \nO = (C, P, I, T, V, ≤, ┴, , =) \n•\n \nwhere the sets C, P, I, T, V are pair-wise disjoint \nand: \n–\n \nC – set of concepts (or classes) \n–\n \nP – set of properties (object and datatype\n \nproperties) \n–\n \nI\n \n– set of individuals (or instances) \n–\n \nT – set of datatypes\n–\n \nV – set of values\n–\n \n≤\n \n–\n \nreflexive, anti-symmetric, and transitive relation \non (C x C ) U (P x P ) U (T x T ) called specialization, (subsumption) that form \npartial orders on: \n–\n \nC – concept hierarchy; and \n–\n \nP –\n \nproperty hierarchy \n–\n \n┴\n \n–\n \nirreflexive\n \nand symmetric relation \non (C x C ) U (P x P ) U (T x T ) called exclusion\n–\n \n\n \n–\n \nrelation over (I x C ) U (I x V ) called instantiation\n–\n \n= –\n \nrelation over I\n \nU P U (I x V ) called assignment\n* Euzenat\n \nJ. and Shvaiko\n \nP. 2007. Ontology Matching, Berlin Heidelberg (DE), Springer-Verlag\n",
-  "speaker": "SYSTEM",
-  "uuid": "bd0bea17-a75e-4642-bbc6-7bec5f87bf63"
-}

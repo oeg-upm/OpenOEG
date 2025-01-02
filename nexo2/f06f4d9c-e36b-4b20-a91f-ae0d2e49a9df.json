@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_RDF%28S%29.pdf: Página 19\nRDF inference. Examples (I)\n•\nSample RDF graph\n“Oscar Corcho García”\nperson:hasName\nQ\n“T ll\nh\nth\nh h\nA\noeg:Oscar\noeg:Asun\noeg:Raúl\n“http://www.fi.upm.es/”\nperson:hasHomePage\nperson:hasColleague\nperson:hasColleague\n© O. Corcho, R.García-Castro, O. Muñoz-García\n39\nRDF and RDF Schema\n•\nQuery: “Tell me who are the persons who have Asun as a \ncolleague”\n–\nResult: oeg:Oscar and oeg:Raúl\n?\noeg:Asun\nperson:hasColleague\nRDF inference. Examples (II)\n•\nQuery: “Tell me which are the relationships between Oscar and \nAsun”\noeg:Oscar\noeg:Asun\n?\n–\nResult: oeg:hasColleague\n•\nQuery: “Tell me the homepage of Oscar colleagues”\noeg:Oscar\nperson:hasHomePage\nperson:hasColleague\n© O. Corcho, R.García-Castro, O. Muñoz-García\n40\nRDF and RDF Schema\n–\nResult: “http://www.fi.upm.es/”\n?\nperson:hasHomePage\n",
-  "speaker": "SYSTEM",
-  "uuid": "f06f4d9c-e36b-4b20-a91f-ae0d2e49a9df"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Modelado_Conceptual_y_Compromisos_Ontol%C3%B3gicos_en_Humanidades.pdf: Página 18\nExtensión de modelos\nCopyright © 2018 César González-Pérez\n18\nEdificio\nMaterial: 1..* enum Material\nAltura: 1 Número\nA\nEdificio\nMaterial: 1..* enum Material\nAltura: 1 Número\nB > A\nCasa\nNúmeroDeOcupantes: 1 Número\nFunción\nEdificio\nMaterial: 1..* enum Material\nAltura: 1 Número\nC > A\nEvento\nMomento: 1 Tiempo\nDescripción: 1 Texto\nLeOcurreA\n0..*\n0..*\nb: Casa\nMaterial = Piedra; Vidrio\nAltura = 12\nNúmeroDeOcupantes = 2\nb: Edificio\nMaterial = Piedra; Vidrio\nAltura = 12\ne: Evento\nMomento = 8 Nov 2005\nDescripción = ...\nRR.3\nRR.4\n",
+  "speaker": "SYSTEM",
+  "uuid": "ea30142b-2e9c-40f2-9a75-6e71f3dfda78"
+}

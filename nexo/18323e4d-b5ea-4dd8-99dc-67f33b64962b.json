@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RedesBayesianas_Introducci%C3%B3n.pdf: Página 11\nProbabilidad\nSólo vamos a considerar la probabilidad sobre conjuntos ﬁnitos.\nVamos a suponer un conjunto U ﬁnito de sucesos elementales y una familia\nde conjuntos o sucesos B (si U es ﬁnito esta familia suele ser el conjunto de\nlas partes de U).\nUna medida de probabilidad sobre (U,B) es una aplicación P : B →[0,1],\nque veriﬁca:\nP(U) = 1\nSi A y C son disjuntos P(A∪C) = P(A)+P(C)\nUna Introducción a las Redes Bayesianas– p.9/??\n",
+  "speaker": "SYSTEM",
+  "uuid": "18323e4d-b5ea-4dd8-99dc-67f33b64962b"
+}

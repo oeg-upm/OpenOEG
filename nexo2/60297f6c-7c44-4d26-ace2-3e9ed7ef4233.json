@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2019-07-18-Lefrancois-Seminar.pptx: Diapositiva {9}\nTransform multiple sources …\n... having heterogeneous formats\nBe extensible to new data formats\nBe easy to use by Semantic Web experts\nIntegrate in a typical semantic web engineering workflow\nBe flexible and easily maintainable\nContextualize the transformation with an RDF Dataset\nModularize / decouple / compose transformations\nEnable data transformation, aggregates, filters, ...\nGenerate RDF Lists\nPerformant\nTransform binary formats as well as textual formats\nTransform big documents (output HDT)\nGenerate RDF streams from streams",
-  "speaker": "SYSTEM",
-  "uuid": "60297f6c-7c44-4d26-ace2-3e9ed7ef4233"
-}

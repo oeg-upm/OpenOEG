@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RedesBayesianas_Introducci%C3%B3n.pdf: Página 21\nDistribuciones Condicionadas\nSi tenemos dos variables, X,Y, la distribución de probabilidad\nde Y dado X, es una función de los conjuntos dónde Y y X\ntoman sus valores en [0,1], dada por\np(y|x) = P(Y = y|X = x)\nEs evidente que ∀x, ∑y p(y|x) = 1\nCaso de los test y de las enfermedades p(t|e)\nt+\nt−\ne\n0.95\n0.05\n¬e\n0.03\n0.97\nUna Introducción a las Redes Bayesianas– p.19/??\n",
-  "speaker": "SYSTEM",
-  "uuid": "e69401e9-4276-427c-9a24-311241e5c7c4"
-}

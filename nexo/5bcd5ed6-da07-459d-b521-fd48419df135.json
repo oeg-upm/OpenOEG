@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas-II.pdf: Página 15\nSistemas de Producción\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nNo son REGLAS\nProblema 2: No pueden aparecer OR en el consecuente de la regla\nRi: Si Condición-1 \nCondición-2 \nCondición-3 \n...\nEntonces acciones-1 V acciones-2\nSolución:\n•\nCrear dos reglas, una para cada bloque de acciones.\n•\nEstablecer prioridades entre las reglas\n•\nIdentificar condiciones adicionales\nRi: Si Condición-1 \nCondición-2 \nCondición-3 \n...\nEntonces acciones-1\nRj: Si Condición-1 \nCondición-2 \nCondición-3 \n...\nEntonces acciones-2\nRi más prioritaria que Rj\n",
-  "speaker": "SYSTEM",
-  "uuid": "5bcd5ed6-da07-459d-b521-fd48419df135"
-}

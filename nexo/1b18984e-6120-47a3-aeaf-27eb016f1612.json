@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: NLP.Dissociating_language_and_thought_in_large_language_models.pdf: Página 17\n3. The success of LLMs in acquiring formal \nlinguistic competence\nLLMs aprenden aspectos core de HLP (1/2)\nAprenden estructuras jerárquicas: aunque la estadística pura falla y la co-\nocurrencia se puede hackear fácilmente, sí que parece que aprenden \ncierta información jerárquica. Probado mediante:\n• Tratar a los modelos como sujetos psicolingüísticos. Ejemplos tipo: \n“The keys are on the table” estadística\n“The keys to the old, wooden kitchen cabinet are on the table”\n• Probing (usar un algoritmo que toma las representaciones internas \ndel LM y  las mapea a features lingüísticas de interés.\n* Nótese que los humanos no siempre usan jerarquías, a veces \nmemorizan input previo.\n",
+  "speaker": "SYSTEM",
+  "uuid": "1b18984e-6120-47a3-aeaf-27eb016f1612"
+}

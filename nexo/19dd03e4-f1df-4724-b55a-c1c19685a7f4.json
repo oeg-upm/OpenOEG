@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Designing_a_Text_Classification_System_using_Statistical_NLP.pdf: Página 7\nApproaches for text classification \nSupervised Learning \n– Our goal is to find  f: U → C \n– We use a learning method Τ that takes as input a \ntraining set D ⊆ R and returns the learned \nclassifier f \nAdvantages \n•\nHuman resources are not needed to \nmake rules \n•\nAbility to adapt to a changing \nenvironment \n•\nMany available learning methods and \ntools \n \nDisadvantages \n•\nNeeds annotated data (Training data) \n•\nClassifier performance depends on \nthe training data quality \n•\nClassification rules are not always \neasily interpreted.  \n \n",
+  "speaker": "SYSTEM",
+  "uuid": "19dd03e4-f1df-4724-b55a-c1c19685a7f4"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 28\n•28\nExercise 2.b. Create files from a graph\n• Transform the following graph into N3 syntax\nSensor029\nClass01\n2010-06-12T12:00:12\n29\nObject\nRoom\nPerson\nMeasurement\nincludes\nincludes\nhasMeasurement\nhasTemperature\natTime\n56\nComputer101\nUser10A\nPedro\nhasOwner\nhasName\nIndex\n• An introduction to knowledge representation\nformalisms\n• Resource Description Framework (RDF)\n• RDF primitives\n• Reasoning with RDF\n• RDF Schema\n• RDF Schema primitives\n• Reasoning with RDFS\n• RDF(S) Management APIs\n( )\ng\n57\n",
+  "speaker": "SYSTEM",
+  "uuid": "e1533c2d-e374-4a28-9201-6817e1fa0201"
+}

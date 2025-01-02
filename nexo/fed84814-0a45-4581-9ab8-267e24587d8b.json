@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: B%C3%9ASQUEDA.pdf: Página 94\n94\nALGORITMO DE PODA ALFA-BETA\n12\n3\n8\nMAX\nMAX\nMIN\n[3, 3]\n[3, +inf]\n12\n[-inf, 2]\n3\n8\n2\nMAX\nMAX\nMIN\n[3, 3]\n[3, +inf]\n[3,+inf] es el valor que puede tomar MAX hasta el momento.\n+inf: puesto que MAX elige el máximo valor de sus hijos, le\nquedan dos alternativas para elegir un valor más alto que 3.\n3: nunca MAX elegirá un valor inferior a 3, que es el más alto\nencontrado hasta el momento.\n",
-  "speaker": "SYSTEM",
-  "uuid": "fed84814-0a45-4581-9ab8-267e24587d8b"
-}

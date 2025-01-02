@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 34\nRNNs 6 [10]  \nPreprocess is more complex\nconsider inputs or outputs that don’t occur at every time step\ne.g. two time series of lengths 50 and 100 time steps\nPadding and masking mechanisms can be used\nPadding, to get training data a rectangular array, zeros are added to the \nshorter time series (for both input and output)\n(in this example: 100 time steps)\nMasking, additional arrays that record whether an input or output is actually \npresent\n0 (‘absent’) or 1 (‘present’)\n34\n",
-  "speaker": "SYSTEM",
-  "uuid": "e7b0d9b5-7681-4b7a-b44a-8c4d075d59f0"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Aplicaciones-_v2%28asun%29.pdf: Página 53\n©Asunción Gómez-Pérez\n- 54\nComparison between planning and product generation\n...\nInstr#n\n(RA_2)\nplanning\nDMOP_File#n(StartTime)\nDMOP_File#n(StopTime)\nDMOP_File#(n+1)\nStartTime\nDMOP#(n+1)_\nFile\n(StopTime)\nDMOP_er \n(ORBIT_NUMBER,\nELAPSED_TIME)\nInstr#1\nplanning\nDURATION\nPRODUCT_FILE\nStart_time\n(SENSING_START)\nPRODUCT_FILE\nStop_time\n(SENSING_STOP)\n...\nInstr#n(RA_2)\nProduct\nGeneration\nRA2_CAL_1P\nStop_time\n(SENSING_STOP)\nRA2_CAL_1P\nStart_time\n(SENSING_START)\nPRODUCT_data_gap\n...\n...\n",
+  "speaker": "SYSTEM",
+  "uuid": "61b2bfd9-7534-4375-8f36-b040b23d0e50"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RedesBayesianas_Introducci%C3%B3n.pdf: Página 6\nSistemas Basados en Reglas\nSI es un animal con pelo ENTONCES es un mamífero\nIncertidumbre:\nSI tiene ﬁebre y dolor de cabeza, entonces tiene gripe (certeza\n0.7)\nMYCIN fue diseñado para determinar tratamientos en\ninfecciones de la sangre con 300 reglas.\nSi una conclusión se obtiene por varias vías, los valores de\ncerteza se combinan.\nLas certezas no eran probabilidades: éstas imponen unas\nreglas de cálculo muy estrictas.\nSu correcto funcionamiento se basa en un cuidadoso\ndiseño de las reglas en función del uso que se hace de\nellas.\nUna Introducción a las Redes Bayesianas– p.6/??\n",
+  "speaker": "SYSTEM",
+  "uuid": "df3f6c09-1d88-49a2-ad68-b2fabed0b623"
+}

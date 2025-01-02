@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GeneralOntologies-v3_%28mariano%29.pdf: Página 39\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work\n39\nW3C MEREOLOGY USE CASES: DOCUMENT \nRETRIEVAL SYSTEM\nA document retrieval system, in which documents are divided into chapters, sections, paragraphs etc. \nDocument A\nChapter 1\nChapter 2\nChapter 3\nSection 1.1\nSection 1.2\nSection 1.3\nSection 1.4\nisPartOf\nRector A, Welty C (eds), Noy N, Wallace E (contributors) (2005) Simple part-whole relations in \nOWL Ontologies . W3C Editors Draft \n(http://www.w3.org/2001/sw/BestPractices/OEP/SimplePartWhole/)\n",
-  "speaker": "SYSTEM",
-  "uuid": "c97bcec1-f8fc-4199-8a84-2662b0a85809"
-}

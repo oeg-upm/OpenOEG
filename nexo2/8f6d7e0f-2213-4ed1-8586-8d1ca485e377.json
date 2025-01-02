@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: AMPER08_-_Introduction_to_SPARQL.pdf: Página 26\nRDF(S) Access APIs, May 2008\n26\n© García-Castro, Corcho, Muñoz-García\nValue tests\n• Based on XQuery 1.0 and XPath 2.0 Function and \nOperators \n• XSD boolean, string, integer, decimal, float, double, \ndateTime \n• Notation <, >, =, <=, >= and != for value comparison\nApply to any type \n• BOUND, isURI, isBLANK, isLITERAL \n• REGEX, LANG, DATATYPE, STR (lexical form) \n• Function call for casting and extensions functions \n",
-  "speaker": "SYSTEM",
-  "uuid": "8f6d7e0f-2213-4ed1-8586-8d1ca485e377"
-}

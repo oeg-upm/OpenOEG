@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 46\nRunning the evaluation scenario \nPreparing the execution request context (I) \n• Inform the Runtime Evaluation Service about the \nresources that should participate in the enaction \nof the execution request. \n– Which is the evaluation description associated to the \nexecution request \n– Where are the RES Workers which will expose the \ntools under evaluation* \n \n• Invoke the RegisterExecutionRequestContext of the \nExecution Request Context Registry Service of the RES \nCore. \nESWC 2011, 29/05/2011 \n46 \n",
+  "speaker": "SYSTEM",
+  "uuid": "01521a79-37f1-4051-ad24-298f34616e87"
+}

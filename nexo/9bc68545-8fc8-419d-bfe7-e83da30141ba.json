@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 46\nWeb Ontology Language\nOWL semantics\nProperty hierarchy: \nSub/SuperProperties\np SubPropertyOf q\nIf A p B, A q B\nBut if D q F, not D p F\nEquivalent Properties\nDisjoint Properties\n",
+  "speaker": "SYSTEM",
+  "uuid": "9bc68545-8fc8-419d-bfe7-e83da30141ba"
+}

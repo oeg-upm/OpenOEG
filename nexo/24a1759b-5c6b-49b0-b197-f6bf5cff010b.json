@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas.pdf: Página 5\n5\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nIndice\n1.\nArquitectura de los Sistemas de Producción\n2. Base de Hechos\n3. Base de Reglas\n4. Estrategia de Control\n4.1. Ciclo de Funcionamiento\n4.2.  Encadenamientos\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nBase de Reglas\nRepresenta conocimientos sobre la solución del problema\nSi Condiciones Entonces Acciones\nAntecedente\nConsecuente\nEjemplos: \n• El coste del envío se incrementa en 1000 pesetas si se recibe en el mismo día\n• Si la edad del paciente es inferior a 10 años, tiene manchas rojas y fiebre, entonces tiene varicela.\n• Si el coche no arranca, lo primero a revisar es la bateria\n• Si el dólar baja, entonces hay que comprar dólares\n• .....\n",
+  "speaker": "SYSTEM",
+  "uuid": "24a1759b-5c6b-49b0-b197-f6bf5cff010b"
+}

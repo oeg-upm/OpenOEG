@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SparqlDQPGrupo.pdf: Página 27\nWorkflow Builder\n• At this stage an executable workflow is created\n• It is created from the optimised LQP\n• It uses the OGSA-DAI activity SQLQueryActivity\n• We do not modify anything from this activity\n• The Sparql LQP is sent to the SQL activity\n• And a workflow is created\n• This is possible because the RDF resource (which runs the \nfinal query) is totally integrated within OGSA-DAI & DQP\n• Result formats between activities accessing resources are \nthe same\n• Possibility of creating data workflows combining RDF data \nand SQL data\n",
+  "speaker": "SYSTEM",
+  "uuid": "1ac5588d-57bc-4146-9c28-9f6a5002f75b"
+}

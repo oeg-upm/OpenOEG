@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 3._Metodolog%C3%ADa-1-v1%28asun%29.pdf: Página 9\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n10\nOntological Engineering\nGetting terminology using \nCompetency Questions\nIdentify intuitively possible \napplications and  solutions\nIdentify Queries:\n• Answers:   Axioms\nFormal definitions\n• Questions: Terminology\nMotivating\nScenarios\nInformal\nCompetency\nQuestions\nFormal \nTerminology\nClasses\nRelations\nAttributes\nAxioms\nInstances\nUschold, M.; Grüninger, M.  \nONTOLOGIES: Principles, Methods and Applications.  \nKnowledge Engineering Review. \nVol. 11; N. 2; June 1996.\nFind documents written by Person P\nIdentify Queries:\n• Questions:  Document, Person, writes\n• Answers: Document D1 is written by P1\nClasses: Document, Person\nRelations: Writes, written by\nAttributes: ---\nAxioms\nInstances: P1, D1\n",
-  "speaker": "SYSTEM",
-  "uuid": "2c35317a-9146-4b34-87a7-341f2b11dc8b"
-}

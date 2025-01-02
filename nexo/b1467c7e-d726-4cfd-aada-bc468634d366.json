@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 38\nWeb Ontology Language\nOWL semantics\nQCR (Qualified Cardinality Constraint):\nMin: humano subClassOf come min 1 Planta\nMax: humano subClassOf come max 5 Planta\nExactly: humano subClassOf come exactly 3 Planta\n",
+  "speaker": "SYSTEM",
+  "uuid": "b1467c7e-d726-4cfd-aada-bc468634d366"
+}

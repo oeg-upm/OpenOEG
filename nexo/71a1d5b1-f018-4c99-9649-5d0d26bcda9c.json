@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/M%C3%A9tricas_de_evaluaci%C3%B3n \n\nEn este\ndocumento\nse describen algunas metricas de evaluación utiles para procesos cuyo resultado sea una o mas entidades para cada entrada y que los valores de evaluación sean algo similar a correcto/Incorrecto, o Altamente relacionado/Relacionado/Nada relacionado.\nEn este otro documento (\nEvaluación editores de ontologías\n) se discuten características que debe tener una evaluación en el contexto de editores de ontologías. Sin embargo, este texto se puede extrapolar a otros dominios de evaluación.",
+  "speaker": "SYSTEM",
+  "uuid": "71a1d5b1-f018-4c99-9649-5d0d26bcda9c"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 57\nApplication to Code of Criminal Procedure(continued)\nWe could write these general rules in PROLEG as:\nprohibited(Police,X,Disposition)\n<=\ncompulsory(Disposition).\nallowed(Police,X,Disposition)\n<=\nwith_consent(X,Disposition).\nand exceptions as:\nexception(prohibited(Police,X,Disposition),\nprovisions(Disposition)).\nexception(allowed(Police,X,Disposition),\nunnecessary(Police,X,Disposition)).\n57\n",
+  "speaker": "SYSTEM",
+  "uuid": "e133f40d-8dca-4d66-8041-442c5fe83fc0"
+}

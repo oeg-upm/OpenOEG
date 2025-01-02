@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 8\n•8\n•\nMen and women are persons\n•\nA person can be married to another person\n•\nNobody can be a man and a woman at the same time\n•\nJohn, Paul and Michael are men\nPerson\nMarried-to\nFrames. Example\n•\nMary and Anne are women\n•\nJohn is married to Mary\n•\nPaul is married to Anne\nDisjoint\nWoman\nMan\nsubclassOf\nsubclassOf\ninstanceOf\ninstanceOf\ninstanceOf\ninstanceOf\ninstanceOf\nMary\nMarried-to\nAnne\nJohn\ninstanceOf\ninstanceOf\nPaul\nMarried-to\nMichael\ninstanceOf\nDescription Logics. Basic elements\n• A subset of first order logic with good reasoning \nproperties\n• Automatic classification\nInvertebrate\nLiving Being\nVertebrate\nDog\nPlant\nCat\nAutomatic \nClassification\nSubclass of\nLiving Being\nVertebrate\nInvertebrate\nSubclass of\nPlant\nSubclass of\nSubclass of\nSubclass of\nFrame-based design\nDog\nCat\n",
+  "speaker": "SYSTEM",
+  "uuid": "01fd9bbe-3507-47fe-9595-8e2ee7a5310f"
+}

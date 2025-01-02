@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_SPARQL.pdf: Página 2\nWhat is SPARQL? \nn  Loads of structured data out there \nn  You want to do structured queries on top of it … \n \nQuery Language for RDF \n• \nSQL “look-and-feel” for the Semantic Web \n• \nMeans to query the Web of Data \n• \nMeans to map between vocabularies \n• \nMeans to access RDF stores \nSPARQL1.0 (standard since 2008): \n• \nQuery Language \n• \nProtocol \n• \nResult Format \nSPARQL1.1 (in progress): \n• \nSPARQL 1.1 query language (additional features: aggregate functions, subqueries, \nnegation, project expressions, property paths, basic federated queries) \n• \nSPARQL 1.1 Entailment regimes \n• \nSPARQL 1.1 Update: A full data manipulation language \n• \nSPARQL 1.1 Uniform HTTP Protocol for Managing RDF Graphs  \n• \nSPARQL 1.1 Service Descriptions \n2  \n",
+  "speaker": "SYSTEM",
+  "uuid": "2e83c864-6e90-45dc-930a-c87007d29706"
+}

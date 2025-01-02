@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: AMPER08_-_Introduction_to_SPARQL.pdf: Página 9\nRDF(S) Access APIs, May 2008\n9\n© García-Castro, Corcho, Muñoz-García\nA simple SPARQL query\n@prefix dc: <http://purl.org/dc/elements/1.1/> . \n@prefix : <http://example.org/book/> . \n:book1 dc:title \"SPARQL Tutorial\" .\ntitle\n\"SPARQL Tutorial\" \nSELECT ?title\nWHERE\n{\n<http://example.org/book/book1> <http://purl.org/dc/elements/1.1/title> ?title .\n}\nData:\nQuery:\nQuery result:\n•\nA pattern is matched against the RDF data \n•\nEach way a pattern can be matched yields a solution \n•\nThe sequence of solutions is filtered by: Project, distinct, order, limit/offset \n•\nOne of the result forms is applied: SELECT, CONSTRUCT, DESCRIBE, ASK\n",
-  "speaker": "SYSTEM",
-  "uuid": "f6d62852-879a-40a1-83b6-5e69e06f1dc2"
-}

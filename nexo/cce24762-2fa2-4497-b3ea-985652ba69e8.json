@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Restricciones.pdf: Página 3\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nRestricciones\nIdea Intuitiva (I)\nEstado Inicial\nX = {a, b}\nY = {a, b, c}\nZ = {a, b}\nR = {R1, R2, ...., Rm}\nR1: X=Z\nR2: Y <> a\nX=a\nX=b\nEstado 1\nX = {a, b}\nY = {b, c}\nZ = {a, b}\nFiltrar\nY=b\nY=c\nY=b\nY=c\nZ=a\nZ=b\nZ=a\nZ=b Z=a\nZ=b\nZ=a\nZ=b\nIncoveniente:\nGeneración exhaustiva de todo el \nespacio de búsqueda hace poco \neficiente la solucion alcanzada\nSolución: Búsqueda con Poda\nEstado 1\nBúsqueda\nEvaluación de soluciones correctas\n{X=a, Y=b, Z=a}{X=a, Y=c, Z=a}...... \n",
-  "speaker": "SYSTEM",
-  "uuid": "cce24762-2fa2-4497-b3ea-985652ba69e8"
-}

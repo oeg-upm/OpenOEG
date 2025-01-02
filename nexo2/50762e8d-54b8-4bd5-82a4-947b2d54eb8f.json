@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 22\nMissing common feature requirements in existing implementations \nor requested urgently by the community: \n•  Assignment/Project Expressions \n•  Aggregate functions (SUM, AVG, MIN, MAX, COUNT, …) \n•  Subqueries \n•  Property paths \n•  complaint: SPARQL1.0 isn’t quite a “graph” query language \nEase of use: \n•  Why is Negation “hidden” in SPARQL1.0? \nInterplay with other SW standards: \n•  SPARQL1.0 only defined for simple RDF entailment \n•  Other Entailment regimes missing:  \n•  RDF(S), OWL \n•  OWL2 \n•  RIF \n \n28 \nOntological Engineering Group \nThis is where SPARQL1.1 starts \n",
-  "speaker": "SYSTEM",
-  "uuid": "50762e8d-54b8-4bd5-82a4-947b2d54eb8f"
-}

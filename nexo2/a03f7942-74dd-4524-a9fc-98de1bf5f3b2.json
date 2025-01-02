@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Aplicaciones-_v2%28asun%29.pdf: Página 36\n©Asunción Gómez-Pérez\n- 37\nAlign existing data sources with legacy ontologies\nPunto Europeo\nPuntoGPS\nPuntoAsiatico\n=\nAeropuertos\nf (Aeropuertos)\nOntología O2\nModelo Relacional M1\nPuntoEuropeo\nPuntoEspañol\nEstación\nCentro\nComunicaciones\nAeropuerto\n=\nAeropuerto\nf (Aeropuertos)\nOntología O1\nRC(O2,M1)\nRC(O1,M1)\n",
-  "speaker": "SYSTEM",
-  "uuid": "a03f7942-74dd-4524-a9fc-98de1bf5f3b2"
-}

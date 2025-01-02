@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Marcos.pdf: Página 65\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nValores Activos\nSon Procedimientos/Reglas asociados a las facetas si necesito, si modifico, si añado, si borro que se ejecutan\nal necesitar, modificar, añadir o borrar un valor de una propiedad de instancia en un marco instanciado.\nSi Necesito:\n• El valor de una propiedad se deduce a partir del valor de otras propiedades almacenadas en la  BC\n• Se obtiene de una base de datos\n• La proporciona otro sistema\n• La introduce el usuario\n•....\nSi añado:\n• Una vez introducido el valor de una propiedad, en el si añado  de dicha propiedad se introduce\nel procedimiento/regla   que permite deducir otros valores de otras propiedades a partir del valor\nde la propiedad que se acaba de conocer.\nSi Modifico:\n• Una vez modificado el valor de una propiedad, en el si modifico de dicha propiedad se introduce\nun procedimiento/regla que modifica otros valores de otras propiedades en la Bc\nSi Borro:\n• Idem, pero al borrar.\n",
-  "speaker": "SYSTEM",
-  "uuid": "7273a7a1-ceec-4bf4-bd76-1875872cfb93"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2023.10.Hallucinations.pdf: Página 10\nTrain dataset (model-aware)\nJson con array con:\n{\n\"hyp\": \"Of or pertaining to the official authorities ; governing ; \ngoverning ; \", \n\"tgt\": \"Sanctioned by the pharmacopoeia ; appointed to be \nused in medicine ; officinal .\",\n\"src\": \"An official drug or preparation . What is the meaning of \nofficial ?\",\n\"ref\": \"either\",\n\"task\": \"MT\",\n\"model\": \"facebook/nllb-200-distilled-600M“\n}\nNLG tasks:\ndefinition modeling (DM)\nmachine translation (MT)\nparaphrase generation (PG)\n30k\nunlabeled-training-data-v1\nfacebook/nllb-200-distilled-600M\nltg/flan-t5-definition-en-base\ntuner007/pegasus_paraphrase\nTrue (i.e. a def from Wikipedia)\nPred (i.e. a def from Wikipedia)\nprompt\n",
-  "speaker": "SYSTEM",
-  "uuid": "013eff6a-51e0-49b3-9d5d-98fb53d68677"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 05_OWL.pdf: Página 70\n© O. Corcho, MC Suárez de Figueroa Baonza\n50\nOWL 2\nDisjoint Classes (II)\n•\nMaking the classes Pizza, PizzaTopping and PizzaBase disjoint from\none another.\n•\nThis means that it is not possible for an individual to be a member of a combination of\nthese classes – it would not make sense for an individual to be a Pizza and a PizzaBase.\nAdd Disjoint Classes\n",
-  "speaker": "SYSTEM",
-  "uuid": "dd011200-f8fe-4671-914a-c4a4db2a40f3"
-}

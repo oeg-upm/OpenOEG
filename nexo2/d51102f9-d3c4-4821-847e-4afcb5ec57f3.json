@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ontology-Methodology.pdf: Página 62\n62\nData Models for Classification Schema\n•\nSnowflake Data Model is a \nnormalized structure for hierarchy \nrepresentations. For each hierarchy \nlevel a entity is created. In this model \neach hierarchy node has a linked \ncolumn to its parent node.\n•\nFlattened Data Model, is a \ndenormalized structure for hierarchy \nrepresentations. The hierarchy is \nrepresented using one table where \neach hierarchy level is stored on a \ndifferent column. This model is \nsimilar to path enumeration \nbecause each row has the complete \npath from the root to the node.\n",
-  "speaker": "SYSTEM",
-  "uuid": "d51102f9-d3c4-4821-847e-4afcb5ec57f3"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion-2013.pdf: Página 50\nPlanificación \n \n \nBúsqueda del plan en STRIPS \nbrazo-libre \nen-mesa (C) ^ libre (C) ^ brazo-libre \nLEVANTAR (C) \nlibre (B) ^ sujeto (C) \nPONER (C, B) \nen-mesa (A) \nR \nLEVANTAR (C) \nlibre (B) ^ sujeto (C) \nPONER (C, B) \nen-mesa (A) \nR \nA \nB \nC \nEstado E3 \n",
+  "speaker": "SYSTEM",
+  "uuid": "918940b4-018c-4e4c-a930-c74bb201be2b"
+}

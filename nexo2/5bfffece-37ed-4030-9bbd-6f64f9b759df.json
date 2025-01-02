@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 3._TI-Intro-RC-II-v1%28asun%29.pdf: Página 9\nIntroducción a la Representación de Conocimientos\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nRedes Semánticas\nEsqueleto\nTuky\nSi\nNombre\nPeso\nAltura\nPeso\nAltura\nNo\nEsqueleto\nA\n25\n50\n80\n20\nNombre\nVertebrado\nAnimal\nPerro 1\nSC\nInstancia\nInvertebrado\nGusano1\nInstancia\nSC\nGrafos unidireccionales etiquetados\n•Nodos: Conceptos y valores de propiedades\n•Arcos: relaciones y propiedades\nInconveniente: no se pueden representar los tipos de las propiedades, \nni conocimientos procedimentales\n",
-  "speaker": "SYSTEM",
-  "uuid": "5bfffece-37ed-4030-9bbd-6f64f9b759df"
-}

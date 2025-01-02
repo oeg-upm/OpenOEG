@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Presentacion_OEG24-04-2014.pdf: Página 21\nRunning example. Preliminary hypothesis & Research Questions \n21 \n• 468 stations \n• 4.3 M users/day \nPH1.- Given a set of RDF data streams, it is possible to define an \nRDF interchange format that optimizes the space and time  for \nthe data exchange and parsing. \n \nPH2.- Given an RDF streaming engine, and a set of SPARQL \nqueries, a RDF interchange format can be tuned to offer better \nperformance in data exchange among processing nodes and \nquery resolution. \n \nRQ1.- Is HDT a good solution for these dynamic data?  \nRQ2.- Which are the particularities of RDF data streams? \nRQ3.- Can an RDF interchange format be parallelizable for \ncompression and decompression (parsing) \nNO \n",
+  "speaker": "SYSTEM",
+  "uuid": "001b1a7b-6ce5-45de-8c3b-5d2fc8cdf3c7"
+}

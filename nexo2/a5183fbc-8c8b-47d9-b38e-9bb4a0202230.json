@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISSGC08.pdf: Página 50\n©<Miembro Grupo>\n51\nTable of Contents\n•\nIntroduction\n•\nGrid Technologies\n– Security\n– Job submission\n– HTP (High Throughput Computing)\n– Grid Architectures\n– Distribution of data\n– Desktop Grids\n•\nGrid Middleware\n– UNICORE\n– Condor\n– Globus\n– gLite\n– MS-HPC\n•\nMiddleware between Grid Middleware and end users\n– Services and Workflows\n",
-  "speaker": "SYSTEM",
-  "uuid": "a5183fbc-8c8b-47d9-b38e-9bb4a0202230"
-}

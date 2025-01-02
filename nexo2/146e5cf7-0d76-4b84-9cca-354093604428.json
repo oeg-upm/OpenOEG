@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_MGLD.pdf: Página 15\n22/10/12 \n15 \nGeoLinkedData – Data Cleansing \n29 \nGeneration \n•  Errors \n•  Some resources, with the same name, were mixed. For \nexample, Granada municipality belongs to Granada \nprovince, and La Granada municipality belongs to Barcelona \nProvince. \n•  Autonomous communities that only have one province, e.g., \nMurcia Region, missed some municipalities, but their \ncorresponding provinces, e.g., Murcia Province, have the \ncorrect number of municipalities. \n•  Some hydrographical resources missed some parts of their \ngeometrical information. We found errors in the original data \nsources thanks to transformation. \nLinking \nSameAs \n30 \nLinks Generation \n \nSpecification \nModelling \nRDF \nGeneration \nPublication \nExploitation \nLinks  \nGeneration \nhttp://\nwww.geonames.or\ng/2521436/ \nhttp://\ngeo.linkeddata.es/\n.../Azuaga \nhttp://dbpedia.org/\nresource/Azuaga \nSameAs \nSameAs \nDBpedia \nGeoNames \nGeoLinked Data \nhttp://\notalex.linkeddata.es/.\n../Azuaga \nSameAs \nSameAs \nSilk framework \n",
-  "speaker": "SYSTEM",
-  "uuid": "146e5cf7-0d76-4b84-9cca-354093604428"
-}

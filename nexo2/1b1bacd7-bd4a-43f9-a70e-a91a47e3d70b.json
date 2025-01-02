@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 38\n•  Give me all titles of papers of 10 persons who co-\nauthored with Tim Berners-Lee \nSELECT ?T \nWHERE { \n ?D foaf:maker ?P ; rdfs:label ?T . \n{ \nSELECT DISTINCT ?P   \nWHERE { ?D foaf:maker <http://dblp.l3s.de/…/authors/Tim_Berners-Lee> ?P  \n    FILTER ( ?P != <http://dblp.l3s.de/…/authors/Tim_Berners-Lee> )  \n       } \n LIMIT 10 \n } \n} \n•  Returns titles for 10 persons, instead of just 10 rows \n \n44 \nOntological Engineering Group \nSubqueries to realise complex mappings \n",
-  "speaker": "SYSTEM",
-  "uuid": "1b1bacd7-bd4a-43f9-a70e-a91a47e3d70b"
-}

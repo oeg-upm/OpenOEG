@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 58\nWeb Ontology Language\nOWL semantics\nAn individual can be a member of one or more anonymous or \nnamed classes (Types)\nAn individual can be the same as other individual (SameAs)\nAn individual can be different from another individual \n(DifferentFrom)\nIndividuals can be related in binary relations (Object \nProperties):\nmy_wheel part_of my_car\nmy_wheel not part_of your_car\nIndividuals can be related with data (Data Type properties):\nmy_car has_power  \"90\"^^xsd:positiveInteger\nmy_car not has_power  \"90\"^^xsd:positiveInteger\n",
+  "speaker": "SYSTEM",
+  "uuid": "3b4f76ae-5b5c-41f7-b96a-7199a32d2053"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: Ir a LinkedData\nIr a GeoLinkedData\nContents\n[\nhide\n]\n1\nServers\n2\nNexus Maven Repos\n3\nMysql\n4\nRedmine\nServers\n\nIr a LinkedData1_Server\nIr a LinkedData2_Server\nIr a LinkedData3_Server\nIr a Mccarthy_SubServer\nIr a Oegdev_SubServer\nNexus Maven Repos\n\nhttp://oegdev.dia.fi.upm.es:8081/nexus/index.html\nCredentials\nadmin/admin123\nruta /opt/maven/sonatype-work/nexus/storage/maven.alexdeleon.name/name/alexdeleon/lib/gwt-blocks\nRuta /opt/maven/sonatype-work/nexus/storage/public/es/upm/oeg crear carpeta ar2dtool/ y poner conetenido ahi\nMysql\n\ncredentials\nroot/****\nRedmine\n\nRedmine will now be installed in /usr/share/redmine and the configuration files will be located in /etc/redmine",
-  "speaker": "SYSTEM",
-  "uuid": "6fec05e2-dfd3-4e36-9672-51dd9b9e3c44"
-}

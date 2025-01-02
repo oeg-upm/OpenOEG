@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: AMPER08_-_Introduction_to_SPARQL.pdf: Página 16\nRDF(S) Access APIs, May 2008\n16\n© García-Castro, Corcho, Muñoz-García\nBasic graph patterns: Matching RDF \nliterals\n@prefix dt:   <http://example.org/datatype#> .\n@prefix ns:   <http://example.org/ns#> .\n@prefix :     <http://example.org/ns#> .\n@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .\n:x   ns:p     \"cat\"@en .\n:y   ns:p     \"42\"^^xsd:integer .\n:z   ns:p     \"abc\"^^dt:specialDatatype .\nSELECT ?v WHERE { ?v ?p \"cat\" }\nv\nSELECT ?v WHERE { ?v ?p \"cat\"@en }\nv\n<http://example.org/ns#x>\nSELECT ?v WHERE { ?v ?p 42 }\nv\n<http://example.org/ns#y>\nSELECT ?v WHERE { ?v ?p \"abc\"^^<http://example.org/datatype#specialDatatype> }\nv\n<http://example.org/ns#z>\n",
-  "speaker": "SYSTEM",
-  "uuid": "0e1d91c8-e997-4375-83e0-c0ddb2ea3ea0"
-}

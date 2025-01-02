@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 06_NonStandardOWLReasoning_ModularisationAndDebugging.pdf: Página 26\nRoot Unsatisfiable Classes\n• A class whose satisfiability depends on another class \nis known as a derived unsatisfiable class\n• An unsatisfiable class that is not a derived \nunsatisfiable class is a root unsatisfiable class\n• Root unsatisfiable classes should be examined and \nfixed first\n26\n",
-  "speaker": "SYSTEM",
-  "uuid": "3f91c10f-9dc6-4196-a47e-4fc8a034d322"
-}

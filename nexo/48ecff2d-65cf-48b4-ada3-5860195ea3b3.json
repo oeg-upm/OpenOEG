@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 23\nLeft Hand Side Patterns\n• LHS: \n• Annotations\n• Optionally features and their values\n• Any annotation to be used must be \nincluded in the input header\n• Each annotation is enclosed in curly \nbraces\n• Annotations may be combined using \ntraditional Klene operators: | * + ?\n• Each pattern to be matched is enclosed \nin round brackets and can have a label \nattached\nJAPE RULES\n({Token.kind == word})*\n{Token.string == \"@\"}\n({Token.kind == word})*\n({Token.string == \".\"}\n({Token.kind == word}) \n:email\n",
-  "speaker": "SYSTEM",
-  "uuid": "48ecff2d-65cf-48b4-ada3-5860195ea3b3"
-}

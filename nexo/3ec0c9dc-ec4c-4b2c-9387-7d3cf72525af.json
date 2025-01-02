@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/MappingPedia \n\nContents\n[\nhide\n]\n1\nGeneral\n2\nSPARQL query examples\n2.1\ns p o query\n3\nTODO\nGeneral\n\nHomepage :\nhttp://mappingpedia.linkeddata.es/\nSPARQL Endpoint :\nhttp://mappingpedia.linkeddata.es/sparql\nSPARQL query examples\n\ns p o query\n\nSELECT * WHERE {\n   ?s ?p ?o .\n}\n...\n...\n...\n...\nTODO\n\nput mappings with data pattern\nintegrate mappingpedia with map4rdf (dataset location, dataset domain, input size, output size) ----\nmapping coverage -> leave it for now\nquality of information sources -> leave it for now\nimplement mappings saturation\nintegrate with RML and xR2RML engines",
+  "speaker": "SYSTEM",
+  "uuid": "3ec0c9dc-ec4c-4b2c-9387-7d3cf72525af"
+}

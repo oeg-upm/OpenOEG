@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Hiroaki_Yamada_talk_Jan19.pdf: Página 2\nGoal of the project\n• Summarization of Judgment documents\n• Information source: judgment documents\n• Long, complicated\n• Interleaved arguments\n• Target audience: people who wants to search past legal cases\n• Their task: analyze legal cases and utilize the information for their \nown cases/matters.\n• Information overload\n• Previous studies\n• Extractive summarization with Rhetorical status analysis approach\n• Hachey and Grover, 2006, Saravanan and Ravindran, 2010\n• Most sentences (or clauses,)  are classified into “Argumentative” \ncategory in our case and it was not so helpful in constructing \nsummary.\n• We need the relation and roles among those argumentative \nsentences. \n• Our idea: Argument focused summarization\n• Argumenta extraction is required!\n• Application is not limited to summarization\n• Highlighting the important sentences in the documents\n• Enhance precedents search engines\n2\n",
-  "speaker": "SYSTEM",
-  "uuid": "e103ac51-e24c-44b7-8ef0-1b03310d1c0e"
-}

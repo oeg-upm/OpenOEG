@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 05_OWL.pdf: Página 15\n© O. Corcho, MC Suárez de Figueroa Baonza\n19\nOWL 2\nChunk 2. Formalize in DL\n1. Concept definitions:\nBicycles, buses, cars, lorries, trucks and vans are vehicles. There are several types of \ncompanies: bus companies and haulage companies.\nAn elderly person must be adult. A kid is (exactly) a person who is young. A man is a person\nwho is male and is adult. A woman is a person who is female and is adult. A grown up is a \nperson who is an adult. And old lady is a person who is elderly and female. Old ladies \nmust have some animal as pets and all their pets are cats.  \n2. Restrictions:\nYoungs are not adults, and adults are not youngs.\n3. Properties:\nHas mother and has father are subproperties of has parent.\n4. Individuals:\nKevin is a person.\nFred is a person who has a pet called Tibbs.\nJoe is a person who has at most one pet. He has a pet called Fido.\nMinnie is a female, elderly, who has a pet called Tom.\n",
-  "speaker": "SYSTEM",
-  "uuid": "c639a2ad-d8bf-4189-b40f-2e95b24abd7c"
-}

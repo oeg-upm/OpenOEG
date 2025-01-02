@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: Contents\n[\nhide\n]\n1\nTareas 7.2\n2\nInterfaz Anotación Híbrida\n3\nTarea 2.3\n4\nTarea 1.4\n5\nTarea 7.1\nTareas 7.2\n\nTarea 1. Mecanismo de extracción de semántica a partir de anotaciones\n. \nFinalización del paper para el ISWC 2010.\nEscritura del deliverable para el hito 6.\nTarea 2. Procesado de fuentes de información no semántica ya existentes\n.\nTarea 3. Modelo de anotación híbrido\n.\nInterfaz Anotación Híbrida\n\nTarea 2.3\n\nImplementación del primer prototipo usando Fura\n- Se ha termiando de desarrollar los módulos para montar el sistema grid en varias máquinas.\n- Redacción del H6\nTarea 1.4\n\nRevisión del E1.4.6.\nTarea 7.1\n\n- RDF\n· Re-generación de RDF hidrografía (inclusión de hash + geometría)     \n      · Tratamiento de problema en el visualizador\n      · Establecimiento de enlaces Endpoint y Pubby\n- Divulgación\n. Redacción de un artículo para el ACM SIGSPATIAL",
-  "speaker": "SYSTEM",
-  "uuid": "246bf4a2-0e2d-4fcf-b665-73f7ceb14c60"
-}

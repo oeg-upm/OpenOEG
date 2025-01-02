@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Guidelines.pdf: Página 48\nComplex antipatterns\nAntiPattern SumOfSomIsNeverEqualToOne\n(SOSINETO)\nC1⊆∃R.C2, C1⊆∃R.C3, C1⊆≤1R.T, Disj(C2,C3)\n• What are the elementary antipatterns?\nRecommendation\nC1⊆∀R.(C2∪C3), C1⊆≤1R.T, Disj(C2,C3)\n48\nModelos de Razonamiento. Oscar Corcho\n",
+  "speaker": "SYSTEM",
+  "uuid": "154d873c-b30b-473c-beb8-903e213bb2a5"
+}

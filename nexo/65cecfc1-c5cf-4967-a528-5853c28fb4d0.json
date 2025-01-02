@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_SPARQL.pdf: Página 39\n• \nNegation as failure in SPARQL1.0 is “ugly”: \n \nSELECT ?X \nWHERE{ ?X rdf:type foaf:Person  \n       OPTIONAL { ?X foaf:homepage ?H } \n     FILTER( !bound( ?H ) ) } \n \n \n• \nSPARQL1.1 has two alternatives to do the same \n• \nNOT EXISTS in FILTERs \n•  detect non-existence \n• \n(P1 MINUS P2 ) as a new binary operator \n•  “Remove rows with matching bindings” \n•  only effective when  P1 and P2 share variables \n47 \nOntological Engineering Group \nMINUS and NOT EXISTS \n",
+  "speaker": "SYSTEM",
+  "uuid": "65cecfc1-c5cf-4967-a528-5853c28fb4d0"
+}

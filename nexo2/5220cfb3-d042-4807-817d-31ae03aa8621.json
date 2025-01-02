@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: KGEOntologies_2021.pdf: Página 29\nAn Ontology-Based Deep Learning Approach for Triple Classification with Out-of-Knowledge-Base Entities\nPhase 3: OOKB entity evaluation\n29\n1500 entities were randomly selected for each\ndataset\nNegative samples were generated via random\nreplacement under the closed-world assumption\nFor this stage, both entity initialization and ontology\ninformation are required\n",
-  "speaker": "SYSTEM",
-  "uuid": "5220cfb3-d042-4807-817d-31ae03aa8621"
-}

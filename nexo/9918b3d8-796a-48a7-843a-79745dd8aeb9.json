@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 35\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nInstanciación de una Regla \n•\nPar formado por una regla y los elementos de MT que hacen cierta la regla \n•\nUna regla, en un ciclo de la BC, puede tener cero, una o N instanciaciones \n \nEjemplo anterior: 2 instanciaciones  \n \n \n \n \n \n \n \n \n \nConjunto Conflicto ={ Ri (AC) Ri, (AB)} \nRi: (A $x) ~ (B $x) → ... \nMT: (AC) (BD) (AB) (AA) (BA) \n \nEq1: $x = C : \n \nEq2: $x = B  \n \n",
+  "speaker": "SYSTEM",
+  "uuid": "9918b3d8-796a-48a7-843a-79745dd8aeb9"
+}

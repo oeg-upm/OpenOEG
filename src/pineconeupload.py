@@ -17,7 +17,7 @@ def save_json(filepath, payload):
 class PineconeUploader:
     def __init__(self):
         
-        self.index_name = "oegdb"
+        self.index_name = "oegdb-old"
         self.client = OpenAI(
         base_url="http://localhost:1234/v1",
         api_key="lm-studio"
@@ -25,7 +25,7 @@ class PineconeUploader:
         
         self.model = "nomic-embed-text-v1.5" #revisar eso y el nº de tokens
         
-        self.nexo_path = "./tfg/nexo/"
+        self.nexo_path = "C:/Users/Jaime Vázquez/Documents/Python/tfg/nexo/"
         
         self.pc = Pinecone(api_key=open_file('C:/Users/Jaime Vázquez/Documents/Python/key_pinecone.txt'))
         

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Intro-RC-II-v1%28asun%29.pdf: Página 7\nIntroducción a la Representación de Conocimientos\nSistemas Tradicionales versus Sistemas Inteligentes\n1. Ingeniería de Software\nIngeniería del Conocimiento\n2. TIPOS DE PROBLEMAS\nSistemas Tradicionales versus Sistemas Inteligentes (Secc. 1.3.2, pág. 13)\n2. TIPOS DE PROBLEMAS\nSistemáticos\nProcedimientales\nHeurísticos\nDeclarativos\n- Especificaciones muy completas\nL\nd\nf\ni\ni\nd\né\ni\n- Casi no existe una especificación\nL\ni\ni\né\nd\nd\nl\nió\n- Los datos, funcionamiento esperado y técnicas \nde resolución se conocen\n- Existe documentación\n- Los conocimientos y métodos de resolución son \nde los expertos\n- No existe documentación\nDatos + procedimientos mezclados\nSeparar conocimientos de los métodos de \ni\nrazonamiento\nNo deterministas\nRígidos o deterministas:\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nNo deterministas\nProducir la misma salida para la misma entrada\n",
+  "speaker": "SYSTEM",
+  "uuid": "7963721c-e377-4734-b835-6e6fd13b3fbd"
+}

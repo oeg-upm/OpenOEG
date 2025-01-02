@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: Reducir el uso de iteradores:\nSi se itera muchas veces sobre un mismo conjunto, es conveniente realizar todos los calculos en un solo <c:forEach>.\nIncluir en sesion variables que se utilizan repetidamente en varias peticiones.\nUtilizar las relaciones inversas en vez de utilizar filtros a una instancias destino concreto.",
-  "speaker": "SYSTEM",
-  "uuid": "e59d4e97-9781-4d26-ab7d-43f7fe6892d4"
-}

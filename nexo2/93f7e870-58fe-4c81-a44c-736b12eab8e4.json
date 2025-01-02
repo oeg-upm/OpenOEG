@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 82\n© O. Corcho, R.García-Castro, O. Muñoz-García\n82\nRDF and RDF Schema\nHints\n• Create ontology model:\npublic static OntModel \ncreateOntologyModel(OntModelSpec spec)\n• Read the ontology in the file\nModel read(java.lang.String url)\n• Add all the statements in another model to this model \nModel add(Model m)\n",
-  "speaker": "SYSTEM",
-  "uuid": "93f7e870-58fe-4c81-a44c-736b12eab8e4"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 3._GC-Redes_Sem%C3%A1nticas-v3.pdf: Página 23\nRedes Semánticas  \nFacultad de Informática. Universidad Politécnica de Madrid \n© Asunción Gómez Pérez \nRedes Semánticas \nRepresentando Predicados no Binarios \nPepe compra a Luis un reloj por 5.000 pts. \nLógica:  COMPRA-VENTA  ( Pepe, Luis, Reloj1, 5.000, pts.) \nRed Semántica \nComprador \nVendedor \n     Objeto \n   Precio \n     Unidad \nCompra-Venta \nCompra-Venta1 \nLuis \nVendedor \nInstancia \nPepe \nComprador \nReloj1 \nObjeto \nReloj \nInstancia \n5.000 \nPrecio \nPts. \nUnidad \n",
+  "speaker": "SYSTEM",
+  "uuid": "3a37083d-18cc-4804-a396-5e7d31815d17"
+}

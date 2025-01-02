@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 13_LDGeneration.pdf: Página 35\n18/12/12 \n35 \nSitemap Protocol: Huge sitemaps \n•  Gzip-compress your sitemap \n•  Limit: 50k URLs or 10MB \n•  split into multiple sitemap files \n•  add a sitemap index file \n69 \nSitemap Protocol: Discovery \n•  Publish the sitemap file \n•  Add a line to http://yoursite/robots.txt \n• \nWeb site owners use the /robots.txt file to give instructions about their site to \nweb robots; this is called The Robots Exclusion Protocol. \n \n  Sitemap: http://yoursite/sitemap.xml \n \n70 \n",
+  "speaker": "SYSTEM",
+  "uuid": "e1f76bcb-ab98-451f-8f75-e8e38466a216"
+}

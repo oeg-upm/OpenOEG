@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 32\n©O. Corcho\n32\nOntological Engineering\nCopyright © 2005, The University of Manchester\nVegetarian Topping: Union Classes and Covering Axioms\n•\nA U B includes\nall individuals of class A and \nall individuals from class B and \nall individuals in the overlap \n(if A and B are not disjoint)\n•\nCovering axiom\n–\nUnion expression containing several covering classes\n–\nA covering axiom in the Necessary & Sufficient Conditions of a class means:\nthe class cannot contain any instances other than those from the covering classes\n–\nNote: If the covering classes are subclasses of the covered class, the covering axiom only \nneeds to be a Necessary condition\n•\nIt doesn’t harm to make it Necessary & Sufficient though – its just redundant\n•\nExample:  PizzaBase ThinAndCrispy  U DeepPan\n–\nThe class PizzaBase is covered by ThinAndCrispy or DeepPan\n–\nAll PizzaBases must be ThinAndCrispy or DeepPan\n–\n“There are no other types of PizzaBase”\nA\nB\nPizzaBase\nDeepPan\nThinAndCrispy\n",
-  "speaker": "SYSTEM",
-  "uuid": "45bfa7ae-5fb8-4ce0-b204-dc994984a3da"
-}

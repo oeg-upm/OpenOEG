@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 21\n© O. Corcho\n21\nOntological Engineering\nSPARQL\n•\nSupported by: Jena, Sesame, IBM Boca, etc.\n•\nExample\nPREFIX vcard: <http://www.w3.org/2001/vcard-rdf/3.0#> \nSELECT ?y ?givenName \nWHERE { ?y vcard:Family \"Smith\" . ?y vcard:Given ?givenName . }\n•\nFeatures\n–\nIt supports most of the aforementioned queries \n–\nIt supports datatype reasoning (datatypes can be requested instead of actual values)\n–\nThe domain vocabulary and the knowledge representation vocabulary are treated differently by \nthe query interpreters.\n–\nIt allows making queries over properties with multiple values, over multiple properties of a \nresource and over reifications\n–\nQueries can contain optional statements\n–\nIt supports aggregation queries\n•\nLimitations\n–\nNeither set operations nor existential or universal quantifiers can be included in the queries\n–\nIt does not support recursive queries\n",
+  "speaker": "SYSTEM",
+  "uuid": "756a3e81-c20a-434e-b910-e903f7c6a540"
+}

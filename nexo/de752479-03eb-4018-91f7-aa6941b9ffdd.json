@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 59\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nInteresting results (V). Consistency checking\nCows are vegetarian.\nA vegetarian is an animal that does not eat animals nor parts of animals. \nA mad cow is a cow that eats brains that can be part of a sheep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n)\n.\n(\n)\n.\n(\n)\n.\n.(\n))\n.\n(\n.\n.\nplant\npartOf\nplant\nanimal\npartOf\nanimal\nsheep\npartOf\nbrain\neats\ncow\nmadCow\nanimal\npartOf\neats\nanimal\neats\nanimal\nvegetarian\nvegetarian\ncow\nWe obtain: \nMad cow is unsatisfiable\n",
+  "speaker": "SYSTEM",
+  "uuid": "de752479-03eb-4018-91f7-aa6941b9ffdd"
+}

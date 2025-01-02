@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologies%26multilinguality%40wiki_24-01-08.pdf: Página 34\n©Guadalupe Aguado de Cea\n34\n3. Modelling:\nA. Including multilingual information in the \nontology meta-model (1)\n• Multilinguality is limited to  \nconcepts\n• By means of \nrdfs:label and \nrdfs:comment\nproperties to define labels \nand descriptions in NL for \nclasses.\n• Localization at the \nterminological layer.\n• It is the most widespread\nmodelling modality. \n",
+  "speaker": "SYSTEM",
+  "uuid": "78aad5ad-1705-4393-898f-39b815431b7b"
+}

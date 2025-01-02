@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: B%C3%9ASQUEDA-2011.pdf: Página 154\nAlgoritmo SSS*\n1. Introducir en ABIERTA el estado inicial\n(n = i, e = activo, h = + ∞)\n2. Eliminar el primer  estado de ABIERTA (el de \nmayor h)  (p = (n,e,h))\n3. Si  n = i  y e = estudiado, terminar con h = \nvalor    minimax del juego\n4. Sino, expandir el nodo p, aplicando un \noperador del espacio de estados Γ como se \nindica en la tabla SSS*\n5. Ir a 2\n",
-  "speaker": "SYSTEM",
-  "uuid": "4af10ae2-7d34-48a1-8578-6e01c12ed53c"
-}

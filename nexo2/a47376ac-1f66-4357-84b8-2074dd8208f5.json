@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 10\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nOntology \n11 \n \n \n•\nAn ontology is an engineering artifact, which provides:  \n•\nA set of terms \n•\nA set of explicit assumptions regarding the intended meaning of \nthe terms.  \n• Almost always including concepts and their classification \n• Almost always including properties between concepts \n \n \n•\nShared understanding of a domain of interest  \n \n•\nOntologies expressed in OWL or RDF(S), both based \non RDF \n \n•\nTools: Protégé, NeOn Toolkit, Topbraid Composer, etc. \n \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "a47376ac-1f66-4357-84b8-2074dd8208f5"
-}

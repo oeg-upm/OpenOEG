@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2.RDF%28S%29.pdf: Página 20\n• 20 \nRDF vocabulary summary \nClasses \nProperties \nIndividuals \nClassification \nrdf:Property \nrdf:type \nContainers \nrdf:Bag \nrdf:_1, rdf:_2, rdf:_3… \nrdf:Seq \nrdf:Alt \nCollections \nrdf:List \nrdf:first \nrdf:nil \nrdf:rest \nReification \nrdf:Statement \nrdf:subject \nrdf:predicate \nrdf:object \nValues \nrdf:XMLLiteral \nrdf:value \n39 \nRDF Serialisations \n•  Normative \n•  RDF/XML (www.w3.org/TR/rdf-syntax-grammar/) \n•  Working Draft (9 August 2011) \n•  Turtle (http://www.w3.org/TR/turtle/) \n•  Alternative (for human consumption) \n•  N3 (http://www.w3.org/DesignIssues/Notation3.html) \n•  TriX (http://www.w3.org/2004/03/trix/) \n•  … \n•  Important: the RDF serializations allow different \nsyntactic variants.  \n•  E.g., the order of RDF statements has no meaning \n40 \n",
-  "speaker": "SYSTEM",
-  "uuid": "60b3df1a-55a4-486b-ae16-4b5854f6fb63"
-}

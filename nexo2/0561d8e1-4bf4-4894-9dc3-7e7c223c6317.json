@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Geometry2RDF_v2_en.pdf: Página 1\ngeometry2rdf\nis\na\nsoftware\nlibrary\nfor\ngenerating\nRDF\nfiles\nfor\ngeometrical information stored in geospatial databases.Geometry2RDF\nOntology Engineering Group, Dpto. de Inteligencia Artificial, Facultad de Informática, Universidad Politécnica de Madrid, Spain.\nWhat is?\nPoint, LineString, Polygon, Multipoint, MultiLineString, \nMultiPolygon, GeometryCollection\nFormats\nSELECT  TO_CHAR(SDO_UTIL.TO_GML311GEOMETRY(geometry)) \nAS Gml311Geometry\nFROM \"BCN200\".\"BCN200_0301L_RIO\" c\nWHERE   c.Etiqueta='Arroyo'\nOracle STO UTIL package \nMethod\nGeometry types\nModel (ontology)\nWKT\nWKB\nFormats, ontology and geometry types\nExample – RDF generation\nSimple Feature Specification \nhttp://geo.linkeddata.es/web/guest/geometry2rdf\n",
-  "speaker": "SYSTEM",
-  "uuid": "0561d8e1-4bf4-4894-9dc3-7e7c223c6317"
-}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: NicolasMayo2018.pdf: Página 33\nRule-based reasoning\nCapturing speciﬁc use cases\n▶Rules represent application-dedicated deductions mechanisms\n▶Rules can provide ”behavioural interoperability”\nFrom SWRL to SHACL\n▶SWRL allows the representation of rules that can be stored in\nan ontology\n▶SWRL evolved into SPIN, neither being W3C standards\n▶SHACL was adopted in 2017, to represent shapes and rules\n",
+  "speaker": "SYSTEM",
+  "uuid": "b2d94442-8f5d-4e9c-a5d8-45e4fee7f874"
+}

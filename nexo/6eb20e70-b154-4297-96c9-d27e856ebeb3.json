@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 26\nJape Rule Example\n• Identifying share price changing: \n• Toshiba shares closed         up               2p at 645p\nJAPE RULES\nOrganization\nToken\nToken\nLookup(\nmajorType=change)\nMoney\nMoney\nToken\nPhase: Shares\nInput: Token Organization Lookup Money \nPercent\nOptions: control = appelt\nRule:ShareChange\n(\n{Organization}\n({Token})[0,3]\n{Lookup.majorType==\"change\"}\n({Token})[0,3]\n({Money}|{Percent})\n):change -->\n:change.ShareChange = {rule = \n\"ShareChange\"}\nNew annotation\nShareChange(\nrule = “ShareChange”)\n",
+  "speaker": "SYSTEM",
+  "uuid": "6eb20e70-b154-4297-96c9-d27e856ebeb3"
+}

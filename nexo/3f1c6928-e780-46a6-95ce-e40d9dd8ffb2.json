@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: DataCube.pdf: Página 4\nOLAP Cube\n• OLAP stands for Online Analytical Processing\n• Computer-based technique for analyzing business \ndata in the search for business intelligence\n• The elements of a dimension can be organized as a \nhierarchy, where a parent member summarizes its \nchildren\n• Parent elements can further be aggregated as the \nchildren of another parent\n• Different operations to facilitate analysis, aligning the \ndata content with a familiar visualization\n4\n",
-  "speaker": "SYSTEM",
-  "uuid": "3f1c6928-e780-46a6-95ce-e40d9dd8ffb2"
-}

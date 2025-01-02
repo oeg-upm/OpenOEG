@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Hiroaki_Yamada_talk_Jan19.pdf: Página 20\nSVM and CRF\n• Features:\n• *Bigram (the bag of lemmatized bigrams of morphemes)\n• *Sentence location\n• *Sentence length\n• Modality expressions[a]\n• Function expressions[b]\n• Cue phrases\n• Law names\n• 2 models\n• Base : features only three (*)\n• All : all features\n21\n[a] \u000f\u0010.\u001a, $*\u0016\f\n\r\u000b\t!\u0014, \u0002\u0007\u0003\u0001\u001c&, 2007 \u0005\u0011\u0004\u0002\n[b]\u001f\u0013 \u001d,\u0017# -\u0019,\u000e\"/ ( $*\u0016\u0012%'\u0015\u001b\u001e\u0006)\u0018 \b,+\n",
-  "speaker": "SYSTEM",
-  "uuid": "40c629ac-f56e-42ea-abfc-4d886ec694c0"
-}

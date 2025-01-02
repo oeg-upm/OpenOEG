@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ICPS_everis_v5.pdf: Página 4\nOntology Specification Requirements\n4\nICPS Ontologies\n[Suárez-Figueroa, et al., 2007]\nM.C. Suárez-Figueroa, G. Aguado de Cea, C. Buil, K. Dellschaft, M. Fernández-López, A. García, A. Gómez-Pérez, G. Herrero, E. Montiel-Ponsoda, \nM. Sabou, B. Villazon-Terrazas, Z. Yufei. NeOn D5.4.1: NeOn Methodology for Building Contextualized Ontology Networks. NeOn project.\nhttp://www.neon-project.org. February 2008.\nThe International Classification for Patient Safety (ICPS) project is \nintended to facilitate “description, comparison, measurement, monitoring, \nanalysis and interpretation of information to improve patient care, and for \nepidemiological and health policy planning purposes”. The ontology \nlanguage in which the ontologies are going to be implemented is OWL.\nHealth care professionals, developers of patient \nsafety reporting systems, Ministries of Health... \nComparing data, trending patient safety incident \ndata, investigating patient safety incidents... \n",
-  "speaker": "SYSTEM",
-  "uuid": "3094bb9a-802b-4c72-b2c1-09dc51e10099"
-}

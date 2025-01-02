@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 16\n•  Negation (“NOT EXISTS” in SQL) \n•  “Give me all Persons without a homepage” \n•  by combination of OPTIONAL and FILTER(!bound(…) ) \nSELECT ?X \nWHERE{ ?X rdf:type foaf:Person  \n       OPTIONAL { ?X foaf:homepage ?H } \n      FILTER( !bound( ?H ) ) }  \n21 \nOntological Engineering Group \n",
-  "speaker": "SYSTEM",
-  "uuid": "5fbb8593-bcf6-4908-9fa7-ab377f7d56d8"
-}

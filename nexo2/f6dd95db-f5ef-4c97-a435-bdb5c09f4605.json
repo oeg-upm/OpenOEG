@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_RDF%28S%29.pdf: Página 2\nTable of Contents\n1.\nAn introduction to knowledge representation formalisms\n2.\nResource Description Framework (RDF)\n2.\nResource Description Framework (RDF)\n2.1. RDF primitives\n2.2. Reasoning with RDF\n3.\nRDF Schema\n3.1 RDF Schema primitives\n3.2 Reasoning with RDFS\n© O. Corcho, R.García-Castro, O. Muñoz-García\n3\nRDF and RDF Schema\n4.\nRDF(S) management APIs\n5.\nRDF(S) query languages: SPARQL\nCommon Architecture of a Knowledge-based System\nOther interacting\nsystems:\n• Databases\n• ...\nInterface \nwith \nother \nsystems\nCONTROL\nKnowledge \nBase\nInference\nEngine\nUser \nInterface\n- Explanation\n- Knowlege capture\n© O. Corcho, R.García-Castro, O. Muñoz-García\n4\nRDF and RDF Schema\n• Knowledge-based system generation tools\n• Programming languages\nDevelopment Environment\n",
-  "speaker": "SYSTEM",
-  "uuid": "f6dd95db-f5ef-4c97-a435-bdb5c09f4605"
-}

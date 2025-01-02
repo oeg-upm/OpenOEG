@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: B%C3%9ASQUEDA.pdf: Página 107\n107\nIII) actúa sobre grafos no cíclicos\n1\n6\n7\n8\n5\n2\n3\n4\n10\n9\n11\nIRRESOLUBLE\nNo se deben incluir los sucesores que ya\nestán en el grafo y que son antecesores\ndel nodo que estamos expandiendo\n",
-  "speaker": "SYSTEM",
-  "uuid": "4c26d09c-8289-4b9d-9f4f-c9692b19a9c6"
-}

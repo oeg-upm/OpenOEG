@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA-2011.pdf: Página 140\nCaracterísticas de alfa-beta\nRealiza una exploración en profundidad, lo \nque ahorra memoria.\nEl rendimiento es dependiente del orden en \nque se eximan los sucesores.\nNo se puede ordenar el árbol: genera el \nmismo coste que hacer una exploración \nexhaustiva.\n",
+  "speaker": "SYSTEM",
+  "uuid": "81abce7f-dd08-4a23-8403-e393a7a63dda"
+}

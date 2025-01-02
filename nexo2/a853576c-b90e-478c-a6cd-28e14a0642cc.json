@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Sparqlex.pdf: Página 3\nQueries about the model\n• Give me all the classes\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nSELECT ?x WHERE { ?x a rdfs:Class. }\n",
-  "speaker": "SYSTEM",
-  "uuid": "a853576c-b90e-478c-a6cd-28e14a0642cc"
-}

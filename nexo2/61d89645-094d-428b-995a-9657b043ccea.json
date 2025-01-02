@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS_Terminology_in_ontologies_15-11-2010.pdf: Página 22\n25\n(a) Linguistic, lexical and terminological \nresources \n• Parallel Corpora (Translation Memories – TM): texts that are translations of \neach other (as opposed to comparable corpora, texts in two languages that are \nsimilar in content). Parallel corpora can be better exploited by TM, which align \ntranslation equivalents.\n• Glossary: alphabetical list of terms in a particular domain of knowledge with the \ndefinitions for those terms.\n• (Machine-Readable) Dictionary: alphabetically arranged words along with \ninformation about their forms, pronunciations, functions, etymologies, meanings, \nand syntactical and idiomatic uses.\n• (On-line) Encyclopedia: like dictionaries, but with the focus on factual information\n• (Computational) Lexicon or lexical database: a resource that organizes lexical \nunits in lexical domains making use of lexico-semantic relations (hyponymy-\nhypernomymy, meronymy, synonymy, antonymy…)\n• Terminological Database: collection of terms in a domain\n",
-  "speaker": "SYSTEM",
-  "uuid": "61d89645-094d-428b-995a-9657b043ccea"
-}

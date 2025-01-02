@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: StepByStepSample.pdf: Página 3\n </head> \n <body prefix=\"dc: http://purl.org/dc/terms/ schema: http://schema.org/ \nprov:http://www.w3.org/ns/prov#\"> \n   <div resource=\"http://myweb\" typeof=\"schema:WebPage\"> (esta me la he inventado) \n      <h2 property=\"dc:title\">The trouble with Bob</h2> \n      ... \n      <h3 property=\"dc:creator schema:creator prov:wasAttributedTo\" \nresource=\"#me\">Alice</h3> \n      <div property=\"schema:articleBody\"> \n        <p>The trouble with Bob is that he takes much better photos than I do:</p> \n      </div> \n     ... \n   </div> \n </body> \n</html> \n \n \n \n \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "249e7810-e0ad-48c1-ac54-61357970d29b"
-}

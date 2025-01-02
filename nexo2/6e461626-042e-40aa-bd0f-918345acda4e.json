@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 115\n© O. Corcho, R.García-Castro, O. Muñoz-García\n115\nRDF and RDF Schema\nExercise\n•Objective\n• Understand how to perform SPARQL queries\n•Tasks\n• Perform a set of SPARQL queries over the sample ontology. \n• Browse to:\n• http://my.computer.ip:8080/openrdf-workbench\n• Select repository GP-native-rdfs\n• Select the Query option from the left menu\n",
-  "speaker": "SYSTEM",
-  "uuid": "6e461626-042e-40aa-bd0f-918345acda4e"
-}

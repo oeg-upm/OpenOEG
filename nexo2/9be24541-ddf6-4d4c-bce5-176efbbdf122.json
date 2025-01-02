@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISSGC08.pdf: Página 17\n©<Miembro Grupo>\n18\nExecution & Job management\n• Initiating/submitting, monitoring and managing jobs\n– Translate job to the target system language, submit the job, get the job \nstatus, cache the job if something goes wrong, etc.\n• Handling and organizing all the job data\n– Manage the job data (internal directories, intermediate data used by the \njobs, etc.). All these data is preserved/organized after the successful job \ncompletion.\n• Coordinating and scheduling jobs\n– Coordinate workflow resources, manage the initiation of the workflow \nexecution, monitor the workflow, etc.\n",
-  "speaker": "SYSTEM",
-  "uuid": "9be24541-ddf6-4d4c-bce5-176efbbdf122"
-}

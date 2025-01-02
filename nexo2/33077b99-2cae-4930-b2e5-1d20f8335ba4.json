@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Guidelines.pdf: Página 2\nContent: Anti Patterns\n• AntiPatterns= Common errors made by ontology \ndeveloper \n• 3 sets of elementary antipatterns\n1.\nLogical Anti-Patterns (LAP): 9 antipatterns\n•\nInconsistencies detected by the reasoner\n2.\nNon-Logical Anti-patterns (NLAP): 9 antipatterns\n•\nCognitive or modeling problems not detected by the \nreasoner\n3.\nGuidelines (G): 4 Antipatterns\n•\nComplex expressions not detected by the reasoner, \nimprove the readability of the formal axioms\n• Combination of elementary unit antipattern\n•\nAssociation of antipatterns that may lead to inconsistencies\n• Strategy to use the antipatterns\n2\nModelos de Razonamiento. Oscar Corcho\n",
-  "speaker": "SYSTEM",
-  "uuid": "33077b99-2cae-4930-b2e5-1d20f8335ba4"
-}

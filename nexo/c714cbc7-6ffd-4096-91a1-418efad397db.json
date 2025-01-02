@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas.pdf: Página 7\n7\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\n“El coste del envío se incrementa en 1000 pesetas si se recibe en el mismo día”\nSi (envío $e $origen $destino) ^ (dia-entrega $e hoy )  ^ (coste $e $coste) \nEntonces Borrar (coste $e $coste)\nAñadir (coste $e $coste + 1000)\nConstantes: envío, dia-entrega, coste, hoy\nVariable: $e, $coste, $origen, $destino\nEjemplos de Reglas  \nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nNo son REGLAS\nProblema 1: Una regla no es una estructura “If ... Then ... Else”\nRi: Si Condición-1 Λ Condición-2 Λ Condición-3 Λ ...\nEntonces acciones-1\nEn caso contrario acciones -2 \nSolución:\n• Identificar las condiciones que no se cumplen para la ejecución de las “acciones-2”\n• Identificar condiciones adicionales en alguno de los bloques de acciones  \n• Crear dos reglas, una para cada bloque de acciones.\n",
+  "speaker": "SYSTEM",
+  "uuid": "c714cbc7-6ffd-4096-91a1-418efad397db"
+}

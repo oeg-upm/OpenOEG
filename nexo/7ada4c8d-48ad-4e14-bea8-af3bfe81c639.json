@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion-2013.pdf: Página 56\nPlanificación \n \n \nBúsqueda del plan en STRIPS \nPONER (C, B) \nen-mesa (A) \nR \nSon metas que están en el estado E5, que es final \nA \nB \nC \nEstado E5 \nen-mesa (A) \nR \n∅ \nPila vacía, se cumple la condición de fin \nPLAN = QUITAR (A, B), DEJAR (A), LEVANTAR (C), PONER (C, B) \n",
-  "speaker": "SYSTEM",
-  "uuid": "7ada4c8d-48ad-4e14-bea8-af3bfe81c639"
-}

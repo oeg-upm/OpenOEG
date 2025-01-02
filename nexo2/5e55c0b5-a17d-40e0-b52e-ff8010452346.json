@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 31\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nAn example of a vCard instantiation \n32 \nvcard:Name\nvcard:url\nvcard:email\n- vcard:given-name\n- vcard:family-name\nowl:Thing\nvcard:n\nvcard:VCard\noeg:Asun\nasun@fi.upm.es\nvcard:email\nhttp://oeg-upm.net/\nvcard:url\nvcard:given-name\nvcard:family-name\n“Asunción”\n“Gómez”\noeg:AsunName\nvcard:n\ninstanceOf\ninstanceOf\ninstanceOf\ninstanceOf\n",
-  "speaker": "SYSTEM",
-  "uuid": "5e55c0b5-a17d-40e0-b52e-ff8010452346"
-}

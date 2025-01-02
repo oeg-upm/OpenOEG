@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2023.10.Hallucinations.pdf: Página 14\nTrial readme example (PG)\nParaphrase Generation\nREADME TRIAL\n{\n\"hyp\": \"When did you see him?\",        \n\"ref\": \"either\",        \n\"src\": \"When\\u2019d you last see him?\",        \n\"tgt\": \"When was the last time you saw him?\",        \n\"model\": \"tuner007/pegasus_paraphrase\",        \n\"task\": \"PG\",        \n\"labels\": [            \"Not Hallucination\",            \n\"Not Hallucination\",            \"Not Hallucination\"        \n],        \n\"label\": \"Not Hallucination\",        \n\"p(Hallucination)\": 0.0 \n}\nINPUT\nOUTPUT\nGOLD TARGET\nFor PG datapoints, we also\nindicate the huggingface\nmodel that was used to \ngenerate the hypothesis\n",
-  "speaker": "SYSTEM",
-  "uuid": "dcef7220-e1c6-4213-befb-e23be9b32712"
-}

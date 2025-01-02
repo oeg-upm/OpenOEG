@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 3._TI-Intro-RC-II-v1%28asun%29.pdf: Página 10\nIntroducción a la Representación de Conocimientos\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nSistemas de Producción\nSi cond1 ^ cond2 ^ cond3^....\nEntonces Acc1 ^ Acc2 ^....\nAntecedentes\nConsecuentes\nR1: Si (Animal $A) ^ (Esqueleto $A sí) \nEntonces  (Vertebrado $A)\nR2: Si (Animal $A) ^(Esqueleto $A no)\nEntonces  (Invertebrado $A)\nR3: Si (Vertebrado $A)  (Ladra $A)\nEntonces (Perro $A)\n",
-  "speaker": "SYSTEM",
-  "uuid": "f8bf85d9-ec6f-4262-b9a3-538036818fc3"
-}

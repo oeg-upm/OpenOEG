@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion-2013.pdf: Página 77\nPlanificación \n \n \nUna empresa dispone de N satélites \nmeteorológicos, cada uno de ellos dotados  de M \ninstrumentos (cámaras o medidores de \nprecisión). Diariamente deben obtenerse \nimágenes y/o mediciones de G objetivos. Para \npoder tomar una imagen o medición, el satélite \ndebe tener el instrumento adecuado, calibrado (el \ncual se borrara después de la acción) y \napuntando al objetivo. Por tanto, los satélites \ndisponen de controles para girar el satélite, \napuntar a un objetivo (descrito por coordenadas \nen el espacio), calibrar cada instrumento, y \n",
-  "speaker": "SYSTEM",
-  "uuid": "727ff863-38e6-4071-b577-5b51b885149a"
-}

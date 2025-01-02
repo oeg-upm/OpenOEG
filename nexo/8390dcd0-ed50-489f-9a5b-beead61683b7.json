@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Espa%C3%B1aVirtual30042009 \n\nTareas 7.2 y 8.4\n\nTarea 1. Mecanismo de extracción semántica a partir de anotaciones\n. Se ha terminado de escribir el artículo de estado del arte, con aportaciones de la Universidad de Southampton. Se ha analizado el repositorio RDF de la Universidad de Southampton donde se cruza información de varias folksonomías, así como la ontología de tagging que han definido para almacenar esta información.\nTarea 2. Procesado de fuentes de información no semántica ya existentes\n. Revisión del estado del arte correspondiente a la descripción automática de fuentes desconocidas, utilizando en general programación lógica inductiva.\nTarea 3. Modelo de anotación híbrido\n. Se ha generado una primera versión en SQL de la base de datos unificada propuesta, con el fin de comenzar a comprobar la introducción de datos en la misma.\nTarea 2.3\n\nA rellenar por María\nTareas 1.4 y 4.1\n\nA rellenar por Vilches",
+  "speaker": "SYSTEM",
+  "uuid": "8390dcd0-ed50-489f-9a5b-beead61683b7"
+}

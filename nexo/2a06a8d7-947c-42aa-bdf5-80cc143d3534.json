@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ODPs-v7.pdf: Página 19\n22 \n22 \nExample 1 \nWe are going to model the following problem within the Anatomy \nOntology:  \n\nThe Knee is part of the Leg \n\nThe Front of the Knee is part of the Knee \n\nThe Front of the Knee also forms part of the Leg  \n\nThe same for other parts of the body \nThe Content Pattern for modelling a Part-Whole Relation (CP-PW-01) was \nreused to structure the different parts of the body and the relation among them.  \n<<owl::inverseOf>>\n<<owl::ObjectProperty>>\nhasAnatomicalPartDirectly\n<<owl::ObjectProperty>>\nisAnatomicalPartOfDirectly\n<<owl::ObjectProperty>>\n<<owl::TransitiveProperty>>\nhasAnatomicalPart\n<<owl::ObjectProperty>>\n<<owl::TransitiveProperty>>\nisAnatomicalPartOf\n<<owl::inverseOf>>\nHumanBodyAnatomicalPart\n<<rdfs::domain>>\n<<rdfs::range>>\nHumanBodyAnatomicalPart\n<<rdfs::domain>>\n<<rdfs::range>>\nHumanBodyAnatomicalPart\n<<rdfs::domain>>\n<<rdfs::range>>\nHumanBodyAnatomicalPart\n<<rdfs::domain>>\n<<rdfs::range>>\n",
+  "speaker": "SYSTEM",
+  "uuid": "2a06a8d7-947c-42aa-bdf5-80cc143d3534"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ISSGC08.pdf: Página 20\n©<Miembro Grupo>\n21\nPrinciples of Distributed Data Management (I)\n• Data Processing, data access, data replication\n• Data processing\n– Co-scheduling: moving computation to data\n– Desirable for large amounts of data\n– Problems\n• assure required data near execution host is online\n• second code near data without long wait time \n• Clean up after execution or failure\n• Evtl. licence availability\n• ~70% of all failures in distributed systems are due to failure to properly \nmanage data\n– Complexities\n• some data can not be distributed\n• metadata stores use to be central (information about the execution of  a \nprocess, for example)\n",
+  "speaker": "SYSTEM",
+  "uuid": "34815d46-8e4a-4c3d-819a-c3f42a1dc4c5"
+}

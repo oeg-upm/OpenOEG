@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 29\n29\nFuture Works\n•\nOntology-based data access\n• SPARQL construct expressions, aggregates, projected \noperators\n• Implement adapters for other streaming sources\n• Add query rewriting algorithms\n• Ontology-based streaming data integration\n•\nHorizontal & vertical integration\n•\nIntegrate streaming + stored data\n•\nRDF data sources integration\n• Streaming query optimization\n•\nAnalyze cost models\n•\nStreaming sources statistics and metadata\n• Quantitative evaluation\n29\nEnabling  Ontology-based Access to Streaming Data Sources\n",
-  "speaker": "SYSTEM",
-  "uuid": "dad1effb-a111-470d-88f5-d62aa53e640d"
-}

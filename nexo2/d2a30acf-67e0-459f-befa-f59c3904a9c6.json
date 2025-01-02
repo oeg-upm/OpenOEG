@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01-ModelosRazonam_-_Intro_%26_DynaLearn_Nov2012.pdf: Página 28\nSemantic Techniques in DynaLearn\n• Collaborative filtering for (subjective) \ncommunity-driven recommendation. E.g.:\n•\n“Users who liked model X also liked model Y” \n•\n“Users who modeled X also modeled Y”\n• Model-based. Recommendations based on \nthe properties of the model under an \nobjective perspective. E.g.:\n•\n“Find a model fragment with inverse behaviour to the current one”\n•\n“List all models which are more specific than the current one”\n28\n",
-  "speaker": "SYSTEM",
-  "uuid": "d2a30acf-67e0-459f-befa-f59c3904a9c6"
-}

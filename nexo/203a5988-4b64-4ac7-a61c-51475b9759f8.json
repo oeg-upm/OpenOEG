@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ISSGC08.pdf: Página 30\n©<Miembro Grupo>\n31\nOGSA-DAI\n• OGSA-DAI is\n– An extensible framework that allows to\n– Access, integrate, transform and deliver\n– Distributed and heterogeneous sources of data\n• OGSA-DAI key elements are\n– Resources (Data request execution resource, Data Resource)\n– Activities (=operations or named unit of functionality)\n• Activity connectors for connecting inputs and outputs of different activities\n– Workflows (=composition of activities)\n• Pipeline workflow (A set of chained activities executed in parallel with \ndata flowing between the activities)\n• Sequence workflow\n• Parallel workflow\n",
+  "speaker": "SYSTEM",
+  "uuid": "203a5988-4b64-4ac7-a61c-51475b9759f8"
+}

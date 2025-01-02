@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion.pdf: Página 49\nPlanificación\nBúsqueda del plan en STRIPS\nDEJAR (A)\nbrazo-libre\nen-mesa (C) ^ libre (C) ^ brazo-libre\nLEVANTAR (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nbrazo-libre\nen-mesa (C) ^ libre (C) ^ brazo-libre\nLEVANTAR (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nA\nB\nC\nEstado E3\nLas condiciones son ciertas en el estado E3\n",
+  "speaker": "SYSTEM",
+  "uuid": "17d7c1a6-41a4-4995-b75e-b6e9e62cd3db"
+}

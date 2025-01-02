@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 78\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nExample: Data Cube and Unemployment \n80 \nqb:dataSet \nqb:dataSet \nstats:unemployment\n/Cantabria_2004 \nstats:unemployment/\nCanarias_2008 \n…… \nrdf:type \nrdf:type \nqb:Observation \nstats:unemployment \nrdf:type \nqb:DataSet \n",
-  "speaker": "SYSTEM",
-  "uuid": "f9236aae-6151-4a91-b5ac-5d4516ee30ab"
-}

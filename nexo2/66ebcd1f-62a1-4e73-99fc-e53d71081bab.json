@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ThesisCarlos3rdYear.pdf: Página 4\nIntroduction\n• Everyday more RDF data is published on the Web\n• Mostly via SPARQL endpoints\n• Following Linked Data principles\n• Currently there are more than13 billion triples in the Web\n• http://esw.w3.org/topic/SparqlEndpoints\n• http://esw.w3.org/topic/TaskForces/CommunityProjects/LinkingO\npenData/DataSets/Statistics\nThey are not fully connected, i.e. To mash up the data \nit is necessary to query each of the RDF datasets\n",
-  "speaker": "SYSTEM",
-  "uuid": "66ebcd1f-62a1-4e73-99fc-e53d71081bab"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 56\nWeb Ontology Language\nOWL (semantics)\nAdd non-semantic annotations in natural language to entities, \naxioms or the ontology\nrdfs:label, rdfs:comment, … \nDublin Core (http://dublincore.org/)\nCustom annotation properties\nLanguage (en, es, ...) and type (xsd:string, …)\n",
-  "speaker": "SYSTEM",
-  "uuid": "dc6ff141-f284-4c64-8e48-d258f064dd2f"
-}

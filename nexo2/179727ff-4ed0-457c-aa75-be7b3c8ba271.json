@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 65\n© O. Corcho, R.García-Castro, O. Muñoz-García\n65\nRDF and RDF Schema\nSesame\n•\nA framework for storage, querying and inferencing of RDF and \nRDF Schema\n•\nA Java Library for handling RDF\n•\nA Database Server for (remote) access to repositories of RDF data\n•\nHighly expressive query and transformation languages\n– SeRQL, SPARQL\n•\nVarious backends\n– Native Store\n– RDBMS (MySQL, Oracle 10, DB2, PostgreSQL)\n– main memory\n•\nReasoning support\n– RDF Schema reasoner\n– OWL DLP (OWLIM)\n– domain reasoning (custom rule engine)\n",
-  "speaker": "SYSTEM",
-  "uuid": "179727ff-4ed0-457c-aa75-be7b3c8ba271"
-}

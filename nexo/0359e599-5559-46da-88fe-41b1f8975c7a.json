@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: KGEOntologies_2021.pdf: Página 18\nAn Ontology-Based Deep Learning Approach for Triple Classification with Out-of-Knowledge-Base Entities\nStep 5: OOKB entity set generation\n18\nDue to the proposed initialization, unseen entities can \nbe encoded in a superficial but reliable manner. \nOOKB entities must be initialized following the same\nprocedure as existing entities\nThing\nPerson\nClass hierarchy\nMarie \nCurie\nEdith \nPiaf\nFrance\nnationality\nnationality?\ninstance of\ninstance of\n",
+  "speaker": "SYSTEM",
+  "uuid": "0359e599-5559-46da-88fe-41b1f8975c7a"
+}

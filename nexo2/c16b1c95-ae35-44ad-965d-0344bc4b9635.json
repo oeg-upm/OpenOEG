@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 12\n© O. Corcho, R.García-Castro, O. Muñoz-García\n12\nRDF and RDF Schema\nFrames. Basic elements\nCONCEPTS\nInferences:\n•Property inheritance\n•Matching\n•Daemons\nFRAMES\nClass\nInstance\nSLOTS\nRelations\nsubclassOf\ninstanceOf\nSibling\nDisjoint\nNon Disjoint\nAd hoc\nProperties\nof Class\nof Instance\nFacets\nType\nMin cardinality\nMax cardinality\nMultivalued\nAllowed values\nDefault values\nPrecondition\nIfNeeded\nIfModified\nIfAdded\nIfRemoved\nFrame\nFacets\nDescription\nValue\nProcedure\nPointer\nProperties\nRelations\nF1\nF2\nF\nn\n...\nR1\nRn\n",
-  "speaker": "SYSTEM",
-  "uuid": "c16b1c95-ae35-44ad-965d-0344bc4b9635"
-}

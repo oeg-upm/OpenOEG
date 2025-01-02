@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_OWL.pdf: Página 16\n© O. Corcho, MC Suárez de Figueroa Baonza\n16\nOWL and SWRL\nChunk 4. Formalize in DL\n1. Concept definitions:\nA pet is a pet of something. An animal must eat something. A vegetarian is an animal \nthat does not eat animals nor parts of animals. Ducks, cats and tigers are animals.\nAn animal lover is a person who has at least three pets. A pet owner is a person who\nhas animal pets. A cat liker is a person who likes cats. A cat owner is a person who has\ncat pets. A dog liker is a person who likes dogs. A dog owner is a person who has dog pets.\n2. Restrictions:\n \nDogs are not cats, and cats are not dogs.\n3. Properties:\nHas pet is defined between persons and animals. Its inverse is is_pet_of.\n4. Individuals:\nDewey, Huey, and Louie are ducks.\nFluffy is a tiger.\n \nWalt is a person who has pets called Huey, Louie and Dewey.\n",
+  "speaker": "SYSTEM",
+  "uuid": "10e38969-0616-46d8-ac44-89d11fcb3eac"
+}

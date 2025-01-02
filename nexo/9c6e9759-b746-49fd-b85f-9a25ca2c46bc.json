@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Garc%C3%ADaEtAl_CKCaR09.pdf: Página 16\nDisambiguation Approach\n•\nTagging activity:\n•\nUser u has tagged the resource r = http://www.nature.com with the tags nature, \nnews, science. \n•\nContext(u, nature, r) = {nature, news, science}\n•\nSenses(Nature) = {dbpedia:Nature, dbpedia: Nature_(journal)}\n•\nTerms(dbpedia:Nature) = {(life,62), (nature,46), (earth,32)} \n•\nTerms(dbpedia:Nature_(journal)) = {(nature,77), (science,29), (scientific,25)}\n•\nVoc(nature) = { life, nature, earth,  science, scientific }\n•\nVcontext= (0,1,0,1,0)\n•\nVnature= (62,46,32,0,0)\n•\nVnature(journal)= (0,77,0,29,25)\n•\nSim(Vcontext, Vnature) = 0,389                              Sim(Vcontext, Vnature(journal)) = 0,872\n16\nCo-occurring \ntags in the \nwhole \nfolksonomy\nUser tags \nregardless of \nthe resource\n(Period of Time)\nco-occurring \ntags in the \nsame \nresource\nUser Tags \nco -\noccurring in \nthe same \nresource\n",
+  "speaker": "SYSTEM",
+  "uuid": "9c6e9759-b746-49fd-b85f-9a25ca2c46bc"
+}

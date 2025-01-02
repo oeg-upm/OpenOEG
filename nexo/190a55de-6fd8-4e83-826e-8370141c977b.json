@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2023.10.Hallucinations.pdf: Página 8\nAbout the data\n• Ya descargado, \ndescomprimido y en csv\n(más legible) en:\nhttps://delicias.dia.fi.upm.es/n\nextcloud/index.php/s/y9wqgc\nexPDSDdcM\n│   JSON2CSV.txt\n│\n├───SHROOM_dev-v1\n│       README-v1.txt\n│       val.model-agnostic.json\n│       val.model-aware.json\n│\n├───SHROOM_trial-v1.1\n│       README-v1.1.txt\n│       trial-v1.json\n│\n└───SHROOM_unlabeled-training-data-v1\ntrain.model-agnostic.json\ntrain.model-aware.json\n",
+  "speaker": "SYSTEM",
+  "uuid": "190a55de-6fd8-4e83-826e-8370141c977b"
+}

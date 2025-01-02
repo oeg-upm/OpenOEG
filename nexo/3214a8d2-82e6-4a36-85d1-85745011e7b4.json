@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA.pdf: Página 122\n122\nProfundizamiento iterativo o progresivo.-\nEstudiar hasta un nivel, si  hay más \ntiempo seguir otro nivel, y así \nsucesivamente\nMovimiento nulo.-\nEn los nodos MAX cuando mover es la \npeor jugada, devolverá un límite inferior,     \ny\npermitirá podar a partir de él si  su valor \nes mayor o igual a b del nodo antecesor\n",
+  "speaker": "SYSTEM",
+  "uuid": "3214a8d2-82e6-4a36-85d1-85745011e7b4"
+}

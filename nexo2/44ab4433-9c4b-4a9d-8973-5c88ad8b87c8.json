@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: PURE.pdf: Página 12\n●Access policies are expressed using rules or assertions. \n●For each rule on a secrecy Si\nsi, there is a mapping that \ndescribes Si\nsi as a conjunctive query (Local-As-View \napproach).\ne.g. S1(X,W):-has(X,Y),disease(Y,'PAC'), \nis_characterized_by(Y,Z),five_year_rate(Z,W)\n     where PAC=Pancreatic Cancer\nPURE: Secrecies\n12\n",
-  "speaker": "SYSTEM",
-  "uuid": "44ab4433-9c4b-4a9d-8973-5c88ad8b87c8"
-}

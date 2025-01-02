@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentaci%C3%B3n_Everis.v1.pdf: Página 11\nRealización WS-DAIOnt-RDF(S)\nStatementAccess\nContainerAccess\nContainerFactory\nContainerIteratorAccess\nCollectionAccess\nCollectionFactory\nCollectionIteratorAccess\nPerfil 2:\nSoporte completo para RDF(S)\nGestión y explotación de recursos RDF(S) en arquitecturas Grid orientadas a servicios\n Especificación WS-DAIOnt-RDF(S) - Perfiles\nClassAccess\nPropertyAccess\nPerfil 1:\nSoporte para RDF Schema\nColección de Repostorios\nRepositorio\nRecurso\nRepositoryCollectionAccess\nRepositoryCollectionFactory\nRepositoryAccess\nRepositoryFactory\nResourceAccess\nClase\nPropiedad\nReificación\nContenedor\nColección\n11\nMiguel Esteban Gutiérrez\nPerfil 0:\nSoporte para RDF\n",
-  "speaker": "SYSTEM",
-  "uuid": "55ea3967-813c-46ba-bde0-2e99dec55929"
-}

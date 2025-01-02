@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISSGC08.pdf: Página 14\n©<Miembro Grupo>\n15\nComputational Resources & Job management\n• Multiprocessor systems\n– Shared memory\n– Distributed memory\n– Distributed shared memory\n• Usage \n– submission of jobs by the users\n– Processing of these jobs\n– High amount of jobs, resources are not so large\n• Ways for managing submission of jobs is required\n– Time sharing\n– Space sharing\n",
-  "speaker": "SYSTEM",
-  "uuid": "abef0406-344f-4e7e-9412-6c16610c6d8a"
-}

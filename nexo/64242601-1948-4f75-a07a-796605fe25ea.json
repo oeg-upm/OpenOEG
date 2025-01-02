@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Hiroaki_Yamada_talk_Jan19.pdf: Página 19\nExperimental setting\n• Task:\n• A multi class sentence labeling\ntask.\n• NOT multi label.\n• Data: \n• All 89 documents\n• 7 classes\n• 5-fold cross validation\n• Classifier:\n• Support Vector Machine with linear kernel\n• Conditional Random Field\n• Simple NN models with Char+Word embeddings\nDistribution of labels (sentences)\nFACT\n14816\nFRAMING-main\n8611\nFRAMING-sub\n7280\nOTHER\n4294\nCONCLUSION\n1455\nIDENTIFYING\n799\nBACKGROUND\n302\nTotal\n37371\n20\n",
-  "speaker": "SYSTEM",
-  "uuid": "64242601-1948-4f75-a07a-796605fe25ea"
-}

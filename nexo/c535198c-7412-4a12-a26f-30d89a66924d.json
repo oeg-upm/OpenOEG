@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 15\nS2O Mappings\n15\nEnabling  Ontology-based Access to Streaming Data Sources\ncd:Observation\nxsd:double\ncd:observationResult\nenvdata_hornsea\nDatetime: long\nHs : float\nLon: float\nLat: float\nenvdata_westbay\nDatetime: long\nHs : float\nLon: float\nLat: float\nenvdata_milford\nDatetime: long\nHs : float\nLon: float\nLat: float\nenvdata_rhylflats\nDatetime: long\nHs : float\nLon: float\nLat: float\nU\nU\nU\n<union name=\"meteostream\">\n<map value=\"http://www.semsorgrid4env.eu/ontologies/\nCoastalDefences.owl#SolentCCO\">\n<extent name=\"envdata_hornsea\"></extent>\n<extent name=\"envdata_rhylflats\"></extent>\n<extent name=\"envdata_milford\"></extent>\n<extent name=\"envdata_westbay\"></extent>\n</map>     \n</union>\n•\nUnion of extents-streams\n",
+  "speaker": "SYSTEM",
+  "uuid": "c535198c-7412-4a12-a26f-30d89a66924d"
+}

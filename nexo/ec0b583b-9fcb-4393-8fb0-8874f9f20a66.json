@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Espa%C3%B1aVirtual_project.pdf: Página 14\nMetaplanificador Semántico\n• Planificadores Locales\n• Ligados al middleware escogido\n• Fura: grupos cola de tareas asociadas a recursos\n• Adaptador Semántico\n• Oculta los detalles de cada PL\n• Traduce las acciones del MP a las diferentes API de los PL\n• Actúa como anotador de metadatos referentes a las \ncapacidades y estados de los PL (recursos, servicios y \ntrabajos)\n• Metaplanificador Semántico\n• Mejora del rendimiento en entornos distribuidos\n• Lleva a cabo razonamientos para la toma de decisiones a \npartir de los metadatos anotados\n• Fura: elección del grupo cola cuya estimación de tiempo sea \nmenor.\n",
-  "speaker": "SYSTEM",
-  "uuid": "ec0b583b-9fcb-4393-8fb0-8874f9f20a66"
-}

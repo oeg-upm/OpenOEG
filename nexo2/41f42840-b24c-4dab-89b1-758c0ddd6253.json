@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Metodolog%C3%ADa-2-v2.pdf: Página 31\nClassification Scheme Components\n+cs_name\nClassification Scheme\n+contains\n1..*\n+csi_name\nClassification Scheme Item\n+contained in\n1\n+csi_attribute\n+\ni ti\n0 *\n+\ni ti\n0 *\nClassification Scheme Item Relationship\n+association\n0..*\n+association\n0..*\n+name\nClassification Scheme Item Relationship\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón-Terrazas\n31\nOntological Engineering\n1. International Standard Organization (ISO). Information technology - Metadata registries – Part 1: Framework, 2004. \nReport ISO/IEC FDIS 11179-1.\n",
-  "speaker": "SYSTEM",
-  "uuid": "41f42840-b24c-4dab-89b1-758c0ddd6253"
-}

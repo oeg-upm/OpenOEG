@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GC-Redes_Sem%C3%A1nticas-v3.pdf: Página 19\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nTravel\nrdfs:Literal\nrdfs:Class\nCompany-name\nsingleFare\nunits:currencyQuantity\nrdfs:range\nrdfs:range\nrdfs:domain\nrdfs:domai\nn\nrdf:Type\ndepartureDate\nrdfs:domai\nn\nxsd:Date\nrdfs:range\narrivalDate\nrdfs:range\nrdfs:domain\nrdf:Property\nrdf:Type\nrdf:Type\nrdf:Type\nrdf:Type\nRDF\nRDFS\nRed semántica en RDF(S)\nrdfs:Class rdf:ID=\"Travel\">\n<rdfs:comment>A journey from place to\nplace</rdfs:comment>\n</rdfs:Class>\n<rdf:Property rdf:ID=\"arrivalDate\">\n<rdfs:domain rdf:resource=\"#Travel\"/>\n<rdfs:range rdf:resource=\"&xsd;date\"/>\n</rdf:Property>\n<rdf:Property rdf:ID=\"departureDate\">\n<rdfs:domain rdf:resource=\"#Travel\"/>\n<rdfs:range rdf:resource=\"&xsd;date\"/>\n</rdf:Property>\n",
-  "speaker": "SYSTEM",
-  "uuid": "f523727e-2acb-4fcd-b6f7-be0a9f63a119"
-}

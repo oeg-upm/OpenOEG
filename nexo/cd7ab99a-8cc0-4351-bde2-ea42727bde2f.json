@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 20\nWeb Ontology Language\nOWL semantics\nPedro has spanish nationality \n¿Does Pedro have british nationality?\nCWA (DB): No \nOWA (OWL KB): We don't know (Pedro can have double \nnationality). Till we assert that Pedro can only have one \nnationality, OWL will assume he can have more than one\nOWA advantage: we can add new knowledge (e.g. New \nnationalities) easily, we don't have to “change the schema”\nOWA is good for settings in which our knowledge will always be \nincomplete: open systems like the (Semantic) Web \n",
+  "speaker": "SYSTEM",
+  "uuid": "cd7ab99a-8cc0-4351-bde2-ea42727bde2f"
+}

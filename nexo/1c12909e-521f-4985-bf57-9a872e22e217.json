@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: Volver a Sistemas y Equipos\nuso de colores\n<span style=\"color:red\"> texto color </span> → se ve como:\ntexto color\nTablas\n{| class=\"wikitable collapsible sortable\" border=\"1\" style=\"background-color:white; border:1px solid red; padding:2px\"\n! C1 !! C2 !! C3 \n|-\n| A || B ||C\n|-\n|}\n→ se ve como:\nC1\nC2\nC3\nA\nB\nC",
-  "speaker": "SYSTEM",
-  "uuid": "1c12909e-521f-4985-bf57-9a872e22e217"
-}

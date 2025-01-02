@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: EWoT.pdf: Página 3\neWoT: A Semantic Interoperability Approach for Heterogeneous IoT Ecosystems Based on the Web of Things\nEnabling semantic interoperability for IoT infrastructures\n3\n{  \"tmp\" : \"-2ºC\", \n    \"power\" : \"10Kw\", \n    ”content\": [ \n       { \"type\" : \"apple\"}, \n       { \"type\" : \"apple\"}, \n       { \"type\" : \"orange\"}, \n          ... \n ] } \nMQTT \nJSON \nHomogeneus APIs \nHomogeneus Format \nHeterogeneus Models \nSyntactic Interoperability: \nHeterogeneus APIs \nHeterogeneus Formats \nHeterogeneus Models \nHeterogeneity: \nREST API + \nSPARQL \nRDF \n",
-  "speaker": "SYSTEM",
-  "uuid": "d0043953-cb05-41e1-82ce-4564ab1078a1"
-}

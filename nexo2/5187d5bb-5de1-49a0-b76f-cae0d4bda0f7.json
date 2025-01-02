@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 92\n© O. Corcho, R.García-Castro, O. Muñoz-García\n92\nRDF and RDF Schema\n•\nURIs\nEnclosed in <>\n<URI>\nor\n@prefix prefix <http://....>\nprefix:name\n•\nBlank Nodes\n:name\nor\n[] for a Blank Node used once\n•\nLiterals\n\"Literal\"\n\"Literal\"@language\n\"\"\"Long literal with\nnewlines\"\"\"\n•\nDatatyped Literals\n\"lexical form\"^^datatype URI\n\"10\"^^xsd:integer\n\"2006-09-04\"^^xsd:date\nTurtle: URIs, blank nodes, literals\n",
-  "speaker": "SYSTEM",
-  "uuid": "5187d5bb-5de1-49a0-b76f-cae0d4bda0f7"
-}

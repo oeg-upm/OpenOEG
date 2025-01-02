@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Chowlk_framework_slides.pdf: Página 35\nChowlk framework© María Poveda Villalón  & Serge Chávez-Feria\nThe Chowlk Converter\n36\n• The Architecture\nDetection\nModule\nXML \nFile\nAssociation\nModule\nWriting\nModule\nOWL \nOntology\n•\nChecks the syntax of the blocks\n•\nWe can adapt this module to support other visualizations.\n•\nIf the Chowlk notation is not follow it provides a report.\n•\nSome blocks are identified directly by checking the syntax, \nothers need context.\n",
-  "speaker": "SYSTEM",
-  "uuid": "f15c824a-a011-4dba-9624-4a91ce496dfe"
-}

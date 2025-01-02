@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 19\n•  Graph patterns:  \n•  BGPs \n•  P1 P2 \n•  P FILTER R \n•  P1 UNION P2 \n•  P1 OPTIONAL P2 \n•  Semantics \n•  eval(D(G), graph pattern)  … \n D is a dataset,  \n  \n \n \n \n G is the “active graph” \nrecursively defined for all graph patterns in Section 12.5 of  \n http://www.w3.org/TR/rdf-sparql-query/ \nSpec. semantics is a bit hard to read … \nExplained in more “accessible” terms in extended version of \nthis Tutorial: http://www.polleres.net/presentations/\n20101006SPARQL1.1Tutorial.pptx \n \n25 \nOntological Engineering Group \nSPARQL1.0 Formal Semantics \n",
-  "speaker": "SYSTEM",
-  "uuid": "73d29e47-ba07-4a06-882e-aa4d1bdafdad"
-}

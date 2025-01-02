@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion-2013.pdf: Página 38\nPlanificación \n \n \nBúsqueda del plan en STRIPS \nQUITAR (A, B) \nsujeto (C) \nlibre (B) ^ sujeto (C) \nPONER (C, B) \nen-mesa (A) \nR \nA \nB \nC \nA \nB \nC \nQUITAR (A, B) \nEstado E2 cuyas \ncondiciones hay \nque comprobar \nen los siguientes \npasos \nPLAN = QUITAR (A, B) \n",
+  "speaker": "SYSTEM",
+  "uuid": "9614dc23-6d60-4015-b1a1-7882a4ac52c3"
+}

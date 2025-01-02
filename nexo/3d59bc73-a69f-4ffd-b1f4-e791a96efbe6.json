@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Vidal.Sep19.pdf: Página 35\nPage 35\nData Preparation Pipeline\nRDF2TSV\nMappings + \nSQL Script\nNormalization + \nIndexing\n●\nOne NT ﬁle per RDF Class\n●\nTransform NT ﬁles to\nTSV ﬁles\n●\nSingle-value predicates\n○\nmain ﬁle of RDF Class\n●\nMulti-value predicates\n○\nseparate ﬁle for each \nmulti-value predicate\n●\nGenerate RML mappings from \nthe data collected during \nRDF2TSV\n○\none ﬁle per RDF Class\n●\nSQL script for creating the \nrelational tables\n○\none ﬁle per data set\n○\ndata is loaded from TSV \nwith LOAD DATA INFILE \ncommand\n●\nNormalization by hand\n●\n3NF\n●\nIndexes\n○\nprimary keys\n○\ncandidate keys\n●\nForeign key constraints\n",
-  "speaker": "SYSTEM",
-  "uuid": "3d59bc73-a69f-4ffd-b1f4-e791a96efbe6"
-}

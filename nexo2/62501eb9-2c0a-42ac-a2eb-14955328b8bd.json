@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ontologies%26multilinguality%40wiki_24-01-08.pdf: Página 20\n©Guadalupe Aguado de Cea\n20\n(b) Multilingual contents visualization\n• When the KB is multilingual\n– The application invokes the KB once\n– The interface shows the contents in the selected language\n• When the KB is monolingual\n– The application invokes the KB \n– It uses a translation system (multilingual resource: \ndictionary, glossary, lexicon, DB, etc)\n– The interface shows the translation\n• Similar interface in both cases to message \nvisualization. \n",
-  "speaker": "SYSTEM",
-  "uuid": "62501eb9-2c0a-42ac-a2eb-14955328b8bd"
-}

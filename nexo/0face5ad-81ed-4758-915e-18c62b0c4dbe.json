@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 13\n© O. Corcho, R.García-Castro, O. Muñoz-García\n13\nRDF and RDF Schema\nReading RDF\n// create an empty model\nModel model = ModelFactory.createDefaultModel();\n// use the FileManager to find the input file\nInputStream in = FileManager.get().open( inputFileName );\nif (in == null) {\nthrow new IllegalArgumentException(\"File not found\");\n}\n// read the RDF/XML file\nmodel.read(in, \"\");\n// write it to standard out\nmodel.write(System.out);\n<rdf:RDF\nxmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'\nxmlns:vcard='http://www.w3.org/2001/vcard-rdf/3.0#'\n>\n<rdf:Description rdf:nodeID=\"A0\">\n<vcard:Family>Smith</vcard:Family>\n<vcard:Given>John</vcard:Given>\n</rdf:Description>\n<rdf:Description rdf:about='http://somewhere/JohnSmith/'>\n<vcard:FN>John Smith</vcard:FN>\n<vcard:N rdf:nodeID=\"A0\"/>\n</rdf:Description>\n...\n</rdf:RDF>\n",
+  "speaker": "SYSTEM",
+  "uuid": "0face5ad-81ed-4758-915e-18c62b0c4dbe"
+}

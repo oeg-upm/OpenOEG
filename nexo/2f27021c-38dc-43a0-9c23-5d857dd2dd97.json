@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: FernandezM.Feb2019.pdf: Página 8\nIntroduction\nObjectives\nObj 1: Measure reuse, hard reuse and soft reuse: the questions\nassociated with this objective are the following:\nWhat is the proportion of entities reused by another ontology (reuse)?\nWhat is the proportion of imported entities (hard reuse)?\nWhat is the proportion of neither imported nor deﬁned entities (soft\nreuse)?\nDo these proportions vary depending on whether they are calculated\nfocusing just on classes or just on properties?\nIs there a set of ontologies that is reused in most of LOV ontologies?\nFern´andez, Poveda, Su´arez, G´omez\nOntology reuse across the same domain\nFebruary 21, 2019\n8 / 43\n",
+  "speaker": "SYSTEM",
+  "uuid": "2f27021c-38dc-43a0-9c23-5d857dd2dd97"
+}

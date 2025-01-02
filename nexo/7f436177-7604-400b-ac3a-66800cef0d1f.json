@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 6\n•6\nSemantic networks. Example. Solution\n• Paul and John are persons\n• El Prado is a museum\n• Paul knows that John visited El Prado in Madrid\nPaul knows that John visited El Prado in Madrid\nK\n1\nVi it 1   \nObject\nAgente\nV i\nJohn\nMuseum\nPerson\ninstanceOf\ninstanceOf\nKnow_1\nVisit_1   \nObject\nVoice\nActive\nPresent\nPaul\nTense\nAgent\nEl Prado\nObject\nMadrid\nPlace\nPast\nTense\nActive\nVoice\ninstanceOf\nFrames. Basic elements\nCONCEPTS\nFRAMES\nClass\nInstance\nSLOTS\nRelations\nsubclassOf\ninstanceOf\nInferences:\n•Property inheritance\n•Matching\n•Daemons\nSibling\nDisjoint\nNon Disjoint\nAd hoc\nProperties\nof Class\nof Instance\nFacets\nType\nMin cardinality\nMax cardinality\nMultivalued\nAllowed values\nDefault values\nPrecondition\nIfNeeded\nIfModified\nIfAdded\nFacets\nIfAdded\nIfRemoved\nFrame\nDescription\nValue\nProcedure\nPointer\nProperties\nRelations\nF1\nF2\nFn\n...\nR1\nRn\n",
+  "speaker": "SYSTEM",
+  "uuid": "7f436177-7604-400b-ac3a-66800cef0d1f"
+}

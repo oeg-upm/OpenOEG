@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RicoMayo2018.pdf: Página 9\nIntuition\n• Incorrect mapping\n• False negatives\n• E.g. Juanita Reina (Spanish singer) was born in Seville. She also died in Seville\ndbr:Juanita_Reina\ndbo:birthPlace dbr:Seville\ndbr:Juanita_Reina\ndbo:deathPlace dbr:Seville\n",
+  "speaker": "SYSTEM",
+  "uuid": "26fc9270-2e87-4645-9abd-518f0c38972b"
+}

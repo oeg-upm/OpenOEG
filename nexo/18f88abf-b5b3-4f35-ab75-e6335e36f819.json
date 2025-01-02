@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 46\n© O. Corcho, R.García-Castro, O. Muñoz-García\n46\nRDF and RDF Schema\nRDF(S) Serialisations. N3\n@base  <http://www.oeg-upm.net/ontologies/people >\n@prefix person: <http://www.ontologies.org/ontologies/people#>\nperson:hasColleague \na rdf:Property;\n \n \n \n \nrdfs:domain person:Person;\n \n \n \n \nrdfs:range person:Person.\nperson:Professor rdfs:subClassOf person:Person.\nperson:Lecturer rdfs:subClassOf person:Person.\nperson:PhDStudent rdfs:subClassOf person:Person.\n:Asun  \na person:Professor;\n \n \nperson:hasColleague :Raúl ;\n \n \nperson:hasHomePage “http://www.fi.upm.es/”.\n:Oscar \na person:Lecturer;\n \n \nperson:hasColleague :Asun ;\n \n \nperson:hasName “Oscar Corcho García”.\n:Raúl \na person:PhDStudent.\na is equivalent to rdf:type\n",
+  "speaker": "SYSTEM",
+  "uuid": "18f88abf-b5b3-4f35-ab75-e6335e36f819"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 56\n© O. Corcho\n56\nOntological Engineering\nChunk 2. Formalisation in DL\nhasParent\nhasFather\nhasParent\nhasMother\nadult\nyoung\ncat\nhasPet\nanimal\nhasPet\noldLady\nelderly\nfemale\nperson\noldLady\nadult\nperson\ngrownUp\nadult\nfemale\nperson\nwoman\nadult\nmale\nperson\nman\nyoung\nperson\nkid\nadult\nperson\nelderly\ncompany\npany\nhaulageCom\ncompany\nbusCompany\nvehicle\ntruck\nvehicle\nlorry\nvehicle\ncar\nvehicle\nbus\nvehicle\nbicycle\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.\n.\n;\n;\n;\n;\n;\n",
+  "speaker": "SYSTEM",
+  "uuid": "03f54f54-3a07-4250-bc13-7f2e9273da30"
+}

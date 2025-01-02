@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: WebNmas-EVERIS%28v2-boris%29.pdf: Página 7\n7\nComponente de desambiguación de Etiquetas\n•\nInput: \n• Cadena de caracteres, etiqueta a desambiguar\n• Etiquetas que forman el contexto, separadas por comas\n•\nOutput\n• Documento XML, que incluye \n• los significados asociados a la etiqueta\n• valor de similitud\n• pequeña descripción (extraída de DBPedia)\n",
+  "speaker": "SYSTEM",
+  "uuid": "ff4b5833-1f17-4fd0-b498-45005176e410"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 13_LDGeneration.pdf: Página 10\n18/12/12 \n10 \nNOR2O – Exercise \n19 \n•  What you need: \n•  Java 1.5 o superior  \n•  What to do: \n•  Download NOR2O  \n http://oeg-dev.dia.fi.upm.es/nor2o/#download \n•  Extract the files in your workspace folder. \n•  The current distribution comes with three examples in folders \nexample1, example2 and example3. \n•  Files in the wiki \n•  “Paro” case: Unemployement for each city by date, genre and age \n•  “Atlas” case: Number of health centers for each city by year \n•  Run nor2o from the command line \n•  Wait until it finishes and check the generated RDF file \nNOR2O – Exercise \n20 \n•  Run nor2o from the command line \n",
-  "speaker": "SYSTEM",
-  "uuid": "32acf3aa-9497-40df-9b56-f4b1b76c6d7f"
-}

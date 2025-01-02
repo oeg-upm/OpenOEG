@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 100\n© O. Corcho, R.García-Castro, O. Muñoz-García\n100\nRDF and RDF Schema\nOptional graph patterns\n@prefix foaf:       <http://xmlns.com/foaf/0.1/> .\n@prefix rdf:        <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n_:a  rdf:type        foaf:Person .\n_:a  foaf:name       \"Alice\" .\n_:a  foaf:mbox       <mailto:alice@example.com> .\n_:a  foaf:mbox       <mailto:alice@work.example> .\n_:b  rdf:type        foaf:Person .\n_:b  foaf:name       \"Bob\" .\nPREFIX foaf: <http://xmlns.com/foaf/0.1/>\nSELECT ?name ?mbox\nWHERE  { ?x foaf:name  ?name .\nOPTIONAL { ?x  foaf:mbox  ?mbox }\n}\nname  \nmbox\n\"Alice\"\n<mailto:alice@example.com>\n\"Alice\"\n<mailto:alice@work.example>\n“Bob\"\n",
-  "speaker": "SYSTEM",
-  "uuid": "56824d35-3060-4029-b16e-4a9b4c305821"
-}

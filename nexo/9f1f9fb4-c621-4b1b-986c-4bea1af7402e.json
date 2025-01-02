@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas.pdf: Página 10\n10\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nIndice\n1.\nArquitectura de los Sistemas de Producción\n2. Base de Hechos\n3.\nBase de Reglas\n4. Estrategia de Control\n4.1. Ciclo de Funcionamiento\n4.2.  Encadenamientos\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nExamina en cada ciclo de funcionamiento la BH y decide qué regla ejecutar\nCaracterísticas:\nCausar movimiento\nSer sistemática\nSer eficiente\nEstrategia de Control\nBH1\nBH2\n•••\nBHn-1\nBHn\nR1\nR2\n...\nRN\nC1\nC2\nCn-1\nR2\nRn\nR1\n",
+  "speaker": "SYSTEM",
+  "uuid": "9f1f9fb4-c621-4b1b-986c-4bea1af7402e"
+}

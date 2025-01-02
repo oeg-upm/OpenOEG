@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RDF%28S%29.pdf: Página 61\nDifferent query forms\n13) Describe the resource with rdfs:label \"Madrid\"\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nDESCRIBE ?x WHERE { ?x rdfs:label \"Madrid\". }\n14) Construct the RDF(S) graph that directly relates all the touristic places with their respective provinces, \n)\n( ) g\np\ny\np\np\np\n,\nusing a new property called \"estaEn\". \nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nCONSTRUCT {?x pr:estaEn ?y} \nWHERE { \n?x a pr:LugarTuristico;\npr:SituadoEn $pob.\n$pob pr:Provincia ?y. }\n15) Ask if there is some instance of Pueblo\n© O. Corcho, R.García-Castro, O. Muñoz-García\n121\nRDF and RDF Schema\nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nASK WHERE {?a a pr:Pueblo}\n16) Ask if there is some instance of Ermita\nPREFIX pr: <http://GP-onto.fi.upm.es/Practica2#>\nASK WHERE {?a a pr:Ermita}\n",
-  "speaker": "SYSTEM",
-  "uuid": "7b9be44a-54a2-4e83-bcc3-1ad62bfab99b"
-}

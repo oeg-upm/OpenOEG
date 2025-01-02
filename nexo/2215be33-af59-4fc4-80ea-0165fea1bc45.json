@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ResearchPlan2014_slides.pdf: Página 6\nAlejandro Llaves - Research Plan 2014\n6\nResearch goals\nSeptember 2014\n●A RDF streaming engine that scales to higher input data \nrates and/or more complex queries and/or more concurrent \nqueries\n●Deliverable describing such engine and the research behind \nit for PlanetData \nDecember 2014\n●Improvements on the engine based on application purpose\n●Journal paper\n",
+  "speaker": "SYSTEM",
+  "uuid": "2215be33-af59-4fc4-80ea-0165fea1bc45"
+}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Helio.pdf: Página 8\nSet your title here in Slide Master Options\nHelio Connector Speciﬁcation\n8\n§  Conector speciﬁcation template\n“conector” : { \n “arguments” : [ “…” , “…”, … ], \n       “type” : ”…” \n} \n“connector”  : { \n         “arguments” : [“http://mayor2.dia.fi.upm.es/oeg-upm/index.php/es/people/index.html”], \n         “type” : “GetConnector”, \n        } \n“connector”  : { \n         “arguments” : [“65Us”,”uHUQXP”,” 0970880-Qcvt”,” y1Ij8P7ldJh”,”asungomezperez”,”100”], \n         “type” : “TwitterConnector”, \n        } \n\"connector\"  : { \n          \"arguments\" : [\"https://dbpedia.org/sparql?default-graphuri=http%3A%2F%.... \"], \n          \"type\" : \"URLConnector\", \n        } \n",
-  "speaker": "SYSTEM",
-  "uuid": "ba02cb4f-3c42-46c9-9e13-50dc31f0aed6"
-}

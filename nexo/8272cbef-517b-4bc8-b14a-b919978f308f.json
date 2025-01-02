@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 52\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nDC: model and instances \n53 \noeg:MC\nhttp://www.springer.com/.../978-3-642-24793-4\ndc:creator\noeg:Asun\ndc:contributor\nstl:Aldo\ndc:contributor\nkmi:Enrico\ndc:contributor\nhttp://dbpedia.org/page/Springer_Publishing\ndc:publisher\nterms:title\n“Ontology Engineering \nin a Networked World”\nterms:identifier\n“978-3-642-24794-1”\nterms:created\n“2012”\ndc:BibliographicResource\ndc:Agent\n- dc:title\ninstanceOf\ninstanceOf\ninstanceOf\ninstanceOf\ninstanceOf\ninstanceOf\ndc:creator\ndc:contributor\ndc:publisher\n",
+  "speaker": "SYSTEM",
+  "uuid": "8272cbef-517b-4bc8-b14a-b919978f308f"
+}

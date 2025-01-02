@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Helio.pdf: Página 23\nSet your title here in Slide Master Options\nConnector Challenge\n23\n§  Twitter API required credentials\no  Our connector passes them as argument in the speciﬁcation\n { \n        \"id\" : \"Twitter climapatron\", \n        \"type\" : \"JsonDatasource\", \n        \"arguments\" : [\"$.tweets.[*]\"], \n        \"connector\"  : { \n         \"arguments\" : \n[\"65UsIe34FvDoT\",\"uHmwcp9YXP\",\"100434VjLypDt\",”oZmiRfTh6\",\"climapatron\",\"\n100\"], \n         \"type\" : \"TwitterConnector\", \n        } \n      } \n",
+  "speaker": "SYSTEM",
+  "uuid": "6d451e72-4fcb-4e72-9bb9-507576f23056"
+}

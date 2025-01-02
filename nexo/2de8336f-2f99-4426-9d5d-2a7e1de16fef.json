@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OntoDDB.pdf: Página 9\n12/11/2009\nONTOLOGY REPOSITORIES\n• Three popular database representations:\n– Schema-aware storage\n• Also called specific or binary\n• One table per RDF/S schema property or class\n– Schema-oblivious storage\n• Also called generic or vertical\n• One table to store triples (subject-predicate-object)\n– Hybrid of schema-aware and schema-oblivious \nrepresentations\n• A ternary relation for every different property range\n• A binary relation for all classes instances\nTheoharis, Y., Christophides, V., Karvounarakis, G. Benchmarking Database Representations of \nRDF/S Stores. In: Gil, Y., Motta, E., Benjamins, V.R., Musen, M.A. (eds.) ISWC 2005. LNCS, vol. \n3729, pp. 685–701. Springer, Heidelberg (2005)\n",
+  "speaker": "SYSTEM",
+  "uuid": "2de8336f-2f99-4426-9d5d-2a7e1de16fef"
+}

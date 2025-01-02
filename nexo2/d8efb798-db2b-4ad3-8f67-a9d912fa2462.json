@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas.pdf: Página 14\n14\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nEquiparación de Constantes\nLas constantes son cualquier secuencia de caracteres no precedidos del símbolo $\nUna constante se equipara con otra constante igual a ella\nque ocupe la misma posición en un elemento de la M.T.\nR1: (A B) →(C D)\n......\n1 equiparación\nMT: (A B)\n(B C)\nLa ejecución de la regla introduce en la MT a (C D)\nConjunto Conflicto ={R1 (A B)}\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\n$x = D no es posible porque B es distinto de C\nEquiparación de Variables (I)\n$x = C ↔eq. 1\n$x = 3 ↔eq.2\nUna variable que aparece una sola vez en una regla se equipara con cualquier \nvalor que ocupe la misma posición en un elemento de la M.T.\nR1: Si  (A $x    B) Entonces .....\nMT: (A C B) (A 3 B) (A D  C)\n2 Equiparaciones de la misma regla\nConjunto Conflicto ={R1 (A C B) R1 (A 3 B)}\n",
-  "speaker": "SYSTEM",
-  "uuid": "d8efb798-db2b-4ad3-8f67-a9d912fa2462"
-}

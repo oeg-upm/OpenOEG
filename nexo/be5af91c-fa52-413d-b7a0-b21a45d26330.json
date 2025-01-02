@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas-II.pdf: Página 43\nSistemas de Producción\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nPrincipio de Refracción\nSeleccionar una regla cuya instanciación no haya ocurrido previamente.\nDos instanciaciones son distintas si se dan alguna de las tres situaciones:\n•\nProceden de distintas reglas, aunque coincidan sus elementos\n•\nLas listas de elementos de la memoria de trabajo que contienen son distintas\n•\nSi una instanciación A estaba en el CC en un isntante Ta y \nuna instanciación B estaba en el CC en un isntante Tb, \nexiste un instante Tc entre Ta y Tb tal que A y B no estaban en el CC \no no  estaban a la vez.\n",
-  "speaker": "SYSTEM",
-  "uuid": "be5af91c-fa52-413d-b7a0-b21a45d26330"
-}

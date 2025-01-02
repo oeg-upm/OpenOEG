@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 39\nWeb Ontology Language\nOWL semantics\nWe can state that a class is different to other class (They don't \nhave any individual in common) using disjointFrom: humano \ndisjointFrom planta\nWe can state that two classes are the same (They have the \nsame extent of individuals) using equivalentTo: humano \nequivalentTo persona\n",
+  "speaker": "SYSTEM",
+  "uuid": "d47dec60-b6f5-4ebd-af01-6dd9355cd7b5"
+}

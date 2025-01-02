@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 84\n© O. Corcho, R.García-Castro, O. Muñoz-García\n84\nRDF and RDF Schema\nTable of Contents\n1.\nAn introduction to knowledge representation formalisms\n2.\nResource Description Framework (RDF)\n3.\nRDF Schema\n4.\nRDF(S) management APIs\n5.\nRDF(S) query languages: SPARQL\n5.1 RDF(S) query languages  and SPARQL\n5.2 Turtle RDF syntax\n5.3 Graph patterns\n \n5.4 Restricting values and solutions\n \n5.5 SPARQL query forms\n \n5.6 Hands-on activity\n6. \nAn example of an RDF(S)-based application\n",
-  "speaker": "SYSTEM",
-  "uuid": "e716f074-e9ab-4608-84a3-ffd3004be6ad"
-}

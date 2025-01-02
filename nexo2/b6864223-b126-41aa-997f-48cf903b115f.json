@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Espa%C3%B1aVirtual_project.pdf: Página 10\nTag Disambiguation\n• Simple algorithm\n• Exploiting a tag store provided by the University of \nSouthampton, which already has terms associated to \ndbpedia entries\n10\nDisambiguation(User u, Tag t, Resource r)\n  Vcontext= createContextVector(Voc(t),Context(u,t,r))\n  Sense mostSimilarSense = null\n  maxSimilarityValue = 0\n  For each s in Senses(t) do\n     Vsense=createSenseVector(Voc(t),Terms(sense))\n     similarityValue = cosine(Vcontext,Vsense)\n     If similarityValue > maxSimilarityValue then\n        mostSimilarSense = sense\n        maxSimilarityValue = similarityValue\n     end if\n  End for\n  Return mostSimilarSense\n",
-  "speaker": "SYSTEM",
-  "uuid": "b6864223-b126-41aa-997f-48cf903b115f"
-}

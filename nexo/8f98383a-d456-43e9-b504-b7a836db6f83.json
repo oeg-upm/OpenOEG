@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 49\n© O. Corcho\n49\nOntological Engineering\nSome basic DL modelling guidelines\n•\nX must be Y, X is an Y that...\nX Y\n•\nX is exactly Y, X is the Y that...\nX Y\n•\nX is not Y (not the same as X is whatever it is not Y)\nX ¬Y\n•\nX and Y are disjoint \nX Y \n•\nX is Y or Z \nX YZ\n•\nX is Y for which property P has \nonly instances of Z  as values \nX Y (P.Z)\n•\nX is Y for which property P has at \nleast an instance of Z as  a value\nX Y (P.Z)\n•\nX is Y for which property P has at \nmost 2 values\nX Y(2.P)\n•\nIndividual X is a Y \nXY\n",
+  "speaker": "SYSTEM",
+  "uuid": "8f98383a-d456-43e9-b504-b7a836db6f83"
+}

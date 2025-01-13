@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA-2011.pdf: Página 28\nBÚSQUEDA CON RETROCESO\nBASE DE REGLAS:\nR1j: i = 1 →\n(PONER REINA EN FILA 1, COL, j) (i = 2)\nR2j: i = 2 →\n(PONER REINA EN FILA 2, COL, j) (i = 3)\nR3j: i = 3 →\n(PONER REINA EN FILA 3, COL, j) (i = 4)\nR4j: i = 4 →\n(PONER REINA EN FILA 4, COL, j) (i = 5)\nR5: i = 5 →\nfin\n",
+  "speaker": "SYSTEM",
+  "uuid": "8f1c7f3c-c3a9-4d00-94db-98476f76a62f"
+}

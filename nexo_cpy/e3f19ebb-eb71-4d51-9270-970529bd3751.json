@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Intro-RC-II-v1%28asun%29.pdf: Página 9\nIntroducción a la Representación de Conocimientos\nFormalización\nRepresentar\nRazonar\np\nFormalismos\nMotor de \nInferencia\n+\nEstrategia \nde Control\nFormalismos\nRepresentar declarativamente los conceptos de un dominio, sus propiedades,\nrelaciones (de clasificación de agregación etc ) entre conceptos\nFormalismos\nrelaciones (de clasificación, de agregación, etc.) entre conceptos\nasí como los elementos individuales que aparecen en el dominio\nFormalismos\nCada  formalismo  de representación tiene Motores de Inferencia asociados, \nindependientes del dominio de la aplicación, \ncapaces de razonar con cualquier conjunto de conocimientos\nMotor de Inferencia\nL\nt\nt\ni d\nt\nl\nbi\nl i t\nd\nid\né h\nd\nt\ncapaces de razonar con cualquier conjunto de conocimientos \nrepresentados mediante su formalismo propietario\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nLa estrategia de control gobierna el sistema y decide qué hacer en cada momento\n",
+  "speaker": "SYSTEM",
+  "uuid": "e3f19ebb-eb71-4d51-9270-970529bd3751"
+}

@@ -1,0 +1,6 @@
+
+USER: Sunday, January 12, 2025 at 12:44PM  - hola q
+ABIGAIL: Sunday, January 12, 2025 at 12:45PM  - Hola a ti también! Parece que has estado ausente durante un tiempo y solo me has saludado. ¿Qué te trae hoy aquí? ¿Estás buscando información sobre la Ontology Engineering Group Wiki o quizás sobre el SemEval workshop que se llevará a cabo en junio de 2024 en México City, México?
+USER: Sunday, January 12, 2025 at 12:45PM  - ase
+ABIGAIL: Sunday, January 12, 2025 at 12:45PM  - Lo siento, pero parece que hay un problema con la conversación anterior. La última pregunta no es clara y solo se muestra "ase" como texto.
+¿Puedes proporcionar más contexto o detalles sobre lo que te gustaría saber o buscar en la Ontology Engineering Group Wiki? Estoy aquí para ayudarte a encontrar la información que necesitas.

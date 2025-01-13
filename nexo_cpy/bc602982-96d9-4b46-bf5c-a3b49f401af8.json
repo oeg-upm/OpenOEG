@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 17\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nNo son REGLAS \nProblema 2: No pueden aparecer OR en el consecuente de la regla \n \nRi: Si Condición-1 Λ Condición-2 Λ Condición-3 Λ ... \nEntonces acciones-1 V acciones-2 \nSolución:  \n•     Crear dos reglas, una para cada bloque de acciones. \n•     Establecer prioridades entre las reglas \n•      Identificar condiciones adicionales \nRi: Si Condición-1 Λ Condición-2 Λ Condición-3 Λ ... \nEntonces acciones-1 \nRj: Si Condición-1 Λ Condición-2 Λ Condición-3 Λ  condiciones adicionales \nEntonces acciones-2 \nRi más prioritaria que Rj \n",
+  "speaker": "SYSTEM",
+  "uuid": "bc602982-96d9-4b46-bf5c-a3b49f401af8"
+}

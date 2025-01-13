@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: BUSQUEDA.pdf: Página 27\nBÚSQUEDA \n \n27 \nJ. Rubio / P.R. Muro / J. Bañares \n \nOctubre 2004 - Curso 2004-2005 \n0 \nA \n1 \n2 \nB \nC \n10\nV \n \nFigura 7 \nPara terminar esta breve introducción a los vectores en Lisp, hagamos notar que el \nefecto que percibe el programador es que los vectores son transferidos como \nparámetros por referencia. Por ejemplo, si evaluamos: \n \n> (defun modifica-primero (vector elemento) \n \n \n (setf (aref vector 0) elemento))  \n \n===> MODIFICA-PRIMERO \ny a continuación \n \n> (setq v (make-array 3)) \n===> dependiente del entorno \ntendremos una situación como la reflejada en la Figura 8. \n0 \n<vd>\n1 \n2 \nV \n<vd> <vd>  \nFigura 8 \nSi evaluamos a continuación: \n \n> (modifica-primero v 'a) \n===> A \ntendremos un proceso como el recogido en la Figura 9, por lo que el resultado \nobservable para el programador es el siguiente (que puede resumirse diciendo que \nel vector v ha pasado por referencia): \n \n> (aref v 0) \n===> A \n",
+  "speaker": "SYSTEM",
+  "uuid": "adbb5f6a-a9e5-4fc2-b4b6-c27453f39483"
+}

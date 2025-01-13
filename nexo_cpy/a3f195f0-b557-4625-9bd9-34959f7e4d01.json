@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Semantic_Integration_Sensor_Networks_%28short_overview%29.pdf: Página 4\nIntegration Requirements\n• Based on use-cases\n• Integrate stored and streaming data sources\n• Integrate sources through unified view\n• Pose declarative queries over integrated view\nIntegrate\nDecl. \nQuery\nSensor Network\nDatabase Data\nStream Data\nIntegrated \nview\n4\nSemantic Integration Streaming Data Sources\n",
+  "speaker": "SYSTEM",
+  "uuid": "a3f195f0-b557-4625-9bd9-34959f7e4d01"
+}

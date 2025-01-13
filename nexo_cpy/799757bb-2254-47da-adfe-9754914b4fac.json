@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 18\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nNo son REGLAS \nProblema 3: No deben aparecer OR en el antecedente de la regla \n \nRi:  Si Condición-1 V Condición-2 \nEntonces Acciones \n \n \nSoluciones:  \n•     Crear dos reglas, una para cada bloque de condiciones \n•     Establecer prioridades entre las reglas \n•      Intentar averiguar si faltan condiciones en alguna de las reglas \n•      Comprobar que las acciones son realmente las mismas \nRi: Si Condición-1 Entonces acciones \nRj: Si Condición-2 Entonces acciones \n•  Ri más prioritaria que Rj \n• A la regla Rj se le añade la condición-3 \n•....... \n",
+  "speaker": "SYSTEM",
+  "uuid": "799757bb-2254-47da-adfe-9754914b4fac"
+}

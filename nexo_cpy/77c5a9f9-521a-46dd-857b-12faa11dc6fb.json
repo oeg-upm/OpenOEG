@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_OWL.pdf: Página 21\n© O. Corcho, MC Suárez de Figueroa Baonza\n21\nOWL and SWRL\nChunk 4. Formalisation in DL\n⊥\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncat\ndog\ndog\nhasPet\nperson\ndogOwner\ndog\nlikes\nperson\ndogLike\ncat\nhasPet\nperson\ncatOwner\ncat\nlikes\nperson\ncatLike\nanimal\nhasPet\nperson\npetOwner\nhasPet\nperson\nr\nanimalLove\nanimal\ntiger\nanimal\ncat\nanimal\nduck\nanimal\npartOf\neats\nanimal\neats\nanimal\nvegetarian\neats\nanimal\nisPetOf\npet\n.\n;\n.\n.\n;\n.\n.\n)\n3\n(\n;\n;\n)\n.\n(\n.\n.\n.\n.\n",
+  "speaker": "SYSTEM",
+  "uuid": "77c5a9f9-521a-46dd-857b-12faa11dc6fb"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Protege-Pizzas-v5.pdf: Página 13\n© O. Corcho, MC Suárez de Figueroa Baonza\n13\nOWL and SWRL\nFunctional Properties\nIf a property is functional, for a given individual, there can be at\nmost one individual that is related to the individual via the property.\nhasBirthMother is funtional\n",
+  "speaker": "SYSTEM",
+  "uuid": "86363707-79d1-4e12-ba84-e277d58d9d8f"
+}

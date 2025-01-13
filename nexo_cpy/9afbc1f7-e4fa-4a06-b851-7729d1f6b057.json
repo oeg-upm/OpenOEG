@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: EN_%28wiki%29_terminology_in_ontologies_08-10-09%28V3%29.pdf: Página 42\n42\nTransforming NOR into ontologies\nSKOS \n• Simple Knowledge Organization System\n• Simple, flexible, extensible, machine-understandable \nrepresentation for sharing KOS\n• Goal: to enable easy publication of controlled structured \nvocabularies for the semantic web\n– Thesauri\n– Classification schemes\n– Subject heading systems \n– Taxonomies\n– Other „controlled language‟\n• How: by using a common data model for sharing and linking \nknowledge organization systems\n• BUT SKOS is not a formal knowledge representation \nlanguage. \nMany exist and are in \nuse in cultural heritage, \nmedicine, libraries, …\n",
+  "speaker": "SYSTEM",
+  "uuid": "9afbc1f7-e4fa-4a06-b851-7729d1f6b057"
+}

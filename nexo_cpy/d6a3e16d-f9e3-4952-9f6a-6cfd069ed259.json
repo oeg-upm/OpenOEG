@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 15\n© O. Corcho\n15\nOntological Engineering\nRDF(S) query languages\n•\nLanguages developed to allow accessing datasets expressed in RDF(S) (and in some \ncases OWL)\n•\nSupported by the most important language APIs\n–\nJena (HP labs)\n–\nSesame (Aduna)\n–\nBoca (IBM)\n–\nKPOntology (iSOCO)\n–\n...\n•\nThere are some differences wrt languages like SQL, such as\n–\nCombination of different sources\n–\nTrust management\n–\nOpen World Assumption\nRelational\nDB\nApplication\nSQL queries\nRDF(S)\nOWL\nApplication\nRQL, RDQL, etc., queries\n",
+  "speaker": "SYSTEM",
+  "uuid": "d6a3e16d-f9e3-4952-9f6a-6cfd069ed259"
+}

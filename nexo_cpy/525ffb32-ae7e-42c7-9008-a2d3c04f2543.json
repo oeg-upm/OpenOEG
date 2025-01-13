@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion.pdf: Página 66\nPlanificación\nAprendizaje de planes en STRIPS. Ejemplo\nInicio\nlibre(A)\nencima(A,B)\nbrazo-libre\nencima(B, C)\nen-mesa(C)\nQUITAR (A, B)\nsujeto(A)\nlibre(B)\nDEJAR (A)\nbrazo-libre\nen-mesa(A)\nlibre(A)\nA\nC\nB\nEstado inicial\nA\nC\nB\nEstado final\n",
+  "speaker": "SYSTEM",
+  "uuid": "525ffb32-ae7e-42c7-9008-a2d3c04f2543"
+}

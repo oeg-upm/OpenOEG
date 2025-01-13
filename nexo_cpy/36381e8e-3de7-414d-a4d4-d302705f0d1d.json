@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Challenge2011_(2) \n\nIr a LinkedData\nPasos a realizar\n\nComit de la última versión del código del visualizador (pedir a Miguel Ángel).\nDescargar y desplegar el nuevo war para comprobar que funciona.\nEspecificar que es un viaje y como se va a modelar.\nLa especificación del viaje está en:\nhttp://delicias.dia.fi.upm.es/wiki/index.php/ElViajeroLinkedData#T.C3.A9rminos_adicionales\nEl modelado es mediante OPM. Muy parecido a como lo tenemos actualmente. Pero quiero discutirlo a ver qué os parece el versionado\nCrear un conjunto de viajes de ejemplo.\nVer como se pintan los ríos para entender como pintar líneas y aplicarlo a los viajes.\nCalendario\n\n15 Marzo - 30 Marzo: Implementación.\n1 Abril - 15 Abril: Evaluación y mejora.\n15 Abril - 30 Abril: Redacción paper.",
+  "speaker": "SYSTEM",
+  "uuid": "36381e8e-3de7-414d-a4d4-d302705f0d1d"
+}

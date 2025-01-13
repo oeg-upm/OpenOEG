@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 32\n•32\nSample resulting ontology\nSpatialThing\nNumeroHabitantes\nLugarTuristico\nEstablecimiento\nLugarDeInteres\nLugar\nLocalidad\nVilla\nPueblo\nCiudad\nDireccionPostal\nrdfs:Literal\nSituadoEn\nrdfs:Literal\nCalle\nProvincia\nDireccion\nNumero\nLugarTuristico\nPalacio\nIglesia\nErmita\nCatedral\nEstablecimiento\nHotel\nHostal\nAlbergue\nIndex\n• An introduction to knowledge representation\nformalisms\n• Resource Description Framework (RDF)\n• RDF primitives\n• Reasoning with RDF\n• RDF Schema\n• RDF Schema primitives\n• Reasoning with RDFS\n• RDF(S) Management APIs\n( )\ng\n65\n",
+  "speaker": "SYSTEM",
+  "uuid": "f38b08c6-a373-44cd-a6c6-9a42b22257a2"
+}

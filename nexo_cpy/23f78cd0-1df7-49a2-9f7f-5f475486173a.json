@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Presentacion_reunion_de_grupo_02mar2017.pdf: Página 20\nMetadata \nClassification \nEquivalent ‘property’ or ‘type’ in schema.org \nMetadata about the content \nAdvantage \nproperty \n- \nlimitation \nproperty \n- \napplication \nproperty \n- \npurpose \nproperty \n- \nProtocol instruction \nproperty \n- \noutcome \nproperty \nwe could reuse the extension term outcome  \n(https://health-lifesci.schema.org/outcome) \nprovenance \nproperty \nisBasedOn (https://schema.org/isBasedOn) \ntroubleshooting \nproperty \n- \nMetadata about alert message \ncaution \nproperty \n- \nCritical step \nproperty \n- \nhint \nproperty \n- \nPause point \nproperty \n- \nStorage conditions \nproperty \nstorageRequirements  \n(https://schema.org/storageRequirements) \nTiming \nproperty \ntotalTime (https://schema.org/totalTime) \nDuration (https://schema.org/Duration) \n",
+  "speaker": "SYSTEM",
+  "uuid": "23f78cd0-1df7-49a2-9f7f-5f475486173a"
+}

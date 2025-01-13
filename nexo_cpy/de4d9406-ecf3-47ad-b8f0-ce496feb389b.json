@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 29\nDisjoint Classes (II)\n•\nMaking the classes Pizza, PizzaTopping and PizzaBase disjoint from\none another.\n•\nThis means that it is not possible for an individual to be a member of a combination of\nthese classes – it would not make sense for an individual to be a Pizza and a PizzaBase\nthese classes – it would not make sense for an individual to be a Pizza and a PizzaBase.\n© O. Corcho, MC Suárez de Figueroa Baonza\n57\nOWL and SWRL\nAdd Disjoint Classes\nNamed Classes (III)\nCreating subclasses in the pizza example: ThinAndCrispyBase and\nDeepPanBase.\n2\n1\n3\n© O. Corcho, MC Suárez de Figueroa Baonza\n58\nOWL and SWRL\nSubclasses of PizzaBase\n4\n",
+  "speaker": "SYSTEM",
+  "uuid": "de4d9406-ecf3-47ad-b8f0-ce496feb389b"
+}

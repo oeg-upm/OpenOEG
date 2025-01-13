@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 30\nClass Hierarchy (I)\n© O. Corcho, MC Suárez de Figueroa Baonza\n59\nOWL and SWRL\nClass Hierarchy (II)\nThe Meaning of Subclass: all individuals that are members of the\nclass TomatoTopping are members of the class VegetableTopping\nand members of the class PizzaTopping as we have stated that\nand members of the class PizzaTopping as we have stated that\nTomatoTopping is a subclass of VegetableTopping which is a\nsubclass of PizzaTopping.\nIn OWL subclass means necessary implication. In other words, if VegetableTopping is a\nsubclass of PizzaTopping then ALL instances of VegetableTopping are instances of\nPizzaTopping, without exception — if something is a VegetableTopping then this implies\nthat it is also a PizzaTopping.\n© O. Corcho, MC Suárez de Figueroa Baonza\n60\nOWL and SWRL\n",
+  "speaker": "SYSTEM",
+  "uuid": "cb96551d-e4a6-43af-9e49-8d83ed31df7c"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Muppets_2-_Language_Models.pptx: Diapositiva {23}\nBERT is trained with pair of sentences and predict if the second is the subsequent\n50% are subsequent pairs and 50% are random \nUses special tokens for the classification. CLS at the beginning, and SEP at the end of each sentence \nCLS token is used to predict IsNext/NotNext\n",
+  "speaker": "SYSTEM",
+  "uuid": "d77670e9-0ba1-445c-9bc9-b8d97e620d8f"
+}

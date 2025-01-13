@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SummaryInternship2014-OEG.pdf: Página 11\nWorkflow for fragment detection \nThe data has to be prepared, \nand the results filtered. \n \n1. A data preparation step filters \nduplicate workflows and \nremove single step workflows \n \n2. The graph mining algorithm \ncalculates fragment candidates \n \n3. Fragment candidates are \nfiltered to simplify the final \nresults. \n \n4. Results are linked back to \nworkflows and visualized. \n11 \n",
+  "speaker": "SYSTEM",
+  "uuid": "db2935d3-d76b-4e11-9862-fbd88cc18589"
+}

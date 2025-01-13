@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 06_NonStandardOWLReasoning_ModularisationAndDebugging.pdf: Página 20\nSafety\n• Goal: Don’t change the meaning of imported terms.\n• That is, don’t add new knowledge about the imported topic.\n• e.g., because you are not an expert in this topic\n• Question: Which axioms are we allowed to write?\n20\n",
+  "speaker": "SYSTEM",
+  "uuid": "28d94f7a-b6da-4a3d-90c6-7b616f3847de"
+}

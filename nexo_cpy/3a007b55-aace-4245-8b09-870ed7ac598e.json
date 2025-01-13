@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Sensores.pdf: Página 12\nOntologías (1)\n• Ontosensor\n• Basado en sensorML y ISO 19115\n• Referencia a SUMO\n• Incluye: sensores, medidas, fenómenos, estímulos, CRS y \nrestricciones legales y de seguridad\n• Principal concepto: componente\n• Descripción más composicional que procedimental\n• Semantic Sensor Network Ontology\n• Se basa en OWL-S, SensorML, O&M y la ontología CMAR.\n• Se pueden encontrar referencias a Ontosensor\n• Transformación de SensorML a ontología más directa que \nOntosensor\n• Deja abiertas secciones (Ej: unidades de medida) para su \nampliación con otras ontologías\n",
+  "speaker": "SYSTEM",
+  "uuid": "3a007b55-aace-4245-8b09-870ed7ac598e"
+}

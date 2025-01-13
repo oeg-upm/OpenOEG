@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RDF%28S%29.pdf: Página 34\nJena API Structure\n© O. Corcho, R.García-Castro, O. Muñoz-García\n67\nRDF and RDF Schema\nhttp://.../JohnSmith\nvcard: FN\nData Model\n// some definitions \nstatic String personURI = \"http://somewhere/JohnSmith\";\nstatic String fullName = \"John Smith\"; \n// create an empty Model\nJohn Smith\nvcard: FN\n© O. Corcho, R.García-Castro, O. Muñoz-García\n68\nRDF and RDF Schema\n//\np y\nModel model = ModelFactory.createDefaultModel(); \n// create the resource\nResource johnSmith = model.createResource(personURI);\n// add the property\njohnSmith.addProperty(VCARD.FN, fullName); \n",
+  "speaker": "SYSTEM",
+  "uuid": "d532e1bf-035f-49d8-be5b-a9f762c08e55"
+}

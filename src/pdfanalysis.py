@@ -1,5 +1,5 @@
 import os
-import fitz 
+import pymupdf 
 from pineconeupload import PineconeUploader
 import json
 
@@ -54,7 +54,7 @@ class PDFProcessor:
             
             
             #res = ""
-            document = fitz.open(fichero)
+            document = pymupdf.open(fichero)
             metadata = os.path.basename(fichero) + " metadatos " + self.get_metadata(document)
             text_content = self.extract_text(document, os.path.basename(fichero))
             
@@ -84,8 +84,8 @@ class PDFProcessor:
 
 
 """  # Ejemplo de uso
-file_path = "C:/Users/Jaime Vázquez/Documents/Python/tfg/ptts2/"  # Cambiar esta ruta
+file_path = "C:/Users/Jaime Vázquez/Documents/Python/tfg/documentosnexo/"  # Cambiar esta ruta
 pdf_processor = PDFProcessor(file_path)
-#rint(pdf_processor.get_metadata("C:/Users/Jaime Vázquez/Documents/Python/tfg/ptts2/AMPER08_-_Introduction_to_SPARQL.pdf"))
+#print(pdf_processor.get_metadata(file_path+"AMPER08_-_Introduction_to_SPARQL.pdf"))
 pdf_processor.analyze_and_upload() 
  """

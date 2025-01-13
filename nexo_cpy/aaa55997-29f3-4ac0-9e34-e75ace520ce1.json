@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: NLP.Dissociating_language_and_thought_in_large_language_models.pdf: Página 27\n4. The failure of LLMs in acquiring functional \nlinguistic competence\n(i) Formal reasoning (2/2) \nZona distinta a red lingüística, llamada Multiple Demand Network, que hace \nmatemáticas, lógica…\n• Evidencia de que gente con daño ahí lo hace peor en tareas lógicas.\n• Cuando la tarea se presenta de una forma lingüística, es análogo a \npresentar prompts a LLM.\n• Mal en general; por ejemplo, pueden 2 dígitos, pero más o tareas \ncomplejas no son capaces.\n* Idea: “mental sketchpad”, con entrenamiento de pasos intermedios, \ntambién mal (entrenan con 1-8, con 10 dígitos mal).\nH\nLLM\n",
+  "speaker": "SYSTEM",
+  "uuid": "aaa55997-29f3-4ac0-9e34-e75ace520ce1"
+}

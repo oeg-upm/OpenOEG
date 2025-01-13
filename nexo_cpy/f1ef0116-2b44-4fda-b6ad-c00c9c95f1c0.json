@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GC-Intro-RC-II-v1%28asun%29.pdf: Página 7\nIntroducción a la Representación de Conocimientos\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nHipótesis Simbolista\nPercibir\nActuar\nMundo\nExterno\nEXPECTATIVAS\nRazonar\nModelo\nInterno\nBase de Conocimientos: Contienen conocimientos del dominio: \n• conceptos\n• taxonomías\n• relaciones “a medida” entre conceptos\n• propiedades de conceptos\n• hechos\n• heurísticas \n• Restricciones\n• .....\nMotor de Inferencias:\n•Permite que el sistema razone. \n•Apartir de los datos y conocimientos de entrada el sistema pueda producir una salida. \nEl módulo de la BC del sistema está separado del módulo de razonamiento\n",
+  "speaker": "SYSTEM",
+  "uuid": "f1ef0116-2b44-4fda-b6ad-c00c9c95f1c0"
+}

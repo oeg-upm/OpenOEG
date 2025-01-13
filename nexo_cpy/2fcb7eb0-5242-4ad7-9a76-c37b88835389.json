@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 28\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nFormalización en lógica de predicados de primer orden                                                                        \nMariano Fernández López\nDeducción (VII)\nSe hace un encadenamiento hacia atrás\nP S\nS\n----------\nP\nModus tolens\nP S\nS\n----------\nP\nEquivale a\nEjemplo:\nBase de conocimientos: Q T, T S, S P, P\nConsulta: Q?\nPaso 1. \nQ T\nQ\n----------\nT\n",
+  "speaker": "SYSTEM",
+  "uuid": "2fcb7eb0-5242-4ad7-9a76-c37b88835389"
+}

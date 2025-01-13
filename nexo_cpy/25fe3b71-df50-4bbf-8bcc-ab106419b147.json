@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 5.metodologia-v2%28asun%29.pdf: Página 48\n© A. Gómez Pérez, M.C. Suarez de Figueroa, B. Villazón,  E.Montiel, G. Aguado, M. Espinoza \n51 \nOntological Engineering \nTypes of Ontology Design Patterns \nContent OPs (CPs) encode conceptual, rather than \nlogical design patterns. \nLogical OPs solve design problems independently of a \nparticular conceptualization. \nCPs propose patterns for solving design problems for \nthe domain classes and properties that populate an \nontology. They address content problems. \nArchitectural OPs affect the overall shape of the \nontology: their aim is to constrain ʻhow the ontology \nshould look likeʼ. \nA Logical OP is a formal expression, whose only \nparts are expressions from a logical vocabulary \ne.g., OWL DL, that solves a problem of \nexpressivity. \nLogical OPs are independent from a specific \ndomain of interest i.e. they are content-\nindependent \n",
+  "speaker": "SYSTEM",
+  "uuid": "25fe3b71-df50-4bbf-8bcc-ab106419b147"
+}

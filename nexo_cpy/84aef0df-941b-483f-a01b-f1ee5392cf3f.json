@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Pachube2RDF \n\nSlides:\nhttp://dl.dropbox.com/u/531378/pachube2rdf/Pachube2RDF.ppt\nHLAPI stream database mode (MySQL + MysqlProxy + 4Store)\ndatabase schema for pachube sensor result :\nhttp://dl.dropbox.com/u/531378/pachube2rdf/er.jpg\nD2R mappings between pachube sensor schema to SSN ontology :\nhttp://dl.dropbox.com/u/531378/pachube2rdf/pachube2rdf.n3\nURL :\nhttp://denebola.dia.fi.upm.es:2020/\nSPARQL\n\nSPARQL Endpoint :\nhttp://denebola.dia.fi.upm.es:2020/snorql/\nGet all sensors measuring temperature\n\nSELECT DISTINCT * WHERE {\n  ?s a <http://purl.oclc.org/NET/ssnx/ssn#Sensor>.\n  ?s <http://purl.oclc.org/NET/ssnx/ssn#observes> ?property.\n   ?property <http://xmlns.com/foaf/spec/homepage> <http://dbpedia.org/resource/Temperature>.\n}",
+  "speaker": "SYSTEM",
+  "uuid": "84aef0df-941b-483f-a01b-f1ee5392cf3f"
+}

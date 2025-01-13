@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologias-Multilingualidad.pdf: Página 37\n©\n37\nModelización\nC. Asociar un modelo de información\nlingüística con metamodelo de ontologías\n• La localización se hace al nivel terminológico y conceptual\n• Los elementos de la ontología se enlazan con los datos\nmultilingües almacenados fuera de la ontología\n• La información lingüística puede estar en una BD \n(GENOMA-KB, OncoTerm), o en una ontología, etc. \n• La capa de conceptualización de la ontología puede\nmodificarse para satisfacer las necesidades de localización, \n(creación de módulos específicos de la lengua, etc.)\n",
+  "speaker": "SYSTEM",
+  "uuid": "1047e1a9-5ba6-467c-8967-8ec836218821"
+}

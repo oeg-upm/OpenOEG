@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion-2013.pdf: Página 13\nPlanificación \n \n \n \n \n  \n RESOLUCIÓN \n \n• \nAhora dos operadores son aplicables, si u=b, el mono \npuede o bien SALTAR A LA CAJA o bien \nEMPUJARLA, si SALTA A LA CAJA el estado seria \n(b,1,b,0); si u≠b EMPUJANDO LA CAJA A v, daria \n(v,0,v,0) y desplazándose a algún lugar descrito por \nuna nueva variable no cambia la descripción;  \n",
+  "speaker": "SYSTEM",
+  "uuid": "91d96982-cbd1-4c7f-af61-e0b89b73476a"
+}

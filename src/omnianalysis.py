@@ -22,7 +22,7 @@ wiki_urls = [
 
 paginas_path = "C:/Users/Jaime Vázquez/Documents/Python/tfg/textos/paginas.txt"
 presentaciones_link_path = "C:/Users/Jaime Vázquez/Documents/Python/tfg/textos/enlaces_presentaciones.txt"
-documents_path = "C:/Users/Jaime Vázquez/Documents/Python/tfg/documentosnexo/"
+documents_path = "C:/Users/Jaime Vázquez/Documents/Python/tfg/documentosnexo_cpy/" #TODO cambiar esto al hacer la segunda prueba
 
 
 

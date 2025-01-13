@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontology-Methodology.pdf: Página 61\n61\nData Models for Classification Schema\n•\nPath Enumeration Data Model is a \nrecursive structure for hierarchy \nrepresentations defined as a model \nwhich stores for each node the path \n(as a string) from the root to the \nnode. This string is the \nconcatenation of the nodes code in \nthe path from the root to the node.\n•\nAdjacency  List is a recursive \nstructure for hierarchy \nrepresentations comprising a list of \nnodes with a linking column to their \nparent nodes\n",
+  "speaker": "SYSTEM",
+  "uuid": "58e0b4e6-3dbe-4ee7-a199-0e4a7a8923dd"
+}

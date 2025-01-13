@@ -1,9 +1,22 @@
 from pinecone import Pinecone, ServerlessSpec
 from openai import OpenAI
+import ollama
 from uuid import uuid4
 import json
 
 '''Sube los ficheros a pinecone y guarda el json para referenciarlos más tarde'''
+
+##########
+
+###
+### REVISAR SI ES EL METODO ANTIGUO O NUEVO
+###
+
+###
+new = True
+###
+
+##########
 
 
 def open_file(filepath):
@@ -17,32 +30,59 @@ def save_json(filepath, payload):
 class PineconeUploader:
     def __init__(self):
         
-        self.index_name = "oegdb-old"
-        self.client = OpenAI(
-        base_url="http://localhost:1234/v1",
-        api_key="lm-studio"
-        )
         
-        self.model = "nomic-embed-text-v1.5" #revisar eso y el nº de tokens
+        if new:
+            self.index_name = "oegdb-testing"
         
-        self.nexo_path = "C:/Users/Jaime Vázquez/Documents/Python/tfg/nexo/"
+            self.nexo_path = "C:/Users/Jaime Vázquez/Documents/Python/tfg/nexo_cpy/"
+            
+            self.pc = Pinecone(api_key=open_file('C:/Users/Jaime Vázquez/Documents/Python/key_pinecone.txt'))
+            
+            
+            self.index = self._setup_pinecone_index()
+        else:
         
-        self.pc = Pinecone(api_key=open_file('C:/Users/Jaime Vázquez/Documents/Python/key_pinecone.txt'))
-        
-        
-        self.index = self._setup_pinecone_index()
-        
+            self.index_name = "oegdb-testting2"
+            self.client = OpenAI(
+            base_url="http://localhost:1234/v1",
+            api_key="lm-studio"
+            )
+            
+            self.model = "nomic-embed-text-v1.5" #revisar eso y el nº de tokens
+            
+            self.nexo_path = "C:/Users/Jaime Vázquez/Documents/Python/tfg/nexo_cpy/"
+            
+            self.pc = Pinecone(api_key=open_file('C:/Users/Jaime Vázquez/Documents/Python/key_pinecone.txt'))
+            
+            
+            self.index = self._setup_pinecone_index()
         
     
+    
     def get_embedding(self, text, rol):
-        text = text.replace("\n", " ")
-        
-        if rol == "USER":
-            return self.client.embeddings.create(input=["search_query: "+text], model = self.model).data[0].embedding 
-        elif rol == "SYSTEM":
-            return self.client.embeddings.create(input=["search_document: "+text], model = self.model).data[0].embedding 
-        else: #ASSISTANT
-            return self.client.embeddings.create(input=[text], model = self.model).data[0].embedding 
+           if new:
+            text = text.replace("\n", " ")
+            
+            if rol == "USER":
+                text= "search_query: "+text
+                
+            elif rol == "SYSTEM":
+                text = "search_document: "+text
+                
+            else: #ASSISTANT
+                text = text
+            return ollama.embeddings(model="jina/jina-embeddings-v2-base-es", prompt=text)["embedding"]
+    
+    
+           else:
+            text = text.replace("\n", " ")
+            
+            if rol == "USER":
+                return self.client.embeddings.create(input=["search_query: "+text], model = self.model).data[0].embedding 
+            elif rol == "SYSTEM":
+                return self.client.embeddings.create(input=["search_document: "+text], model = self.model).data[0].embedding 
+            else: #ASSISTANT
+                return self.client.embeddings.create(input=[text], model = self.model).data[0].embedding 
     
     def _setup_pinecone_index(self):
         """Crea el índice en Pinecone si no existe, y lo devuelve."""

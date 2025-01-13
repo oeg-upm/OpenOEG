@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 20200423_EOSC.pdf: Página 15\nOpen Science Update\nAnd which are our (good) practices?\nStill missing many, but...\no When a research or experiment starts, a new GitHub\nrepository is created\no The repository is connected to Zenodo, so as to get DOIs \nand ensure archival\n• Automated archival process after every release\n• DOIs also added to the GitHub repository\no Our papers cite those DOIs\n• Bit.ly, dropbox, GDrive links, etc., are strictly prohibited in \nour papers\no We tweet about them: \nhttps://twitter.com/ocorcho/status/1106989518941548544\no Zenodo community\n• https://zenodo.org/communities/ontologyengineeringgrou\np/\n",
+  "speaker": "SYSTEM",
+  "uuid": "02e98d68-f131-4284-8b1b-9f61d8e4b7ab"
+}

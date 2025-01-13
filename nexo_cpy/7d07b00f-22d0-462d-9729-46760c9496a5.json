@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Marcos.pdf: Página 34\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nFacetas de propiedades de clase y relación\nPropiedad General:\na) Si tipo ranura es un tipo de datos, se rellena con valores\nb) Si tipo ranura es un marco, con punteros a marcos\nc) Las propiedades de instancia rellenan esta faceta con el símbolo ------\n",
+  "speaker": "SYSTEM",
+  "uuid": "7d07b00f-22d0-462d-9729-46760c9496a5"
+}

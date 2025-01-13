@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 55\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nInteresting results (I). Automatic classification\nAnd old lady is a person who is elderly and female. \nOld ladies must have some animal as pets and all their pets are cats.  \ncat\nhasPet\nanimal\nhasPet\noldLady\nelderly\nfemale\nperson\noldLady\ncat\nhasPet\nperson\ncatOwner\nadult\nfemale\nperson\nwoman\nadult\nperson\nelderly\n.\n.\n.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWe obtain: \nOld ladies must be women.\nEvery old lady must have a pet cat\nHence, every old lady must be a cat owner\ncatOwner\nelderly\nwoman\noldLady\n\n\n\n",
+  "speaker": "SYSTEM",
+  "uuid": "7aa1db65-9ab9-4cb3-97ab-0e63d76f050b"
+}

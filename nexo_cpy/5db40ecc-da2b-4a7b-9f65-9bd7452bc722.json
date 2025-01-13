@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: KGEOntologies_2021.pdf: Página 6\nAn Ontology-Based Deep Learning Approach for Triple Classification with Out-of-Knowledge-Base Entities\nKnowledge Graph Completion\n6\nTriple classification:\no Is this fact feasible or not?\nTriple prediction:\no What is the relation that best joins these two entities? \no What is the missing part of this fact?\nKGE \nModel\nYes\n(Marie Curie, gender, female) ?\n(Marie Curie, nationality, ?)\nKGE \nModel\n1.\nFrench\n2.\nGerman\n3.\nBelgian\n…\nClassification\nPrediction\n",
+  "speaker": "SYSTEM",
+  "uuid": "5db40ecc-da2b-4a7b-9f65-9bd7452bc722"
+}

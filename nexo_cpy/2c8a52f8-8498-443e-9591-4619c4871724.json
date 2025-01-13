@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_10_-_Annotation.pdf: Página 27\nProblems \n•\nIdiosyncratic folksonomic classification, although considered \nbeneficial by some, is viewed by others as a distinct limitation. \n•\nLack of terminological precision produces inconsistent and \nunreliable results: \n– synonymy: polución, contaminación, - solicitud, aplicación \n– homonymy: comando (una orden en programa) comando (de guerra)\n•\nLack of stemming (meta-noise) \n•\nHeterogeneity of users and contexts.\n•\nLack of a hierarchical structure for the tagging system makes the \nterms relevant to what people are describing, BUT fails to show their \nrelevancy or relationship to other objects of the same type. \n•\nSO metadata tags need to be defined in a formal way at the time of \nscripting or programming. \ninaccurate or \nirrelevant tags \n",
+  "speaker": "SYSTEM",
+  "uuid": "2c8a52f8-8498-443e-9591-4619c4871724"
+}

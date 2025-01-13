@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Vadim.pdf: Página 27\nNovember 12, 2015\n27\nGravitation and Fitness in Ontology Dynamics\nFor Each Incremental Slice\n•\n \nBag of terms extracted * and sorted by normalized term \nscores\n \n(ns)\n•\n \nTermhood\n \ncreated by retaining \n–\n \nValid terms –\n \nmanual filter\n–\n \nImportant terms –\n \nns > ε\n \n(such that the sum of ns\n \nabove \nis a little higher than 50%)\n•\n \nTermhood\n \ndifference values computed using the THD\n \nalgorithm **:\n–\n \nAbsolute:\n–\n \nRelative: \n*   Using TerMine service by the UK National Centre for Text Mining (NaCTeM, http://www.nactem.ac.uk/). \n** Tatarintseva, O. et al. (2013) Quantifying Ontology Fitness in OntoElect Using Saturation- and Vote-Based \nMetrics. In: Ermolayev et al. (eds.) ICT in Education, Research, and Industrial Applications. Revised Selected \nPapers of ICTERI 2013, CCIS 412, pp. 136–162\n︶\n,\n︵\ni\ni\nT\nT\nthd\n1\n\n\n\n\niT\ni\nj\ni\ni\nns\nT\nT\nthd\nthdr\n/)\n,\n(\n1\nSoftware developed by \nOlga Tatarintseva\n \nas \npart of her PhD project\n",
+  "speaker": "SYSTEM",
+  "uuid": "278429bb-9b02-4040-b9d9-87749a93e3bf"
+}

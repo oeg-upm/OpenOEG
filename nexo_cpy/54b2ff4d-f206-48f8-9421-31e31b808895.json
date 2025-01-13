@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: DevTools.pdf: Página 10\nAdministrar «DevTools» : bootstrap\nDescarga posible vía WEB\nAuto-extraíble\n\nCompuesto de un JDK – MAVEN – CLIENTE SVN\n\nCarpeta d:/tools y convención de nombre «maven-like»\nEjecución de un batch shell en 3 etapas(después de la descompresión)\n\nEtapa 1 : recuperación de SVN config installation\n\nEtapa 2 : ejecución del plugin DevTools\n\nEtapa 3 : check-out de los proyectos de desarrollo\n",
+  "speaker": "SYSTEM",
+  "uuid": "54b2ff4d-f206-48f8-9421-31e31b808895"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontology-Methodology.pdf: Página 34\n34\nOntology Requirements Specification. Task 7\n Input: the groups of CQs written in natural \nlanguage (obtained in task 5)\n Objective: to give different levels of priority to \nthe different groups of CQs, and within each group to \nthe identified requirements (in the form of CQs) \n Output: a set of priorities attached to each group \nof CQs and to each CQ in a group\nWithin the SEEMP Reference Ontology specification we did \nnot carry out this step. This means the first version of the \nontology must be able to represent the knowledge contained \nin all the competency questions.\n",
+  "speaker": "SYSTEM",
+  "uuid": "19eb7583-d2c0-4e2e-8e3f-ca5d80ef4beb"
+}

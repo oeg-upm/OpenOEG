@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 37\n© O. Corcho\n37\nOntological Engineering\nOWL as a Description Logic language. Class constructors\n•\nXML Schema datatypes are treated as classes\n–\nhasAge.nonNegativeInteger\n•\nNesting of constructors can be arbitrarily complex\n–\nPerson hasChild.(Doctor hasChild.Doctor)\n•\nLots of redundancy, e.g., use negations to transform and to or and \nexists to forall\n",
+  "speaker": "SYSTEM",
+  "uuid": "74f1d53c-043d-4823-a7b7-cd35c2e44873"
+}

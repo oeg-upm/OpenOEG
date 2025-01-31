@@ -1,5 +1,6 @@
-/documentosnexo/
-/documentosnexo_cpy/
-/nexo/
-/nexo_cpy/
-/textos/logs/*.txt
+documentosnexo/
+documentosnexo_cpy/
+nexo/
+nexo_cpy/
+textos/logs/*.txt
+src/__pycache__/

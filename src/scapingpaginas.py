@@ -12,6 +12,9 @@ from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.firefox.options import Options
 import time
 
+
+#Saca todas las páginas de una wiki utilizando la página especial de AllPages
+
 class WikiAllPageScraper:
     def __init__(self, username, password, geckodriver_path, output_file="./tfg/textos/paginas.txt"):
         # Configuración de opciones de Firefox

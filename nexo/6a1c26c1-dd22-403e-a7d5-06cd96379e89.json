@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SparqlDQPGrupo.pdf: Página 16\nSparql Parser\n• Based on Sparql-g Grammar (which is based on the \nWWW Sparql recommendation)\n• Use of Antlr to create an AST from the grammar\n",
-  "speaker": "SYSTEM",
-  "uuid": "6a1c26c1-dd22-403e-a7d5-06cd96379e89"
-}

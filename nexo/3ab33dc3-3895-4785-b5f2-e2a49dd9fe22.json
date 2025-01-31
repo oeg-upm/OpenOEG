@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 15\n•  ATTENTION: FILTERs can NOT assign/create new \nvalues… \nPREFIX ex: <http://example.org/>  \nSELECT ?Item ?NewP  \nWHERE { ?Item ex:price ?Pr FILTER (?NewP = ?Pr + 10 ) } \n \n•  Obviously, common query languages like SQL can do \nthis… \nSELECT Item, Price+10 AS NewPrice  FROM Table \n \n… FILTER in SPARQL is like WHERE in SQL, but \nSPARQL1.0 doesn’t have AS \n \n17 \nOntological Engineering Group \nFILTERING out query results \nNon-safe variable in  \nFILTERs are considered \nunbound. The Filter will  \njust always result in E \nè Result always empty  \n",
-  "speaker": "SYSTEM",
-  "uuid": "3ab33dc3-3895-4785-b5f2-e2a49dd9fe22"
-}

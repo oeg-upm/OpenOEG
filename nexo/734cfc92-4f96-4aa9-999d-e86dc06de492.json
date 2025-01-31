@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISSGC08.pdf: Página 15\n©<Miembro Grupo>\n16\nJob submission\n• High heterogeneity of computational resources:\n– Different types of machines, OS, requirements for submission, \nmemory, cores, duration of the tasks, etc.\n• Abstraction is needed for submitting jobs\n– JSDL: Job Submission Description Language\n– OGF standard\n– Every system has its own submission language\n• JSDL\n– XML based\n– Defines the job requirements (type of processor, OS, memory, etc.) and \nparameters (inputs, outputs, etc.)\n– It is not possible to submit jobs directly to resources\n",
-  "speaker": "SYSTEM",
-  "uuid": "734cfc92-4f96-4aa9-999d-e86dc06de492"
-}

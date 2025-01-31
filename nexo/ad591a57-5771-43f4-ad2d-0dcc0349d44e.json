@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentacion_OEG26-02-2014.pdf: Página 3\nWhat are Scientific Workflows?\n3\n•“Template defining the set of tasks needed to \ncarry out a computational experiment” [1]\n•Inputs\n•Steps\n•Intermediate results\n•Outputs\n•Data driven, usually represented as Directed \nAcyclic Graphs (DAGs)\n[1] Ewa Deelman, Dennis Gannon, Matthew Shields, Ian Taylor, Workflows and e-science: an overview of workflow \nsystem features and capabilities, Future Generation Computer Systems 25 (5) (2009) 528–540.\n",
-  "speaker": "SYSTEM",
-  "uuid": "ad591a57-5771-43f4-ad2d-0dcc0349d44e"
-}

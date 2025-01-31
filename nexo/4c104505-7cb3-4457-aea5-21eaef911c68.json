@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 02_RDF%28S%29.pdf: Página 4\n4 \n© Raúl García Castro et al. \nRDF graphs \n•  RDF graphs are sets of triples \n7 \nis member of \nRaúl \nOntology Engineering Group \nRaúl García Castro \nhas full name \n26 December 1975 \nhas birth date \nhas web page \nhttp://www.oeg-upm.net/ \n© Raúl García Castro et al. \nRDF literals \n•  Triple objects can be literals (character strings) \n-  Subject and predicates are always resources \n•  Literals can be typed \n-  Usually using XML Schema datatypes \n-  RDF provides the rdf:XMLLiteral datatype \n8 \nis member of \nRaúl \nOntology Engineering Group \n“Raúl García Castro” \nhas full name \n“1975-12-26”^^xsd:date \nhas birth date \nhas web page \nhttp://www.oeg-upm.net/ \n",
-  "speaker": "SYSTEM",
-  "uuid": "4c104505-7cb3-4457-aea5-21eaef911c68"
-}

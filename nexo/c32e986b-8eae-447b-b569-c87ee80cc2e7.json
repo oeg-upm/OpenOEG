@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ODPs-v7.pdf: Página 7\n7 \n•\nODPs can be classified into six families \nEach family addresses different kinds of problems, and can be represented with \ndifferent levels of formality. \nTypes of Ontology Design Patterns (I) \nhttp://ontologydesignpatterns.org/wiki/OPTypes \nContent OPs (CPs) encode conceptual, \nrather than logical design patterns. \nCPs propose patterns for solving design \nproblems \nfor \nthe \ndomain \nclasses \nand \nproperties that populate an ontology. They \naddress content problems. \n(E.g. Agent-Role) \nLogical ODPs are formal expressions, whose \nonly parts are expressions from a logical \nvocabulary e.g., OWL DL, that solve a problem \nof expressivity \nLogical ODPs are independent from a specific \ndomain of interest, i.e. they are content-\nindependent \nLogical ODPs solve design problems where the \nprimitives of the representation language do not \ndirectly support certain logical constructs \n(E.g., N-Ary Relation) \n",
-  "speaker": "SYSTEM",
-  "uuid": "c32e986b-8eae-447b-b569-c87ee80cc2e7"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 02_RDF%28S%29.pdf: Página 24\n24 \n© Raúl García Castro et al. \nLocal_event \nEvent \nPersonal_event \nResearcher \nProfessor \nthing \nPerson \nrdfs:subClassOf \nrdfs:subClassOf \nrdfs:subClassOf \nrdfs:subClassOf \nrdfs:subClassOf \nrdfs:subClassOf \ninvolves \nxsd:date \neventDate \nExercise 2.a. StickyNote.rdfs \n47 \n© Raúl García Castro et al. \nExercise 2.b. Create files from a graph \n•  Transform the following graph into the RDF/XML \nand N3 syntaxes \n48 \nSensor029 \nClass01 \n2010-06-12T12:00:12 \n29 \nComputer101 \nUser10A \nPedro \nObject \nRoom \nPerson \nMeasurement \nincludes \nincludes \nhasOwner \nhasName \nhasMeasurement \nhasTemperature \natTime \nrdf:type \nrdf:type \nrdf:type \nrdf:type \n",
-  "speaker": "SYSTEM",
-  "uuid": "4709cc4c-aa44-4437-b213-390390b060b9"
-}

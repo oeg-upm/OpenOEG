@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 08_LDFromDB.pdf: Página 38\nPublication - Virtuoso Open-source edition \n• \nhttp://sourceforge.net/projects/virtuoso/files/virtuoso/6.1.4/virtuoso-opensource-\nwin32-20111101.zip/download \n• \nUnzip to C:\\software \n• \nODBC Registration:  \n• \nSet up VIRTUOSO_HOME variable pointing out to virtuoso-opensource directory: \n• \ncd %VIRTUOSO_HOME%\\lib  \n• \nregsvr32 virtodbc.dll \n• \nCreating a Windows Service \n• \ncd %VIRTUOSO_HOME%\\database  \n• \nSET PATH=%PATH%;%VIRTUOSO_HOME%\\bin;%VIRTUOSO_HOME%\\lib  \n• \nvirtuoso-t -? //to verify  \n• \nvirtuoso-t +service screate +instance \"Instance Name\" +configfile virtuoso.ini  \n• \nvirtuoso-t +service list //to verify  \n• \nvirtuoso-t -I \"Instance Name\" +service start //start the service \n38 \n",
-  "speaker": "SYSTEM",
-  "uuid": "eb7e6a6a-e532-44fa-b2d0-fccd70fc0f06"
-}

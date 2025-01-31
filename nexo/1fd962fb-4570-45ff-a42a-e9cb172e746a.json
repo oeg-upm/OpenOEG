@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: TIC-vigilance-en-v0%28maria%29.pdf: Página 4\nConceptual model\n4\nskos:Concept\ngr:ProductOrService\ngr:hasManufacturer / esFabricanteDe\ntieneMayorista / esMayoristaDe\ntieneConsultor / esConsultorDe\norg:Organization\ngr:Name :: string\ngr:legalName :: String\ngr:description :: String\nmads:phone\nskos:prefLabel :: String\nskos:ConceptSchema\nskos:hasTopConcept\nLeyenda\nClase\natributo :: datatype\nrelación ad-hoc\nrelación \"subclass of\"\nskos:topConceptOf\nskos:inSchema\nskos:semanticRelation\nskos:broaderTransitive\nskos:broader\nskos:broadMatch\nskos:narrowerTransitive\nskos:narrower\nskos:narrowerMatch\nskos:related\nskos:relatedMatch\nskos:mappingRelation\nbroadMatch\ncloseMatch\nexactMatch\nnarrowMatch\nrelatedMatch\nowl:Thing\nfoaf:mbox\nfoaf:Agent\nfoaf:Organization\nfoaf:homepage\nfoaf:Document\nowl:equivalentClass\ngr:category\norg:classification\ngr:description :: string\n",
-  "speaker": "SYSTEM",
-  "uuid": "1fd962fb-4570-45ff-a42a-e9cb172e746a"
-}

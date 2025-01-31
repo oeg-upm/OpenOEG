@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: MasterIA_Dic2009.pdf: Página 20\nSemantic relatedness between two ontology terms\nLevel 0: Labels and synonyms\nLevel 1: OCm Minimal Ontological Context \nE.g.: Java →Island →Land →Thing\nSemantic Measures: Relatedness\n20\nrel0(a, b)  = average of relWeb between synonyms of a and b\nrel1(a, b)  = average of rel0 between the elements of the OCm\na and OCm\nb\nrel (a, b) = linear combination of rel0(a, b) and rel1(a, b)\n",
-  "speaker": "SYSTEM",
-  "uuid": "0bb66f19-0e69-410b-8595-7d84214cc083"
-}

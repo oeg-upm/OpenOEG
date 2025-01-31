@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GeneralOntologies-v3_%28mariano%29.pdf: Página 73\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work\nCOMPARISON OF THE FCA RESULTS\nMEREOLOGY AXIOMS AND DEFINITIONS\nDolce-Lite and OBO formalices transitivity of isPartOf and has a term for isProperPartOf, but it does not \nprovides an explicit definition.\nREUSE COST\nThe reuse cost does not decide.\nUNDERSTANDABILITY EFFORT\nDolce-Lite, SUMO-OWL and Single Part Whole have a high quality of the documentation and high availability of \nexternal knowledge.\nINTEGRATION EFFORT\nSUMO-OWL has a high adequacy of knowledge extraction and a high adequacy of naming conventions\nRELIABILITY\nObowebsite and OBO have a high purpose reliability, meanwhile SUMO-OWL and Dolce-Lite have a high \ntheoretical support.\nRequires a low effort\nIt does not compensate the integration effort\n",
-  "speaker": "SYSTEM",
-  "uuid": "40573181-102c-47d9-9fc8-de75fb36ea7f"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISWC13jmora.pdf: Página 52\nIntroduction\nState of the art\nAnalysis\nResults\nConclusions\nReferences\nCONCLUSIONS II\nA benchmark should consider what the output means wrt:\nShape of rewritten queries\nexpressiveness\ntypes of clauses\nsyntax with special characteristics\nSize of rewritten queries\nnumber of clauses\nnumber of atoms (and distinct atoms)\nnumber of joins\njmora@fi.upm.es\nEvaluating OBDA query rewriting\nBoadilla - October 10, 2013\n15 / 17\n",
-  "speaker": "SYSTEM",
-  "uuid": "d6923cd4-cf8b-406c-aac7-4d74986fa7a9"
-}

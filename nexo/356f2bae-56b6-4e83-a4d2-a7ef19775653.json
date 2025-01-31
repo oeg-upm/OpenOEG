@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 23\nIntroduction \nEvaluation scenario (III) \n• Evaluation description, continued: \n– Structure of the generated raw results: \n \n \n \n \n \nNOTE:  \n•\nThe conf namespace prefix maps to http://www.seals-project.eu/ontologies/ConformanceResult.owl# \n•\nThe individuals (results and items) are defined in the namespace http://www.seals-project.eu/Conformance/metadata.rdf# \n–\nRaw result  item individuals are named using the dc:identifier value, which matches the dc:identifier value of the associated conformance test \n ESWC 2011, 29/05/2011 \n23 \nseals:Suite \nconf:RawResultItem \nseals:hasSuiteItem \nseals:DataItem \nseals:hasDataItem \ndc:identifier \nseals:hasComponentType (source) \nseals:isLocatedAt \ndc:identifier \nseals:SuiteItem \nxsd:string \n",
-  "speaker": "SYSTEM",
-  "uuid": "356f2bae-56b6-4e83-a4d2-a7ef19775653"
-}

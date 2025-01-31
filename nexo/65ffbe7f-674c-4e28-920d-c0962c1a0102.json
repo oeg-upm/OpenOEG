@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 46\nExamples of PROLEG semantics\nExample 2 Let P2 = {H2, E2} and H2 be the following set of\nrules:\nP <=.\nQ <=.\nand E2 be the following set of exceptions:\nexception(P,Q).\nexception(Q,P).\nLet M2 = {P}. Then, since HM2 = {P <=.} and M2 = min(HM2),\nM2 is an extension.\nLet M3 = {Q}. Then, since HM3 = {Q <=.} and M3 = min(HM3),\nM3 is also an extension.\n46\n",
-  "speaker": "SYSTEM",
-  "uuid": "65ffbe7f-674c-4e28-920d-c0962c1a0102"
-}

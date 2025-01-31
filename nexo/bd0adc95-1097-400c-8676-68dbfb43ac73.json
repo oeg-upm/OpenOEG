@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Metodolog%C3%ADa-1-v2%28asun%29.pdf: Página 27\nNeOn Scenarios\nKnowledge Resources\n5\n4\n6\nOntological Resources\nO. Design Patterns\nNon Ontological Resources\nDictionaries\nGlossaries\nLexicons\nClassification\nO. Repositories and Registries\nFlogic\n3\n5\n6\n2\nThesauri\nTaxonomies\nClassification\nSchemas\n2\nRDF(S)\nOWL\nOntological Resource\nReuse\nO. Aligning\nO. Merging \n4\n6\nNon Ontological Resource\nReuse\n2\nOntology Design\nPattern Reuse\n3\nAlignments\n5\nOntological Resource\nReengineering\n4\n6\nNon Ontological Resource\nReengineering\n2\n7\nO. Specification\nO. Conceptualization\nO. Implementation\nO. Formalization\n1\nRDF(S)\nFlogic\nOWL\nOntology Restructuring\n(Pruning, Extension, \nSpecialization, Modularization)\n8\nO. Localization\n9\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n27\nOntological Engineering\nOntology Support Activities: Knowledge Acquisition (Elicitation); Documentation; \nConfiguration Management; Evaluation (V&V); Assessment\n1,2,3,4,5,6,7,8, 9\n",
-  "speaker": "SYSTEM",
-  "uuid": "bd0adc95-1097-400c-8676-68dbfb43ac73"
-}

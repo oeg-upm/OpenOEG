@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ontologies%26multilinguality%40wiki_24-01-08.pdf: Página 21\n©Guadalupe Aguado de Cea\n21\nAdvantages and disadvantages of option (b)\n¾ When the KB is multilingual\n– Time employed in obtaining contents = reply time  (RT) \nfrom the KB\n• Reason: multilinguality has been provided in design \ntime\n• Disambiguation: in design time\n¾ When the KB is monolingual\n– Time employed in obtaining contents = RT from the KB \n+ RT from the multilingual resource\n– Translation is carried out  during execution time\n– Disambiguation: it may increase the reply time (RT)\n",
-  "speaker": "SYSTEM",
-  "uuid": "a9bce262-1dc3-445b-a464-f784a6cea596"
-}

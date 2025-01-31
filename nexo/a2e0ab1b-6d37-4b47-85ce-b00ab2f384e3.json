@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 6\n©O. Corcho\n6\nOntological Engineering\nCopyright © 2005, The University of Manchester\nConsistency Checking\n•\nWe’ve just created a class that doesn’t really make sense \n– What is a MeatyVegetableTopping? What is a MadCow?\n•\nWe’d like to be able to check the logical consistency of our model\n– This is one of the tasks that can be done by a Reasoner/Classifier\n•\nProtégé-OWL supports the use of reasoners implementing the DIG \ninterface\n– The reasoner is independent of the ontology editor\n– We can choose an implementation depending on our needs (eg some \nmay be more optimised for speed/memory, others may have more \nfeatures)\n•\nThese reasoners typically set up a service running locally or on a \nremote server\n– Protégé-OWL can only connect to reasoners over an http:// \nconnection\n",
-  "speaker": "SYSTEM",
-  "uuid": "a2e0ab1b-6d37-4b47-85ce-b00ab2f384e3"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 49\nOntology Learning\nOntology API\nURI uri = new URI(“http://my.uri/#Class1”,false);\nOclass c = ontology.addClass(uri);\nOinstance i = ontology.addOInstance(uri2,c);\nDatatype dt = new Datatype(XMLStringURI);\nDatatypeProperty dtp =\nontology.addDatatypeProperty(uri3,domain,dt);\ni.addDatatypePropertyValue(dtp,new Literal(“thevalue”));\nOntologies\nJape Rules Method signature:\npublic void doit(Document doc, Map bindings, AnnotationSet annotations, \nAnnotationSet inputAS, AnnotationSet outputAS, Ontology ontology) \nthrows JapeException\n",
-  "speaker": "SYSTEM",
-  "uuid": "1f2c5298-abe8-4560-836d-f5add97634cc"
-}

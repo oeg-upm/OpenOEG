@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Fpriyatna-oeg-20141002.pdf: Página 19\nRunning Example\nPK\n-> DEPT (DID)\nEID\nLNAM\nE\nFNAME\nJOB\nDEPTID\n7369\nSmith\nAdam\nClerk\n10\nPK\nDID\nDNAME\nLOC\n10\nAppServer\nNew \nYork\nEMP\nDEPT\n<http://ex.com/Person/7369> rdf:type ex:Employee.\n<http://ex.com/Person/7369> ex:name \"SMITH\".\n<http://ex.com/Person/7369> ex:name \"ADAM\".\n<http://ex.com/Person/7369> ex:fullname \"SMITH,ADAM\".\n<http://ex.com/Person/7369> ex:worksIn <http://ex.com/Department/10APPSERVER>.\n<http://ex.com/Department/10APPSERVER> rdf:type ex:Department.\n<http://ex.com/Department/10APPSERVER> ex:name \"APPSERVER\".\n",
-  "speaker": "SYSTEM",
-  "uuid": "ce5a2c07-c8a3-496e-94ca-4ecef2c0e54c"
-}

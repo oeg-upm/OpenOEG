@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ThesisCarlos3rdYear.pdf: Página 5\nIntroduction\n• Currently there are only a few approaches to federate \nSPARQL queries\n• DARQ (Cyganiak 2006)\n• SemWIQ (Langegger, iiWAS2008)\n• Networked Graphs (Staab WWW2008)\n• Executing SPARQL Queries over the Web of Linked Data \n(Hartig, Bizer, Freytag, ISWC09)\n• Problems from the previous approaches\n• They implement a basic system for optimising SPARQL \nqueries\n• They do not take into account neither blank nodes nor \ncomplexity\n• They do not implement many optimisation methods\n",
-  "speaker": "SYSTEM",
-  "uuid": "d5b05be7-4f8d-45b9-99d8-039042aacfaf"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ODPs-v7.pdf: Página 14\n14 \nODPs Reuse: Methodological Guidelines (V) \n14 \nIf a requirement is about types and subtypes of a given \nconcept,  \nthen the “Taxonomy (AP-TX-01)” pattern could be \nreused \nIf a requirement is about parts of something,  \nthen the “Componency”, “Componency (CP-COM-01)” \nor “Part-Whole Relation (CP-PW-01)” patterns could be \nreused \nIf a requirement mentions something about a list of \nvalues,  \nthen \nthe \n“Specified \nValues \nin \nOWL: \n\"value \npartitions\" and \"value sets\"”, the “Specified Values: \nSet of Individuals (LP-SV-01)” or the “Specified \nValues: Subclasses (LP-SV-02)” patterns could be \nreused. \nSome heuristics \n",
-  "speaker": "SYSTEM",
-  "uuid": "94342859-feda-4217-9095-3693309adf4e"
-}

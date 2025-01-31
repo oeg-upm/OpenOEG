@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Marcos.pdf: Página 19\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nNotaciones:\n•\nComo estructuras de datos:   Marco. Propiedad\n•\nComo listas (Propiedad de Marco)\nCasos\nM.P\n(P de M)\nDevuelve el valor de la propiedad de clase P en el marco de clase M\n$M.P\n(P de $M)\nDevuelve/actualizar el valor de la propiedad de instancia P en el marco \ninstanciado $M\n$M.P1.P2\n(P2 de (P1 de $M)) Devuelve/actualizar el valor de propiedades de instancia definidas como marco\n$Persona. Fecha-nacimiento.día\n$M.R.P.\n(P de (R de $M))\nDevuelve/actualiza valores de propiedades definidas en el marco instanciado\n$M.R con el que el marco actual $M está unido mediante la relación R.\nPara almacenar valores  : =\nPara evaluar valores de propiedades = \nAccesos a Valores de Propiedades: Lectura / Escritura\n",
-  "speaker": "SYSTEM",
-  "uuid": "ab91730f-2a77-4268-bc68-3b30ddf77fed"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 21\n©O. Corcho\n21\nOntological Engineering\nCopyright © 2005, The University of Manchester\nDefine Cheesey Pizza and Classify\nDefine a Cheesey Pizza, as a Pizza \nthat has some cheese on it\nUse the reasoner to help us produce a polyhierarchy\nwithout having to assert multiple parents\n•\nUsual steps\n–\nCreate primitive classes and then migrate them to \ndefined classes\n–\nAll the defined pizzas will be direct subclasses of \nPizza\n–\nSo, we create a CheesyPizza Class (do not make it \ndisjoint) and add a restriction:\n“Every CheeseyPizza must have at least one \nCheeseTopping”\n",
-  "speaker": "SYSTEM",
-  "uuid": "9b8ebf14-30eb-4d46-ace9-5fa662cb8bbd"
-}

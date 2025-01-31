@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 11\nArchitecture of the SEALS Platform \nLogical Perspective \nESWC 2011, 29/05/2011 \n11 \nDATA TRANSFER  \nWORKER \nServlet/JSP  CONTAINER \nTDRS \nRRS \nVirtual Machine \nJBI CONTAINER 3 \nJBI CONTAINER 2 \nTOOL \nSANDBOX \nRES-CORE \nEXECUTION ENGINE \nEVAL\nn \nEVAL\n1 \nRES-WORKER \nEXECUTION WORKER \nTOOL \nWRAPPER \nDATA TRANSFER  \nWORKER \nJBI CONTAINER 1 \nSSM \nAPP SERVER \nSEALS PORTAL \nEXECUTION \nINFRASTUCTURE \nMANAGEMENT \nVirtualization Solution \n",
-  "speaker": "SYSTEM",
-  "uuid": "76fe72d1-a5f5-445d-9214-730b9754745f"
-}

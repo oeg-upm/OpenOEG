@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 13_LDGeneration.pdf: Página 12\n18/12/12 \n12 \nA Survey of Current Approaches for Mapping of Relational Databases to RDF \n23 \nA Survey of Current Approaches for Mapping of Relational Databases to RDF, Satya S. Sahoo, Wolfgang Halb, Sebastian Hellmann, \nKingsley Idehen, Ted Thibodeau Jr, Sören Auer, Juan Sequeda, Ahmed Ezzat, 2009. (See http://www.w3.org/2005/Incubator/rdb2rdf/\nRDB2RDF_SurveyReport.pdf.) \n• \nA majority of dynamic Web content is backed by relational databases (RDB), \nand so are many enterprise systems. \nTransformation – RDB2RDF \n24 \ntransformation \ndescription \ntransformation \nengine \n",
-  "speaker": "SYSTEM",
-  "uuid": "ab6881bc-102b-4660-8e94-90e2441175c8"
-}

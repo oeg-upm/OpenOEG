@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 13\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nSintaxis de la Base de Reglas \n• Antecedente: \n– Cada elemento de condición debe ir encerrado entre paréntesis. \n– Los elementos de condición están formados por átomos \n– Un átomo puede ser una constante o una variable (precedido del símbolo “$”) \n(Esqueleto $A sí) \n– Los elementos de condición del antecedentes van unidos por el símbolo  AND   “^” \n– Negación: Un elemento de condición puede estar negado  “¬” \n• Consecuente:  \n– Las variables utilizados en el consecuente, son reemplazados por los valores que tengan en \nel antecedente \n– Predicados del consecuente: Añadir y Borrar \n– Las acciones del consecuente van unidos por el símbolo “and” \nR1: Si (Animal $A) ^ (Esqueleto $A sí)  \n       Entonces  (Vertebrado $A) \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "7857e262-75ef-4ece-8a0a-c136ffac07bb"
-}

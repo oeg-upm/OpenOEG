@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion.pdf: Página 54\nPlanificación\nBúsqueda del plan en STRIPS\nLEVANTAR (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nA\nB\nC\nEstado E4\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nPONER(C, B)\nen-mesa(A)\nR\nSe cumplen las precondiciones del \noperador en el estado E4, por tanto, se \nejecuta\n",
-  "speaker": "SYSTEM",
-  "uuid": "888e8f6c-9077-4bf2-9399-a6f30100b951"
-}

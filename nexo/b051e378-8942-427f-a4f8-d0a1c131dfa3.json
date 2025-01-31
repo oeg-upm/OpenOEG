@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/OpenDataZaragoza \n\nInfraestructura\n\nSVN:\nhttp://delicias.dia.fi.upm.es/repos/zaragoza/\nJIRA:\nhttp://jira.oeg-upm.net/browse/ZARLD\nInstancia de Virtuoso de pre-producción:\nhttp://zaragoza.linkeddata.es:8892/\n(también es linkeddata2.dia.fi.upm.es:8892)\nSPARQL endpoint asociado a este Virtuoso:\nhttp://zaragoza.linkeddata.es/sparql\nEjemplo de API Linked Data:\nhttp://zaragoza.linkeddata.es/restaurante/restaurantes",
-  "speaker": "SYSTEM",
-  "uuid": "b051e378-8942-427f-a4f8-d0a1c131dfa3"
-}

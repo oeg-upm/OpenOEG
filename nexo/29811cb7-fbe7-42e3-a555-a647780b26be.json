@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RDF%28S%29.pdf: Página 46\nTable of Contents\n1.\nAn introduction to knowledge representation formalisms\n2.\nResource Description Framework (RDF)\n3.\nRDF Schema\n3.\nRDF Schema\n4.\nRDF(S) management APIs\n5.\nRDF(S) query languages: SPARQL\n5.1 RDF(S) query languages and SPARQL\n5.2 Turtle RDF syntax\n5.3 Graph patterns\n© O. Corcho, R.García-Castro, O. Muñoz-García\n91\nRDF and RDF Schema\n5.4 Restricting values and solutions\n5.5 SPARQL query forms\n5.6 Hands-on activity\n•\nURIs\nEnclosed in <>\n<URI>\nor\n@prefix prefix <http://....>\nTurtle: URIs, blank nodes, literals\nprefix:name\n•\nBlank Nodes\n:name\nor\n[] for a Blank Node used once\n•\nLiterals\n\"Literal\"\n\"Literal\"@language\n\"\"\"Long literal with\nnewlines\"\"\"\n© O. Corcho, R.García-Castro, O. Muñoz-García\n92\nRDF and RDF Schema\nnewlines\n•\nDatatyped Literals\n\"lexical form\"^^datatype URI\n\"10\"^^xsd:integer\n\"2006-09-04\"^^xsd:date\n",
-  "speaker": "SYSTEM",
-  "uuid": "29811cb7-fbe7-42e3-a555-a647780b26be"
-}

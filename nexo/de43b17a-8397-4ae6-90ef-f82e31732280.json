@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: WP2-GeoBuddies_v05_%28jarg%29.pdf: Página 9\n© 23 Octubre 2007\n9\nStep 2: Onto-BD Mapping (R2O)\nR2O is a language for expliciting procedural mappings between \nrelational models and ontologies. (model – model)\nODEMapster is a compiler that cans execute mappings for:\n– carrying out ontology population (DB → ontology)\n– responsing queries to ontology with DB information\n \n(ontology → DB → ontology)\ncolumn4  column5\nconceptmap-def\n   name Cliente\n   identified-by Usuarios.ID\n   uri-as\n      <transformation>\n   applies-if\n      <cond-expr>\n   joins-via\n      <cond-expr>\n   documentation ”Correspondence description”\n",
-  "speaker": "SYSTEM",
-  "uuid": "de43b17a-8397-4ae6-90ef-f82e31732280"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: NLP.Dissociating_language_and_thought_in_large_language_models.pdf: Página 39\n5. Building models that think like humans\nModularidad\nHemos visto que hay distintas partes en el cerebro humano, al igual que \nocurre con otros seres inteligentes.\nDos formas de implementar esta división del trabajo:\n• Modularidad Arquitectural:\n• Ventajas: high task performance, más eficiente, alta generalizacionabilidad.\n• Por ejemplo, memoria separada, o visual QA (Language Module, Visual \nModule, Reasoning Module)\n• Modularidad Emergente: a veces surge espontáneamente.\n• Transformers y sus distintos attention heads (que atienden a distintos input \nfeatures).\n• Otra aprox: dotar a Transformers con “mixture of experts architecture”.\n",
-  "speaker": "SYSTEM",
-  "uuid": "0c5a7be9-1105-4fa7-8065-59ac0b35fc37"
-}

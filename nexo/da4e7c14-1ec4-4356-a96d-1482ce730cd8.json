@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01.02.L%C3%B3gicaDescriptiva.pdf: Página 15\n15 \nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva \nTableaux rules for ALC and for transitive roles \nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva \nTableaux examples and exercises \n• \nExample \n– \n∃S.C ∧ ∀S.(¬C ∨ ¬D) ∧ ∃R.C ∧ ∀R.(∃R.C)  \n• \nExercise 1 \n– \n∃R.(∃R.D) ∧ ∃S.¬D ∧∀S.(∃R.D) \n• \nExercise 2 \n– \n∃R.(C∨D) ∧ ∀R.¬C ∧ ¬∃R.D \n",
-  "speaker": "SYSTEM",
-  "uuid": "da4e7c14-1ec4-4356-a96d-1482ce730cd8"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: NLP_OEG.pdf: Página 4\nInformation Extraction\n4\nNamed Entity Recognition\n•\nOrganizations \n•\nPersons\n•\nPlaces\n•\nTemporal units\n•\nNumerical units\nBiomedicine:\n•\nDiseases\n•\nProteins\n•\nGenes \n•\nSubstances\nNamed entities in a natural \nlanguage document\nNamed entity: real-world concept\ndenoted with a\nreferent term or proper name. Main classifications:\nTokenization\nSentence \nSegmentation\nNamed \nEntity \nRecognition\nCo-reference \nResolution\nRelation \nExtraction\nUnstructured \ndocuments\nStructured\nInformation\n…\n",
-  "speaker": "SYSTEM",
-  "uuid": "3890b4fb-f6dc-4f11-9356-da69c6c3be6b"
-}

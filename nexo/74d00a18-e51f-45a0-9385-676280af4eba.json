@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: B%C3%9ASQUEDA_grado-2013.pdf: Página 49\nALGORÍTMO A* \nBASE DE REGLAS \n \nR1. ~($B$) → ($B) \nR2. ~($C$) → ($C) \nR3. ~($D$) → ($D) \nR4. ~($E$) → ($E) \nR5. ($B$), ($C$), ($D$), ($E$), ~(A$A) → ($A) \nR6. (A$A) → FIN \n",
-  "speaker": "SYSTEM",
-  "uuid": "74d00a18-e51f-45a0-9385-676280af4eba"
-}

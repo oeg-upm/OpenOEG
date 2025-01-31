@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISSGC08.pdf: Página 34\n©<Miembro Grupo>\n35\nGrid Middleware\n• Middleware between the computational resources and the \nusers (computer scientists, researchers)\n• The middleware interacts with both\n– User requirements\n– Available resources\n• Provides\n– Security infrastructure, job management, data management, job \nmonitoring\n• Different implementations for different Grid systems\n– Supercomputers, large clusters, high amount of personal computers,\n",
-  "speaker": "SYSTEM",
-  "uuid": "cb395306-3349-4df1-aaf9-ecd062d8818f"
-}

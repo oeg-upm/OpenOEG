@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 29\n© O. Corcho, R.García-Castro, O. Muñoz-García\n29\nRDF and RDF Schema\nSPARQL is also a protocol\n•\nSPARQL is a Query Language ...:\nFind names and websites of contributors to PlanetRDF: \nPREFIX foaf: <http://xmlns.com/foaf/0.1/> \nSELECT ?name ?website \nFROM <http://planetrdf.com/bloggers.rdf> \nWHERE { \n?person foaf:weblog ?website .\n?person foaf:name ?name . \n?website a foaf:Document }\n•\n... and a Protocol.\nhttp://.../qps?query-lang=http://www.w3.org/TR/rdf-sparql-query/ \n&graph-id=http://planetrdf.com/bloggers.rdf&query=PREFIXfoaf: \n<http://xmlns.com/foaf/0.1/...\n•\nServices running SPARQL queries over a set of graphs \n•\nA transport protocol for invoking the service \n•\nBased on ideas from earlier protocol work such as Joseki \n•\nDescribing the service with Web Service technologies \n",
-  "speaker": "SYSTEM",
-  "uuid": "4cdc9fdf-d9b9-45ab-b60d-9f48f50ddfe1"
-}

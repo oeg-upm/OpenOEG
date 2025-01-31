@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ReReNORAthens.v1-boris.pdf: Página 38\nClassification Scheme Components\nPatterns for Re-engineering Classification Schemes\n+cs_name\nClassification Scheme\n+contains\n1..*\n+csi_name\nClassification Scheme Item\n+contained in\n1\n+csi_attribute\n+\ni ti\n0 *\n+\ni ti\n0 *\nClassification Scheme Item Relationship\n+association\n0..*\n+association\n0..*\n+name\nClassification Scheme Item Relationship\n38\n1. International Standard Organization (ISO). Information technology - Metadata registries – Part 1: Framework, 2004. \nReport ISO/IEC FDIS 11179-1.\n",
-  "speaker": "SYSTEM",
-  "uuid": "dec0b8e9-09c6-4d64-9828-b59022b9ba54"
-}

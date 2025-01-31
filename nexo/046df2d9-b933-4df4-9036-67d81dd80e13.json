@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentacion_OEG_OPM_9-12-2010.pdf: Página 11\n1\nOPM Overview\nOPMO and OPMV\n•\nOPMV: OPM Vocabulary\n– Lightweight vocabulary focused on the asserter of provenance information. It \nallows most of the OPM concepts to be asserted. However, it does not allow \ninferences to be made. \n•\nOPMO: OPM Ontology\n– OPMO is an upgrade to OPMV, allowing full expressivity and reasoning. \n",
-  "speaker": "SYSTEM",
-  "uuid": "046df2d9-b933-4df4-9036-67d81dd80e13"
-}

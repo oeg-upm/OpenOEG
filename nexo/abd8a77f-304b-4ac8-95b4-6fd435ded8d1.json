@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 5.metodologia-v2%28asun%29.pdf: Página 43\n© A. Gómez Pérez, M.C. Suarez de Figueroa, B. Villazón,  E.Montiel, G. Aguado, M. Espinoza \n46 \nOntological Engineering \nReusing Ontologies as a Whole. \nDomain Ontology Assess \nAre the found ontologies useful? \nCheck the terminology in the CQs in the found ontologies \n Other requirements: language, standardized terms, multilinguality, etc. \n \nWhich ones are the best? \n Good documentation \n Modular ontology \n Integration effort is low. \n Ontology is reused by others. \n If the ontology used naming conventions. \n If the ontology have been evaluated. \nHow do I integrate? \nReused as it is.  \n Ontology reengineering   \n Ontology merge \n",
-  "speaker": "SYSTEM",
-  "uuid": "abd8a77f-304b-4ac8-95b4-6fd435ded8d1"
-}

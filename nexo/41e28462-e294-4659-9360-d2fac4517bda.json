@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 5\nATHENS 2010 \n© Raúl García Castro et al. \nRDF Serialisations \n•  Normative \n-  RDF/XML (www.w3.org/TR/rdf-syntax-grammar/) \n•  Alternative (for human consumption) \n-  N3 (http://www.w3.org/DesignIssues/Notation3.html) \n-  Turtle (http://www.dajobe.org/2004/01/turtle/) \n-  TriX (http://www.w3.org/2004/03/trix/) \n-  … \nImportant: the RDF serializations allow different \nsyntactic variants. E.g., the order of RDF statements \nhas no meaning \n5 \n",
-  "speaker": "SYSTEM",
-  "uuid": "41e28462-e294-4659-9360-d2fac4517bda"
-}

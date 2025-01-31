@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ODEMapster-EVERIS%28v1-boris%29.pdf: Página 7\n7\nR2O Basic Syntax\n<conceptmap-def\nname=\"Customer\">\n<identified-by> Table key </identified-by>\n<uri-as> operation </uri-as>\n<applies-if> condition </applies-if>\n<joins-via> expression </joins-via>\n<documentation>description …</documentation>\n<described-by>attributes,relations</described-by>\n</conceptmap-def>\n<attributemap-def name=\"http://esperonto/ff#Title\">\n<aftertransform>\n<operation oper-id=\"constant\">\n<arg-restriction on-param=\"const-val\">\n<has-column>fsb_ajut.titol</has-column>\n</arg-restriction>\n</operation>\n</aftertransform>\n</attributemap-def>\n<relationmap-def name=\"http://esperonto/ff#isCandidateFor\">\n<to-concept name=\"http://esperonto/ff#FundOpp\">\n<joins-via>\n<operation oper-id=“equals\">\n<arg-restriction on-param=\"value1\">\n<has-column>fsb_ajut.id</has-column>\n</arg-restriction>\n<arg-restriction on-param=\"value2\">\n<has-column>fsb_candidate.forFund</has-column>\n</arg-restriction>\n</operation>\n</joins-via>\n</relationmap-def>\n",
-  "speaker": "SYSTEM",
-  "uuid": "c589908b-8073-4254-8c18-2f4613ee13c9"
-}

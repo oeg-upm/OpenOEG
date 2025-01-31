@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Annotation.pdf: Página 28\nOntology-based view over a relational model (II)\nPregunta: Nombre de los \nprofesores de la\nUniversidad\nprofesores de la \nuniversidad UPM\n* Un profesor es una persona \ncuyo puesto es “docente”\nOntología\nProfesor\nDoctorando\ncuyo puesto es “docente”\n* Una universidad es una \norganización de tipo “3”\n<xml>\nDescripción\nFormal de\nProcesador\nCorrespondencia\n</xml>\nProcesado de la consulta de \nacuerdo a la descripción \nformal de correspondencia\nPersonal\nOrganización\nConsulta: valores de la columna nombre de los \nregistros de la tabla Personal para los que el valor\nBDR\nModelo\nRelacional\nregistros de la tabla Personal para los que el valor \nde la columna puesto is “docente” que estén \nrelacionados con al menos un registro de la tabla \nOrganización con el valor “3” en la columna tipo y \n© O. Corcho, B Villazón, A. Gómez-Pérez\n28\nAnnotation\n“UPM” en la columna nombre.\n",
-  "speaker": "SYSTEM",
-  "uuid": "ef28c568-8c68-4f1f-870e-525a8f6b00ac"
-}

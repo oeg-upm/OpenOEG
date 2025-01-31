@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/AstroLinkedData \n\nExposing Astrophysical information using LinkedData principles. Especial focus on data from Spanish observatories.\nProject contact: Alex\nContents\n[\nhide\n]\n1\nCatalog of Vocabularies\n2\nCatalog of RDF datasets\n3\nCatalog of non-RDF datasets\n4\nAPIs\n5\nSpanish Observatories\n6\nLinks\nCatalog of Vocabularies\n\nSemantic Web for Earth and Environmental Terminology (SWEET)\nCatalog of RDF datasets\n\nCatalog of non-RDF datasets\n\nHubble Telescope Data\nAPIs\n\nLookUP - search objects by name (output available in XML and JSON)\nCasJobs - SQL interface to Astro data??\nVisualization via Google Sky\nSpanish Observatories\n\nInstituto de Astrofísica de Andalucía\nLinks\n\nConference about Astronomy and Internet\nChromoscope",
-  "speaker": "SYSTEM",
-  "uuid": "9b754158-2a5c-4152-bf1b-fe4235d56f23"
-}

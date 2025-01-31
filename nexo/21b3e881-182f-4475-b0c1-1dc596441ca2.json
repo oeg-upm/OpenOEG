@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentaci%C3%B3n_Everis.v1.pdf: Página 16\nRepository Service\nRepositoryAccess\nRepositoryFactory\nRepository\nDescription\nClass Service\nClassAccess\nClass\nDescription\nRepository Selector \nService\nRepositorySelectorAccess\nRepositorySelectorFactory\nRepository \nSelector\nDescription\nGT4 Java WS Core \nContainer\nClient\nRDF(S) \nResource\nRDF(S) \nResource\nExperimentación – RGAB: Ejemplos de uso (V)\n Solicitando acceso indirecto a una clase de un repositorio\nRepository\nResource\nRepository \nResource \nEndpoint \nReference\ncreate\ncreate\nClass\nResource\nGetResourceFactoryRequest(\n  repository-resource-id,\n  class-uri,\n  class\n)\nGetResourceFactoryResponse(\n  endpoint-reference\n)\nClass \nResource \nEndpoint \nReference\n16\nMiguel Esteban Gutiérrez\n",
-  "speaker": "SYSTEM",
-  "uuid": "21b3e881-182f-4475-b0c1-1dc596441ca2"
-}

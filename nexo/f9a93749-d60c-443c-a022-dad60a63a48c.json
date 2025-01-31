@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISSGC08.pdf: Página 56\n©<Miembro Grupo>\n57\nWorkflow principles (lifecycle II)\n• Scheduling/execution\n– Consists in the execution of the planned workflows in other systems\n• Workflow systems send tasks to systems like Condor or Globus\n(depending on what specific functionality want to use)\n• Reuse\n– how to find what is already there?\n– how to determine the quality of what is already there?\n– how to invoke an existing workflow?\n– how to share a workflow with a colleague?\n– how to share a workflow with a competitor?\n",
-  "speaker": "SYSTEM",
-  "uuid": "f9a93749-d60c-443c-a022-dad60a63a48c"
-}

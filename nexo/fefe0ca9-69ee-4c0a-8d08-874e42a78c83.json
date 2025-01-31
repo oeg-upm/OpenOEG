@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OWL.pdf: Página 23\n© O. Corcho, MC Suárez de Figueroa Baonza \n23 \nOWL 2 \nChunk 5. Formalisation in DL \n)\n.(\n.\n.\n)\n.\n.(\n.\n)\n.\n.(\n.\n.\nvan\nwhiteThing\ndrives\nman\nn\nwhiteVanMa\nbus\ndrives\nperson\nbusDriver\nvan\ndrives\nperson\nvanDriver\npany\nhaulageCom\npartOf\nworksFor\ntruck\ndrives\nperson\nckDriver\nhaulageTru\npany\nhaulageCom\npartOf\npany\nhaulageCom\nworksFor\nke\nhaulageWor\nlorry\ndrives\nperson\nr\nlorryDrive\nvehicle\ndrives\nperson\ndriver\nadult\ndriver\n∩\n∃\n∩\n≡\n∃\n∩\n≡\n∃\n∩\n≡\n∃\n∃\n∩\n∃\n∩\n≡\n∃\n∪\n∃\n≡\n∃\n∩\n≡\n∃\n∩\n≡\n⊆\n",
-  "speaker": "SYSTEM",
-  "uuid": "fefe0ca9-69ee-4c0a-8d08-874e42a78c83"
-}

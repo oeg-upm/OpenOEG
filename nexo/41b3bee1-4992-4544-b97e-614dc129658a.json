@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 5\n•5\nSemantic Network. Basic elements\n•\nNodes\n•\nThey represent entities or concepts, or values\n•\nEdges\nEntity/Concept\nValue\n•\nEdges\n•\nThey represent properties or relations\n•\nThe semantics (mapping to the real world) depends on the tags\nused for nodes and edges\nTh\ni\nd fi\nd KR\nb l\nNode\nNode\nproperty/relation\n•\nThere is no predefined KR vocabulary\n•\nAlthough sometimes there are structural edges\nEntity\nConcept\ninstanceOf\nConcept\nConcept\nsubclassOf\nSemantic networks. Example\n• Paul and John are persons\n• El Prado is a museum\n• Paul knows that John visited El Prado in Madrid\nPaul knows that John visited El Prado in Madrid\n",
-  "speaker": "SYSTEM",
-  "uuid": "41b3bee1-4992-4544-b97e-614dc129658a"
-}

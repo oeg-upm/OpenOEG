@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion.pdf: Página 36\nPlanificación\nBúsqueda del plan en STRIPS\nQUITAR (A, B)\nsujeto (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nencima (A, B)\nlibre (A)\nbrazo-libre\nencima (A, B) ^ libre(A) ^ brazo-libre\nQUITAR (A, B)\nsujeto (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nEstas condiciones son ciertas en el estado inicial\nA\nB\nC\nEstado inicial\n",
-  "speaker": "SYSTEM",
-  "uuid": "09498d3d-1a62-4748-8825-788011f72762"
-}

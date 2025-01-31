@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas.pdf: Página 21\n21\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nEstrategias\nExplícito un orden lineal: Se selecciona la primera regla que equipara\nSeleccionar la regla de prioridad más alta: \n• La prioridad se establece en función del problema que se modeliza\n• La prioridad la da el experto del dominio\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nSeleccionar la regla más específica\nSi las instanciaciones de las reglas tienen elementos de condición iguales \nse selecciona la regla que  tenga más elementos de condición \nRi: Si (Paciente $x) ^ (Fiebre $x)  Entonces (Enfermo $x)\nRj: Si (Paciente $x) ^ (Fiebre $x)  ^ (Manchas Rojas $x) Entonces  (Varicela $x)\nEn este caso, Rj\nRi: Si Si (Paciente $x) ^ (Fiebre $x)  Entonces  (Enfermo $x) \nRj: Si  (Envio $e) (frágil $e)  Entonces  (Desplazar $e cuidadosamente)\nEn este caso, ninguna regla es más específica que la otra\n",
-  "speaker": "SYSTEM",
-  "uuid": "ba17e8c2-d053-4295-86e3-3501a31d7b8f"
-}

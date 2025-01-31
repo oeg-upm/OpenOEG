@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SparqlDQPGrupo.pdf: Página 13\nSparqlDQP\n• Proposal:\n• Extend OGSA-DQP with a new query language: SPARQL\n• SPARQL is “similar” to SQL\n• Both have the same expressive power\n• It is possible to use DQP operators for SPARQL\n• Current status: optimising simple SPARQL queries\nPREFIX p: <http://dbpedia.org/property/> \nSELECT ?dbpediaResource.player ?RDFResource.club \nFROM dbpediaResource: <http://dbpedia.org/sparql/> \nFROM RDFResource: <http://dbpedia.org/sparql/>  \nWHERE{\n      ?dbpediaResource.player p:cityofbirth \n<http://dbpedia.org/resource/Stryn>. \n      OPTIONAL {?RDFResource.player p:currentclub  ?RDFResource.club}}\n",
-  "speaker": "SYSTEM",
-  "uuid": "dd42608c-1a48-4378-aa80-bed2060cb727"
-}

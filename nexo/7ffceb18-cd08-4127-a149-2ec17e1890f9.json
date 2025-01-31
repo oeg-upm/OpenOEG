@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/TemarioCursos \n\nContents\n[\nhide\n]\n1\nOntologies\n2\nOntology Development Methodologies\n3\nRDF(S)\n4\nSPARQL\nOntologies\n\nIntroduction\nOntology definitions\nOntology types\nOntology modelling\nApproaches\nMain components\nGuidelines and good practices\nOntology Development Methodologies\n\nIntroduction\nScenarios in Ontology Building\nMethodological Guidelines for Processes and Activities\nOntology Requirements Specification\nSearch of Existing Knowledge Resources\nScheduling Ontology Development Projects\nReusing Knowledge Resources\nReusing Ontologies\nReusing Non-Ontological Resources\nReusing Ontology Design Patterns\nEvaluation (optional)\nRDF(S)\n\nRDF\nIntroduction\nRDF components\nSerializing RDF\nRDF Schema\nIntroduction\nMain RDF-S components\nSerializing RDF-S\nRDF(S) Limitations\nReasoning\nReasoning with RDF\nReasoning with RDF-S\nRDF(S) management APIs\nSPARQL\n\nIntroduction\nGraph patterns\nRestricting values and solutions\nSPARQL query forms\nSPARQL 1.1",
-  "speaker": "SYSTEM",
-  "uuid": "7ffceb18-cd08-4127-a149-2ec17e1890f9"
-}

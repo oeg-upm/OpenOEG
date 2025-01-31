@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 19\nWeb Ontology Language\nOWL semantics\nOWL works under the Open World Assumption \n(OWA)\nData Base (Closed World Assumption): the information not \nmentioned is false (Negation as Failure) \nKnowledge Base (Open World Assumption): the information \nnot mentioned is unknown (Can be true or false)\n!!!\n",
-  "speaker": "SYSTEM",
-  "uuid": "58d076ff-e6e9-4b46-8764-d7f3f38974a8"
-}

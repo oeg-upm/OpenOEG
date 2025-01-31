@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Semantic_Annotation_of_Subject_Columns_in_Tabular_Datasets.pdf: Página 4\nSemantic Annotation of Subject Columns in Tabular Datasets\nentity linking\n4\nHow? \nselect distinct ?subject\nwhere{select distinct ?subject\nwhere{\n?subject ?property \"Facundo Campazzo\"@en}\nselect distinct ?class where{\n<http://dbpedia.org/resource/Facundo_Campazzo> a ?class}\n1. Get entities for each cell\n2. Get types for each entity\nlink cells to entities?\n",
-  "speaker": "SYSTEM",
-  "uuid": "ad540f2c-7101-41ae-b533-cd347a0c6fdf"
-}

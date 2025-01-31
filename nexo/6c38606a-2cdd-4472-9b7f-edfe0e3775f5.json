@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ontologias-Multilingualidad.pdf: Página 48\n©\n48\nCaracterísticas del LabelTranslator\nhttp://droz.dia.fi.upm.es/lt/evaluation.htm\n•\nPlugin integrado en NeOn\n•\nMantiene la información lingüística\n– Modelo lingüístico (ML): lexical entries, lexicalizations, senses, definitions, \nusage context, etc.\n– Representado en OWL\n•\nAcceso fácil al ML desde otros plug-ins y aplicaciones externas\n• to search, add, remove or update.\n•\nUso de un método sincronizado.\n– El usuario crea/importa una nueva ontología en OWL, FLogic, etc.\n– El LabelTranslator construye un modelo lingüístico (LIR) asociado a la \nontologia seleccionada\n–\nMantiene la ontología y el conocimiento lingüístico sincronizado\n",
-  "speaker": "SYSTEM",
-  "uuid": "6c38606a-2cdd-4472-9b7f-edfe0e3775f5"
-}

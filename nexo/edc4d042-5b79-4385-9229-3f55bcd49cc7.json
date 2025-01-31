@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentacion_OEG24-04-2014.pdf: Página 8\nDrawbacks of Current RDF Serialization \n8 \n•Very verbose  \n•Designed for human readability (not for machines) \n•HUGE   text compression/decompression \n \n•Lack of (standard) metadata  \n•“What is this?” phenomenon \n \n•Search offline \n•Scan the whole exchanged dump. \n•(decompress)+ index the file + search \n \n \n         In this RDF deluge,  \nif RDF is meant to be machine processable, \n        why are we using plain RDF?? \n",
-  "speaker": "SYSTEM",
-  "uuid": "edc4d042-5b79-4385-9229-3f55bcd49cc7"
-}

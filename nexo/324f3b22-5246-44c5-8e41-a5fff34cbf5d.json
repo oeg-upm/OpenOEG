@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2022.11.PublicProcurementNLPChallenges.pdf: Página 24\nChallenges in Public Procurement textual data\n1.3. CPV code assignment\n24\nProblem 3: Criteria\nTaxonomy to classify tenders in different areas.\n•\nMore than 9k possible codes!\n•\nDifferent classification guidelines.\n•\nDifferent levels of granularity used, less specific CPV being \ncommonly used.\n•\nHuman errors.\n1\nThe administration \ndrafts the tender\nPossible Solutions\n•\nA system that receives the description of a tender and recommends the best \nfitting CPV codes could help with these issues (ONGOING).\nData available (TED, PLACE, Hacienda…), no need of human annotation!\n",
-  "speaker": "SYSTEM",
-  "uuid": "324f3b22-5246-44c5-8e41-a5fff34cbf5d"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 58\n© O. Corcho\n58\nOntological Engineering\nChunk 4. Formalisation in DL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncat\ndog\ndog\nhasPet\nperson\ndogOwner\ndog\nlikes\nperson\ndogLike\ncat\nhasPet\nperson\ncatOwner\ncat\nlikes\nperson\ncatLike\nanimal\nhasPet\nperson\npetOwner\nhasPet\nperson\nr\nanimalLove\nanimal\ntiger\nanimal\ncat\nanimal\nduck\nanimal\npartOf\neats\nanimal\neats\nanimal\nvegetarian\neats\nanimal\nisPetOf\npet\n.\n;\n.\n.\n;\n.\n.\n)\n3\n(\n;\n;\n)\n.\n(\n.\n.\n.\n.\n",
-  "speaker": "SYSTEM",
-  "uuid": "496a80b9-270c-4cbc-8665-60580554ff39"
-}

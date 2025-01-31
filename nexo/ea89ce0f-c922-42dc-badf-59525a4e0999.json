@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: EVERIS_Multilingualidad%28ele-v1%29.pdf: Página 10\n10\nOntology Localization with LabelTranslator \n•\nTask 1: multilingual linguistic resources (EWN, \nWiktionary, IATE) and translation web services \n(GoogleTranslate, BabelFish)\n•\nTask 2: selection can be manual or automatic \n(per default, all ontology labels are selected)\n•\nThe local context (direct hypernyms, hyponyms, \nsiblings) of each ontology label is retrieved \n•\nTask 3: techniques used by LabelTranslator\n•\nCross-language term extraction accessing \nresources to discover translation equivalents\n•\nSense discovery technique accessing Watson and \nEWN (of selected and context labels)\n•\nWord sense disambiguation\n•\nTask 4: in the current version, manually \nperformed by the user\n•\nTask 5: resulting label translators stored in the \nLIR\n<<EVERIS, January 12th, 2010>>\n",
-  "speaker": "SYSTEM",
-  "uuid": "ea89ce0f-c922-42dc-badf-59525a4e0999"
-}

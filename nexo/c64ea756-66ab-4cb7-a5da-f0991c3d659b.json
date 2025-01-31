@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: KGEOntologies_2021.pdf: Página 10\nAn Ontology-Based Deep Learning Approach for Triple Classification with Out-of-Knowledge-Base Entities\nQuestion 1\n10\nWhere can we act in KGE models such that OOKB \nentities can be introduced without changing the\nmodel design?\nSeveral proposals that aim to improve KG focus\non the input\nKGE \nModel\nA\nB\nHierarchical\ninformation\nTextual \ninformation\nRules\nBetter\nresults\nInput \ndata\n",
-  "speaker": "SYSTEM",
-  "uuid": "c64ea756-66ab-4cb7-a5da-f0991c3d659b"
-}

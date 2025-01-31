@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 00_IntroductionSemanticWeb.pdf: Página 3\n© O. Corcho, A. Gómez-Pérez\n3\nA 10-minute Introduction to Ontologies and the Semantic Web\nThe Semantic Web Vision\n•\nThe Web was made possible through established standards\n–\nTCP/IP for transporting bits down a wire\n–\nHTTP & HTML for transporting and rendering hyperlinked text\n•\nApplications able to exploit this common infrastructure\n–\nResult is the WWW as we know it\n•\nGenerations\n–\n1st generation web mostly handwritten HTML pages\n–\n2nd generation (current) web often machine generated/active\n•\nBoth intended for direct human processing/interaction\n–\nIn the next generation web, resources should be more accessible to automated processes \n•\nTo be achieved via semantic markup\n•\nMetadata annotations that describe content/function\nThe Syntactic Web\nThe Semantic Web\n",
-  "speaker": "SYSTEM",
-  "uuid": "8b83e3a8-5089-4af5-96eb-db2aed3eaa3a"
-}

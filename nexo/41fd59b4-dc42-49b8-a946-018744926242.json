@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OWL.pdf: Página 39\n© O. Corcho, MC Suárez de Figueroa Baonza \n43 \nOWL 2 \nNamed Classes \n•  An OWL ontology contains classes, all of them subclasses of owl:Thing.  \n–  OWL classes are interpreted as sets of individuals or sets of objects.  \n–  The class Thing is the class that represents the set containing all individuals.  \n•   Creating classes in the pizza example: Pizza, PizzaBase, and \nPizzaTopping.  \nAdd Subclass \nAdd Sibling Class \nDelete Class \nClasses \n",
-  "speaker": "SYSTEM",
-  "uuid": "41fd59b4-dc42-49b8-a946-018744926242"
-}

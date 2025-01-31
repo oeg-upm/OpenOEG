@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 07_Applications.pdf: Página 47\nDetección del Fraude en seguros de coches\nSingle versus \nnetwork of \nontologies\nSingle Ontology\nType of Application\nData integration\nSoftware Components Used\no to og es\nOnt. Built from \nscratch or  reusing \nresources\nBuilt from scratch\nHugeness: Operates \nat scale?\nYes\n1.\nOntology repository\n2.\nMetadata registry\n3.\nQuery answering\n4.\nSemantic query\nprocessor\n5.\nOntology editor\n6.\nOntology browser\nConceptual \nHeterogeneity\n(mappings)\nNo\nOpen to semantic \nresources?\nNo\nRDF files\nOpen to web \nNo\n7.\nInstance editor\n8.\nManual annotation\n9.\nAutomatic annotation\n10\nOntology populator\nWhere are the \ndata/instances?\np\nresources?\nAre instances \ndistributed or\nDistributed\nOpen to web services?\nNo\n10.\nOntology populator\ndistributed or \ncentralized?\nVery high rate of \nYes\nWeb 2.0 like?\nNo\nchange in instances?\nHeterogeneous \nProvenance of \ninstances\nYes\nMobile devices?\nNo\nVarious degrees of \ndata quality\nYes\nGeo-spatial \nInformation\nYes\n",
-  "speaker": "SYSTEM",
-  "uuid": "411e4e7a-81c1-4494-b186-b8d703dc5afa"
-}

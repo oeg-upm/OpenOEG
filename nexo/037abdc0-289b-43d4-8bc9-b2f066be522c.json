@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISSGC08.pdf: Página 24\n©<Miembro Grupo>\n25\nOthers\n• Google File System\n– MapReduce parallel data programming model\n•\nAllows for automatic parallelization of data intensive tasks\n•\nGenerate intermediate key/value pairs for a regular key/value\n•\nReduce(merge) all generated ones back together\n– GoggleFS filesystem – Open Hadoop implementation\n• Hadoop\n– NOT for Wide Area yet\n– Built with reliability in mind for commodity hardware\n– Optimized for streaming access, not generic posix\n– Built in java for large files\n– Write once read many patterns best\n– Very new, changing fast\n– Watch out for scaling\n",
-  "speaker": "SYSTEM",
-  "uuid": "037abdc0-289b-43d4-8bc9-b2f066be522c"
-}

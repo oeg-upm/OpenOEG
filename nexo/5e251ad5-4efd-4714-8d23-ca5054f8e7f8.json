@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentacion_OEG24-04-2014.pdf: Página 3\n3 \nWhat is Linked Data? \n1. Use URIs as names for things. \n2. Use HTTP URIs so that people can look up those names. \n3. When someone looks up a URI, provide useful information. \n4. Include links to other URIs. \nLinked Data cloud: > 62 billion triples \n431 M.triples~  63  GB \n",
-  "speaker": "SYSTEM",
-  "uuid": "5e251ad5-4efd-4714-8d23-ca5054f8e7f8"
-}

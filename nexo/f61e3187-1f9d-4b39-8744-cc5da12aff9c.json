@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SPARQL_Streams.pdf: Página 3\nC-SPARQL Model\nRDF-Streams\nPairs: RDF triple annotated with timestamp\n                                 (<subj, pred, obj>, ts)\nWindow\nTime-, or triple-, based definition\nOutputs a stream of triple-pairs\nAggregates (orthogonal to streaming work) \n Extends data with computed result\nEvaluation Episodes\nState evaluation period for a query\n1. D. F. Barbieri, D. Braga, S. Ceri, and M. Grossniklaus. An execution environment for \nC-SPARQL queries. In EDBT2010, pp 441–452, Lausanne, Switzerland, March 2010.\n2. D. F. Barbieri, D. Braga, S. Ceri, E. D. Valle, and M. Grossniklaus. C-SPARQL: A \ncontinuous query language for RDF data streams. International Journal of Semantic \nComputing, 2010. To appear.\n",
-  "speaker": "SYSTEM",
-  "uuid": "f61e3187-1f9d-4b39-8744-cc5da12aff9c"
-}

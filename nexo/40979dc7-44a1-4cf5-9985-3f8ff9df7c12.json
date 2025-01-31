@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2019.02.OEG.Work.on.Events.pptx: Diapositiva {12}\nWe have several things to evaluate:\nEvent detection\nArgument detection \nRelevance\nPrevious proposals:\nPrecision, Recall and F-measure (TimeML – TempEval)\nQuestion Answering (SemEval 2015)\nACE: VDR value (extent of the annotation, arguments, attributes)\nOther ideas:\nSeveral levels of evaluation (BioNLP’09)\nCore\nCore + surrounding entities\nCore + surrounding entities + factuality\n\n\n",
-  "speaker": "SYSTEM",
-  "uuid": "40979dc7-44a1-4cf5-9985-3f8ff9df7c12"
-}

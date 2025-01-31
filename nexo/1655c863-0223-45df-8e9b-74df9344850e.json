@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OEG_-_Scalability_in_Semantic_Labeling_Approaches.pdf: Página 2\nScalability in Semantic Labeling Approaches\nScalability\n2\nWhat is it?\nthe ability of a system to accommodate an increasing \nnumber of elements or objects, to process growing volumes \nof work gracefully, and/or to be susceptible to enlargement. \n(Bondi, 2000)\nAndré B Bondi. 2000. Characteristics of scalability and their impact on performance. In \nProceedings of the 2nd international workshop on Software and performance. ACM, 195–203.\nTypes of scalability:\n=> Storage\n=> Parallelism\n=> Architecture\n=> Speed\nLoad scalability\nSpace scalability\nSpace-time scalability\nStructural scalability\n",
-  "speaker": "SYSTEM",
-  "uuid": "1655c863-0223-45df-8e9b-74df9344850e"
-}

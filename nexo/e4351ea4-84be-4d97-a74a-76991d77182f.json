@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion.pdf: Página 45\nPlanificación\nBúsqueda del plan en STRIPS\nDEJAR (A)\nbrazo-libre\nen-mesa (C) ^ libre (C) ^ brazo-libre\nLEVANTAR (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nsujeto(A)\nDEJAR (A)\nbrazo-libre\nen-mesa (C) ^ libre (C) ^ brazo-libre\nLEVANTAR (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\n",
-  "speaker": "SYSTEM",
-  "uuid": "e4351ea4-84be-4d97-a74a-76991d77182f"
-}

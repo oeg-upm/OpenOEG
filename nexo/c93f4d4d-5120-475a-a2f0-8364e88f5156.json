@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 35\n© O. Corcho, R.García-Castro, O. Muñoz-García\n35\nRDF and RDF Schema\nRDF Reification\n•\nRDF statements about other RDF statements\n–\n“Raúl believes that Oscar’s birthdate is on Feb 2nd, 1976 and that his e-mail \naddress is ocorcho@fi.upm.es”\n•\nRDF Reification\n–\nAllows expressing beliefs (and other modalities)\n–\nAllows expressing trust models, digital signatures,etc.\n–\nAllows expressing metadata about metadata\noeg:Raúl\noeg:Oscar\n“ocorcho@fi.upm.es”\n02/02/1976\nperson:hasEmailAddress\nmodal:believes\nperson:hasBirthDate\n",
-  "speaker": "SYSTEM",
-  "uuid": "c93f4d4d-5120-475a-a2f0-8364e88f5156"
-}

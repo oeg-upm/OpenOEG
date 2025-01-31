@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 10\n© O. Corcho\n10\nOntological Engineering\nRDF: Resource Description Framework\n•\nW3C recommendation (http://www.w3.org/RDF)\n•\nRDF is graphical formalism ( + XML syntax + semantics)\n–\nfor representing metadata\n–\nfor describing the semantics of information in a machine- accessible way\n•\nRDF is a basic ontology language\n–\nResources are described in terms of properties and property values using RDF \nstatements.\n–\nStatements are represented as triples, consisting of a subject, predicate and object. \n[S, P, O]\nOscar\nAsun\nhasColleague\nMariano\nhttp://www.fi.upm.es/\nhasColleague\nhasHomePage\n“Oscar Corcho García”\nhasName\n",
-  "speaker": "SYSTEM",
-  "uuid": "8e804827-b35f-477d-b7a4-bfed8e93c98c"
-}

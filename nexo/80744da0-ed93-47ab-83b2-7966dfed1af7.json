@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 18\nCOLIEE tasks: statute law\nRetrieval Task of Relevant Articles in Statute Law\nGiven a question Q and the entire Civil Code Articles, we have to\nretrieve a relevant set of ”S1, S2, ..., Sn” in Civil Code Articles\nwhich is useful for the entailment task.\nEntailment Task between Articles and a Question in Statute La\nGiven a question Q and relevant articles S1, S2, ..., Sn, we have to\ndetermine if the relevant articles entail/does not ”Q”.\n18\n",
-  "speaker": "SYSTEM",
-  "uuid": "80744da0-ed93-47ab-83b2-7966dfed1af7"
-}

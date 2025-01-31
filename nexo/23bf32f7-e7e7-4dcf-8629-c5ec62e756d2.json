@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 59\n© O. Corcho, R.García-Castro, O. Muñoz-García\n59\nRDF and RDF Schema\nExercise\n•Objective\n• Understand the features of RDF(S) for implementing ontologies, including its limitations\n•Tasks\n• Take the ontologies previously defined and create their graphs\n•\nFirst only include the vocabulary from the domain\n•\nThen include references to the RDF and RDFS vocabularies\n",
-  "speaker": "SYSTEM",
-  "uuid": "23bf32f7-e7e7-4dcf-8629-c5ec62e756d2"
-}

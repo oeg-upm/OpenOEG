@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RedesBayesianas_Introducci%C3%B3n.pdf: Página 16\nEl Teorema de Bayes\nSi un paciente tiene la enfermedad E, entonces un test T resulta\npositivo con probabilidad 0.95. Si la enfermedad no está\npresente el test es positivo con probabilidad 0.03. Si la\nprobabilidad de sufrir la enfermedad es 0.01, ¿Cual es la\nprobabilidad de que un paciente con un test positivo sufra la\nenfermedad?\nSi {Hi}i∈I es una colección de sucesos disjuntos dos a\ndos y cuya unión es el suceso seguro (U).\nP(Hj|B) =\nP(B|Hj).P(Hj)\n∑i∈I P(B|Hi)P(Hi)\nEn el caso del ejemplo,\nP(E|T+) =\nP(T+|E).P(E)\nP(T+|E).P(E)+P(T+|¬E).P(¬E) =\n0.95×0.01\n0.95×0.01+0.03×0.99 =\n0.0095/0.0392 = 0.2423\nUna Introducción a las Redes Bayesianas– p.14/??\n",
-  "speaker": "SYSTEM",
-  "uuid": "e9ebcdc1-f023-4a58-9d50-b52e4ffff078"
-}

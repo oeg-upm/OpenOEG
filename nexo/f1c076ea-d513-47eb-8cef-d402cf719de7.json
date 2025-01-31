@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 25\nRight Hand Side Annotations\n• LHS and RHS are separated by -->\n• Label matches that on the LHS\n• Annotation to be created follows the \nlabel\n(Annotation1):label -->\n:label.NewAnnotation =\n{feature1 = value1,      \nfeature2 = value2}\nJAPE RULES\n:email.Email = \n{rule = \"emailaddress\"}\n",
-  "speaker": "SYSTEM",
-  "uuid": "f1c076ea-d513-47eb-8cef-d402cf719de7"
-}

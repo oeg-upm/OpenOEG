@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: LinkedDataGeneration.pdf: Página 36\n36\n5. Data cleansing\n• URIs in Spanish\n• http://geo.linkeddata.es/ontology/Río\n- RDF allows UTF-8 characters for URIs\n- But, Linked Data URIs has to be URLs as well\n- So, non ASCII-US characters have to be %code\n• http://geo.linkeddata.es/ontology/R%C3%ADo\n6. Linking of the RDF Data\n• Silk - A Link Discovery Framework for \nthe Web of Data\nIdentification\nof the data sources\nVocabulary\ndevelopment\nGeoLinkedData\nDBPedia\nGeonames\np\nGeneration\nof the RDF Data\nPublication\nof the RDF data \nData cleansing\n• First set of links: Provinces of Spain\n- 86% accuracy\nLinking \nthe RDF data\nEnable effective \ndiscovery\n",
-  "speaker": "SYSTEM",
-  "uuid": "eb41f09f-09a1-4e57-a146-67c8761e7dd9"
-}

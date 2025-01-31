@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Metodolog%C3%ADa-2-v2.pdf: Página 13\nReusing Common Ontologies. \nOntology Customization and Integration\ngy\ng\nStep 6. Customize:\n•Prune the reused ontology according to the \nfeatures that are really necessary (e g convex\nfeatures that are really necessary (e.g. convex \nand not convex intervals).\n•Enrich the ontology (not needed in time \nontology).\n•Translate (e.g. from KIF to OWL).\n•Evaluate the obtaining ontology.\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón-Terrazas\n13\nOntological Engineering\nStep 7. Integrate\n",
-  "speaker": "SYSTEM",
-  "uuid": "b5f77175-990b-4605-b20d-1d70fd53e2e7"
-}

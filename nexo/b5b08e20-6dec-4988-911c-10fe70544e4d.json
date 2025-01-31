@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: MasterIA_Dic2009.pdf: Página 17\n17\nAnalogously to compute similarity between properties\nand between individuals.\nExample of Semantic Similarity between Classes:\nSemantic Measures: Similarity\nperformer\nstar\nco-star\nfilm star\nactor\nperformer\nlead\nfilm star\nidol\ntheatrical \nperformer\nstage player\nfilm\nfilm\nrole in\nleading role in\nacting in\nactor\nSim(starOntA, leadOntB) = 0.65\n",
-  "speaker": "SYSTEM",
-  "uuid": "b5b08e20-6dec-4988-911c-10fe70544e4d"
-}

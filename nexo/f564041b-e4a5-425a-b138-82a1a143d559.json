@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentationvictor.pdf: Página 32\nPROPOSAL. New Authoriser \n32 \n… \n• By Subsumption.  \n• Each permission is an individual of a Permission class. \n• Subclasses of Permission: AuthorisedPermission / DeniedPermission \n• AuthorisedPermission is a Defined class (variable with the context) \n• DeniedPermission as each Permission not belonging to AuthorisedPer. \n• Authorisation: a subsumption to classify the individual. \n• By Rule Execution \n• Each permission is an individual of a Permission class \n• A “bAuthorised” boolean datatype property is given to the permission \n• A SWRL rule contains the authorisation criterium \n• Authorisation: the execution of a the rule (a Horn clause) \n",
-  "speaker": "SYSTEM",
-  "uuid": "f564041b-e4a5-425a-b138-82a1a143d559"
-}

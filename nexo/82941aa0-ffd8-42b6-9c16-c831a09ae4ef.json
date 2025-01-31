@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OntoDDB.pdf: Página 10\n12/11/2009\nOWL-DB: Characteristics\n• EAV-based database\n– Tables for all OWL elements\n– Resources identified by internal ID\n• Statements table\n– Resources identified by URI\n– No order dependent\n• Statements as access point to the system\nCan be used by any application managing OWL statements\n• Propagation of information from statements table to \nrest of tables to ensure consistency\n– Triggers and procedures\n• API for external applications\n",
-  "speaker": "SYSTEM",
-  "uuid": "82941aa0-ffd8-42b6-9c16-c831a09ae4ef"
-}

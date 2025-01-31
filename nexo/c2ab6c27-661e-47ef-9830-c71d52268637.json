@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Marcos-II-asun.pdf: Página 27\nMarcos\nC i\ni\nd Di\nñ (III)\nCriterios de Diseño (III)\n8. No mezclar conceptos:\nUn viajero va a un Destino usando un Transporte que tiene un precio\nViajero\n(*) Nombre\n(*) Ed d\n(*) Edad\n(*) Destino\n(*) Precio\n(*) Nº Habitantes\nMezcla información\n(*) N  Habitantes\n....\nViajero\nMC Lugar\nViajero A\nViaja En \nNº Habitantes\n(*) Precio\nMC Transporte\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\n",
-  "speaker": "SYSTEM",
-  "uuid": "c2ab6c27-661e-47ef-9830-c71d52268637"
-}

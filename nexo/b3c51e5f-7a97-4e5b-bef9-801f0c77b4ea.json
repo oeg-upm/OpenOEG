@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: AMPER08_-_RDF%28S%29_access_APIs.pdf: Página 20\nRDF(S) Access APIs, May 2008\n20\n© García-Castro, Corcho, Muñoz-García\nHands-on\n• To read an ontology in RDF(S) from two files:\n– GP_Santiago.rdf (conceptualization)\n– GP_Santiago.rdfs (instances)\n• To write the class hierarchy of the ontology, including the \ninstances of each class:\nClass Practica2:MedioTransporte \nClass Practica2:Tren \nClass Practica2:Bicicleta \nInstance Practica2:GP_Santiago_Instance_70 \nClass Practica2:Automovil \nClass Practica2:AutoBus \nClass Practica2:APie \nClass Practica2:InfraEstructuraTransporte \nClass Practica2:ViaFerrea \nClass Practica2:Sendero \nClass Practica2:Carretera \nInstance Practica2:A6 \n...\n",
-  "speaker": "SYSTEM",
-  "uuid": "b3c51e5f-7a97-4e5b-bef9-801f0c77b4ea"
-}

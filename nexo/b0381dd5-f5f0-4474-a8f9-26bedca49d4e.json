@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 32\n38  \n“Count items per categories, for those categories having \nmore than one item” \nAggregates – Filtering Groups \n@prefix ex: <http://example.org/> . \n \nex:lemonade1    ex:price 3 ;  \n                rdf:type ex:Softdrink. \nex:beer1        ex:price 3; \n                rdf:type ex:Beer. \nex:wine1        ex:price 3.50 ; \n                rdf:type ex:Wine. \nex:wine2        ex:price 4 . \n                rdf:type ex:Wine. \nex:wine3        ex:price \"n/a”; \n                rdf:type ex:Wine. \nData: \nResults: \nPREFIX ex: <http://example.org/>  \nSELECT ?T (Count(?Item) AS ?C) \nWHERE { ?Item rdf:type ?T } \nGROUP BY ?T \nHAVING Count(?Item) > 1  \n \n?T \n?C \nWine \n3 \n",
-  "speaker": "SYSTEM",
-  "uuid": "b0381dd5-f5f0-4474-a8f9-26bedca49d4e"
-}

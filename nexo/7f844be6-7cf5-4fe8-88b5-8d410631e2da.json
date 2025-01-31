@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ontologias-multilingualidad_wiki_24-01-08.pdf: Página 24\n©Guadalupe Aguado de Cea\n24\nMultilingualidad en los SBC \n3. Representación del conocimiento\n• Datos: instancias o individuos, nivel inferior de la RC \n(Mickey, Minnie, Pluto, Madroño…)\n• Modelo: nivel intermedio y representa la estructura de los \ndatos. (Ontología de Animales de ficción y Ontología de \nAnimales Reales…)\n• Metamodelo: nivel superior y representa la estructura del \nmodelo. (Ontología que se compone de conceptos, \nrelaciones…)\n• Mapping: Relación entre elementos de conjuntos diferentes: \ndos ontologías, una ontología y una BD, etc.\n",
-  "speaker": "SYSTEM",
-  "uuid": "7f844be6-7cf5-4fe8-88b5-8d410631e2da"
-}

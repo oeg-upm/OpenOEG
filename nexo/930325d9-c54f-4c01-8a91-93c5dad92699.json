@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 9\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nBase de Hechos (BH) \nRepresenta el estado actual de la tarea o problema \n\nBase de Hechos Inicial: situación inicial \n\nBase de Hechos Final: situación objeto (puede haber más de uno) \n\nBase de Hechos Intermedias: situación actual o en curso de resolución \nParte de la BH es permanente, otra es temporal (pertenece a la solución del problema en curso). \nSintaxis:  \n\n Cada elemento  de la BH debe ir encerrado entre paréntesis \n\n Sólo hay constantes en la BH \n \n(Casilla 3 3 Roja) : En la casilla (3 3) hay una ficha de color rojo \n                   (Fiebre Pepe 37,5): La fiebre de Pepe es de 37,5 \nContiene conocimiento declarativo. \nLa ejecución de reglas modifica la BH al añadir o borrar hechos en ella. \n(Animal Tucky)  \n(Animal Piolín)  \n(Esqueleto Piolín sí)  \n(Esqueleto Tucky sí)  \n(ladra Tucky) \n",
-  "speaker": "SYSTEM",
-  "uuid": "930325d9-c54f-4c01-8a91-93c5dad92699"
-}

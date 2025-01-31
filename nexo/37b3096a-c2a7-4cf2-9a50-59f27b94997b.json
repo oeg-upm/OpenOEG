@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reengineering_NOR_hands-on.pdf: Página 8\nExercise 2\n• CEPA94, Classification of Environmental Protection \nActivities (1994), is a classification scheme, which \nfollow a path enumeration data model, and \nimplemented in a database.\n• Copy the content of the directory \n8\n© A Method for Re-engineering Non-Ontological Resources for Building Ontologies \nBoris Villazón-Terrazas, Mari Carmen Suárez Figueroa\n• Copy the content of the directory \nATHENS\\handson\\resources\\cepa\\ into the prnor \ndirectory.\n• Create an ODBC connection to the cepa.mdb\n",
-  "speaker": "SYSTEM",
-  "uuid": "37b3096a-c2a7-4cf2-9a50-59f27b94997b"
-}

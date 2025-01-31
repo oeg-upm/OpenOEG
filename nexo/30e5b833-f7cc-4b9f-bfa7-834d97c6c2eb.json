@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2022.10.AI4LABOUR.pdf: Página 5\nAI4LABOUR Secondment\nThe Idea\n5\n1. Predict if a person will loose their job because of AI.\n2. Analyse the extra skills this person will need for a new job.\n3. Recommend training for aquiring these new skills.\nFor doing this, it is needed to model the relation among:\n- Person\n- Job\n- Skill\n- Training\n",
-  "speaker": "SYSTEM",
-  "uuid": "30e5b833-f7cc-4b9f-bfa7-834d97c6c2eb"
-}

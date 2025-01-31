@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Re-engineer_NOR.pdf: Página 23\nNon-Ontological Resource Re-engineering (II)\nReverse Engineering\n(abstraction)\nForward Engineering\n(refinement)\n(alteration)\nRe-Think\nRe-Specify\nRe-Design\nRe-Code\nCon-\nceptual\nRequirements\nDesign\nImplementation\nRequirements\nDesign\nImplementation\nCon-\nceptual\nExisting System\nTarget System\nGeneral Model for Software Reengineering\n23\n1)\nThe conceptual level describes in general terms the functional characteristics of the system; \n2)\nThe requirement level is the specification of the problem being solved; \n3)\nThe design level is the specification of the solution; and \n4)\nThe implementation level refers to the coding, testing and delivery of the operational system\n© A Method for Re-engineering Non-Ontological Resources for Building Ontologies \nBoris Villazón-Terrazas, Mari Carmen Suárez Figueroa\n",
-  "speaker": "SYSTEM",
-  "uuid": "d5f3d765-9751-4a16-86f3-f2680c902fe2"
-}

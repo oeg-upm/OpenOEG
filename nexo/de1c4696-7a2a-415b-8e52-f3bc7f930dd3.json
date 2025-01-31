@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Metodolog%C3%ADa-1-v1%28asun%29.pdf: Página 36\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n39\nOntological Engineering\nAn example of  Competency Questions\nFind all the job offers  demanding researchers working on semantic web projects\nIdentify Queries:\nQuestions:  Job offers, Researcher, Project, \ndemand, type-of-Project \nAnswers:  Job1, Job2, ...\nClasses: Job Offer,  Researcher, Person, \nProject, \nRelations: demand, demanded-by\nAttributes: Type of Project\nAxioms: For all...\nInstances: Job1, Job2, ...\nEach project has a \nproperty storing  its type\n•Taxonomy of Topics\n•There exist a relation that connects \nprojects and topics\nIdentify Queries:\nQuestions: Job offers, Researcher, Project, \ndemand, type-of-Project \nSemantic Web Topics, main-topics \nAnswers:  Job1, Job2, ...\nClasses: Job Offer, Researcher, Person, Project, \nTopics, Ontologies, mark-up languages,\nsemantic web services, annotations, ...\nRelations: demand, main-topics, topic-of \nAttributes: ---\nAxioms: For all ........ \nInstances:job 1, job2, ...\n",
-  "speaker": "SYSTEM",
-  "uuid": "de1c4696-7a2a-415b-8e52-f3bc7f930dd3"
-}

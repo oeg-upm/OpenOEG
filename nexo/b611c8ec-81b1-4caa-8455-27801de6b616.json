@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Fpriyatna-oeg-201403.pdf: Página 12\nEvaluation: Synthetic Benchmark\n12\nIntroduction\nQuery Translation\nEvaluation\nConclusion\n●\nSimilar performance for \nqueries types (N, C, SQE, \nSJE, SQE+SJE) for most \nqueries\n●\nNon-corelated subquery \nelimination\n●\nJoins over indexes \ncolumns\n●\nQ04\n●\nN: correlated subquery\n●\nOthers: joins\n●\nQ05\n●\nJoin order\n●\nNative queries should have \nbeen better optimized\n●\nDiverse type of \noperators/patterns\n●\nDiverse type of \nsolution modifiers\n●\nCombination between \nlow/high selectivity\n●\n100 millions triples\n●\n10 SELECT queries\n●\nNative (N)\n●\nNaive (C)\n●\nSubquery \nElimination (SQE) \n●\nSelfjoin Elimination \n(SJE)\n●\nSQE+SJE\n●\n20 run for each \nquery\n",
-  "speaker": "SYSTEM",
-  "uuid": "b611c8ec-81b1-4caa-8455-27801de6b616"
-}

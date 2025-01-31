@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ClaseGLD-v3%28boris-asun%29.pdf: Página 38\nDescription \nThe software library needs three configuration files: \n \n1. nor.xml that contains the description of the non-\nontological resource and includes: \n \n \n- The schema entities of the resource and the relationships \namong the entities are described in the Schema section. \n \n \n- The descriptions of the resource’s internal data model are \nincluded in the DataModel section. \n \n \n- The information needed to physically access the resource \nis defined in the Implementation section. \n \n \n \n45 \n",
-  "speaker": "SYSTEM",
-  "uuid": "102d5294-36e3-4460-9a72-1fd1f98f18f6"
-}

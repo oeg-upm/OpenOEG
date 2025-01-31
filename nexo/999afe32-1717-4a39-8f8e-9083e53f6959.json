@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Metodolog%C3%ADa-1-v1%28asun%29.pdf: Página 55\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n58\nOntological Engineering\nSeveral Ontology Life Cycle Models \ncould be possible\n Assumption: Ontology requirements are known at the begining of the\nontology development project.\n Assumption: Ontology requirements can be not known at the begining of the\nontology development project and can change during the project.\nEvolving Prototyping \n Assumption: Uncertainties in the ontology requirements can derive into risks\nin the project.\nRisks can be:\n\nProperties became classes\n\nMove from frames to DL\n\nReuse new existing resources\nWaterfall\nSpiral\nIncremental\nIterative\n",
-  "speaker": "SYSTEM",
-  "uuid": "999afe32-1717-4a39-8f8e-9083e53f6959"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Hypernym-3.pdf: Página 15\nHypernym Detection\nApproaches\n15\nApproaches for Hypernym detection from text:\n3) Machine Learning Based Approaches\nUsing Dependency Paths between known known hypernym pairs to train a \nclassifier (Snow et al. 2005, Sheena et al. 2016)\nTrain\nHypernym Classifier\nTakes dependency path \nbetween two words as input \nand classifies it as Hypernym \nor not\n",
-  "speaker": "SYSTEM",
-  "uuid": "f388c02f-ea2b-45a4-b06b-37c38e5327ec"
-}

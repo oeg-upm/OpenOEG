@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RicoMayo2018.pdf: Página 12\nFeatures\n• Instance-based features\n• Direct: M1, M2, M3, M4. Values: integer\n• M1: Number of resources with dbo:elevation in EN DBpedia that have dbo:height in ES \nDBpedia\n• M2: Number of resources with dbo:elevation in EN that have dbo:height in ES and the \nobject values are identical (equivalent).\n• M3 (false positives in M2): Number of resources in EN that are also in ES, having same \nobject, but different property. E.g. people can have same dbo:birthPlace and \ndbo:deathPlace but this doesn't mean that dbo:birthPlace and dbo:deathPlace are the \nsame property or are wrongly mapped. Another example: people who is actor and \nproducer (dbo:directedBy and dbo:actor).\n• M4 (EN): Number of resources in EN with dbo:elevation and dbo:height (wrong \nmapping) vs. dbo:birthPlace and dbo:deathPlace (different relations)\n• M4 (ES): analogous to M4(EN) but for ES\n",
-  "speaker": "SYSTEM",
-  "uuid": "bf7e2c03-7be2-46e8-b749-ae8bd626fc6e"
-}

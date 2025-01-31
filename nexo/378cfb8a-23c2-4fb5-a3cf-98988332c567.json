@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Hiroaki_Yamada_talk_Jan19.pdf: Página 23\nWrap-up\n• The CRF is still the best among all models.\n• Fine-tuning could improve the performance.\n• Weights that are trained with unlabeled judgment \ndocuments help models.\n• The model that consider inter-sentence context \nimprove the result.\n• Next, I will conduct the full experiment with\nadditional (31 documents) and hyperparameter \ntuning.\n24\n",
-  "speaker": "SYSTEM",
-  "uuid": "378cfb8a-23c2-4fb5-a3cf-98988332c567"
-}

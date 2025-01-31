@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: AMPER08_-_Introduction_to_SPARQL.pdf: Página 25\nRDF(S) Access APIs, May 2008\n25\n© García-Castro, Corcho, Muñoz-García\nRestricting values\n@prefix dc:   <http://purl.org/dc/elements/1.1/> .\n@prefix :     <http://example.org/book/> .\n@prefix ns:   <http://example.org/ns#> .\n:book1  dc:title  \"SPARQL Tutorial\" .\n:book1  ns:price  42 .\n:book2  dc:title  \"The Semantic Web\" .\n:book2  ns:price  23 .\nPREFIX  dc:  <http://purl.org/dc/elements/1.1/>\nSELECT  ?title\nWHERE   { ?x dc:title ?title\nFILTER regex(?title, \"^SPARQL\")\n}\ntitle\n\"SPARQL Tutorial\"\nPREFIX  dc:  <http://purl.org/dc/elements/1.1/>\nSELECT  ?title\nWHERE   { ?x dc:title ?title\nFILTER regex(?title, \"web\", \"i\" )\n}\ntitle\n\"The Semantic Web\"\nPREFIX  dc:  <http://purl.org/dc/elements/1.1/>\nPREFIX  ns:  <http://example.org/ns#>\nSELECT  ?title ?price\nWHERE   { ?x ns:price ?price .\nFILTER (?price < 30.5)\n?x dc:title ?title . }\ntitle\nprice\n\"The Semantic Web\"\n23\n",
-  "speaker": "SYSTEM",
-  "uuid": "0a2c43c6-6aa5-4c86-93e9-6977838fb8cd"
-}

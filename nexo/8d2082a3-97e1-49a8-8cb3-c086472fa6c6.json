@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Marcos.pdf: Página 63\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nDISTANCIA INFERENCIAL   (TOURETZKY)\nC\np: no\nA\np: ??\nB\np: si\n:\n:\nSubClase\nSubClase\nSubClase\nSubClase\na) A tiene p.\nDEFINICIÓN:\nLa Condición necesaria y suficiente para que la clase A \nesté más cercana a la clase B que a la clase C, es que la \nclase A tenga un camino de inferencia a través de la \nclase B hacia la clase C.\nS\nu\nb\nC\nl\na\ns\ne\nd\ne\nCamino \nde inferencia\n",
-  "speaker": "SYSTEM",
-  "uuid": "8d2082a3-97e1-49a8-8cb3-c086472fa6c6"
-}

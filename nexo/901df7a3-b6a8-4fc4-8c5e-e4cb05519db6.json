@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Data-integration_meeting_20100122 \n\nInfraestructura hardware (new server + possibility of using the Supercomputing Centre in Castilla y León).\nLinked Data para la base de datos BTN25 del IGN\nCreación de mappings (Luis)\nCreación de Linked Data a partir de los mappings (Freddy)\nComparación con otros enfoques (Triplify, D2R Server, etc.) – Todos (aquí hay una buena oportunidad de publicación pues no hay official guideline sobre qué alternativa es la mejor). Material:\nhttp://spreadsheets.google.com/ccc?key=0AmmQi1xrpbmfdGN2eW9sbHFMWk40TmVxYnZPeUstelE&hl=en\nPublicación de datos en la plataforma más adecuada (Talis, Virtuoso, etc.) – Alex\nNuevas ideas, planes de todos en investigación y en desarrollo, etc.",
-  "speaker": "SYSTEM",
-  "uuid": "901df7a3-b6a8-4fc4-8c5e-e4cb05519db6"
-}

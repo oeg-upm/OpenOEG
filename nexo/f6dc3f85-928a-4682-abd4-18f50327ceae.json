@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OWL.pdf: Página 20\n© O. Corcho, MC Suárez de Figueroa Baonza \n20 \nOWL 2 \nChunk 2. Formalisation in DL \nhasParent\nhasFather\nhasParent\nhasMother\nadult\nyoung\ncat\nhasPet\nanimal\nhasPet\noldLady\nelderly\nfemale\nperson\noldLady\nadult\nperson\ngrownUp\nadult\nfemale\nperson\nwoman\nadult\nmale\nperson\nman\nyoung\nperson\nkid\nadult\nperson\nelderly\ncompany\npany\nhaulageCom\ncompany\nbusCompany\nvehicle\ntruck\nvehicle\nlorry\nvehicle\ncar\nvehicle\nbus\nvehicle\nbicycle\n⊆\n⊆\n⊆⊥\n∩\n∀\n∩\n∃\n⊆\n∩\n∩\n≡\n∩\n≡\n∩\n∩\n≡\n∩\n∩\n≡\n∩\n≡\n∩\n⊆\n⊆\n⊆\n⊆\n⊆\n⊆\n⊆\n⊆\n.\n.\n;\n;\n;\n;\n;\n",
-  "speaker": "SYSTEM",
-  "uuid": "f6dc3f85-928a-4682-abd4-18f50327ceae"
-}

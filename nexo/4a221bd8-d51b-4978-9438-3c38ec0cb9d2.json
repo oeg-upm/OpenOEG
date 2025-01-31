@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 71\nWeb Ontology Language\nReasoning\nCheck consistency of an ontology\nNot satisfiable classes cannot have any individual (There is no individual \nthat can satisfy the axioms)\nAn ontology becomes inconsistent if we state that a not satisfiable class \nhas an individual\nIn an inconsistent ontology, not satisfiable classes are subclasses of \nowl:Nothing\nAutomated reasoning cannot be performed in an inconsistent ontology\nAn inconsistent ontology usually means that we have modelled something \nwrong\n",
-  "speaker": "SYSTEM",
-  "uuid": "4a221bd8-d51b-4978-9438-3c38ec0cb9d2"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2_Ontolog%C3%ADas-long.pdf: Página 17\n©Asunción Gómez-Pérez\n11/10/2007 11:08 - 17\nPrimitivas necesarias para modelizar \nconocimientos disjuntos en taxonomías\nclass-Partition: Conjunto de clases que son disjuntas entre sí\nDisjoint:  un conjunto de clases que son disjuntas entre sí son subclase de una clase padre\nExhaustive-Disjoint:  un conjunto de clases que son disjuntas entre sí son subclase de una clase padre \ny el conjunto de clases definen completamente a la clase padre.\n",
-  "speaker": "SYSTEM",
-  "uuid": "b85ed247-a7ed-4e51-92e0-4f738e7522ea"
-}

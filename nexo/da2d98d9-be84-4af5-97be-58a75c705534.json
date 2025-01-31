@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Master_I_AI_Terminology_in_ontologies_28-10-09%284%29.pdf: Página 56\n56\nData Models (I)\n• Path Enumeration Data Model is defined as a \nmodel that, for each node, it stores the path (as a \nstring) from the root to the node. \nWater area\n20000\nEnvironmental \narea\n20000.21000\nJurisdiction \narea\n20000.24020\nFishing\nStatistical area\n20000.22000\nInland/marine\n20000.21000.21001\n1\n2\n3\n1\n2\n3\n• \nAdjacency  List is a recursive structure for \nhierarchical representations that comprises a \nlist of nodes with a linking column to their \nparent nodes.\nWater area\n20000\nEnvironmental \narea\n21000\nJurisdiction \narea\n24020\nFishing\nStatistical area\n22000\nInland/marine\n21001\nOcean\n21002\nNorth/South/\nEquatorial\n21003\nFAO statistical \narea\n22001\nAreal\ngrid system\n22002\nFAO statistical area\n20000.22000.22001\nAreal grid system\n20000.22000.22002\nOcean\n20000.21000.21002\nNorth/South/\nEquatorial\n20000.21000.21003\n",
-  "speaker": "SYSTEM",
-  "uuid": "da2d98d9-be84-4af5-97be-58a75c705534"
-}

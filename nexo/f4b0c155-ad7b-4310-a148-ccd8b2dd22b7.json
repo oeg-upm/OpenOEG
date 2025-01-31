@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: BUSQUEDA.pdf: Página 69\nBÚSQUEDA \n \n69 \nJ. Rubio / P.R. Muro / J. Bañares \n \nOctubre 2004 - Curso 2004-2005 \nAnalicemos las propiedades de la búsqueda en profundidad. En primer lugar, \nhagamos notar que, en los casos en que la búsqueda en profundidad encuentre un \ncamino solución, nada nos asegura que dicho camino solución sea de longitud \nmínima. Véase en el árbol de estados de la figura 6 (estado inicial: I, únicos estados \nobjetivo: O1 y O2), cuyo árbol de búsqueda en profundidad (con expansión de \nizquierda a derecha) aparece en la figura 7. \nI \nA \nB \nO1\nC \nO2\nD \nE \nF  \nFigura 6 \nI \nA \nB \nC \nD \n1 \n2 \n3 \nO1\n4 \n \nFigura 7 \nEjercicio. Comprobar que la búsqueda en profundidad con expansión de derecha a \nizquierda aplicada a la figura 6, sí encuentra el camino solución de longitud mínima. \n",
-  "speaker": "SYSTEM",
-  "uuid": "f4b0c155-ad7b-4310-a148-ccd8b2dd22b7"
-}

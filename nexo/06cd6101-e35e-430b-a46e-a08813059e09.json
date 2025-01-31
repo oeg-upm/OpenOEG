@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_Introducci%C3%B3nLinkedData_Boris.pdf: Página 10\nThe four principles (Tim Berners Lee, 2006)\n1.\nUse URIs as names \nfor things \n• http://www.w3.org/D\nesignIssues/Linked\n2.\nUse HTTP URIs so \nthat people can look \nup those names.\ng\nData.html\nup those names. \n3.\nWhen someone looks \nup a URI, provide \nf l i f\nti\nhttp://www.ted.com/talks/tim_berners_lee_on_the_next_web.html\nhttp://www.ted.com/talks/tim_berners_lee_on_the_next_web.html\nuseful information, \nusing the standards \n(RDF*, SPARQL) \n(\n)\n4.\nInclude links to other \nURIs, so that they can \ndiscover more things\ndiscover more things. \n10\n",
-  "speaker": "SYSTEM",
-  "uuid": "06cd6101-e35e-430b-a46e-a08813059e09"
-}

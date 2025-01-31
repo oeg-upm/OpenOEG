@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Helio.pdf: Página 32\nSet your title here in Slide Master Options\nPublisher\nHelio Virtualizer \nHelio Scenario 3: Data Integration\n32\nSPARQL \nResources \nDump \nCSV \nCsvDatasource\nHelio Linker \nHelio Virtualizer \nCSV \nCsvDatasource\nURL\nConnector\nLocalFile \nConnector\nHelio Virtualizer \nJSON \nJsonDatasource\nGet \nConnector\nLinking \nCleaning \nRDF generation \nReal Time data \nHelio Virtualizer \nHTML \nHtmlDatasource\nGet \nConnector\n",
-  "speaker": "SYSTEM",
-  "uuid": "fc27c157-eb87-46da-8c4f-ed25ae026c74"
-}

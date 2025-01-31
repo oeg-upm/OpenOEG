@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Protege-Pizzas-v5.pdf: Página 34\n© O. Corcho, MC Suárez de Figueroa Baonza\n34\nOWL and SWRL\nUniversal Restrictions (I)\nAll of the restrictions that we have created so far have been\nexistenctial ones (some).\nHowever, existential restrictions do not mandate that the only\nrelationships for the given property that can exist must be to\nindividuals that are members of the specified filler class. To restrict\nthe relationships for a given property to individuals that are\nmembers of a specific class we must use a universal restriction.\nUniversal restrictions constrain the relationships along a given\nproperty to individuals that are members of a specific class.\nFor\nexample\nthe\nuniversal\nrestriction\nhasTopping\nMozzarellaTopping\ndescribes\nthe\nindividuals\nall\nof\nwhose\nhasTopping\nrelationships\nare\nto\nmembers\nof\nthe\nclass\nMozzarellaTopping.\n\n",
-  "speaker": "SYSTEM",
-  "uuid": "8c49a4b1-136d-4d8a-a9e3-3a303dedd49b"
-}

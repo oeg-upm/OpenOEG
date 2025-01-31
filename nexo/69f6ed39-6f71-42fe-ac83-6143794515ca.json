@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 21\nWeb Ontology Language\nOWL semantics\nIn OWL there is no Unique Name Assumption (UNA)\nThe fact that two entities have different URIs does not imply \nthat they are different entities\nWe have to explicitly assert, if we want to, that two entities are \ndifferent from each other \nIn the (Semantic) Web, different resources talk about the same \nentity\n!!!\n",
-  "speaker": "SYSTEM",
-  "uuid": "69f6ed39-6f71-42fe-ac83-6143794515ca"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Protege-Pizzas-v5.pdf: Página 5\n© O. Corcho, MC Suárez de Figueroa Baonza\n5\nOWL and SWRL\nDisjoint Classes (II)\nMaking the classes Pizza, PizzaTopping and PizzaBase disjoint\nfrom one another.\nThis means that it is not possible for an individual to be a member of a combination of\nthese classes – it would not make sense for an individual to be a Pizza and a PizzaBase.\nAdd Disjoint Classes\n",
-  "speaker": "SYSTEM",
-  "uuid": "3e711b83-4ccc-44c4-8149-b7ac2bb42f15"
-}

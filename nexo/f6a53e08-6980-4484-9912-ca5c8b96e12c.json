@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: NLP.Dissociating_language_and_thought_in_large_language_models.pdf: Página 40\n5. Building models that think like humans\nCurated data en diverse objective functions (1/2)\nLos enormes corpus lingüísticos “naturalísticos” de entrenamiento de los \nLLMs son insuficientes porque:\n• Sesgado hacia propiedades de bajo nivel del input => el \ncomportamiento del modelo cambia dependiendo del prompt.\n• Información sesgada: falta de CS y de eventos inusuales.\n• Incentiva aprender patrones de textos (con varios niveles de \nabstracción), pero limita la generalización out-of-distribution.\n* Además, la cantidad de datos para que emerjan capacidades no \nlingüísticas es absurdamente grande e ineficiente.\n",
-  "speaker": "SYSTEM",
-  "uuid": "f6a53e08-6980-4484-9912-ca5c8b96e12c"
-}

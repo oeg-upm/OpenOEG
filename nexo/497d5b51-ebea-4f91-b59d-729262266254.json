@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentacion_WORKS-yg-dgV1.pdf: Página 9\n8 \nOPMW Ontology \nopmo:account \nopmo: \naccount \nopmo: account \nopmw:ProcessTemplate \ntemplateNode1 \nopmw: \nWorkflowTemplate \ntemplate1 \nopmw: \nArtifactTemplate \nartifact1 \nopmw: \nArtifactTemplate \noutputArtifact1 \nac:AbstractComponent \nabsComp1 \nopmw:ProcessInstance\nexecutionNode1 \nopmw: \nArtifactInstance \nexecInput1 \nopmw: \nArtifactInstace \nexecutionOutput1 \nac:SpecificComponent \nspecComp1 \nopmw: \nExecutionAccount \naccount1 \nAbstract Workflow \nExecutable Workflow \nopmv: \nAgent \nuser1 \nopmo:account \nopmo:hasArtifact \nopmo: \nhasArtifact \nopmw:hasWorkflowTemplate \nopmw:hasArtifactTemplate \nopmw:hasProcessTemplate \nopmw: hasArtifactTemplate \nopmv: \nwasGeneratedBy \nopmv:wasGeneratedBy \nopmv:used \nopmv:used \nopmv:wasControlledBy \nopmw:hasSpecificComponent \nopmw:hasTemplateComponent \nopmo: \nhasProcess \nopmv:Process \nopmv:Artifact \nopmv:Artifact \nopmo: \nAccount \nopmo: \nOPMGraph \nopmv:Process \nopmv:Artifact \nopmv:Artifact \n",
-  "speaker": "SYSTEM",
-  "uuid": "497d5b51-ebea-4f91-b59d-729262266254"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_OWL.pdf: Página 78\n© O. Corcho, MC Suárez de Figueroa Baonza\n78\nOWL and SWRL\nHints\n• Create ontology model:\npublic static OntModel \ncreateOntologyModel(OntModelSpec spec)\n• Read the ontology in the file\nModel read(java.lang.String url)\n• Add all the statements in another model to this model \nModel add(Model m)\n",
-  "speaker": "SYSTEM",
-  "uuid": "c70e24f4-8821-43e0-9a1d-3fa23657492e"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OntoDDB.pdf: Página 21\n12/11/2009\nOWL-DB OntoLoad\n• Module for loading NEW ontologies on \ndatabase\n• OWL file as input\n• Use of Jena API for ontology management\n• Statements as means of communication \nwith repository\n• Capacity to load large ontologies\n– NCI ontology: 500.000 statements\n",
-  "speaker": "SYSTEM",
-  "uuid": "2e90fada-0d36-4512-a178-51b151b81779"
-}

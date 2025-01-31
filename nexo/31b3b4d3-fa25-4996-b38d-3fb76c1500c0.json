@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2023.10.Hallucinations.pdf: Página 11\nTrain dataset (model-agnostic)\nJson con array con:\n{\"hyp\": \"Don't worry, it's only temporary.\",\n\"tgt\": \"Don't worry. It's only temporary.\",\n\"src\": \"\\u041d\\u0435 \n\\u0432\\u043e\\u043b\\u043d\\u0443\\u0439\\u0441\\u044f. \n\\u042d\\u0442\\u043e \n\\u0442\\u043e\\u043b\\u044c\\u043a\\u043e \n\\u0432\\u0440\\u0435\\u043c\\u0435\\u043d\\u043d\\u043e.\", \n\"ref\": \"either\",\n\"task\": \"MT\",\n\"model\": \"“\n}\nSiempre ruso en MT!!!\nEn el csv se ve\n“Не волнуйся. Это только \nвременно.”\nEither, src or tgt\nunlabeled-training-data-v1\n30k\n",
-  "speaker": "SYSTEM",
-  "uuid": "31b3b4d3-fa25-4996-b38d-3fb76c1500c0"
-}

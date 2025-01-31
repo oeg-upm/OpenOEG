@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ModelosRazonam_DynaLearn_Nov2011.pdf: Página 29\nQ2 – human-based evaluation\n•\nTested 909 English labels covered by DBpedia, randomly \nselected from DynaLearn glossaries \n•\nAsked 8 expert evaluators, each one evaluated between 200-\n300 groundings. Each grounding was double-evaluated\nHULL’S EXPERIMENT\n•\nQuestion: For each grounded term, are all its relevant meanings \ncontained in the set of grounding candidates? If yes, mark the \nrelevant ones.\n29\nAccuracy\n(Average)\nprecision@1st \n(Average)\n83%\n76%\nInter-evaluator Agreement Level (Average)\nAgreem.1 \n(chosen\ngrounding)\nAgreem.2 (existence of \nsuitable grounding)\nCohen's\nKappa\n78%\n85%\n0,47\n",
-  "speaker": "SYSTEM",
-  "uuid": "f6eaae03-6e58-4a85-a833-3d9148d4c69b"
-}

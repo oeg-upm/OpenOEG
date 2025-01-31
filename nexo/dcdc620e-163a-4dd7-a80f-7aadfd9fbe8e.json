@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 44\nSome current (partial) SPARQL1.1 implementations: \n• \nARQ \n• \nhttp://sourceforge.net/projects/jena/ \n• \nhttp://sparql.org/sparql.html \n• \nOpenAnzo \n• \nhttp://www.openanzo.org/ \n• \nPerl RDF \n• \nhttp://github.com/kasei/perlrdf/ \n• \nCorese \n• \nhttp://www-sop.inria.fr/teams/edelweiss/wiki/wakka.php?\nwiki=CoreseDownloads \n• \netc. \nOthers probably forthcoming… \n• \nLoads of SPARQL1.0 endpoints around \n• \nDbpedia: http://dbpedia.org/snorql/ \n• \nDBLP: http://dblp.l3s.de/d2r/snorql/ \n• \nEtc. \n52 \nOntological Engineering Group \nImplementations of SPARQL 1.1 Query: \n",
-  "speaker": "SYSTEM",
-  "uuid": "dcdc620e-163a-4dd7-a80f-7aadfd9fbe8e"
-}

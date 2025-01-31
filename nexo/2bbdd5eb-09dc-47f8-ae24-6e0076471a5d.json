@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01a.FormalismosRepresentaci%C3%B3n.pdf: Página 3\nKnowledge Representation Formalisms. A Summary \n• \nKnowledge representation \n• \nTo store knowledge so that programs can process it and achieve the \nverisimilitude of human intelligence \n• \nKnowledge representation formalisms/techniques \n• \nOriginated from theories of human information processing.  \n• \nSince knowledge is used to achieve intelligent behavior, the fundamental \ngoal of knowledge representation is to represent knowledge in a manner as \nto facilitate inferencing i.e. drawing conclusions from knowledge. \n• \nSome examples are: \n•  First order logic \n•  Semantic networks and conceptual maps \n•  Frames \n•  Description logic \n•  Production rules \n•  Fuzzy logic \n•  Bayesian networks \n•  Etc. \nThese are the ones  \nthat we will analyse \n",
-  "speaker": "SYSTEM",
-  "uuid": "2bbdd5eb-09dc-47f8-ae24-6e0076471a5d"
-}

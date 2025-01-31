@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 40\nLSTMs 3\nThe key of these NN is the cell state\nacts like a conveyor belt: information easily flow along it \nunchanged\nLSTM can remove or add information to the cell state \nregulated by structures called gates\ncomposed out of a sigmoid neural net layer and a pointwise \nmultiplication operation\na value of zero in the gate output means “let nothing through,” \nwhile a value of one means “let everything through!”\n40\n",
-  "speaker": "SYSTEM",
-  "uuid": "2008b3c9-ae72-4c45-a795-4cd8a3e8184c"
-}

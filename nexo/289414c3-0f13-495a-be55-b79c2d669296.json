@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 114\n© O. Corcho, R.García-Castro, O. Muñoz-García\n114\nRDF and RDF Schema\nPREFIX ent:  <http://org.example.com/employees#>\nDESCRIBE ?x WHERE { ?x ent:employeeId \"1234\" }\n@prefix foaf:   <http://xmlns.com/foaf/0.1/> .\n@prefix vcard:  <http://www.w3.org/2001/vcard-rdf/3.0> .\n@prefix exOrg:  <http://org.example.com/employees#> .\n@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix owl:    <http://www.w3.org/2002/07/owl#>\n_:a     exOrg:employeeId    \"1234\" ;\nfoaf:mbox_sha1sum   \"ABCD1234\" ;\nvcard:N\n[ vcard:Family       \"Smith\" ;\nvcard:Given        \"John\"  ] .\nfoaf:mbox_sha1sum  rdf:type  owl:InverseFunctionalProperty .\nQuery result:\nSPARQL query forms: DESCRIBE\n",
-  "speaker": "SYSTEM",
-  "uuid": "289414c3-0f13-495a-be55-b79c2d669296"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Marcos.pdf: Página 46\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nOrdenación Topológica: Paso 1\nCrear una lista de nodos recorriendo EN PROFUNDIDAD , EXHAUSTIVAMENTE , IZQ.-DCHA.\ntodos los caminos del grafo que van desde el nodo instanciado hacia el nodo raíz\nMickey Mouse\nRatón Macho\nRatón\nAnimal\nAnimal Macho\nRatón Walt Disney\nRatón Ficción\nAnimal Ficción\nRatón Dibujos Animados\nRatón\nN. patas =4\nAnimal\nAnimal\nMacho\nAnimal\nFicción\nRatón\nMacho\nRatón de\nFicción\nRatón\nWalt Disney\nRatón\nDibj. \nAnimados\nM\nMickey\nMouse\nInstancia\nInstancia\nInstancia\nInstancia\nSubClase\nSubClase\nSubClase\nSubClase\nSubClase\nSubClase\nSubClase\nSubClase\nN. patas = 2\n",
-  "speaker": "SYSTEM",
-  "uuid": "e5fc9e92-b85a-481a-a892-0159f5cebd10"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 19\nWhat makes a good #selfie [6]\nBased on 1 million good and 1 million bad selfies\nInteresting (general) data gathering\nscript to gather #selfie number of likes as a \nfunction of the audience size, selfies  online more \nthan a month to ensure stable like count, filtered \npeople with too few followers or too many \nfollower…\nConvNets again (with Caffe)\nyou feed them images of whatever you like \n(along with some labels)\nThe DNN allows to rate a selfie (online)\nOr finding the optimal crop for a selfie picture\nOr (manually) find patterns in the best selfies\nBe female!\nFace = 1/3 of image\nDon't show entire forehead (???)\nShow long hair\n….\n19\n",
-  "speaker": "SYSTEM",
-  "uuid": "e045c759-540a-4a0f-a863-2b6300058e56"
-}

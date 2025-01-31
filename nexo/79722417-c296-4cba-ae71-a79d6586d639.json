@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SPARQL_Streams.pdf: Página 5\nC-SPARQL Evaluation\nQuery Processing\nStored RDF processed by triple store\nSteaming RDF processed by STREAM using CQL and \nmapping tuples to triples (Esper in fact, not STREAM/CQL)\nQuery Stack\nGenerate Operator Graph\nPlaces window immediately above stream source\nAdds operators: stream, window, aggregate, filter\nGenerate Denotational Graph\nDistinguish static from streaming data\nOptimise\nPush σ/π down – not pushed all the way\nD. F. Barbieri, D. Braga, S. Ceri, and M. Grossniklaus. An execution environment for C-\nSPARQL queries. In EDBT2010, pp 441–452, Lausanne, Switzerland, March 2010.\n",
-  "speaker": "SYSTEM",
-  "uuid": "79722417-c296-4cba-ae71-a79d6586d639"
-}

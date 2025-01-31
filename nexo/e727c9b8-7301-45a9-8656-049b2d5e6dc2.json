@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 4._methodologies-Concpt-REEng.pdf: Página 33\nOntological Engineering \n©Asunción Gómez-Pérez,\nExample of Content Pattern: Participation\nRelationships \nRelations to other modelling \ncomponents \nRelations to the following LPs: LP-DC / LP-PC and LP-OP. \nOntology Design Pattern \nFormalization \nGeneral \nClass(Space-Region partial owl:Thing) \nObjectProperty(spatial-location Functional domain(Object) range(Space-Region)) \nClass(Object partial owl:Thing) \nObjectProperty(temporary-part-of domain(Object) range(Object)) \nObjectProperty(participant-in domain(Object) range(Event)) \nObjectProperty(constant-participant-in domain(Object) range(Event)) \nClass(Event partial owl:Thing) \nObjectProperty(part-of domain(Event) range(Event)) \nObjectProperty(temporal-location domain(Event) range(Time-Interval)) \nClass(Time-Interval partial owl:Thing) \n \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "e727c9b8-7301-45a9-8656-049b2d5e6dc2"
-}

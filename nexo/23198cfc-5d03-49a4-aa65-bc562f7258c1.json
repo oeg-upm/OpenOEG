@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GeneralOntologies.pdf: Página 47\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work \n47 \nHEURISTIC 3. TIME MODELING REUSE \nHeuristic 3 (time modelling reuse). We should reuse a time ontology if some of the following words appear \nin the CQ: \n•\nNouns: ‘day’, ‘minute’, ‘weekend’, ‘midnight’, ‘millennium’, ‘era’, ‘semester’, ‘summer’, [the] ‘future’, \n[the] ‘past’, ‘month’. \n•\nProper names: ‘Monday’, ‘January’, ‘New Year’s Eve’, ‘Washington’s Birthday’. \n•\nSpecialized time patterns: 8.00, 12/2/00, 1994, 1960s. \n•\nAdverb: ‘currently’, ‘hourly’, ‘daily’, ‘monthly’. \n•\nNoun/adverb of time: ‘today’, ‘yesterday’, ‘now’. \n•\nPrepositions of time: ‘on’, ‘in’, ‘at’, ‘from’, ‘to’, ‘before’, ‘after’, ‘during’. \n•\nConjunctions of time: ‘before’, ‘after’, ‘while’, ‘when’. \nL. Ferro, Instruction manual for the annotation of temporal expressions, Tech. rep., The MITRE Corporation \n(2001). ftp://jaguar.ncsl.nist.gov/ace/phase2/docs/mtrinstructionmanual_v1_32.pdf \n",
-  "speaker": "SYSTEM",
-  "uuid": "23198cfc-5d03-49a4-aa65-bc562f7258c1"
-}

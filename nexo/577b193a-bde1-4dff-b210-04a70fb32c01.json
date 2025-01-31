@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 07_MGLD.pdf: Página 19\nGeoLinkedData \nhasStatisticalData\non\nOntology\nSpecification\nLegend\nhydrOntology\n4\nFAO\nFAO \nGeopolitical \nontology\nWGS84\n4\nW3C \nVocabulary\nGML\n4\nGML \nSpecification\nO. \nStatistics\nSCOVO\nO. \nTime\nW3C Time\nhasLat/Long\nhasGeometry\nhasLat/Long\nhasGeometry\nhasLocation/isLocated\nThesaurus\nUNESCO \n4\nEGM / ERM\nGeoNames\n…\nscv:Dimension \nscv:Item \nscv:Dataset \nWGS84 Geo \nPositioning: an RDF \nvocabulary \nhydrographical \nphenomena (rivers, \nlakes, etc.) \nOntology for OGC \nGeography Markup \nLanguage  \nVocabulary for \ninstants, intervals, \ndurations, etc. \nNames and \ninternational code \nsystems for \nterritories and \ngroups \nhttp://neon-toolkit.org/ \nClasses \n33 \n33 \nObject Properties \n44 \n44 \nData Properties \n318 \n318 \n19 \nModelling \n",
-  "speaker": "SYSTEM",
-  "uuid": "577b193a-bde1-4dff-b210-04a70fb32c01"
-}

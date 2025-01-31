@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2023.10.Hallucinations.pdf: Página 5\nSobre el challenge: evaluación\n• Submissions will be divided into two tracks:\n• a model-aware track, where we provide a checkpoint to a model publically \navailable on HuggingFace for every datapoint considered\n• a model-agnostic track where we do not. We highly encourage participants to \nmake use of model checkpoints in creative ways.\n• For both tracks, all participants' submissions will be evaluated using \ntwo criteria:\n• the accuracy that the system reached on the binary classification\n• the Spearman correlation of the systems' output probabilities with the \nproportion of the annotators marking the item as overgenerating\n",
-  "speaker": "SYSTEM",
-  "uuid": "817c1598-746a-4748-940e-edfc7a62eabf"
-}

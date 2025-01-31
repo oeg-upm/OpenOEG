@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: TagDisambiguationSummary.pdf: Página 11\nConclusions & Future Work\n•\nConclusions:\n•\nInspired by IR techniques we have presented a tag disambiguation algorithm \nrelying on DBpedia & Wikipedia information.\n•\nWe have present different definitions of contexts for tagging activities as a \nway to ameliorate tagging data scarceness. \n•\nFuture Work\n•\nTest the approach in a large tag set with the different contexts.\n•\nSophisticated similarity measures\n•\nEvaluation of the approach and contexts using Precision and Recall\n•\nExtract more context information from the tagged resource (text documents)\n•\nTest bed and Standard evaluation metrics\n•\nUse DBpedia semantic information to evolve domain \nontologies\n•\nUse DBpedia semantic information to improve searching and \nrecommendation processes.\n11\n",
-  "speaker": "SYSTEM",
-  "uuid": "1afde4e9-4e6e-48eb-9bcc-b2c3a9f06949"
-}

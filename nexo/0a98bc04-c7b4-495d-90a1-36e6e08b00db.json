@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Sistemas \n\nsudo netstat -lpn |grep :8080 (o el puerto que sea)\ntcp6       0      0 :::8080                 :::*                    LISTEN      6782/java\nkill -9 6782 (o el nº de proceso que nos de netstat)\nLicencias de windows y office, como renovarlas\n\n* Windows\n- Ejecuta un cmd con boton derecho, ejecutar como administrador\n- Luego introduce esto (desde la red FI)\ncscript %windir%\\system32\\slmgr.vbs /skms kms.upm.es\n- Una vez conecta al server kms ejecutar esto:\ncscript %windir%\\system32\\slmgr.vbs /ato\n*Office\n- Ejecuta un cmd con boton derecho, ejecutar como administrador\n- Luego introduce esto (desde la red FI)\ncscript \"%ProgramFiles%\\Microsoft Office\\Office15\\ospp.vbs\" /sethst:kms.upm.es\n- Una vez conecta al server kms ejecutar esto:\ncscript \"%ProgramFiles%\\Microsoft Office\\Office15\\ospp.vbs\" /act",
-  "speaker": "SYSTEM",
-  "uuid": "0a98bc04-c7b4-495d-90a1-36e6e08b00db"
-}

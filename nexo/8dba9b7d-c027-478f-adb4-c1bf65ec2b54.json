@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Protege-Pizzas-v5.pdf: Página 41\n© O. Corcho, MC Suárez de Figueroa Baonza\n41\nOWL and SWRL\nQualified Cardinality Restrictions (I)\nQualified Cardinality Restrictions (QCR), which are more specific\nthan cardinality restrictions in that they state the class of objects\nwithin the restriction.\nCreating a Four Cheese Pizza, as subclass of NamedPizza, which\nhas exactly four cheese toppings.\nProtege 3.4\n",
-  "speaker": "SYSTEM",
-  "uuid": "8dba9b7d-c027-478f-adb4-c1bf65ec2b54"
-}

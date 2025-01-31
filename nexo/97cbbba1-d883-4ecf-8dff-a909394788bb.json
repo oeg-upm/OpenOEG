@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ontologies-Methodology.pdf: Página 31\n31\nOntology Requirements Specification. Task 6\n Input: the set of grouped CQs\n Objective: to identify possible conflicts between \nCQs, missing CQs, and contradictions in CQs. To \ndecide if such CQs are valid or not\n Output: a confirmation about the validity of the set of \nCQs\n Criteria:\nCorrectness. \nCompleteness. \nConsistent. \nVerificable. \nUnderstandable. \nNo Ambiguity. \nConciseness. \nRealism. \nModifiable. \nTraceable.\nCorrectness. Domain experts checked the correctness of each \ncompetency question, verifying that its formulation and answers  \nwere correct.\nConsistent. Domain experts also verified that the competency  \nquestions did not have any possible inconsistency.\n",
-  "speaker": "SYSTEM",
-  "uuid": "97cbbba1-d883-4ecf-8dff-a909394788bb"
-}

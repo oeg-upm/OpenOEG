@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion-2013.pdf: Página 31\nPlanificación \n \n \nBúsqueda del plan en STRIPS \nSi la meta de \nla cima no es \ncierta, \nentonces se \nbusca un \noperador que \nla añada \nM = encima (C, B) ^ en-mesa (A) ^ R \nencima (C, B) \nen-mesa (A) \nR \nPONER (C, B) \nen-mesa (A) \nR \n",
-  "speaker": "SYSTEM",
-  "uuid": "18cb64e1-1c4b-454b-911b-554f1e6df983"
-}

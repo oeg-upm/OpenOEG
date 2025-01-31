@@ -34,9 +34,9 @@ class PineconeUploader:
         if new:
             self.index_name = "oegdb-testing"
         
-            self.nexo_path = "C:/Users/Jaime Vázquez/Documents/Python/tfg/nexo_cpy/"
+            self.nexo_path = "./nexo_cpy/"
             
-            self.pc = Pinecone(api_key=open_file('C:/Users/Jaime Vázquez/Documents/Python/key_pinecone.txt'))
+            self.pc = Pinecone(api_key=open_file('./textos/key_pinecone.txt'))
             
             
             self.index = self._setup_pinecone_index()
@@ -50,9 +50,9 @@ class PineconeUploader:
             
             self.model = "nomic-embed-text-v1.5" #revisar eso y el nº de tokens
             
-            self.nexo_path = "C:/Users/Jaime Vázquez/Documents/Python/tfg/nexo_cpy/"
+            self.nexo_path = "./nexo/"
             
-            self.pc = Pinecone(api_key=open_file('C:/Users/Jaime Vázquez/Documents/Python/key_pinecone.txt'))
+            self.pc = Pinecone(api_key=open_file('./textos/key_pinecone.txt'))
             
             
             self.index = self._setup_pinecone_index()

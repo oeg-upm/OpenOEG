@@ -1,7 +1,6 @@
 import os
 from openai import OpenAI
 import json
-import ollama
 import re
 from time import time,sleep
 from uuid import uuid4
@@ -47,7 +46,7 @@ def save_json(filepath, payload):
 def timestamp_to_datetime(unix_time):
     return datetime.datetime.fromtimestamp(unix_time).strftime("%A, %B %d, %Y at %I:%M%p %Z")
 
-#TODO 
+
 # Revisar esto https://huggingface.co/nomic-ai/nomic-embed-text-v1.5
 # para RAG 
  
@@ -73,7 +72,7 @@ client = OpenAI(
 )
 
 
-def text_completion(prompt, engine=mi_model, stop=['USER:', 'ABIGAIL:']):
+def text_completion(prompt, engine=mi_model):
     max_retry = 5
     retry = 0
     #p#rompt = prompt.encode(encoding='ASCII',errors='ignore').decode()
@@ -89,7 +88,7 @@ def text_completion(prompt, engine=mi_model, stop=['USER:', 'ABIGAIL:']):
                                         "content": prompt,
                                     }
                                 ],
-                                model=mi_model,
+                                model=engine,
                             )
             
             
@@ -99,9 +98,9 @@ def text_completion(prompt, engine=mi_model, stop=['USER:', 'ABIGAIL:']):
             text = re.sub('[\r\n]+', '\n', text)
             text = re.sub('[\t ]+', ' ', text)
             #filename = '%s_log.txt' % time()
-            #if not os.path.exists('./tfg/textos/logs'):
-            #    os.makedirs('./tfg/textos/logs')
-            #save_file('./tfg/textos/logs/%s' % filename, prompt + '\n\n==========\n\n' + text)
+            #if not os.path.exists('./textos/logs'):
+            #    os.makedirs('./textos/logs')
+            #save_file('./textos/logs/%s' % filename, prompt + '\n\n==========\n\n' + text)
             return text
         except Exception as oops:
             retry += 1
@@ -111,14 +110,14 @@ def text_completion(prompt, engine=mi_model, stop=['USER:', 'ABIGAIL:']):
             sleep(1)
 
 
-def load_conversation(results): #esta es la clave TODO
+def check_nexo(results):
     result = list()
     for m in results['matches']:
         try:
-            info = load_json('./tfg/nexo/%s.json' % m['id']) #TODO cambie por nexo2
+            info = load_json('./nexo/%s.json' % m['id']) #TODO cambie por nexo2
             result.append(info)
         except:
-            print("Parece que " + './tfg/nexo/%s.json' % m['id'] + " no esta" )
+            print("Parece que " + './nexo/%s.json' % m['id'] + " no esta" )
             continue
     #ordered = sorted(result, key=lambda d: d['time'], reverse=False)  # sort them all chronologically
     messages = [i['message'] for i in result]
@@ -131,10 +130,10 @@ def load_conversation(results): #esta es la clave TODO
 
 if __name__ == '__main__':
     convo_length = 2 # se puede cambiar
-    #openai.api_key = open_file('./tfg/openaiapikey.txt')
+    #openai.api_key = open_file('./openaiapikey.txt')
     
     pc = Pinecone(
-        api_key=open_file('C:/Users/Jaime Vázquez/Documents/Python/key_pinecone.txt')
+        api_key=open_file('./textos/key_pinecone.txt')
     )
     # index_name = "mispruebas-index"
     # Now do stuff
@@ -158,7 +157,7 @@ if __name__ == '__main__':
     filename = unique_conv_id+'_log.txt' 
     
    #rint("Voy a guardar")
-    save_file('./tfg/textos/logs/%s' % filename, prev_conv)
+    save_file('./textos/logs/%s' % filename, prev_conv)
     #rint("He fgardar")
     
         # index.upsert -> echarle un ojo
@@ -169,7 +168,7 @@ if __name__ == '__main__':
         a = input('\n\nUSER: ')
         
         if (a == "q"):
-            #save_json('./tfg/nexo/%s.json' % unique_id, metadata)
+            #save_json('./nexo/%s.json' % unique_id, metadata)
             break
         
         
@@ -182,36 +181,36 @@ if __name__ == '__main__':
         vector = get_embedding(message, "USER")
         #unique_id = str(uuid4())
         #metadata = {'speaker': 'USER', 'time': timestamp, 'message': message, 'timestring': timestring, 'uuid': unique_id}
-        #save_json('./tfg/nexo2/%s.json' % unique_id, metadata)
+        #save_json('./nexo2/%s.json' % unique_id, metadata)
         #payload.append((unique_id, vector))
         #### search for relevant messages, and generate a response
         results = index.query(vector=vector, top_k=convo_length)
-        wiki_data = load_conversation(results)  # results should be a DICT with 'matches' which is a LIST of DICTS, with 'id'
+        wiki_data = check_nexo(results)  # results should be a DICT with 'matches' which is a LIST of DICTS, with 'id'
         
         
         
         #filename = unique_conv_id+'_log.txt' 
-        if not os.path.exists('./tfg/textos/logs'):
-            os.makedirs('./tfg/textos/logs')
+        if not os.path.exists('./textos/logs'):
+            os.makedirs('./textos/logs')
         
-        #prev_conv = open_file('./tfg/textos/logs/%s' % filename)
-        #save_file('./tfg/textos/logs/%s' % filename, prev_conv+"\n"+message)
+        #prev_conv = open_file('./textos/logs/%s' % filename)
+        #save_file('./textos/logs/%s' % filename, prev_conv+"\n"+message)
         
-        prev_conv = open_file('./tfg/textos/logs/%s' % filename)
+        prev_conv = open_file('./textos/logs/%s' % filename)
         
         
-        print("\n\nSoy las conversacion previa, a ver que hay aquí \n \n")
-        print(prev_conv)
-        print("\n \n")
+        #print("\n\nSoy las conversacion previa, a ver que hay aquí \n \n")
+        #print(prev_conv)
+        #print("\n \n")
         
         #print("\n\nSoy los datos, a ver que hay aquí \n \n")
         #print(wiki_data)
         #print("\n \n") 
        
         
-        prompt = open_file('./tfg/textos/contexto.txt').replace('<<DATOS>>', wiki_data).replace('<<CONVERSACIÓN>>', prev_conv).replace('<<MENSAJE>>', a) #puede que sea demasiado largo, mirar
+        prompt = open_file('./textos/contexto.txt').replace('<<DATOS>>', wiki_data).replace('<<CONVERSACIÓN>>', prev_conv).replace('<<MENSAJE>>', a) #puede que sea demasiado largo, mirar
 
-        print(prompt)
+        #print(prompt)
         
         
         #### generate response, vectorize, save, etc
@@ -222,14 +221,14 @@ if __name__ == '__main__':
         messageBot = '%s: %s - %s' % ('ABIGAIL', timestring, output)
         
         print('\n\nABIGAIL: %s' % output) 
-        save_file('./tfg/textos/logs/%s' % filename, prev_conv+"\n"+message+"\n"+messageBot)
+        save_file('./textos/logs/%s' % filename, prev_conv+"\n"+message+"\n"+messageBot)
         
         
         #message = output
         #vector = get_embedding(message, "ASSISTANT")
         #unique_id = str(uuid4())
         #metadata = {'speaker': 'ABIGAIL', 'time': timestamp, 'message': message, 'timestring': timestring, 'uuid': unique_id}
-        #save_json('./tfg/nexo2/%s.json' % unique_id, metadata)
+        #save_json('./nexo2/%s.json' % unique_id, metadata)
         #payload.append((unique_id, vector))
         #index.upsert(payload)
         

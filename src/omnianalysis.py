@@ -10,9 +10,9 @@ def open_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as infile:
         return infile.read()
     
-username = open_file('C:/Users/Jaime Vázquez/Documents/Python/username_oeg.txt')
+username = open_file('./textos/username_oeg.txt')
 
-password = open_file('C:/Users/Jaime Vázquez/Documents/Python/password_oeg.txt')
+password = open_file('./textos/password_oeg.txt')
 
 geckodriver_path = 'C:/Users/Jaime Vázquez/AppData/Local/Programs/Python/Python313/geckodriver.exe'
 wiki_urls = [
@@ -20,9 +20,9 @@ wiki_urls = [
         "https://delicias.dia.fi.upm.es/wiki/index.php?title=Special:AllPages&from=Licencias"
     ]
 
-paginas_path = "C:/Users/Jaime Vázquez/Documents/Python/tfg/textos/paginas.txt"
-presentaciones_link_path = "C:/Users/Jaime Vázquez/Documents/Python/tfg/textos/enlaces_presentaciones.txt"
-documents_path = "C:/Users/Jaime Vázquez/Documents/Python/tfg/documentosnexo_cpy/" #TODO cambiar esto al hacer la segunda prueba
+paginas_path = "./textos/paginas.txt"
+presentaciones_link_path = "./textos/enlaces_presentaciones.txt"
+documents_path = "./documentosnexo/"
 
 
 

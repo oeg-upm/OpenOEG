@@ -8,7 +8,7 @@ from selenium.webdriver.firefox.options import Options
 
 
 class WikiDownloader: #TODO archivos repetidos?
-    def __init__(self, username, password, geckodriver_path, download_path="./tfg/documentosnexo/"):
+    def __init__(self, username, password, geckodriver_path, download_path="./documentosnexo/"):
         self.username = username
         self.password = password
         self.download_path = download_path
@@ -64,7 +64,7 @@ class WikiDownloader: #TODO archivos repetidos?
 
     def download_files_from_urls(self, urls):
         """Descarga archivos desde una lista de URLs."""
-        #print(urls)
+        
         
         for url in urls:
             #print(os.path.join(self.download_path, url.split("/")[-1]))
@@ -77,24 +77,3 @@ class WikiDownloader: #TODO archivos repetidos?
         self.driver.quit()
 
 
-""" # Uso de la clase
-username = "jaime.vrivera"
-password = "9rScwwFGLZDNfGz"
-geckodriver_path = 'C:/Users/Jaime Vázquez/AppData/Local/Programs/Python/Python313/geckodriver.exe'
-
-downloader = WikiDownloader(username, password, geckodriver_path)
-
-if downloader.login():
-    print("Inicio de sesión exitoso")
-
-    # Cargar URLs desde el archivo
-    urls_file = "./tfg/paginas3.txt"
-    urls = downloader.load_urls_from_file(urls_file)
-
-    # Descargar archivos
-    downloader.download_files_from_urls(urls)
-else:
-    print("Error en el inicio de sesión")
-
-# Cerrar el navegador
-downloader.close() """

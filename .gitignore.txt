@@ -3,4 +3,7 @@ documentosnexo_cpy/
 nexo/
 nexo_cpy/
 textos/logs/*.txt
+textos/key_pinecone.txt
+textos/password_oeg.txt
+textos/username_oeg.txt
 src/__pycache__/

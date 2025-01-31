@@ -6,7 +6,7 @@ OpenOEG es una herramienta que analiza todos las páginas de la OEGWiki y descar
 
 Consiste en dos módulos: el módulo de análisis y el módulo de chat. El módulo de chat consiste únicamente del script con el mismo nombre y el módulo de análisis consiste del resto de scripts.
 
-# Guía de instalación y uso
+## Guía de instalación y uso
 
 Instalar requierements.txt.
 

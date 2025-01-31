@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 28\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nFOAF: Model and instances \n29 \noeg : Asun \nfoaf : Person \nfoaf : Document \nfoaf : knows \nfoaf : Image \nfoaf : publications \n- foaf : firstName \n- foaf : surname \nowl : Thing \nfoaf : mbox \nfoaf : Agent \nfoaf : Group \nfoaf : Organization \n- foaf : familyname \nwgs _ 84 : SpatialThing \nfoaf : based _ near \nfoaf : homepage \nfoaf : img \noeg : MC \nfoaf : knows \nasun @ fi . upm . es \nfoaf : mbox \nhttp :// oeg - upm . net / \nfoaf : homepage \nfoaf : depiction \nhttp ://.../ people / asun _ oeg . png \nfoaf : img \nhttp :// www . springer . com /.../ 978 - 3 - 642 - 24793 \nfoaf : publications \nfoaf : publications \nfoaf : firstName \nfoaf : surname \nfoaf : firstName \nfoaf : surname \n“Mari Carmen” \n“Suárez de Figueroa” \n“Asunción” \n“Gómez-Pérez” \nhttp :// springer . com / … / images / NeOnBook . tif \nfoaf : depiction \ninstanceOf instanceOf \ninstanceOf \ninstanceOf \ninstanceOf \ninstanceOf \ninstanceOf \n",
-  "speaker": "SYSTEM",
-  "uuid": "c0212a63-86c9-4237-9f89-5ccd4d50b0d8"
-}

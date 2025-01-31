@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2.RDF%28S%29.pdf: Página 11\n• 11 \nIndex \n•  An introduction to knowledge representation \nformalisms  \n•  Resource Description Framework (RDF) \n•  RDF primitives \n•  Reasoning with RDF \n•  RDF Schema \n•  RDF Schema primitives \n•  Reasoning with RDFS \n•  RDF(S) Management APIs \n21 \nRDF and RDF Schema \n•  RDF: Resource Description Framework \n•  Goal \n•  To describe the semantics of information in a machine- \nprocessable way \n•  W3C recommendation \n•  Model \n•  Syntax \n•  Semantics \n22 \nDatabase \nXML \nRDF(S) \nSchema \nData \nRDF Schema \nRDF \n",
-  "speaker": "SYSTEM",
-  "uuid": "90b8911a-5fc9-47a4-b9d8-7baf6553b7ea"
-}

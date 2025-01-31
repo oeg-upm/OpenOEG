@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 33\n34 \nfoaf:Person\nfoaf:Document\nfoaf:knows\nfoaf:Image\nfoaf:publications\n- foaf:firstName\n- foaf:surname\nowl:Thing\nfoaf:mbox\nfoaf:Agent\nfoaf:Group\nfoaf:Organization\n- foaf:familyname\nwgs_84:SpatialThing\nfoaf:based_near\nfoaf:homepage\nfoaf:img\nfoaf:depiction\nvcard:Name\nvcard:url\nvcard:email\n- vcard:given-name\n- vcard:family-name\nowl:Thing\nvcard:n\nvcard:VCard\nFOAF \nvCard \n",
-  "speaker": "SYSTEM",
-  "uuid": "4731b101-ba61-4ade-94b3-893ab4a2fc27"
-}

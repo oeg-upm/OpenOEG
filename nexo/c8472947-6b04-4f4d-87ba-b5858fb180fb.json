@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion.pdf: Página 33\nPlanificación\nBúsqueda del plan en STRIPS\nM = encima(C, B) ^en-mesa(A) ^ R\nencima (C, B)\nen-mesa (A)\nM\nen-mesa (A)\nencima (C, B)\nM\nlibre (B)\nsujeto (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nM\nsujeto (C)\nlibre (B)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nM\nPONER (C, B)\nen-mesa (A)\nM\nSe continúa con \nel estudio de las \nmetas\n",
-  "speaker": "SYSTEM",
-  "uuid": "c8472947-6b04-4f4d-87ba-b5858fb180fb"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Semantic_Sensor_Networks_%28short_overview%29.pdf: Página 7\n7\nconceptmap-def WindSpeedMeasurement\nuri-as  \nconcat('ssg4env:WindSpeedMeasurement_',\nwindsamples.sensorid,windsamples.ts) \ndescribed-by\nattributemap-def hasSpeed\noperation \"constant\"   \nhas-column windsamples.speed\ndbrelationmap-def isProducedBy toConcept Sensor \njoins-via \ncondition \"equals\"  \nhas-column sensors.sensorid\nhas-column windsamples.sensorid\nconceptmap-def Sensor\nuri-as\nconcat('ssg4env:Sensor_',sensors.sensorid)\ndescribed-by\nattributemap-def hasName\noperation \"constant\" \nhas-column sensors.sensorname\nMeasurement\nWindSpeedMeasurement\nSensor\nisProducedBy\nhasName xsd:string\nhasSpeed xsd:float\nS:WindSamples\n- ts\n- speed\n- direction\n- sensorid\nT:Sensors\n- sensorid\n- sensorname\nS2O: Mapping Streams to Ontologies\n7\nSemantic Integration Streaming Data Sources\n",
-  "speaker": "SYSTEM",
-  "uuid": "1b87110a-b5c7-427b-9c96-575bb45ad9b5"
-}

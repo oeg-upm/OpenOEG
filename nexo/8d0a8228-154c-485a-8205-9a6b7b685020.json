@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Re-engineer_NOR.pdf: Página 36\nProcess\n1.\nIdentify the records that contain thesaurus terms without a broader term.\n2.\nFor each one of the above identified thesaurus terms ti:\n2.1 Create the corresponding ontology class, Ci class, if it is not created yet.\nTerm\nBT\nNT\nRT\nUF\nTerm1\nBTTerm1\nNTTerm1\nNTTerm2\nTerm2\nUFTerm1\nPR-NOR Example\n36\nNTTerm2\nTerm2\nBTTerm2\nNTTerm3\nNTTerm4\nRTerm3\nRTerm4\nRTerm5\n© A Method for Re-engineering Non-Ontological Resources for Building Ontologies \nBoris Villazón-Terrazas, Mari Carmen Suárez Figueroa\n",
-  "speaker": "SYSTEM",
-  "uuid": "8d0a8228-154c-485a-8205-9a6b7b685020"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Helio.pdf: Página 24\nSet your title here in Slide Master Options\nDatasource Challenge\n24\n§  OpenStreet Map have a limitation for the number of \ncalls\no  Our speciﬁcation updates the data asyncronously from user \nrequests\n{ \n        \"id\" : \"OpenStreetMaps Lamps Datasource\", \n        \"type\" : \"XmlDatasource\", \n        \"refresh\" : \"36000000\", \n        \"arguments\" : [\"//node\"], \n        \"connector\"  : { \n         \"arguments\" : [\"https://www.overpass-api.de/api/interpreter?\ndata=[out:xml];node[highway=street_lamp]\n(40.1497785,-4.1736937,40.6159541,-3.2877552);out%20meta;\"], \n         \"type\" : \"GetConnector\", \n        } \n      } \n",
-  "speaker": "SYSTEM",
-  "uuid": "dc0576dd-5887-4576-9e14-73140e06c5be"
-}

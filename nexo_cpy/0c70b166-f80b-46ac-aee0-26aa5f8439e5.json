@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: MGPGLD-v3.pdf: Página 8\nThe four principles (Tim Berners Lee, 2006)\n1.\nUse URIs as names \nfor things \n2.\nUse HTTP URIs so \nthat people can look \nup those names. \n3.\nWhen someone looks \nup a URI, provide \nuseful information, \nusing the standards \n(RDF*, SPARQL) \n4.\nInclude links to other \nURIs, so that they can \ndiscover more things. \n• http://www.w3.org/D\nesignIssues/Linked\nData.html\n8\nhttp://www.ted.com/talks/tim_berners_lee_on_the_next_web.html\nhttp://www.ted.com/talks/tim_berners_lee_on_the_next_web.html\n",
-  "speaker": "SYSTEM",
-  "uuid": "0c70b166-f80b-46ac-aee0-26aa5f8439e5"
-}

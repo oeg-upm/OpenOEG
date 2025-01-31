@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas.pdf: Página 18\n18\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nRi: (A $x) ~ (B $x) →...\nMT: (AC) (BD) (AB) (AA) (BA)\nEq1: $x = C :\n(AC) Λ ∼\n(BC)\nVálida\nCierto\nFalso\nCierto\nCierto\nEq2: $x = B\n(AB)\nΛ ∼\n(BB)\nVálida\nCierto\nFalso\nCierto\nCierto\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nRi: (A $x) ~ (B $x) →...\nMT: (AC) (BD) (AB) (AA) (BA)\nEq1: $x = C :\n(AC) Λ ∼\n(BC)\nVálida\nCierto\nFalso\nCierto\nCierto\nEq2: $x = B\n(AB)\nΛ ∼\n(BB)\nVálida\nCierto\nFalso\nCierto\nCierto\nEq3: $x = A :\n(AA)\nΛ ∼\n(BA)\nInválida\nCierto\nCierto\nFalso\nFalso\n",
-  "speaker": "SYSTEM",
-  "uuid": "3a03c901-0b07-45b8-8afa-c48f8d3a279f"
-}

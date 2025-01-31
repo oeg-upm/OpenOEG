@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 24\n©O. Corcho\n24\nOntological Engineering\nCopyright © 2005, The University of Manchester\nWhy?\nNecessary & Sufficient Conditions\n►Each set of necessary & sufficient conditions is an Equivalent \nClass\nCheeseyPizza is equivalent to the intersection of Pizza and hasTopping \nCheeseTopping\nClasses, all of whose individuals fit this definition are found to be subclasses of \nCheeseyPizza, or are subsumed by CheeseyPizza\nPizza\nhasTopping \nCheeseTopping\nCheeseyPizza\n",
-  "speaker": "SYSTEM",
-  "uuid": "04138dbf-741d-400f-bc10-7a45e1e06f19"
-}

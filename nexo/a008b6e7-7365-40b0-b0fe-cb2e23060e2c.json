@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: FAIR_Semantics.pdf: Página 10\nFAIR semantics\nPreliminary Recommendations\n10\nP-Rec. 5: Semantic repositories should offer a common\nAPI to access Semantic Artefacts and their content in \nvarious serializations for both use/reuse and indexation\nby any search engines\n§ Related FAIR principle: F4, A1, A1.1\n§ Existing recommendations: OpenAPI, smartAPI, etc. \n§ Stakeholders: Repository\n",
-  "speaker": "SYSTEM",
-  "uuid": "a008b6e7-7365-40b0-b0fe-cb2e23060e2c"
-}

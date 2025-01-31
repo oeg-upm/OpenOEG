@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: TIC-vigilance-en-v0%28maria%29.pdf: Página 3\nGeneration of relations between companies and 3 classifications\nCompany\n(gr:BusinessEntity)\nPlataformas de contratación\n(formalized inSKOS)\nCPV codes\n(reused)\nCategories and sub-categories \nINTECO (ad-hoc)\n(formalized in SKOS)\ngr:category\nProduct classifications\n(formalized in SKOS)\nUNSPSC\n1. Create INTECO categories and subcategories (manual)\n2. Generate RDF for the INTECO categories\n3. Manual mappings INTECO-CPV (csv)\n4. Generate mappings INTECO-CPV in RDF \n5. Subset of UNSPSC products selection (csv)\n6. RDF generation of UNSPSC products subset\n7. Manual mappings UNSPSC-CPV\n8. Generate mappings UNSPSC-CPV in RDF\n9. Manual mappings UNSPSC-INTECO (csv)\n10. Generate mappings UNSPSC-INTECO in RDF \n11. Transform companies and solutions from INTECTO database to in RDF\n1, 2\n3, 4\nSolutions\n(gr:ProductOrService)\ngr:hasManufacturer\ntieneConsultor\ntieneMayorista\n5, 6\n7, 8\n9, 10\n11\n",
-  "speaker": "SYSTEM",
-  "uuid": "20b07d3b-70d5-46d6-b69e-ae2b1f3ecdcb"
-}

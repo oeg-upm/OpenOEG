@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: KGEOntologies_2021.pdf: Página 4\nAn Ontology-Based Deep Learning Approach for Triple Classification with Out-of-Knowledge-Base Entities\nKnowledge Graph Embedding Models 🐊\n4\nWhat are Knowledge Graph Embedding (KGE) \nmodels?\nKGE \nModel\nMarie Curie\nParis\nFrance\nSorbonne University\nEntity\nrepresentations\nRelation\nrepresentations\nnationality\neither as matrices or \nvectors\nLocated in\nAside from arithmetically representing entities\nand relations, the model must also be capable of\ncorrectly computing whether a fact holds or not\n",
-  "speaker": "SYSTEM",
-  "uuid": "e55b9a09-5955-4f99-b8eb-f87945abf21c"
-}

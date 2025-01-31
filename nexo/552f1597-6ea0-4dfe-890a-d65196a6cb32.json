@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ontologies-TheoreticalAspects.pdf: Página 25\n©Asunción Gómez-Pérez\n25\nOntology Modeling: General Issues\n There is no one correct way to model a domain - there are always viable \nalternatives. The best solution almost always depends on the application that you \nhave in mind and the extensions that you anticipate.\n Ontology development is necessarily an iterative process.\n Concepts in the ontology should be close to objects (physical or logical) and \nrelationships in your domain of interest. These are most likely to be nouns (objects) \nor verbs (relationships) in sentences that describe your domain.\n It is important the use of naming conventions\n Concepts: Human, Man, Woman\n Relationships: is-Married-with, is-parent-of\n Attributes: name, age, dateOfBirthday\n",
-  "speaker": "SYSTEM",
-  "uuid": "552f1597-6ea0-4dfe-890a-d65196a6cb32"
-}

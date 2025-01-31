@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OEG_Status_report_Software_March_2022.pdf: Página 5\nOpen Science, Software and AI: A year at the Ontology Engineering Group. March, 2022\nReusability takes time, even when sources are available\n5\nIn [1] we tried to reproduce an eﬀort \nfrom one year before.\n-\nAll data were available online\n-\nAll tools were available online (except \none, but authors had a replacement)\n-\n> 250 hrs to full reproducibility\n-\n> 100 hrs to get familiar with the tools \nand their I/O\nTool 1\nTool 2\nTool 3\n[1] Garijo, D., Kinnings, S., Xie, L., Xie, L., Zhang, Y., Bourne, P. E., & Gil, Y. (2013). Quantifying reproducibility \nin computational biology: the case of the tuberculosis drugome. PloS one, 8(11), e80278.\n",
-  "speaker": "SYSTEM",
-  "uuid": "74b39cd1-6fe9-47da-8d72-9fae211bf5e0"
-}

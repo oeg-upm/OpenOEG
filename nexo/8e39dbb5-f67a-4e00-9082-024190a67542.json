@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 39\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nSeleccionar la regla más específica \nSi las instanciaciones de las reglas tienen elementos de condición iguales  \nse selecciona la regla que  tenga más elementos de condición  \nRi: Si (Paciente $x) ^ (Fiebre $x)  Entonces  (Enfermo $x) \nRj: Si (Paciente $x) ^ (Fiebre $x)  ^ (Manchas Rojas $x) Entonces  (Varicela $x) \nEn este caso, Rj \nRi: Si (Paciente $x) ^ (Fiebre $x)  Entonces  (Enfermo $x)  \nRj: Si  (Envio $e) (frágil $e)  Entonces  (Desplazar $e cuidadosamente) \nEn este caso, ninguna regla es más específica que la otra \n",
-  "speaker": "SYSTEM",
-  "uuid": "8e39dbb5-f67a-4e00-9082-024190a67542"
-}

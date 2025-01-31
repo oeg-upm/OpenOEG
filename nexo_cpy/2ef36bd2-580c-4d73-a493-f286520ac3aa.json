@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 20\n© O. Corcho\n20\nOntological Engineering\nSeRQL\n•\nSupported by: Sesame, SWI-Prolog\n•\nExample\nSELECT X, Y\nFROM {X}mybooks:authored{Y}books:translator{T}\nWHERE T like \"*Carter*\"\nUSING NAMESPACE books = &http://example.org/books#\nUSING NAMESPACE mybooks = &http://example.org/booksrdfsextension#\n•\nFeatures\n–\nIt supports most of the aforementioned queries (although its implementations do not necessarily \nsupport them)\n–\nIt supports datatype reasoning (datatypes can be requested instead of actual values)\n–\nThe domain vocabulary and the knowledge representation vocabulary are treated differently by \nthe query interpreters.\n–\nIt allows making queries over properties with multiple values, over multiple properties of a \nresource and over reifications\n–\nQueries can contain optional statements\n•\nLimitations\n–\nNeither set operations nor existential or universal quantifiers can be included in the queries\n–\nIt does not support aggregation queries nor recursive queries\n",
-  "speaker": "SYSTEM",
-  "uuid": "2ef36bd2-580c-4d73-a493-f286520ac3aa"
-}

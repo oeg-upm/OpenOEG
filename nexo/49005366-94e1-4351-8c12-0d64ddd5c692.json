@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OWL.pdf: Página 65\n© O. Corcho, MC Suárez de Figueroa Baonza \n69 \nOWL 2 \nUsing a Reasoner \nOne of the key features of ontologies that are described using \nOWL-DL is that they can be processed by a reasoner.  \nOne of the main services offered by a reasoner is to test whether or \nnot one class is a subclass of another class. By performing such \ntests on the classes in an ontology it is possible for a reasoner to \ncompute the inferred ontology class hierarchy.  \nAnother standard service that is offered by reasoners is consistency \nchecking. Based on the description (conditions) of a class the \nreasoner can check whether or not it is possible for the class to \nhave any instances. A class is deemed to be inconsistent if it cannot \npossibly have any instances. \n",
-  "speaker": "SYSTEM",
-  "uuid": "49005366-94e1-4351-8c12-0d64ddd5c692"
-}

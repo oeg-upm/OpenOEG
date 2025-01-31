@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 34\n©O. Corcho\n34\nOntological Engineering\nCopyright © 2005, The University of Manchester\nVegetarianPizza Classification\n•\nNothing classifies under VegetarianPizza\n– Actually, there is nothing wrong with our definition of \nVegetarianPizza\n– It is actually the descriptions of our Pizzas that are incomplete\n•\nThe reasoner has not got enough information to infer that any \nPizza is subsumed by VegetarianPizza\n•\nThis is because OWL makes the Open World Assumption\n– In a closed world (like DBs), the information we have is everything \n• A database, for example, returns a negative if it cannot find some data.\n– In an open world, we assume there is always more information than is \nstated\n• The reasoner makes no assumption about the completeness of the information \nit is given\n• The reasoner cannot determine something does not hold unless it is explicitly \nstated in the model\n",
-  "speaker": "SYSTEM",
-  "uuid": "d6061cc2-2c55-4ee2-b226-250e6b3cc12c"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ontologies%26Multilinguality.pdf: Página 16\n©Guadalupe Aguado de Cea\n16\nA new proposal\nLinguistic Information Repository - LIR\n• It is modelled as an ontology.\n• The linguistic information captured in the LIR is organized \naround the LexicalEntry class.\n• A lexical entry is a ternary relation: Lexicalization, \nSense and LanguageContext. \n• Note is linked to the Lexicalization, but it could be \nlinked to any other class in the model to include supplemental \ninformation. \n• By linking Note to the Sense or Definition classes, \npossible differences or nuances among senses in different \nlanguages can  be made explicit.\n",
-  "speaker": "SYSTEM",
-  "uuid": "d56cb388-bd72-48a3-9f22-9ab705c38414"
-}

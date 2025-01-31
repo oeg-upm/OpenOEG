@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Examples.pdf: Página 6\nSCOVO Example - Instances\ngeoes: http://geo linkeddata es/\nscovo:Item\ngeoes: http://geo.linkeddata.es/\nscovo: http://purl.org/NET/scovo#\nscovo:Item\nrdf:type\ngeoes:resource/Estadistica/Madrid_ipi_2006\n6\n",
-  "speaker": "SYSTEM",
-  "uuid": "1a8e3072-7712-4d3f-9b00-a598d411a78a"
-}

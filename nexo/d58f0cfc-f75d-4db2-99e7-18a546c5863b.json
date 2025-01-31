@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2._Ontolog%C3%ADas-long-RD.pdf: Página 23\n©Asunción Gómez-Pérez\n07/11/2024 13:56 - 23\nExample of axioms\n(define-axiom No-Train-from-USA-to-Europe\n\"It is not possible to travel from the USA to Europe by train\"\n:= (forall (?travel)\n(forall (?city1) \n(forall (?city2)\n(=> (and (Travel ?travel)\n(arrivalPlace ?travel ?city1)\n(departurePlace ?travel ?city2)\n(EuropeanLocation ?city1)\n(USALocation ?city2))\n(not (TrainTravel ?travel)))))))\n(define-axiom No-Train-between-USA-and-Europe\n\"It is not possible to travel by train between the USA and Europe\"\n:= (forall (?travel)\n(forall (?city1)\n(forall (?city2)\n(=> (and (Travel ?travel)\n(arrivalPlace ?travel ?city1)\n(departurePlace ?travel ?city2)\n(or (and (EuropeanLocation ?city1)\n(USALocation ?city2))\n(and (EuropeanLocation ?city2)\n(USALocation ?city1))))\n(not (TrainTravel ?travel)))))))\n",
-  "speaker": "SYSTEM",
-  "uuid": "d58f0cfc-f75d-4db2-99e7-18a546c5863b"
-}

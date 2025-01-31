@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 37\nWeb Ontology Language\nOWL semantics\nCardinal restrictions:\nMin: humano subClassOf come min 1\nMax: humano subClassOf come max 5\nExactly: humano subClassOf come exactly 3\n(Tutorial Manchester)\n",
-  "speaker": "SYSTEM",
-  "uuid": "34033b29-4c6c-4772-add4-e94703fa5f7b"
-}

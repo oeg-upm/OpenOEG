@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OEG-KG.pdf: Página 11\nAn example...\nThe Knowledge Graph Building Workshop web page:\nhttps://github.com/kgb-workshop/website \nhttp://kgb-workshop.org/ \nWe use:\n●CSV to specify the data\n●(YARR)RML as Mapping Language with schema vocab\n●Comunica as Query Engine\n●GraphQL-LD/SPARQL as Query Language\n",
-  "speaker": "SYSTEM",
-  "uuid": "237d7879-9c75-47aa-8cc2-99375df281bb"
-}

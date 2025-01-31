@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion.pdf: Página 27\nPlanificación\nBúsqueda del plan en STRIPS\nSe parte del estado meta\nC\nB\nA\nencima (C, B)\nen-mesa (A)\nen-mesa (B)\nbrazo-libre\nlibre (A)\nlibre (C)\nMETA\nSe consideran las \ndiferencias con respecto al \nestado inicial\nM = encima (C, B) ^ en-mesa (A) ^ R\nA\nB\nC\nEstado inicial\nEl plan inicial es igual a \n",
-  "speaker": "SYSTEM",
-  "uuid": "7b7f75a6-46d6-499c-84b0-69e586b9516c"
-}

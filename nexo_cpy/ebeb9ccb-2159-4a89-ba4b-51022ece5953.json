@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2._Ontolog%C3%ADas-long-RD.pdf: Página 50\n©Asunción Gómez-Pérez \n02/10/2012 15:41 - 52 \nOntological Commitments \nExample: What is a pipe? \nAgreements to use the vocabulary in a coherent and consistent manner (Gruber) \n \nConnection between the ontology vocabulary and the meaning of the terms of such vocabulary  \n• Gruber, T.; Olsen, G. An Ontology for Engineering Mathematics.  \n Fourth International Conference on Principles of Knowledge Representation and Reasoning.  \n Ed by Doyle and Torasso. Morgan Kaufmann. 1994. Also as KSL-94-18. \n \n• Guarino, N.; Carrara, M.; Giaretta, P. Formalizing Ontological Commitments.  \n   12th National Conference on Artificial Intelligence. AAAI-94. 1994. 560-567 \nAn agent commits (conforms) to an ontology if it “acts” consistently with the definitions \n9 definitions of the term flight from wordnet \nIdentification of the ontological commitment \n",
-  "speaker": "SYSTEM",
-  "uuid": "ebeb9ccb-2159-4a89-ba4b-51022ece5953"
-}

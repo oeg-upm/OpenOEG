@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Elozano_resultsINRIA.pdf: Página 16\nQR models as application scenario \nIsolate our semantic techniques and repository from DynaLearn \nNew project with no QR references nor particular DynaLearn features \nNew internal web interface to call our techniques and visualize the results \n≈\nImprove ranking of grounding results \nAdd more context to the candidates \n≈\nTune the relevance formula \no\nInference of new relations during the grounding-based alignment \no\nDirect common grounding \no\nIndirect related grounding (1 source) \no\nIndirect related grounding (n sources) \n \n16 \nConceptual Modeling Supported by Semantic Techniques \nNext steps after DynaLearn \n",
-  "speaker": "SYSTEM",
-  "uuid": "77211548-8bcf-4590-8314-6d8e1535ac83"
-}

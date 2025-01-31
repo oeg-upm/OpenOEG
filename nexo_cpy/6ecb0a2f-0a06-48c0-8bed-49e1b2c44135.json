@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ontology-Methodology.pdf: Página 28\n28\nOntology Requirements Specification. Task 4  (I)\n Input: a set of ontological needs \n Objective: \nidentifying \nthe \nset \nof \nontology \nrequirements that the ontology should satisfy\n– Non-functional ontology requirements\nrefer to the \ncharacteristics, qualities, or general aspects not related to the \nontology content that the ontology should satisfy\n– Functional ontology requirements, which can be also seen \nas content specific requirements, refer to the particular \nknowledge to be represented by the ontology\n Techniques: interview users and domain experts. For \nfunctional ontology requirements Æ\nwriting\nthe \nrequirements in Natural Language in the form of the so-\ncalled competency questions (CQs)\n Tools: mind map tools, excel, and collaborative tools \n(e.g., Cicero) \n Output: (1) a list of non-functional ontology \nrequirements written in natural language; and (2) a list \nfunctional ontology requirements in the form of CQs and \ntheir associated answers \n",
-  "speaker": "SYSTEM",
-  "uuid": "6ecb0a2f-0a06-48c0-8bed-49e1b2c44135"
-}

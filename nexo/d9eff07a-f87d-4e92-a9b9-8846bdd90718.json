@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OEG_-_Scalable_semantic_labeling.pdf: Página 9\nselect distinct ?subject\nwhere{select distinct ?subject\nwhere{\n?subject ?property \"Facundo Campazzo\"@en}\nselect distinct ?class where{\n<http://dbpedia.org/resource/Facundo_Campazzo> a ?class}\n1. Get entities for each cell\n2. Get types for each entity\n",
-  "speaker": "SYSTEM",
-  "uuid": "d9eff07a-f87d-4e92-a9b9-8846bdd90718"
-}

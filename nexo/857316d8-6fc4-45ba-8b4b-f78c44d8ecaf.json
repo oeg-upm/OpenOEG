@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: B%C3%9ASQUEDA-2011.pdf: Página 124\nBIDA*\nA \nCONTINUACIÓN \nSE \nREALIZA \nLA \nSEGUNDA BÚSQUEDA A PARTIR DEL \nNODO INICIAL s. \nESTA BÚSQUEDA PODRÍA REALIZARSE \nCON CUALQUIER ALGORÍTMO PERO EN EL \nBIDA*, SERÁ EL IDA* CON LA FUNCIÓN \nHEURÍSTICA\nhd(n) = min { h(n,m) + h* (m,t)}\nm Є Pd\n",
-  "speaker": "SYSTEM",
-  "uuid": "857316d8-6fc4-45ba-8b4b-f78c44d8ecaf"
-}

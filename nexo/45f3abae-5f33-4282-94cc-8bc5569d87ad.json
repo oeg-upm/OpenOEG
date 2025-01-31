@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion.pdf: Página 82\nPlanificación\nTomar-imagen-alta (s,c,p)\nPrecondiciones: en (s,c), resolución-camara \n(c,alta), resolución (r), apunta (s,p), calibrado (r)\nAñadidos: imagen (p,r)\nBorrados: calibrado (c)\n",
-  "speaker": "SYSTEM",
-  "uuid": "45f3abae-5f33-4282-94cc-8bc5569d87ad"
-}

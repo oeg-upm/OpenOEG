@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ontologies%26Multilinguality.pdf: Página 11\n©Guadalupe Aguado de Cea\n11\n1. OLA at the Terminological layer\n•\nAdvantages: \n•\nIncrease of other languages is easily done by including just labels in the ontology.\n•\nSuitable for highly specialized domain ontologies: knowledge shareable among \ndifferent linguistic community experts.\n• Disadvantages: \n• Linguistic information included in the ontology is limited.\n• Exact equivalence is assumed among labels in the different languages (though it may \nnot be true).\nrdfs: label\nrdfs: comment\n",
-  "speaker": "SYSTEM",
-  "uuid": "e2b5c99b-a149-4ac7-8be9-2b8df57f1770"
-}

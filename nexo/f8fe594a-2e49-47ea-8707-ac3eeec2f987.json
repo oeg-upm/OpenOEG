@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2._Ontolog%C3%ADas-long-RD.pdf: Página 15\n©Asunción Gómez-Pérez\n07/11/2024 13:56 - 15\nModelling disjoint knowledge\nclass-Partition: a set of disjoint classes\nDisjoint:  Defines the set of classes in the partition as subclasses of the parent class. \nThis classification does not necessarily to be complete. \nExhaustive-Disjoint: Defines the set of classes in the partition as subclasses of the parent class. \nThis classification is complete.\n",
-  "speaker": "SYSTEM",
-  "uuid": "f8fe594a-2e49-47ea-8707-ac3eeec2f987"
-}

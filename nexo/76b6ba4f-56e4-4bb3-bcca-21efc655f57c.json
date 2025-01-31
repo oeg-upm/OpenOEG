@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 3\nIntroduction & Scope\n3\n• Streaming Data\n(t9, a1, a2, ... , an)\n(t8, a1, a2, ... , an)\n(t7, a1, a2, ... , an)\n...\n...\n(t1, a1, a2, ... , an)\n...\n...\nStreaming \nData\n• Continuously appended data\n• Potentially infinite\n• Time-stamped tuples\n• Continuous queries\n• Latest used in queries\n• Ubiquitous data capture\n• Data processing \n• Cheap\n• Noisy, Unreliable\n• Low computational, power resources, storage \n• Sensor technologies\nEnabling  Ontology-based Access to Streaming Data Sources\n• Applications in security surveillance, healthcare provision, environmental \nmonitoring, you name it.\n",
-  "speaker": "SYSTEM",
-  "uuid": "76b6ba4f-56e4-4bb3-bcca-21efc655f57c"
-}

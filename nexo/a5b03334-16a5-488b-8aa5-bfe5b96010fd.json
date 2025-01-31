@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 38\nLSTMs\nLong Short Term Memory networks (LSTMs)\na special kind of RNN, capable of learning long-term \ndependencies\nintroduced by Hochreiter & Schmidhuber (1997)\ndeal with a great variety of problems\nlots of variants (almost every paper involving LSTMs \nuses a slightly different version)\n38\n",
-  "speaker": "SYSTEM",
-  "uuid": "a5b03334-16a5-488b-8aa5-bfe5b96010fd"
-}

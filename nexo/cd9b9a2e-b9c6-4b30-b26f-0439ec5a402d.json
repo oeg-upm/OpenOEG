@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Guidelines.pdf: Página 44\nProblem G DCC\nDomain&CardinalityConstraints\nDevelopers may forget that existential restrictions \ncontain a cardinality constraint\nC1⊆∃R.C2, C1⊆(≥2R.T)\n44\nModelos de Razonamiento. Oscar Corcho\nC2\nC1 ?\n",
-  "speaker": "SYSTEM",
-  "uuid": "cd9b9a2e-b9c6-4b30-b26f-0439ec5a402d"
-}

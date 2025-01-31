@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Muppets_2-_Language_Models.pptx: Diapositiva {19}\nTransformers appeared. Attention is a substitute of LSTMs\nOpenAI transformer is based on decoders\nPredict next Word\nMasked Self attention (to not look at future tokens during training)\n",
-  "speaker": "SYSTEM",
-  "uuid": "da1a6f59-58e1-4a30-a806-3cb1d35758cd"
-}

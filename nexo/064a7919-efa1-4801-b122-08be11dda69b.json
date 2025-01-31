@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: II-Redes_Sem%C3%A1nticas-v3.pdf: Página 7\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nRedes Semánticas\nSubclase-de\nRepresentando Conocimientos Disjuntos\nNotación de Hendrix\nS: subconjunto\nSD: subconjunto disjunto\nE: elemento\nED: elemento disjunto\nA)\nSin utilizar notación de Hendrix\nSer-vivo\nPlantas\nAnimales\nSubclase-de\nDisjunto\nA)\nUtilizando notación de Hendrix\nSer-vivo\nPlantas\nAnimales\nSD\nSD\nDisjunto\n",
-  "speaker": "SYSTEM",
-  "uuid": "064a7919-efa1-4801-b122-08be11dda69b"
-}

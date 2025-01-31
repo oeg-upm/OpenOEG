@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Fpriyatna-oeg-20141002.pdf: Página 10\nPreliminaries\n●Database schema: R\n●Database instance: I\n●SQL query: Q\n●View Definition        is a query Q over R\n●View \nis the result of query evaluation Q over I\n●Direct Mapping: DM\n●R2RML Mapping Document: M\n●M evaluated over I: [[M]]I\n●DM evaluated over I: [[DM]]I\n●Substitution:\n●SPARQL Query: P, P1, P2\n",
-  "speaker": "SYSTEM",
-  "uuid": "3409fa0b-00e8-49d5-bb12-cf9bb75fc73d"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 57\nSWRL: Syntax XML Example\nExample:\nhasParent (?x,?y) ^ hasBrother(?y, ?z) Æ hasUncle(?x, ?z)\n© O. Corcho, MC Suárez de Figueroa Baonza\n113\nOWL and SWRL\nWhat is the SWRL Tab? \n•\nThe SWRL Tab is an extension to the Protégé-OWL Plugin (not yet in\nversion 4) that permits the creation and execution of SWRL rules.\n•\nThe editor can be used to create SWRL rules, edit existing SWRL\nrules, and read and write SWRL rules.\n© O. Corcho, MC Suárez de Figueroa Baonza\n114\nOWL and SWRL\n",
-  "speaker": "SYSTEM",
-  "uuid": "ef10b5aa-ac25-4e7a-a816-58bb97d03a9f"
-}

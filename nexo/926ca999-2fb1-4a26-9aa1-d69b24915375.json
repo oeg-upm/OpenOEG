@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: KGEOntologies_2021.pdf: Página 20\nAn Ontology-Based Deep Learning Approach for Triple Classification with Out-of-Knowledge-Base Entities\nStep 6: Performance Assessment\n20\nOnce the model has been trained and validated with\nthe fully-known set, we evaluate the model over the\nOOKB and known entity sets…\n𝐴𝑐𝑐𝑇= 𝑎𝑐𝑐𝑢𝑟𝑎𝑐𝑦𝑘𝑛𝑜𝑤𝑛𝑠𝑒𝑡\n𝐴𝑐𝑐𝑂= 𝑎𝑐𝑐𝑢𝑟𝑎𝑐𝑦𝑂𝑂𝐾𝐵𝑠𝑒𝑡\n𝐴𝑐𝑐𝑇≫𝐴𝑐𝑐𝑂Ontological information is not been appropriately\nintroduced\n𝐴𝑐𝑐𝑇≈𝐴𝑐𝑐𝑂The model is correctly introducing the ontological\ninformation and is capable of generalizing\n𝐴𝑐𝑐𝑇≪𝐴𝑐𝑐𝑂Non-optimal parameter selection. The model is\ndiverging from the optimal solution\n",
-  "speaker": "SYSTEM",
-  "uuid": "926ca999-2fb1-4a26-9aa1-d69b24915375"
-}

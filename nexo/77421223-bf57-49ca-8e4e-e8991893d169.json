@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: MGPGLD-v3.pdf: Página 10\nRDF - Example\n10\nhttp://urjc.es/Alberto\nhttp://urjc.es/Antonio\nhttp://urjc.es/Idafen\n“Alberto Fernández”\nhasName\nhasColleague\nhasColleague\n“Male”\n•\nFor practical purposes, specially if handwritten, URIs are shortened using XML namespaces\n•\nxmlns:urjc=“http://urjc.es/”\n•\nurjc:Alberto is equivalent to http://urjc.es/Alberto\n•\nRDF serializations: XML, N3, N-Triple\nurjc:Alberto\nurjc:Antonio\nurjc:Idafen\n“Alberto Fernández”\nperson:hasName\nperson:hasColleague\nperson:hasColleague\n“Male”\nperson:hasSex\nhasSex\n© Slide adapted from “RDF and RDF Schema”- Raúl García et al.\n",
-  "speaker": "SYSTEM",
-  "uuid": "77421223-bf57-49ca-8e4e-e8991893d169"
-}

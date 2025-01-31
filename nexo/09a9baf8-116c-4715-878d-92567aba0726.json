@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 19\n© O. Corcho\n19\nOntological Engineering\nRDQL\n•\nSupported by: Jena, RAP, PHP XML Classes, RDFStore, Rasqal RDF Query \nLibrary, Sesame, 3store, RDQLPlus\n•\nExample\nSELECT ?person\nFROM http://somewhere.org/somerdfmodelofpeople\nWHERE (?person, info:age, ?age)\nAND ?age > 24\nUSING info FOR <http://example.org/peopleInfo#>\n•\nFeatures\n–\nBased on triple patterns and triple conjunctions\n–\nIt specifies the graph structure to be obtained as a result of the query\n•\nLimitations\n–\nIt does not make inferences based on the semantics of RDFS\n•\nExcept for Jena, which supports the relations subClassOf and subPropertyOf\n–\nIt allows mixing domain vocabulary (RDF) and knowledge representation vocabulary (RDFS) \nin the queries, and both types of vocabulary are treated in the same way by the query \ninterpreter.\n–\nIt only supports selection and extraction queries\n",
-  "speaker": "SYSTEM",
-  "uuid": "09a9baf8-116c-4715-878d-92567aba0726"
-}

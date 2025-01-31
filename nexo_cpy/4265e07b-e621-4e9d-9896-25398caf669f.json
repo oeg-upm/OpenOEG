@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Intro-RC-II-v2%28asun%29.pdf: Página 16\nIntroducción a la Representación de Conocimientos\nFacultad de Informática. Universidad Politécnica de Madrid \n©Asunción Gómez Pérez\nSistemas de Producción\nR1: Si (Animal $A) ^ (Esqueleto $A sí) \nEntonces  (Vertebrado $A)\nR2: Si (Animal $A) ^(Esqueleto $A no)\nEntonces  (Invertebrado $A)\nR3: Si (Vertebrado $A)  (Ladra $A)\nEntonces (Perro $A)\nBase de Reglas\nBase de Hechos\n(Animal Tucky) \n(Animal Piolín) \n(Esqueleto Piolín sí) \n(Esqueleto Tucky sí) \n(ladra Tucky)\nEstrategia de Control: Priority (R1, R2, R3)\n(Animal Tucky) \n(Animal Piolín) \n(Esqueleto Piolín sí) \n(Esqueleto Tucky sí) \n(ladra Tucky)\n(Vertebrado Tucky)\nCiclo 1: \nR1, $A= Piolín\nR1, $A= Tucky\n",
-  "speaker": "SYSTEM",
-  "uuid": "4265e07b-e621-4e9d-9896-25398caf669f"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 17\nAnnie PRs\n• \nDocument Reset: clears existing annotations in the document \n(no annotation is embedded in the document)\n• \nANNIE English Tokeniser: splits the text into tokens\n• \nANNIE Gazetteer: wordlists grouped in different categories to \nperform NE or Key Phrase Lookups\n• \nANNIE Sentence Splitter: assigns annotations to sentence \nboundaries\n• \nANNIE PoS Tagger: assigns PoS taggs to tokens \n• \nANNIE Orthomatcher: adds identity relations between NE found \nby the NE Transducer to perform co-reference\n• \nANNIE NE Transducers: executes JAPE rules to create \ncomplex annotations based on the results of the previous PRs\nANNIE\n",
-  "speaker": "SYSTEM",
-  "uuid": "355d7c61-b7db-4fbb-bf2d-d1548e8c5210"
-}

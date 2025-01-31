@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 26\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nFormalización en lógica de predicados de primer orden                                                                        \nMariano Fernández López\nDeducción (V)\nSe puede hacer mediante resolución de cláusulas de Horn\nF1, F2, ..., Fn, Q\nConsulta:\nQ?\nBase de conocimientos\nF1, F2, ..., Fn\nMotor de inferencias\nInterfaz de usuario\nSistema basado en conocimientos\nRe-formulación del problema\nP Q\nP R\n----------\nQ R\nRegla (resolución)\nSe busca una contradicción:\n•, que es la cláusula vacía\nse obtiene de resolver F y F\n",
-  "speaker": "SYSTEM",
-  "uuid": "b6158b27-c661-4ebc-80c4-c7c83a383de2"
-}

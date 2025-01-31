@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_RDF%28S%29_APIS_and_SPARQL_%28complete%29.pdf: Página 19\n© O. Corcho, R.García-Castro, O. Muñoz-García\n19\nRDF and RDF Schema\nUsing selectors to query a model\n// Find the exact statement \"adam is a spouse of dotty\"\nmodel.listStatements(adam,spouseOf,dotty);\n// Find all statements with adam as the subject and dotty as the object\nmodel.listStatements(adam,null,dotty);\n// Find any statements made about adam\nmodel.listStatements(adam,null,null);\n// Find any statement with the siblingOf property\nmodel.listStatements(null,siblingOf,null);\n",
-  "speaker": "SYSTEM",
-  "uuid": "7b791565-07de-44c1-9f8a-4c82620b53b5"
-}

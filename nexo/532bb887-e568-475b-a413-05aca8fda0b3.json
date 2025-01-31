@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 44\nPreparing the evaluation execution \nDeploying the tool under evaluation \n•\nUnzip tool package (res-itest-tool-1.1-SNAPSHOT-tool-package.zip) to \npath specified in the RES Worker configuration file \n(%FUSE_WORKER%\\SEALS\\configuration.properties) \n– tool.oet.location.package=SEALS/itest \nESWC 2011, 29/05/2011 \n44 \n",
-  "speaker": "SYSTEM",
-  "uuid": "532bb887-e568-475b-a413-05aca8fda0b3"
-}

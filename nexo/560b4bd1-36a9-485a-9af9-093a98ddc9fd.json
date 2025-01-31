@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentacion_OEG24-04-2014.pdf: Página 22\nPreliminary proposal. Molecules \n22 \nsens-obs:Observation_AirTemperature_4UT01_2003_3_31_22_15_00 \n      a    weather:TemperatureObservation ; \n      om-owl:observedProperty weather:_AirTemperature ; \n      om-owl:procedure sens-obs:System_4UT01 ; \n      om-owl:result sens-obs:MeasureData_AirTemperature_4UT01_2003_3_31_22_15_00 ; \n      om-owl:samplingTime sens-obs:Instant_2003_3_31_22_15_00 . \n \n \n \nsens-obs:Observation_WindGust_4UT01_2003_3_31_18_25_00 \n      a       weather:WindSpeedObservation ; \n      om-owl:observedProperty weather:_WindGust ; \n      om-owl:procedure sens-obs:System_4UT01 ; \n      om-owl:result sens-obs:MeasureData_WindGust_4UT01_2003_3_31_18_25_00 ; \n      om-owl:samplingTime sens-obs:Instant_2003_3_31_18_25_00 . \n",
-  "speaker": "SYSTEM",
-  "uuid": "560b4bd1-36a9-485a-9af9-093a98ddc9fd"
-}

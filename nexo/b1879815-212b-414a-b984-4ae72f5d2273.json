@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 22\nJape rule Example\nPhase: Email\nInput: Token SpaceToken\nOptions: control = appelt\nMacro: WORD_OR_NUMBER\n(\n({Token.kind == word}|{Token.kind == number})\n)\nRule: emailaddress\nPriority: 50\n(\n(WORD_OR_NUMBER)+\n({Token.string == \".\"}(WORD_OR_NUMBER)+)*\n{Token.string == \"@\"}\n(WORD_OR_NUMBER)+\n({Token.string == \".\"}(WORD_OR_NUMBER)+)*\n)\n:email -->\n:email.EMail= {rule = \"emailaddress\"}\nJAPE RULES\n",
-  "speaker": "SYSTEM",
-  "uuid": "b1879815-212b-414a-b984-4ae72f5d2273"
-}

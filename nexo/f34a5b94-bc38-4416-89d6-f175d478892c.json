@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 51\nTranslation from PROLOG(ASP) to PROLEG\nLet P be the following PROLOG program:\nC: −B11, ..., B1n1, not E11, ..., not E1m1.\nC: −B21, ..., B2n2, not E21, ..., not E2m1.\n...\nC: −Bk1, ..., Bknk, not Ek1, ..., not Ekmk.\nThen, a translation of a PROLOG program P, tro(P) is deﬁned as\nthe following PROLEG program ⟨Ho, Eo⟩where Ho is as follows:\nC ⇐C1.\nC1 ⇐B11, ..., B1n1.\nC ⇐C2.\nC2 ⇐B21, ..., B2n2.\n...\nC ⇐Ck.\nCk ⇐Bk1, ..., Bknk.\nand Ee is as follows:\nexception(C1, E11).\n· · ·\nexception(C1, E1m1).\nexception(C2, E21).\n· · ·\nexception(C2, E2m2).\n...\nexception(Ck, Ek1).\n· · ·\nexception(Ck, Ekmk).\n51\n",
-  "speaker": "SYSTEM",
-  "uuid": "f34a5b94-bc38-4416-89d6-f175d478892c"
-}

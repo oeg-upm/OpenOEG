@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Modelado_Conceptual_y_Compromisos_Ontol%C3%B3gicos_en_Humanidades.pdf: Página 12\nTemporalidad\nb.Dirección: Texto\nb.Uso: col enum UsosDeEdificios\n[: AspectoTemporal]\n(b.Uso@ x: AspectoTemporal): enum \nUsosDeEdificios\nCopyright © 2018 César González-Pérez\n12\nCualificación de predicación\nEdificio\nDirección: 1 Texto\nUso: 0..* enum UsosDeEdificios (T)\nb: Edificio\nDirección =  San Roque,   \nUso @ s. XVI a XVII = Hospital\n",
-  "speaker": "SYSTEM",
-  "uuid": "fd2a5934-cc70-4c4d-843e-10baa1130cfa"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Sensores.pdf: Página 11\nInterfaces estándar SWE\n• SWE define varias interfaces\n• Sensor Observation Service\n• Gestionar sensores desplegados\n• Recuperar información de sensores (observaciones)\n• Sensor Alert Service\n• Anunciar y publicar información de observaciones\n• No registro sino endpoint al que el cliente se conecta\n• Sensor Planning Service\n• Pedir información de un SPS\n• Peticiones a sensores:\n• Web Notification Service\n• Notifica, esperando respuesta o no\n• Determinar viabilidad\n• Consultar estado\n• Enviar\n• Actualizar\n• Cancelar\n",
-  "speaker": "SYSTEM",
-  "uuid": "de91137b-b19b-40d2-b87d-8ea9d7bca491"
-}

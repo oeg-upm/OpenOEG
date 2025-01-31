@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 3._GC-Redes_Sem%C3%A1nticas-v3.pdf: Página 15\nRedes Semánticas  \nFacultad de Informática. Universidad Politécnica de Madrid \n© Asunción Gómez Pérez \nEjemplo de relaciones “ad hoc” \nEn la misma Jerarquía: \nCasado-Con \nHombre \nMujer \nCasado Con \nConectado-A \nComputadora \nForma-Parte-de \nCompuesto-de \nSistema \nJugadores \nde Fútbol \nEquipos \nde Fútbol \nPertenece \nJugador 1 \nEquipo 1 \nPertenece \nInstancia \nInstancia \nConectan diferentes Jerarquías \n",
-  "speaker": "SYSTEM",
-  "uuid": "1e881053-c436-492d-997a-fd6cee27ff46"
-}

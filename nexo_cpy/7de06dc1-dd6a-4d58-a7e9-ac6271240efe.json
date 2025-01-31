@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: TagDisambiguationSummary.pdf: Página 9\nDisambiguation Approach\n•\nTagging activity:\n•\nUser u has tagged the resource r = http://www.nature.com with the tags nature, \nnews, science. \n•\nContext(u, nature, r) = {nature, news, science}\n•\nSenses(Nature) = {dbpedia:Nature, dbpedia: Nature_(journal)}\n•\nTerms(dbpedia:Nature) = {(life,62), (nature,46), (earth,32)} \n•\nTerms(dbpedia:Nature_(journal)) = {(nature,77), (science,29), (scientific,25)}\n•\nVoc(nature) = { life, nature, earth,  science, scientific }\n•\nVcontext= (0,1,0,1,0)\n•\nVnature= (62,46,32,0,0)\n•\nVnature(journal)= (0,77,0,29,25)\n•\nSim(Vcontext, Vnature) = 0,389                              Sim(Vcontext, Vnature(journal)) = 0,872\n9\n",
-  "speaker": "SYSTEM",
-  "uuid": "7de06dc1-dd6a-4d58-a7e9-ac6271240efe"
-}

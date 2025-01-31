@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Vidal.Sep19.pdf: Página 16\nPage 16\nFederated SPARQL Query Engines\nWeb-access interfaces \n(unpredictable behavior) that allow for \nquerying RDF data:\n●\nSPARQL Endpoints: respect \nSPARQL protocol, i.e., any \nSPARQL query \n●\nTriple Pattern Fragments: limited \nquery capabilities, i.e., only one \ntriple pattern\nData Integration \nSystem\nChallenges: Query processing is impacted by different \nparameters, e.g., query capabilities, data fragmentation, \ndataset size and connectivity, query selectivity, and \ncurrent conditions of the Web-access interfaces\nFederation of RDF Data Sources\n",
-  "speaker": "SYSTEM",
-  "uuid": "719ba152-27ca-459b-9e1d-fa7ba27dc3e0"
-}

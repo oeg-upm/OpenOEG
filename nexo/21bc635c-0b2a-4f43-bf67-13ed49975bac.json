@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 57\nWord2Vec, motivation \nImage and audio learning systems inputs are encoded as vectors \nall the information required is econded in the raw data\ne.g. raw pixel-intensities (image), or  power spectral density coefficients \n(audio)\nNatural language representations are arbitrary\n'cat' may be Id537 and 'dog‘=Id143\nno useful information regarding the relationships  \nwhen learning about dogs, DL can’t use anything learnt about cats (they are \nboth animals, four-legged, pets…)\n57\n",
-  "speaker": "SYSTEM",
-  "uuid": "21bc635c-0b2a-4f43-bf67-13ed49975bac"
-}

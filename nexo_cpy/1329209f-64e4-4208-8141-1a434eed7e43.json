@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 09.Annotation.pdf: Página 55\nMDB2RDF \n•\nMapping defined\n•\nRDF Query Posed\n•\nRDF Query to Global Query\n•\nGlobal query is sent to DQP\n•\nDQP distributes global\n•\nDQP distributes global \nqueries into local queries \nand evalute them\n•\nDatabases return local\n•\nDatabases return local \nresults\n•\nLocal results sent to DQP\n•\nDQP integrates the results \ninto global result\n•\nGlobal result is sent to be \ntransformed into RDF\n•\nRDF documents containing \nRDF instances\n© O. Corcho, B Villazón, A. Gómez-Pérez\n63\nAnnotation\n63\n",
-  "speaker": "SYSTEM",
-  "uuid": "1329209f-64e4-4208-8141-1a434eed7e43"
-}

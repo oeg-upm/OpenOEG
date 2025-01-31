@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Dev8d_summary.pdf: Página 22\nPython\n• Python for web interaction\n• We learned how to access wikipedia and dbpedia, retrieving \nsome of their content, manipulate it and presenting it\n• All using Python libraries\n• In 2 to 3 hours\n• First, quick introduction to Python\n• Data types, flow control, classes, functions, use of tabular \nspaces, etc.\n• http://www.slideshare.net/azaroth42/python-web-tutorial\n• Second: development of the application for web \ninteraction\n• Urllib (url = urllib.urlopen(url))\n• Urllib2 (request = urllib2.Request(url))\n• Urlparse\n• rdflib\n",
-  "speaker": "SYSTEM",
-  "uuid": "43f09db7-6bf2-46a9-9d1d-32cee00c1d35"
-}

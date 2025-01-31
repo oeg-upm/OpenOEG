@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas-II.pdf: Página 37\nSistemas de Producción\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nResolución del Conjunto Conflicto\nSelección de la regla que va a ser ejecutada en la fase de ejecución\nEstrategias de selección:\n1. Explícito un orden lineal en la BR\n2. La regla de mayor prioridad\n3. La regla más específica: con elementos de condición restrictivos\n4. Edad del elemento en la MT: La regla con elementos de la BH más recientemente añadidos\n5. Utilizar el principio de refracción: no pueden ejecutar instanciaciones de reglas ya ejecutadas.\n6. Arbitrariedad\nCombinación de estrategias\n",
-  "speaker": "SYSTEM",
-  "uuid": "51066e8e-ed4e-4e88-81e2-764c35d7ad1d"
-}

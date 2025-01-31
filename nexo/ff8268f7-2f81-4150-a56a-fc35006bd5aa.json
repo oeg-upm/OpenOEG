@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion-2013.pdf: Página 73\nPlanificación \n \n \n \nDejar-caja (r,c,o,m) \nPrecondiciones: sujeta  (r,c), en-oficina (r,o), en-\noficina (m,o) \nAñadidos: libre (r), en-mesa (c,m)  \nBorrados: sujeta (r,c) \n \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "ff8268f7-2f81-4150-a56a-fc35006bd5aa"
-}

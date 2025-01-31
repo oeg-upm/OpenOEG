@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 65\nSemantic Technologies in the Web of Data.  Red.es.   4th December 2012 \nGeoes: Geometry Model \n67 \ngeoes:ontology/Polygon \ngeoes:  http://geo.linkeddata.es/ \ngeo: http://www.w3.org/2003/01/geo/wgs84_pos# \ngeoes:ontology/Geometry \ngeoes:ontology/Curve \ngeo:Point \nrdfs:subClassOf \nrdfs:subClassOf \nrdfs:subClassOf \ngeo:lat \ngeo:long \nCollection of 2  or \nmore geo:Points \nCollection of 3 or \nmore geo:Points \nComposed by \nComposed by \n",
-  "speaker": "SYSTEM",
-  "uuid": "8f4122e4-090f-4196-9b0d-0401a7900ca9"
-}

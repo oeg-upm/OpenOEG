@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: LinkedDataGenerationII%28v1-boris%29.pdf: Página 9\n9\n3. Generation of RDF\n• From the Data \nsources\n- Geographic \ninformation \nIdentification\nof the data sources\nVocabulary\ndevelopment\ninformation \n(Databases)\n- Statistic information \n(.xsl)\n- Geospatial information \n• Different technologies \nfor RDF generation\np\nGeneration\nof the RDF Data\nPublication\nof the RDF data \nData cleansing\ng\n- Reengineering \npatterns\n- R20 and ODEMapster\n- Annotation tools\n- Geometry generation\nLinking \nthe RDF data\nEnable effective \ndiscovery\n3. Generation of the RDF Data\nINE\nINE\nNOR2O\nINE\nINE\nODEMapster\nIGN\nIGN\nIGN\nIGN\nGeospatial\nGeospatial\ncolumn\ncolumn\nGeometry2RDF\n",
-  "speaker": "SYSTEM",
-  "uuid": "f825152d-3c2f-43cf-83ee-682e11a0c678"
-}

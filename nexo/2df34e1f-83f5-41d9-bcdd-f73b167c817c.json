@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentacion_OEG24-04-2014.pdf: Página 7\nDrawbacks of Current RDF Serialization \n7 \n•Very verbose  \n•Designed for human readability (not for machines) \n•HUGE   text compression/decompression \n \n•Lack of (standard) metadata  \n•“What is this?” phenomenon \n \n•Search offline \n•Scan the whole exchanged dump. \n•(decompress)+ index the file + search \n \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "2df34e1f-83f5-41d9-bcdd-f73b167c817c"
-}

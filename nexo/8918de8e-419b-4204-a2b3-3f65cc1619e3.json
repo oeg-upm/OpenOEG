@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISSGC08.pdf: Página 42\n©<Miembro Grupo>\n43\nSystem 3 Submit job file\n<job>\n    <executable>${GLOBUS_USER_HOME}/genr</executable>\n    <argument>5</argument>\n    <argument>4</argument>\n    <stdout>${GLOBUS_USER_HOME}/genr.out.${GLOBUS_USER_NAME}</stdout>\n    <fileStageIn>\n        <transfer>\n            <sourceUrl>gsiftp://tc02.nesc.ed.ac.uk:2812/tmp/my_genr</sourceUrl>\n            <destinationUrl>file:///${GLOBUS_USER_HOME}/genr</destinationUrl>\n        </transfer>\n    </fileStageIn>\n    <fileStageOut>\n        <transfer>\n            <sourceUrl>file:///${GLOBUS_USER_HOME}/genr.out.${GLOBUS_USER_NAME}</sourceUrl>\n            <destinationUrl>gsiftp://tc02.nesc.ed.ac.uk:2812/tmp/</destinationUrl>\n        </transfer>\n    </fileStageOut>\n    <fileCleanUp>\n        <deletion>\n            <file>file:///${GLOBUS_USER_HOME}/genr</file>\n        </deletion>\n        <deletion>\n            <file>file:///${GLOBUS_USER_HOME}/genr.out.${GLOBUS_USER_NAME}</file>\n        </deletion>\n    </fileCleanUp>\n</job>\n",
-  "speaker": "SYSTEM",
-  "uuid": "8918de8e-419b-4204-a2b3-3f65cc1619e3"
-}

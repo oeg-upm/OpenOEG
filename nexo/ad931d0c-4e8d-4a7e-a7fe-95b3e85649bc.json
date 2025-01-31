@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 42\nATHENS 2010 \n© Raúl García Castro et al. \nJena example. Graph creation \nhttp://.../JohnSmith \nJohn Smith \nSmith \nJohn \nvcard:Given \nvcard:Family \nvcard:FN \nvcard:N \n// some definitions  \nString personURI = \"http://somewhere/JohnSmith\";  \nString givenName = \"John\";  \nString familyName = \"Smith\";  \nString fullName = givenName + \" \" + familyName;  \n// create an empty  \nModel Model model = ModelFactory.createDefaultModel();  \n// create the resource  \n// and add the properties cascading style  \nResource johnSmith = model.createResource(personURI)  \n    .addProperty(VCARD.FN, fullName)  \n    .addProperty(VCARD.N, model.createResource()    \n    .addProperty(VCARD.Given, givenName) \n    .addProperty(VCARD.Family, familyName));  \n42 \n",
-  "speaker": "SYSTEM",
-  "uuid": "ad931d0c-4e8d-4a7e-a7fe-95b3e85649bc"
-}

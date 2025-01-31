@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RDF%28S%29-SPARQL-Pr%C3%A1ctica.pdf: Página 11\n•11\nJena\n• Java framework for building Semantic Web \napplications\n• Open source software from HP Labs\n• The Jena framework includes:\n• A RDF API\n• An OWL API\n• Reading and writing RDF in RDF/XML, N3 and N-Triples\n• In-memory and persistent storage\n• A rule based inference engine\n• SPARQL query engine\n21\nSesame\n•\nA framework for storage, querying and inferencing of RDF \nand RDF Schema\n•\nA Java Library for handling RDF\n•\nA Database Server for (remote) access to repositories of\n•\nA Database Server for (remote) access to repositories of \nRDF data\n•\nHighly expressive query and transformation languages\n•\nSeRQL, SPARQL\n•\nVarious backends\n•\nNative Store\n•\nRDBMS (MySQL, Oracle 10, DB2, PostgreSQL)\ni\n•\nmain memory\n•\nReasoning support\n•\nRDF Schema reasoner\n•\nOWL DLP (OWLIM)\n•\ndomain reasoning (custom rule engine)\n22\n",
-  "speaker": "SYSTEM",
-  "uuid": "33687b12-92f5-4158-ade8-e3920a100e02"
-}

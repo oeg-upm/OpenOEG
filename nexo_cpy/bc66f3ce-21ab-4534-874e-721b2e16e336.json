@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SPARQL_optimization_slides.pdf: Página 5\nRelated Work: SPARQL Optimization\nIndex provision\nData Source index: managed locally per source. Need to \nexpose/export them.\nVirtual Data source index: Collected by other means and \nused by the federator\nFederation index: centralised index. Collected for all \nsources.\nSee Gorlitz et al (2010).\n",
-  "speaker": "SYSTEM",
-  "uuid": "bc66f3ce-21ab-4534-874e-721b2e16e336"
-}

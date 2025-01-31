@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion.pdf: Página 32\nPlanificación\nBúsqueda del plan en STRIPS\nSe añaden las \nprecondiciones \ndel operador \ncon las distintas \nordenaciones\nM = encima (C, B) ^ en-mesa (A) ^ R \nencima (C, B)\nen-mesa (A)\nR\nlibre (B)\nsujeto (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nsujeto (C)\nlibre (B)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nComo son las \nprecondiciones de los \noperadores, cuando se \ncumplen, quedan los \noperadores al descubierto y \nya se sabe que se pueden \nejecutar\nPONER (C, B)\nen-mesa (A)\nR\n",
-  "speaker": "SYSTEM",
-  "uuid": "c316173e-dfdc-438c-8563-76c7091811c8"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 47\nQualified Cardinality Restrictions (I)\nQualified Cardinality Restrictions (QCR), which are more specific\nthan cardinality restrictions in that they state the class of objects\nwithin the restriction.\nCreating a Four Cheese Pizza, as subclass of NamedPizza, which\nhas exactly four cheese toppings.\nProtege 3.4\n© O. Corcho, MC Suárez de Figueroa Baonza\n93\nOWL and SWRL\nDatatype Properties\nCreating a datatype property in the pizza example: hasDiameter.\nAdd Subproperty\n© O. Corcho, MC Suárez de Figueroa Baonza\n94\nOWL and SWRL\nAdd Datatype\nProperty\n",
-  "speaker": "SYSTEM",
-  "uuid": "8c4afd99-c631-4242-b59b-83bf10af7351"
-}

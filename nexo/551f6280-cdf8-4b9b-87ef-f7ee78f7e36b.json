@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentacion_reunion_de_grupo_02mar2017.pdf: Página 12\nPREFIX sp: <http://purl.org/net/SMARTprotocol#>\nPREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\nPREFIX owl: <http://www.w3.org/2002/07/owl#>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nPREFIX obi: <http://purl.obolibrary.org/obo/OBI_>\nPREFIX foaf: <http://xmlns.com/foaf/0.1/>\nPREFIX CHEBI: <http://purl.obolibrary.org/obo/CHEBI_>\nSELECT ?name (group_concat(?manufacturerName; \nseparator=\" , \") as ?manufacturers) (group_concat(?\nhomepage; separator=\" , \") as ?whereTobuy)\nWHERE {\n  ?reagent a CHEBI:33893 .\n  ?reagent sp:hasName ?nameUri .\n  ?nameUri rdf:value ?name .\n  ?reagent obi:0000304 ?manufacturer .\n  ?manufacturer sp:hasName ?manufacturerNameUri .\n  ?manufacturerNameUri rdf:value ?manufacturerName .\n  ?reagent foaf:homepage ?homepage .\n} GROUP BY ?name\nRetrieve reagent names, their manufacturers and homepages \nhttp://bit.do/googledocs-sparql-sp \nhttps://smartprotocols.github.io/queries/ \n",
-  "speaker": "SYSTEM",
-  "uuid": "551f6280-cdf8-4b9b-87ef-f7ee78f7e36b"
-}

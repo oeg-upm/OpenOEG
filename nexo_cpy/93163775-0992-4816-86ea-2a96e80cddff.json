@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 31\n© O. Corcho\n31\nOntological Engineering\nRDF Semantics says:\n(http://www.w3.org/TR/rdf-mt/)\nlocal_event\nevent\nPersonal_event\nsubClassOf\nsubClassOf\nevent2\nrdf:type\nrdf:type\nQuery 1: \nSELECT N \nFROM {N} rdf:type {sti:Event} \nUSING NAMESPACE sti=<http://www.ontogrid.net/StickyNote#>\nQuery 2: \nSELECT N \nFROM {N} rdf:type {sti:Event}; sti:involves {sti:OscarCorcho} \nUSING NAMESPACE sti=<http://www.ontogrid.net/StickyNote#>\nQuery 3: \nSELECT N \nFROM {N} rdf:type {sti:Event}; sti:involves {M} rdf:type {sti:Professor} \nUSING NAMESPACE sti=<http://www.ontogrid.net/StickyNote#>\nRDF(S) querying: inferences\n",
-  "speaker": "SYSTEM",
-  "uuid": "93163775-0992-4816-86ea-2a96e80cddff"
-}

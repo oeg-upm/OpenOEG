@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: PURE.pdf: Página 13\n●A user query Q is a conjunctive query in terms of \nvocabulary concepts.\n●Q is insecure if there is at least one insecure rewriting \nQ’ of Q with respect to secrecies S. \n      e.g. Q(N,B,Z,G,R):-patient(N,B,Z,G),has(N,Y),disease(Y,'PAC'), \n     is_characterized_by(Y,Z),five_year_rate(Z,R).\nPURE: Queries\n13\n",
-  "speaker": "SYSTEM",
-  "uuid": "20439565-e356-49c7-8eda-4fd321161c49"
-}

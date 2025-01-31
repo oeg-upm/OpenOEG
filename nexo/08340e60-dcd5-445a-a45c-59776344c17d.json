@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Semantic_Sensor_Networks_%28short_overview%29.pdf: Página 10\n10\nFuture Works\n•\nOntology-based streaming data access\n•\nContinue implementation of SPARQL stream extensions\n• Multiple graph pattern matching, aggregates, projections\n•\nContinue implementation of SNEEql translation \n• Eliminate redundant queries, basic optimizations\n• Support for tuple-based windows, slide parameters\n•\nProvision as a Service in the SemSorGrid4Env Architecture\n•\nOntology-based streaming data integration\n•\nContinue implementation of R2O support for streams\n• Support for push and pull based streams\n• Add mapping of multiple virtual RDF streams\n•\nSupport for quality of service parameters\n10\nSemantic Integration Streaming Data Sources\n",
-  "speaker": "SYSTEM",
-  "uuid": "08340e60-dcd5-445a-a45c-59776344c17d"
-}

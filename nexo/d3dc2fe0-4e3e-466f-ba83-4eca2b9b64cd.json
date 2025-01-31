@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: DevTools.pdf: Página 14\nAdministrar « DevTools » : Herramientas\n<project xmlns=\"http://maven.apache.org/POM/4.0.0\" \nxmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" \nxsi:schemaLocation=\"http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd\">\n<modelVersion>4.0.0</modelVersion>\n<groupId>eu.sealsproject</groupId>\n<artifactId>seals-dev-env</artifactId>\n<version>1.0-SNAPSHOT</version>\n<packaging>pom</packaging>\n<name>SEALS development environment</name>\n<pluginRepositories>\n<pluginRepository>\n<id>devtools</id>\n<url>http://aldebaran.dia.fi.upm.es/artifactory/devtools-releases-local</url>\n</pluginRepository>\n</pluginRepositories>\n<build>\n<plugins>\n<plugin>\n<groupId>org.seals</groupId>\n<artifactId>maven-devtools-plugin</artifactId>\n<configuration>\n<toolsDirectory>E:/tools</toolsDirectory>\n</configuration>\n</plugin>\n</plugins>\n</build>\nProyecto POM – almacenado  en SVN (configuración de las herramientas)\n",
-  "speaker": "SYSTEM",
-  "uuid": "d3dc2fe0-4e3e-466f-ba83-4eca2b9b64cd"
-}

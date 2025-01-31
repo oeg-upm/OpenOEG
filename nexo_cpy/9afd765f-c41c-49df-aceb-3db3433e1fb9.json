@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 20\n©O. Corcho\n20\nOntological Engineering\nCopyright © 2005, The University of Manchester\nPizza\nWhy? Necessary conditions\n•\nWe have created a restriction: hasBase PizzaBase\non Class Pizza as a necessary condition\n►Each necessary condition on a class is a superclass of that class\nPizzaBasehasBasehasBasehasBasehasBasehasBasehasBase\nhasBase \nPizzaBase\n►ie The restriction hasBase PizzaBase is a superclass of Pizza\n►As Pizza is a subclass of the restriction, all Pizzas must satisfy \nthe restriction that they have at least one base from PizzaBase\n",
-  "speaker": "SYSTEM",
-  "uuid": "9afd765f-c41c-49df-aceb-3db3433e1fb9"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RDF%28S%29-SPARQL-Pr%C3%A1ctica.pdf: Página 4\n•4\nRDF Serialisations. N3\n@base  <http://www.oeg-upm.net/ontologies/people >\n@prefix person: <http://www.ontologies.org/ontologies/people#>\n:Asun  person:hasColleague :Raul ;\nh\nH\nP\n“htt\n//\nfi\n/”\nperson:hasHomePage “http://www.fi.upm.es/”.\n:Oscar person:hasColleague :Asun ;\nperson:hasName “Óscar Corcho García”.\n7\nBlank nodes: structured property values\n•\nMost real-world data involves structures that are more \ncomplicated than sets of RDF triple statements\nThis intermediate URI does not\noeg:Oscar\ncity:BoadillaDelMonte\nCampus de Montegancedo s/n\naddress:hasStreetName\n“Oscar Corcho García”\nperson:hasName\naddress:city\nperson:hasPostalAddress\nThis intermediate URI does not\nneed to have a name\n•\nIn RDF/XML, it is an <rdf:Description> node with no \nrdf:about\n•\nIn N3, it is a resource identifier that starts with ‘_’ \n•\nE.g., “_:nodeX”\ny\np\ng\n8\n",
-  "speaker": "SYSTEM",
-  "uuid": "869df5c0-1649-4db6-8229-1fc56c7129ee"
-}

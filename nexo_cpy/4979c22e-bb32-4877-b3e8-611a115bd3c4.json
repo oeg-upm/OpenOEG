@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RedesBayesianas_Introducci%C3%B3n.pdf: Página 14\nEl Teorema de la Probabilidad Total\nSi {Hi}i∈I es una colección ﬁnita de sucesos disjuntos dos\na dos y cuya unión es el suceso seguro (U).\nP(B) = ∑i∈I P(B|Hi)P(Hi)\nDemostración:\nP(B) = P(B∩U) = P(B∩(S\ni∈I Hi)) =\nP(S\ni∈I(B∩Hi)) = ∑i∈I P(B∩Hi) = ∑i∈I P(B|Hi)P(Hi)\nP(T+) = P(T +|E).P(E)+P(T +|¬E).P(¬E) =\n0.95×0.01+0.03×0.99 = 0.0392\nUna Introducción a las Redes Bayesianas– p.12/??\n",
-  "speaker": "SYSTEM",
-  "uuid": "4979c22e-bb32-4877-b3e8-611a115bd3c4"
-}

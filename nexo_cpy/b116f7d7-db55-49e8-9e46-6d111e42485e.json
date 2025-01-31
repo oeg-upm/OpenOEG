@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 4\nMost common constructors in class definitions\n•\nIntersection: C1 ∩... ∩Cn\nHuman ∩Male\n•\nUnion: C1 ∪... ∪Cn\nDoctor ∪Lawyer\n•\nNegation: ¬C\n¬Male\nN\ni\nl\n{\n} ∪\n∪{\n}\n{j h } ∪\n∪{\n}\n•\nNominals: {x1} ∪... ∪{xn}\n{john} ∪... ∪{mary}\n•\nUniversal restriction: ∀P.C\n∀hasChild.Doctor\n•\nExistential restriction: ∃P.C\n∃hasChild.Lawyer\n•\nMaximum cardinality: ≤nP\n≤3hasChild\n•\nMinimum cardinality: ≥nP\n≥1hasChild\n•\nSpecific Value: ∃P.{x}\n∃hasColleague.{Matthew}\n© O. Corcho, MC Suárez de Figueroa Baonza\n7\nOWL and SWRL\n•\nNesting of constructors can be arbitrarily complex\n–\nPerson ∩∀hasChild.(Doctor ∪∃hasChild.Doctor)\n•\nLots of redundancy\n–\nA∪B is equivalent to ¬(¬ A ∩¬B)\n–\n∃P.C is equivalent to ¬∀P. ¬C\nExistential and Universal Restrictions\n© O. Corcho, MC Suárez de Figueroa Baonza\n8\nOWL and SWRL\n",
-  "speaker": "SYSTEM",
-  "uuid": "b116f7d7-db55-49e8-9e46-6d111e42485e"
-}

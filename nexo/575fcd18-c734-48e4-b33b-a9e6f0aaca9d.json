@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL_Curso20122013.pdf: Página 14\n14 \nCurso Biblioteca Nacional. 21-25th November 2011 \n© Raúl García Castro et al. \nIndex \n•  Introduction \n•  Graph patterns \n•  Restricting values and solutions \n•  SPARQL query forms \n•  Hands-on \n•  SPARQL 1.1 \n \n27 \nCurso Biblioteca Nacional. 21-25th November 2011 \n© Raúl García Castro et al. \nSPARQL query forms \n•  SELECT \n-  Returns all, or a subset of, the variables bound in a query \npattern match \n•  CONSTRUCT \n-  Returns an RDF graph constructed by substituting variables \nin a set of triple templates \n•  ASK \n-  Returns a boolean indicating whether a query pattern \nmatches or not \n•  DESCRIBE \n-  Returns an RDF graph that describes the resources found \n28 \n",
-  "speaker": "SYSTEM",
-  "uuid": "575fcd18-c734-48e4-b33b-a9e6f0aaca9d"
-}

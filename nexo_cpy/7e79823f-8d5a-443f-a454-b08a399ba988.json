@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RedesBayesianas_Introducci%C3%B3n.pdf: Página 17\nVariables Inciertas\nUna variable es una magnitud medible en un determinado\nproblema. Es incierta cuando su resultado no puede ser\ndeterminado con exactitud.\nVamos a hablar en términos de variables inciertas. Las\nvariables aleatorias las representaremos por X,Y,Z,...\nTemperatura con valores en\n{≤36,36.5,37,37.5,38,38.5,39,39.5,≥40}\nHepatitis con valores en {Presente,Ausente}\nN. de Hijos con valores en {0,1,2,3,> 3}\nUn valor genérico de la variable X se representará por x\nUn conjunto de variables se representará por X\nUn valor genérico de X se representará por x\nUna Introducción a las Redes Bayesianas– p.15/??\n",
-  "speaker": "SYSTEM",
-  "uuid": "7e79823f-8d5a-443f-a454-b08a399ba988"
-}

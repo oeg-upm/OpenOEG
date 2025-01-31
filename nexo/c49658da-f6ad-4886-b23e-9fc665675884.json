@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Dong_et_al-data_integration_uncertainty \n\nfor each j oin [1..n], Sum(i in [1..m], Pr(cij) <= 1)\nBayes-Net\ncan reduce the size of mappings exponentially\nhowever, it does not reduce the complexity of query answering\nComplex Mappings\nexample : the address attribute maps to the concatenation of street, city, and state\na complex mapping is (S,T,cm)\ncm is a set of set correspondences, such that each attribute in S or T is involved in at most one set correspondence.\nConditional Mappings\nexample: daytime-phone maps to work-phone with 60% probability if age < 65 and maps to home-phone with 90% is age >= 65\na conditional p-mapping cpM = {(pM1,C1), ..., (pMn, Cn)} where pMi are p-mappings and Ci are pairwise disjoint conditions.\nthese type of mapping are more related to tuple-semantics.",
-  "speaker": "SYSTEM",
-  "uuid": "c49658da-f6ad-4886-b23e-9fc665675884"
-}

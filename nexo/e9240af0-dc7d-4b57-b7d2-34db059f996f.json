@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentacion_OEG_OPM_9-12-2010.pdf: Página 6\n1\nOPM Overview\nAccounts\n•\nMechanism by which multiple descriptions of a same execution can co-exist in a \nsame OPM graph\n•\nDifferent accounts may be provided by different observers (or asserters)\n•\nAccounts can overlap if they have some OPM subgraph in common\n•\nAn account can be a refinement of another, if it provides more details\n– Support for hierarchical descriptions\n•\nAccounts may be conflicting!\n",
-  "speaker": "SYSTEM",
-  "uuid": "e9240af0-dc7d-4b57-b7d2-34db059f996f"
-}

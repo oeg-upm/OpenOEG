@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Anotadocion_Rich_Snippets.pdf: Página 1\n \nAnotador: http://annotator.lfms.nl/ \nEs una versión Web básica de la herramienta Google Rich Snippets referienciado en el \npaper Automatic Web Page Annotation with Google Rich Snippets de W.Hop, S.Lachner, \nF.Frasincar y R. De Virgilio.  Su funcionamiento consiste en introducir una URL y devuelve la \npágina coloreada. Los colores representan cada una de los nombres propios identificados. \nDesventajas: \n• \nNo hay una leyenda de colores, así que se identifican pero no se sabe con qué.  \n• \nDependiendo de las codificaciones la salida es legible o no. \n• \nLa entrada RDFa no devuelve nada. \nEntrada: http://www.fi.upm.es Salida con layout, porque con rdfa no saca nada \n \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "1a32ac11-bb4a-40bf-83e9-5227f69a4721"
-}

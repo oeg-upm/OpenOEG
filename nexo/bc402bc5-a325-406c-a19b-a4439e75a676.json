@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 3._GC-Redes_Sem%C3%A1nticas-v3.pdf: Página 20\nRedes Semánticas  \nFacultad de Informática. Universidad Politécnica de Madrid \n© Asunción Gómez Pérez \nEjemplo de Jerarquía con relaciones a medida \nPersona \nFraternal \nDisjunto \nCasado-Con \nDivorciado-De \nMujer \nHombre \nSubclase-de \nSubclase-de \nInstancia \nInstancia \nMaría \nCasado-Con \nAna \nJuan \nInstancia \nInstancia \nPepe \nCasado-Con \nDivorciado de \nLuis \nInstancia \n",
-  "speaker": "SYSTEM",
-  "uuid": "bc402bc5-a325-406c-a19b-a4439e75a676"
-}

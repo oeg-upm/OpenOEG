@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2.RDF%28S%29.pdf: Página 16\n• 16 \nCorrespondence between thing-URI and source-URI \nUser Agent \nWeb Server \nhttp://dbpedia.org/resource/Gordon_Brown \nhttp://dbpedia.org/data/Gordon_Brown \nHTTP \n GET \n303  \nHTTP \nGET \nRDF \nhttp://dbpedia.org/page/Gordon_Brown \nNamespaces in RDF \n•  Namespaces defined using XML qualified names \n•  URIs under a namespace are called vocabularies \n32 \nPrefix \nURI \npeople \nhttp://www.oeg-upm.net/People# \norganization http://www.oeg-upm.net/Organization# \nproperties \nhttp://www.oeg-upm.net/Properties# \nrdf \nhttp://www.w3.org/1999/02/22-rdf-syntax-ns# \nrdfs \nhttp://www.w3.org/2000/01/rdf-schema# \nxsd \nhttp://www.w3.org/2001/XMLSchema# \nproperties:isMemberOf \npeople:Raul \norganization:OEG \n“Raúl García Castro” \nproperties:hasFullName \n“1975-12-26”^^xsd:date \nproperties:hasBirthDate \nproperties:hasWebPage \nhttp://www.oeg-upm.net/ \n",
-  "speaker": "SYSTEM",
-  "uuid": "2411656b-872f-4ea4-9587-c7b6835de17f"
-}

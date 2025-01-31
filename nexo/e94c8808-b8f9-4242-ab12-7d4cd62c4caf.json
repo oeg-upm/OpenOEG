@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 05_OWL.pdf: Página 103\n© O. Corcho, MC Suárez de Figueroa Baonza\n83\nOWL 2\nAutomatic Classification and Open World Assumption (III)\nTo specify explicitly that a MargheritaPizza has toppings that are\nkinds of MozzarellaTopping or kinds of MargheritaTopping and\nonly kinds of MozzarellaTopping or MargheritaTopping, we must\nadd what is known as a closure axiom or restriction on the\nhasTopping property.\nProtege 3.4\n",
-  "speaker": "SYSTEM",
-  "uuid": "e94c8808-b8f9-4242-ab12-7d4cd62c4caf"
-}

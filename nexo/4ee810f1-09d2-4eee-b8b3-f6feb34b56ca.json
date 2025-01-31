@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Designing_a_Text_Classification_System_using_Statistical_NLP.pdf: Página 13\nDocument Representation \nMachine Learning methods require documents to be \nrepresented using feature vectors “d” \n \n \nU: document space (the set o user queries)  \nV:  term vocabulary in U  \n \n \n \n \nBag of words:  d ϵ ℝn where n = |V| \n \n- Assumption: Order is not important \n \n- Decisions to take: \n- Accents and diacritics \n- Case-folding \n- Stemming \n- Lemmatize \n- Stop words \n",
-  "speaker": "SYSTEM",
-  "uuid": "4ee810f1-09d2-4eee-b8b3-f6feb34b56ca"
-}

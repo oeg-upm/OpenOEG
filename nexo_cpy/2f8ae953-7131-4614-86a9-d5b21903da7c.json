@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Protege-Pizzas-v5.pdf: Página 11\n© O. Corcho, MC Suárez de Figueroa Baonza\n11\nOWL and SWRL\nInverse Properties\nEach object property may have a corresponding inverse property.\nIf some property links individual a to individual b, then its invers property ling individual\nb to individual a.\nCreating inverse properties in the pizza example: isIngredientOf.\n",
-  "speaker": "SYSTEM",
-  "uuid": "2f8ae953-7131-4614-86a9-d5b21903da7c"
-}

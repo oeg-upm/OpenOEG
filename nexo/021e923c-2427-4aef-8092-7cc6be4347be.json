@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_09_-_OntologiesDatabases.pdf: Página 13\nCasos de mapping cubiertos por el lenguaje:\nR2O (Relational-to-Ontology) Language\nA view maps exactly \none concept in the \nontology.\nA subset of the \ncolumns in the view \nmap a concept in the \nontology.\nA subset (selection)\nof the records of a\ndatabase view map\na\nconcept\nin\nthe\nontology.\nA\nsubset\nof\nthe\nrecords\nof\na\ndatabase view map\na\nconcept\nin\nthe\nonto.\nbut\nthe\nselection cannot be\nmade using SQL.\nA\ncolumn\nin\na\ndatabase view maps\ndirectly an attribute\nor a relation.\nA\ncolumn\nin\na\ndatabase view maps\nan\nattribute\nor\na\nrelation after\nsome\ntransformation.\nA set of columns in a\ndatabase view map\nan\nattribute\nor\na\nrelation.\nOne\nor\nmore\nconcepts\ncan\nbe\nextracted\nfrom\na\nsingle data field (not\nin 1NF).\npara conceptos...\npara atributos...\n",
-  "speaker": "SYSTEM",
-  "uuid": "021e923c-2427-4aef-8092-7cc6be4347be"
-}

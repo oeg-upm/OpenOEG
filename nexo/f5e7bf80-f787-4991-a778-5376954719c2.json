@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SPARQL_optimization_slides.pdf: Página 14\nDARQ: Physical Optimisation\nSingle triple pattern result size estimation:\nBasic graph pattern cost:\nProposed Improvements:\nEstimate if both subject and object are bound: min?\nExtend for streams\n",
-  "speaker": "SYSTEM",
-  "uuid": "f5e7bf80-f787-4991-a778-5376954719c2"
-}

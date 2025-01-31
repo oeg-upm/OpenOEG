@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: LPS_BIGGER-09.03.2017.pdf: Página 21\nIs there any correlation amog emotions? (2)\n• Strong correlation among a few emotions.\n• A relevant list of probabilities:\n• Possible orders for in-cascade classifiers:\nUseful for ordering the tests!\nUseful for deriving results from one clasifier to \nanother!\n21\n𝑃𝐼𝑛𝑠𝑎𝑡𝑖𝑠𝑓𝑎𝑐𝑐𝑖ó𝑛𝑂𝑑𝑖𝑜= 0,821\n𝑃(𝑆𝑎𝑡𝑖𝑠𝑓𝑎𝑐𝑐𝑖ó𝑛|𝐹𝑒𝑙𝑖𝑐𝑖𝑑𝑎𝑑) = 0,736\n𝑃(𝐹𝑒𝑙𝑖𝑐𝑖𝑑𝑎𝑑|𝐴𝑚𝑜𝑟) = 0,72\n𝑃𝐴𝑚𝑜𝑟𝐹𝑒𝑙𝑖𝑐𝑖𝑑𝑎𝑑= 0,451\n𝑃𝐼𝑛𝑠𝑎𝑡𝑖𝑠𝑓𝑎𝑐𝑐𝑖ó𝑛𝑇𝑟𝑖𝑠𝑡𝑒𝑧𝑎= 0,451\n𝑃𝑆𝑎𝑡𝑖𝑠𝑓𝑎𝑐𝑐𝑖ó𝑛𝐶𝑜𝑛𝑓𝑖𝑎𝑛𝑧𝑎= 0,444\n𝑃𝑆𝑎𝑡𝑖𝑠𝑓𝑎𝑐𝑐𝑖ó𝑛𝐴𝑚𝑜𝑟= 0,425\n𝑃𝑂𝑑𝑖𝑜𝐼𝑛𝑠𝑎𝑡𝑖𝑠𝑓𝑎𝑐𝑐𝑖ó𝑛= 0,368\n𝑃(𝐼𝑛𝑠𝑎𝑡𝑖𝑠𝑓𝑎𝑐𝑐𝑖ó𝑛|𝑇𝑒𝑚𝑜𝑟) = 0,346\nAmor Felicidad Satisfacción\nOdio Insatisfacción\n",
-  "speaker": "SYSTEM",
-  "uuid": "a8f0abb0-52cf-4177-9ab2-25eaaa3201a5"
-}

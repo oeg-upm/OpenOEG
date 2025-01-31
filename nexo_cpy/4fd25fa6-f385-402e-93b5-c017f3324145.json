@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas-II.pdf: Página 20\nSistemas de Producción\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nExamina en cada ciclo de funcionamiento la BH y decide qué regla ejecutar\nCaracterísticas:\nCausar movimiento\nSer sistemática\nSer eficiente\nEstrategia de Control\nBH1\nBH2\nBHn-1\nBHn\nR1\nR2\n...\nRN\nC1\nC2\nCn-1\nR2\nRn\nR1\n",
-  "speaker": "SYSTEM",
-  "uuid": "4fd25fa6-f385-402e-93b5-c017f3324145"
-}

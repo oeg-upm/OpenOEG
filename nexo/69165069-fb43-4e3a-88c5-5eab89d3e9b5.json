@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: PlanetData_SIMON_OEGPresentation_oct16.pdf: Página 6\nApproach: morph-streams++\nGoal: to develop a stream processing engine capable \nof adapting to changing conditions, such as changing \nrates of input data, failure of processing nodes, or \ndistribution of workload, while serving complex \ncontinuous queries.\nMethodology\n⚫\nState of the art of (RDF) stream processing\n⚫\nEvaluate how to parallelize SPARQLStream queries\n⚫\nImplementation of RDF query operators\n⚫\nOptimize parallelization for common queries\n⚫\nDesign self-adaptive strategies that allow the \nengine to react in front of changes\n",
-  "speaker": "SYSTEM",
-  "uuid": "69165069-fb43-4e3a-88c5-5eab89d3e9b5"
-}

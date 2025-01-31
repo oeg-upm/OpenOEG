@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SparqlDQPGrupo.pdf: Página 25\nPartitioner\n• Partitions the SparqlLQP in the available nodes\n• OGSA-DQP knows all the nodes\n• IP\n• Resources in the node\n• The partitioner is included in the optimisers chain\n• OGSA-DQP knowing the LQP and the nodes creates \nan execution plan which is distributed across these \nnodes\n• Important:\n• OGSA-DQP for SQL has a dictionary with the SQL database \nstatistics\n• For SPARQL there are missing key statistics for improving \nthe optimisations\n",
-  "speaker": "SYSTEM",
-  "uuid": "c6f2b8e8-6805-4a85-96c2-fa06fd1bfb8b"
-}

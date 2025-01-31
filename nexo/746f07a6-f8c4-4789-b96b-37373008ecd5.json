@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: AnaIglesiasMolina-MBC_TFM.pdf: Página 6\nUPM / Japan collaboration\nIntroduction\n6\nOntology-based data access technology applied to Bio2RDF\nSemantic Web\nSubject\nPredicate\nObject\nTriple\n“Gene” \nobo:SO_0000704\n“Synonym” \nxsd:string\nskos:altlabel\n“Transcript” \nobo:SO_0000673\nobo:SO_transcribed_from\nSubject\nPredicate\nObject\nTriple\n",
-  "speaker": "SYSTEM",
-  "uuid": "746f07a6-f8c4-4789-b96b-37373008ecd5"
-}

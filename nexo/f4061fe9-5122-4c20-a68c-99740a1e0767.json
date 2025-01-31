@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RicoMayo2018.pdf: Página 16\nFirst tests. Predicting for EN-ES-lit\n• Accuracy for different ML methods\n• Random Forest (RF)\n• Support Vector Machine (SMO)\n• Multilayer Perceptron (MP)\n• Best results (higher Area Under the \nCurve) for RF\n• Method: 10-fold cross validation (with \nfold stratified, i.e., keeping class \nproportions in each fold)\n",
-  "speaker": "SYSTEM",
-  "uuid": "f4061fe9-5122-4c20-a68c-99740a1e0767"
-}

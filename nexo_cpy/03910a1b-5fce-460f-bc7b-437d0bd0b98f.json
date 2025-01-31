@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: NLP.Dissociating_language_and_thought_in_large_language_models.pdf: Página 42\n5. Building models that think like humans\nSeparate Benchmarks for formal & functional competences\n• Ya hay benchmarks para competencia lingüística formal en LLMs.\n• Falta complementarlos con otros dos feautores linguisticos core: \njerarquías y abstracción.\n• No hay benchmarks para competencia funcional (lo que hay de CS \npuede ser “hackeado” por LLMs)\n",
-  "speaker": "SYSTEM",
-  "uuid": "03910a1b-5fce-460f-bc7b-437d0bd0b98f"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: LPS_BIGGER-09.03.2017.pdf: Página 10\nTesting…\nDifferent Machine Learning Algorithms:\n•\nNaïve Bayes\n•\nLinear Regresion…\nDifferent features:\n•\nLemmas\n•\nTokens\n•\nChunks\nResources and software:\n•\nLexicons (new-built, existing ones)\n•\nNLP tools (Ixa-pipes, Freeling, OpenNLP, CoreNLP)\n•\nOther tools (Weka, SocialMedia, self-implemented)\nOther efforts:\n•\nPreprocessing: filters (normalizer, SentenceSplitter)\n•\nPOS\n•\nBabelfy… \n10\n",
-  "speaker": "SYSTEM",
-  "uuid": "f2e288ed-8013-4bf0-8df7-753a052a9c19"
-}

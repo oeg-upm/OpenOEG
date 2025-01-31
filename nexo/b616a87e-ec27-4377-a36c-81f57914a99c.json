@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ontologies-Methodology.pdf: Página 19\n19\nOntology Requirements Specification\nOntology Requirements Specification is a collection of \nrequirements that the ontology should fulfill, e.g. reasons to \nbuild the ontology, target group, intended uses. \nRequirements are those needs that the ontology to be built should \nrepresent/cover. \nCompetency Questions (CQs) are questions that the ontology to be built \nshould be able to answer.\n\nCQs are a way to represent requirements.\n\nCQs can be written in natural language (NL) and can be \nformalized in ontology query languages (e.g. SPARQL).\n",
-  "speaker": "SYSTEM",
-  "uuid": "b616a87e-ec27-4377-a36c-81f57914a99c"
-}

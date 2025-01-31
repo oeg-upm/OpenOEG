@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: EfficientClustering.pdf: Página 12\nApproach 1: TDC\n12\n•  Instead of directly relying on the topic distribu5on’s scores, it considers \ntheir varia5ons across consecu5ve topics inside a document’s topic \ndistribu5on \n \n \n \n  \n0.23 \n0.18 \n0.33 \n0.13 \n 0.13 \nP =  \n> \n< \n= \n> \n2 \n1 \n2 \n0 \nT =  \nTrends on Dirichlet-based Clustering (TDC)\n",
-  "speaker": "SYSTEM",
-  "uuid": "2620fb96-f59a-45c5-b703-420325c0e048"
-}

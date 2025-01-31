@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: AEMPS_Projects.pdf: Página 3\nPerformed tasks\nNatural Language Processing\nTherapeutical information\nFor patients with schizophrenia.\nDrug Name\nAsenapina\nAdverse reactions\nMay produce headaches.\n-\nDisease identification based on lexical-\nsyntactic patterns and dictionaries\n-\nPatterns are dependent of the semantic\nvalue of the disease (Prescribed for or\nadverse reaction)\n…………………………………\n……………………….\nDrug fact sheet of Asenapina\nMapping\nMedDRA \nDictionary\n-\nHomogeneous\nterm\nsearch\non\nterminologies or dictionaries\n-\nUnique representation for a disease\n-\nAlgorithms to provide best candidates\nwithout false positives\nSNOMED-CT\nSystematized Nomenclature of Medicine –\nClinical Terms\nMedical Dictionary for Regulatory Activities\nMapping\n",
-  "speaker": "SYSTEM",
-  "uuid": "cfb71b6f-d706-463d-b869-470edfee61b2"
-}

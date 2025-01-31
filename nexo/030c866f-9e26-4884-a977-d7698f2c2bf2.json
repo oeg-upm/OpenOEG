@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISSGC08.pdf: Página 51\n©<Miembro Grupo>\n52\nSAGA\n• Simple API for Grid Applications (SAGA)\n– SAGA is a simple API (as it sounds)\n– SAGA is an emerging standard\n• What is the Grid (brief reminder)\n– Dynamic\n– Heterogeneous\n– Complex\n• What SAGA provides?\n– A high level abstraction hiding middleware details\n– Details of distribution are hidden\n– Simple API to access the existing Grid middleware\n– Is a client side software\n",
-  "speaker": "SYSTEM",
-  "uuid": "030c866f-9e26-4884-a977-d7698f2c2bf2"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Marcos.pdf: Página 6\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nEjemplo de Jerarquía de Marcos\nPersona\nFraternal\nDisjunto\nCasado-Con\nDivorciado-De\nMujer\nHombre\nSubclase-de\nSubclase-de\nInstancia\nInstancia\nMaría\nCasado-Con\nAna\nJuan\nInstancia\nInstancia\nPepe\nCasado-Con\nDivorciado de\nLuis\nInstancia\n",
-  "speaker": "SYSTEM",
-  "uuid": "f33587ba-b8bf-4367-bba2-e92953c40932"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Geometry2rdf \n\nIr a LinkedData\nContents\n[\nhide\n]\n1\nDescription\n2\nCode\n3\nIssues\n4\nTO DO List\nDescription\n\ngeometry2rdf defines a set of RDF triples for geometrical information (which could be available in GML or WKT).\nCode\n\nGithub repos\nIssues\n\nN\nIssue\nStatus\n1\nWhen the geometry is composed by a single point, the points have the same value for lat and long\nSolved\n2\nWhen the geometry is composed by a single point, the tool is generating a wrong object property \"formadoPor\", it should be \"geometry\"\nSolved\n3\nScalability problems, when we need to process a huge table of geometries, e.g., Colombia geometry database\nPending\n-\nTO DO List\n\nIncluir en el next release el soporte para shape files\nIncluir en el next release el soporte para gml files",
-  "speaker": "SYSTEM",
-  "uuid": "4977bb78-817e-4d3f-990d-f6081156be1d"
-}

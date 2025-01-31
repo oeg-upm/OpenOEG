@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 15\n©O. Corcho\n15\nOntological Engineering\nCopyright © 2005, The University of Manchester\nClass Restrictions: Associating Properties with Classes\n• Property that we want to use to describe Pizza \nindividuals\n– hasTopping\n• Steps\n– Go back to the Pizza class and add some further information\n– Use the Conditions widget\n– Conditions can be any kind of Class \n• Named superclasses (already added)\n• Class restrictions of type “Anonymous Class”\n",
-  "speaker": "SYSTEM",
-  "uuid": "b030448e-d9c1-4b2d-b66f-e6cc4cf3a37d"
-}

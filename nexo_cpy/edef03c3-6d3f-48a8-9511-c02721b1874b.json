@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 31\nOWL Properties\nOWL Properties represent relationships. There are two main types:\nObject properties and Datatype properties. OWL also has a third\ntype of property: Annotation properties.\nDatatype\nProperty\nAnnotation\nProperty\n© O. Corcho, MC Suárez de Figueroa Baonza\n61\nOWL and SWRL\nObject Properties\nCreating object properties in the pizza example: hasIngredient,\nhasBase, and hasTopping.\nDelete Object Property\nObject Properties\nAdd Subproperty\n© O. Corcho, MC Suárez de Figueroa Baonza\n62\nOWL and SWRL\nAdd Object\nProperty\n",
-  "speaker": "SYSTEM",
-  "uuid": "edef03c3-6d3f-48a8-9511-c02721b1874b"
-}

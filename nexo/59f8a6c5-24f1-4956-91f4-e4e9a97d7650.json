@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 12\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nSintaxis (III)\n2. Fórmulas\n- Si p es un símbolo de predicado, y t1, t2, ..., tn son \ntérminos, entonces p(t1, t2, ..., tn) es una fórmula\n- Si F es una fórmula, entonces F es una fórmula\n- Si F y G son fórmulas, entonces:\na) F G es una fórmula\nb) F G es una fórmula\nc) F G es una fórmula\nd) F es una fórmula\n- Si x es un símbolo de variable, y F es una fórmula, \nentonces:\na) x F es una fórmula\nb) x F es una fórmula\nFormalización en lógica de predicados de primer orden                                                                        \nMariano Fernández López\n",
-  "speaker": "SYSTEM",
-  "uuid": "59f8a6c5-24f1-4956-91f4-e4e9a97d7650"
-}

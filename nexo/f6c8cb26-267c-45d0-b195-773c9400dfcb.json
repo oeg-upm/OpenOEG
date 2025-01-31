@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentacion_OEG24-04-2014.pdf: Página 27\n27 \nNext steps \n• Finish and test the proposal with different data streams \n• Sensor and other data streams  data is welcome! \n• Release the library (Java)  feedback is welcome! \n• ISWC paper \n \n• Parallel compression/decompression \n• preliminary proposal on Storm \n \n• Integration within RDF streaming Engines  \n• e.g. morph-streams, CQELS Cloud \n• 3 purposes: \n• scaling to higher input data rates \n• minimizing the data exchange among processing nodes \n• serving a small set of operators on the compressed data \n \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "f6c8cb26-267c-45d0-b195-773c9400dfcb"
-}

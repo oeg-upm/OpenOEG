@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ClaseGLD-v3%28boris-asun%29.pdf: Página 42\nHow to use the software library? \n• There are 3 configuartion files: \n• nor.xml, for describing the non-ontological resource. \n• prnor.xml, for describing the pattern for re-engineering. \n• or.xml, for describing the ontology generated. \n \n• There is a batch file \n• nor2o.bat, for performing the transformation \n \n• Requirements \n• Java runtime environment (tested in 1.5) \n• You should set tha JAVA_HOME to the location of the \ninstallation directory.  \n",
-  "speaker": "SYSTEM",
-  "uuid": "d7125fe2-5f23-4313-bc67-afa9b9de2b86"
-}

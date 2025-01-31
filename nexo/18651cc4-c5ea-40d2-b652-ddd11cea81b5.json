@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion.pdf: Página 23\nPlanificación\nFormalización de STRIPS. Ejemplo de descripción \nde operadores\nQUITAR(X, Y)\nprecondiciones: encima (X, Y) ^ libre (X) ^ brazo-libre\nañadidos: sujeto (X) ^ libre (Y)\nborrados: brazo-libre ^ encima (X, Y)\nX\nY\nX\nY\nPONER(X, Y)\nprecondiciones: libre (Y) ^ sujeto (X)\nañadidos: encima (X, Y) ^ brazo-libre\nborrados: libre (Y) ^ sujeto (X)\nX\nY\nX\nY\n",
-  "speaker": "SYSTEM",
-  "uuid": "18651cc4-c5ea-40d2-b652-ddd11cea81b5"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Fpriyatna-oeg-20141002.pdf: Página 38\n(FW2) Sneak Peek of Horizontal Approach\n●Use mappings NF1\n●Use self-join elimination\n●Without reification\n●Generate multiple tables, not a single triples \ntable in the view\n●\nPDepartment = SELECT ?s ?ex_name ?ex_department WHERE {\n?s rdf:type ex:Department .\n?s ex:name  ?ex_name . }\n●\nPEmployee = SELECT ?s ?ex_name ?ex_fullname ?ex_department WHERE {\n?s rdf:type ex:Employee .\n?s ex:name  ?ex_name .\n?s ex:fullname ?ex_fullname .\n?s ex:worksIn ?ex_worksIn. }\n",
-  "speaker": "SYSTEM",
-  "uuid": "5b4e194e-ba4d-431b-81fc-51978c86fb07"
-}

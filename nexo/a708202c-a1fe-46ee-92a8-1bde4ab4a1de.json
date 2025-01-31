@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Sensores.pdf: Página 14\nOntologías (3)\n• Ontologías en Geon\n• Espacio\n• Conceptos acerca de CRS, posición y objetos geométricos\n• Algunos conceptos e instancias un poco arbitrarios\n• Ej: instancias de “Interval”: “km_100-1000” y “km_1000-\n2500”\n• Tiempo: desde un punto de vista biológico\n• Conceptos: “Season”, “Daytime”, “Period”…\n• Unidades de medida\n• Separa prefijos de unidades, y los presenta juntos también\n• No descompone las unidades de medida. Ej: \n“kilogram_meterSquare_perSecondSquare” \n• Fenómenos físicos: aire, agua, arena, condensación, \nluminiscencia, magnetismo, presión, sublimación, temperatura…\n• Procesos físicos: extinción, calentamiento, evaporación, …\n",
-  "speaker": "SYSTEM",
-  "uuid": "a708202c-a1fe-46ee-92a8-1bde4ab4a1de"
-}

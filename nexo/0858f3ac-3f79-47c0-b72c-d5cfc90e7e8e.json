@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: TalkOEG_Abril2015_Apertium.pdf: Página 33\nbench \nbanco \nLexiconEN \nLexiconES \nLexiconCA \nbanc \norilla \nribera \nbank \nriba \nOne time inverse consultation \ns = “banco”@es \nPbanco={“bank”@en, “bench”@en} \nTbank={“banc”@ca, “riba”@ca} \nTbench={“banc”@ca} \nPbanc={“bank”@en, “bench”@en} \nPriba={“bank”@en} \nscore(“banc”@ca) = 1.0 \nscore(“riba”@ca) = 0.5 \n",
-  "speaker": "SYSTEM",
-  "uuid": "0858f3ac-3f79-47c0-b72c-d5cfc90e7e8e"
-}

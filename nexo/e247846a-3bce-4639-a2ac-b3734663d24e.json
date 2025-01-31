@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OEG_-_Scalability_in_Semantic_Labeling_Approaches.pdf: Página 3\nScalability in Semantic Labeling Approaches\nScalability Inspection\n3\n=> Storage\n=> Parallelism\n=> Architecture\n=> Speed\nLoad scalability\nSpace scalability\nSpace-time scalability\nStructural scalability\nManual adjustment \n(human in the loop) \nReliance of other systems\niterative algorithms \nwhich runs until a \nthreshold is met\nundisclosed \nimplementation details \n(e.g., private regular \nexpression patterns)\n",
-  "speaker": "SYSTEM",
-  "uuid": "e247846a-3bce-4639-a2ac-b3734663d24e"
-}

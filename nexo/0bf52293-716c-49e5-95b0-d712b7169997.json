@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ontologias-Multilingualidad.pdf: Página 39\n©\n39\nVentajas y desventajas\n• Ventajas: \n– Posibilidad de incluir tanta información lingüística como se desee\n– Facilidad para enlazar elementos lingüisticos en las diferentes lenguas\n– Respeto de las diferencias o matices de las lenguas al nivel\nterminologico\n– Inclusión de información relevante, por ejemplo , el origen (provenance \nof the linguistic elements) \n– Linguistas y expertos del dominio pueden acceder a la capa\nterminológica en un entorno distribuido, sin necesidad de experiencia\nen ingeniería ontológica.\n• Desventajas: \n– Posible pérdida de especificidades de cada lengua, salvo que se \ncapturen en módulos específicos de la ontología, por ej. capa\nconceptual, o en el modelo lingüístico:, por ej. capa terminológica\n",
-  "speaker": "SYSTEM",
-  "uuid": "0bf52293-716c-49e5-95b0-d712b7169997"
-}

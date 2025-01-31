@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: SparqlDQPGrupo.pdf: Página 32\nFuture work (I)\n• Improve the operators used by Sparql DQP\n• isURI\n• Regex\n• notBound\n• etc.\n• Solve DBPedia problem\n• Add statistics to SparqlDQP\n• Use several RDF repositories\n• Currently only using DBPedia\n• Use Web services like http://sameas.org/ to obtain and link \nseveral RDF repositories\n• Complete the SPARQL grammar\n",
-  "speaker": "SYSTEM",
-  "uuid": "d9f35dc0-c708-423f-855a-863d69581062"
-}

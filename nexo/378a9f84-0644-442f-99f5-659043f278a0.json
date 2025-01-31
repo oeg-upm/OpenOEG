@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 33\n•  SUM \n \n \n … as usual \n•  AVG \n \n \n … as usual \n•  MIN \n \n \n … as usual \n•  MAX  \n \n \n … as usual \n•  SAMPLE  \n \n … “pick” one non-\ndeterministically \n•  GROUP_CONCAT\n … concatenate values with a \n \n \n \n designated separator string \n…this list is  extensible\n … new built-ins will need to \n \n \n \n define error-behaviour, \n \n \n \n \n extra-parameters    \n                                          (like SEPARATOR in \nGROUP_CONCAT) \n \n39 \nOntological Engineering Group \nOther Aggregates \n",
-  "speaker": "SYSTEM",
-  "uuid": "378a9f84-0644-442f-99f5-659043f278a0"
-}

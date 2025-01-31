@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 14\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nEjemplos de Reglas   \n  \nSi la edad del paciente es inferior a 10 años, tiene manchas rojas y fiebre,  \n entonces tiene varicela \n \nSi  (Paciente $p $edad) and  \n      ($edad <10) and \n      (Síntomas $p fiebre) and  \n      (Síntomas $p manchas-rojas) \nEntonces (Enfermedad $p varicela) \n \nElemento de Condición \nConstantes: Paciente, 10, Síntomas, Fiebre, Manchas-rojas, enfermedad, varicela \nVariables: $p, $Edad \n",
-  "speaker": "SYSTEM",
-  "uuid": "18cf000e-5433-46ca-8b8a-bdd014811390"
-}

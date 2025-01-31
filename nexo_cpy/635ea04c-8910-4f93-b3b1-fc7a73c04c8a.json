@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Hiroaki_Yamada_talk_Jan19.pdf: Página 22\nResults\n23\n•\nFine-tuning(FT) \nshowed some \nimprovements.\n•\nWhen the model uses \npre-trained encoder \n(AE), the F-value gets \nbetter.\n•\nThe injection of hand-\ncrafted features is not \nhelpful.\n•\nInter-sentence level \nLSTM-CRF layer \nimproves the results. \nModel\nF-value\nPrecision\nRecall\nSVM\nSVM-Base\n0.556\n0.641\n0.533\nSVM-All\n0.566\n0.641\n0.541\nCRF\nCRF-Base\n0.619\n0.659\n0.597\nCRF-All\n0.629\n0.670\n0.603\nNN\n\u0002\u0006\b\u0005\u0007\u0004\u0001\n\t\u0004\b\n\u0004\b \u0004\nWord+Char Base\n0.558\n0.625\n0.536\nWord+Char FT(word+char)\n0.586\n0.618\n0.573\n[ Word+Char FT(w+c) ] + Hf\n0.535\n0.591\n0.519\n[ Word+Char FT(w+c) ] + AE\n0.591\n0.607\n0.578\nInter-\nsentences\n[ Word + Char FT(w+c) ] + \nLSTM-CRF\n0.589\n0.645\n0.565\n[ Word + Char FT(w+c) ] + \nLSTM-CRF + AE\n0.612\n0.646\n0.594\nTentative result\n",
-  "speaker": "SYSTEM",
-  "uuid": "635ea04c-8910-4f93-b3b1-fc7a73c04c8a"
-}

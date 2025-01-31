@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OReuse-DecisionAnalysis.pdf: Página 11\n11\nOntology Reuse on the basis of Decision Analysis (I)\nOntology Development Team\nActivity 1. Domain Ontology \nSearch\nOntology Development Team\nActivity 2. Domain Ontology \nAssessment\nActivity 3. Domain Ontology \nSelect\nActivity 4. Domain Ontology \nIntegration\nOUTPUT\nSet of selected \ndomain \nontologies \nOUTPUT\nOntology network \n(interconnected \nontologies + associated \nmetadata) + set of \ndomain ontologies\nOntology Development Team\nOntology Development Team\nORSD\nThe selection of the most suitable domain ontologies for  \nreuse in the development of a new ontology is a complex \ndecision-making \nproblem \nwhere \ndifferent \nconflicting \ncriteria, like understandability effort, integration effort, and \nreliability, have to be taken into account simultaneously.\nDA Methodology Steps:\n1. structure the problem; \n2. identify feasible strategies, their impact \nand uncertainty;\n3. quantify preferences; and \n4. evaluate alternatives and analyze \nsensitivity\n",
-  "speaker": "SYSTEM",
-  "uuid": "781bcd3f-ebbb-4130-83a2-43dbb7bdf535"
-}

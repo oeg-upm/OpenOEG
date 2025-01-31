@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISSGC08.pdf: Página 19\n©<Miembro Grupo>\n20\nDistributed Data Management\n• Data characteristics\n– Distributed, produced in large quantities, etc.\n– Where the data is used?\n• Scientific applications consume large amounts of data\n– Problems\n• Storage is not a problem  anymore\n• Computing power is still a problem\n– But not a big deal, we still produce large amounts of data but storage systems \nand processing systems are growing\n• New problem: the power needed to analyse/use the data\n",
-  "speaker": "SYSTEM",
-  "uuid": "332b8e91-cfbf-4814-8066-76c6d57a7fa3"
-}

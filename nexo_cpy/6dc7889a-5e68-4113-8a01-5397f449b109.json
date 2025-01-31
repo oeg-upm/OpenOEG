@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Hypernym-3.pdf: Página 31\nHypernym Detection\nResults\n32\nReasons for slight deviation in Results from SOTA:\nOn some datasets, we perform better and on some we \nare slightly below the SOTA.\n1) Slight variations in datasets used\n2) Difference in Pre and post processing \nmethodologies\nResults difference is negligible and our pattern based \nmethods still outperform\n",
-  "speaker": "SYSTEM",
-  "uuid": "6dc7889a-5e68-4113-8a01-5397f449b109"
-}

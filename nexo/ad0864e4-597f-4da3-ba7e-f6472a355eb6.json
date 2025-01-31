@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Marcos-II-asun.pdf: Página 25\nMarcos\nCriterios de Diseño (I)\nCriterios de Diseño (I)\n1. Favorecer compartir propiedades de clase y de instancia\n2. Evitar conocimientos Redundantes\n3. En cada MC debe haber una propiedad de clase que identifique a los elementos de la clase\n4. Semántica de las propiedades\n. Se\ná t ca de as p op edades\n5. Carácter local de la propiedad\nLas propiedades deben tener/aportar significado\n6. Redefinición de propiedad (de clase e instancia) en marcos clase más específicas\nPropiedades repetidas con el mismo nombre en diferentes marcos clase. \nPersona\n(*) Edad: 0 ... 100\nSC\nSC\nSC\nAdulto\n(*) Edad: 30 ... 65\n3ª Edad\n(*) Edad: 65 ... 100\nJoven\n(*) Edad: 15 ... 30\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\n",
-  "speaker": "SYSTEM",
-  "uuid": "ad0864e4-597f-4da3-ba7e-f6472a355eb6"
-}

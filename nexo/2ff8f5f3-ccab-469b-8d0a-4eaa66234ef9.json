@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_OWL.pdf: Página 15\n© O. Corcho, MC Suárez de Figueroa Baonza\n15\nOWL and SWRL\nChunk 3. Formalize in DL\n1. Concept definitions:\nA magazine is a publication. Broadsheets and tabloids are newspapers. A quality broadsheet \nis a type of broadsheet. A red top is a type of tabloid. A newspaper is a publication that must\nbe either a broadsheet or a tabloid.\nWhite van mans must read only tabloids.\n2. Restrictions:\nTabloids are not broadsheets, and broadsheets are not tabloids.\n3. Properties:\nThe only things that can be read are publications.\n4. Individuals:\n \nDaily Mirror\n \nThe Guardian and The Times are broadsheets\n \nThe Sun is a tabloid\n",
-  "speaker": "SYSTEM",
-  "uuid": "2ff8f5f3-ccab-469b-8d0a-4eaa66234ef9"
-}

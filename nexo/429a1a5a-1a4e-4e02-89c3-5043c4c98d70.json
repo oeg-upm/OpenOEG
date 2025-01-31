@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion.pdf: Página 41\nPlanificación\nBúsqueda del plan en STRIPS\nSe obtienen precondiciones, y se ordenan\nLEVANTAR (C)\nsujeto (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nen-mesa (C)\nlibre (C)\nbrazo-libre\nen-mesa (C) ^ libre (C) ^ brazo-libre\nLEVANTAR (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\n",
-  "speaker": "SYSTEM",
-  "uuid": "429a1a5a-1a4e-4e02-89c3-5043c4c98d70"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Marcos.pdf: Página 23\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nCriterios de Diseño (IV)\n9.\nEn un marco instanciado se pueden rellenar, o no, todas las propiedades de instancia definidas \nen los MC con los que está conectado\n10.\nLas propiedades de instancia se rellenan con un valor concreto\n11.\nNo se  pueden utilizar en las instancias propiedades que  no se hayan definido en las clases\n",
-  "speaker": "SYSTEM",
-  "uuid": "e52055b9-269a-4188-9a58-034ea81a0c5d"
-}

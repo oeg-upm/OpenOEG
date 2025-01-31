@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Restricciones.pdf: Página 10\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nRestricciones\nGeneración del Arbol en la etapa de Propagación\nEn amplitud (por niveles)\nEn profundidad \n•\nEn cada nodo se Filtran los dominios de las variables\n•\nSi dominios vacios: se poda\n•\nEn caso contrario: seleccionar una variable y fijar valores\nBacktracking si el nodo no se puede expandir\nX=a\nX=b\nE1\n",
-  "speaker": "SYSTEM",
-  "uuid": "5ba40edd-e84a-4974-a9c5-e42e5b6ead69"
-}

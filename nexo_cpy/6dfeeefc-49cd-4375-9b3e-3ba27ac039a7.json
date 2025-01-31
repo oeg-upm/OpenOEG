@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Vadim.pdf: Página 25\nNovember 12, 2015\n25\nGravitation and Fitness in Ontology Dynamics\nThe Real Staff: Workflow\n•\n \nElicit Domain Requirements\n–\n \nMulti-word key terms –\n \nwith ns\n–\n \nImportant key terms\n–\n \nEnsure that the set is statistically representative (completeness)\n•\n \nCompute the Change in ontology Fitness\n–\n \nFor elicited important requirements \n–\n \nRetrieve natural language definitions \n–\n \nCreate structural contexts (ontology change tokens) –\n \nformal, explicit\n–\n \nMap structural contexts to the ontology\n–\n \nCompute votes\n–\n \nCompute the change in Fitness\n•\n \nApply the Law of Gravitation\n–\n \nTo visualize\n \nthe change in Fitness\n•\n \nProcess is quite laborious, though\n–\n \nCould be automated in routine parts\n–\n \nResults could be re-used to a large extent \nE.g. in Time Domain\n",
-  "speaker": "SYSTEM",
-  "uuid": "6dfeeefc-49cd-4375-9b3e-3ba27ac039a7"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 101\n© O. Corcho\n77\nOntological Engineering\n3. Inference at application run-time\nCows are vegetarian.\nA vegetarian is an animal that does not eat animals nor parts of animals. \nA mad cow is a cow that eats brains that can be part of a sheep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n)\n.\n(\n)\n.\n(\n)\n.\n.(\n))\n.\n(\n.\n.\nplant\npartOf\nplant\nanimal\npartOf\nanimal\nsheep\npartOf\nbrain\neats\ncow\nmadCow\nanimal\npartOf\neats\nanimal\neats\nanimal\nvegetarian\nvegetarian\ncow\nWe obtain: \nMad cow is unsatisfiable\n",
-  "speaker": "SYSTEM",
-  "uuid": "e68cfb80-f53b-4a8d-8698-beaeb3447c7c"
-}

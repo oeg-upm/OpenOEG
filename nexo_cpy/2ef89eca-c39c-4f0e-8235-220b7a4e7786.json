@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 29\n35  \n“Count items” \nAggregates \nPREFIX ex: <http://example.org/>  \nSELECT (Count(?Item) AS ?C) \nWHERE { ?Item ex:price ?Pr } \n \n@prefix ex: <http://example.org/> . \n \nex:lemonade1    ex:price 3 ;  \n                rdf:type ex:Softdrink. \nex:beer1        ex:price 3; \n                rdf:type ex:Beer. \nex:wine1        ex:price 3.50 ; \n                rdf:type ex:Wine. \nex:wine2        ex:price 4 . \n                rdf:type ex:Wine. \nex:wine3        ex:price \"n/a”; \n                rdf:type ex:Wine. \nData: \nResults: \n?C \n5 \n",
-  "speaker": "SYSTEM",
-  "uuid": "2ef89eca-c39c-4f0e-8235-220b7a4e7786"
-}

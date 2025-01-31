@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/SameAsValidator \n\nIr a LinkedData\nMain\n\nPara administrar\nhttp://oegdev.dia.fi.upm.es:8080/sameAs/admin/datasource.jsp\nPara validar\nhttp://oegdev.dia.fi.upm.es:8080/sameAs/\nTO DO\n\nMirar el código para cambiar el número de enlaces a validar de 10 a 1000\nOutput de las validaciones que llevas (o porcentajes que llevas)\nIr atrás/adelante en los recursos validados (por si no estás seguro de la validación realizada y/o has cometido un error)\nComprobar porqué compara recursos del mismo dataset, en este caso recursos de geolinkeddata.",
-  "speaker": "SYSTEM",
-  "uuid": "7c775e92-5294-4240-a015-17ef41852728"
-}

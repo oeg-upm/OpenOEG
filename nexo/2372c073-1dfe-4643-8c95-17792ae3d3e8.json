@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Redes_Sem%C3%A1nticas-v3.pdf: Página 5\n5\nRedes Semánticas\nVer-3\nMaría\nInst\nAgente\nObjeto\nLugar\nInstancia\nEjemplo 1:\nBASE DE CONOCIMIENTOS\nEQUIPARACIÓN\nVer-2\nJuan\nVer-1     \nPepe\nvarón\nPersona\nSuceso-ver\nInst\nInst\nAgente\nAgente\nInst\nSub-Clase\nMadrid\nMuseo\nMujer\nSub-Clase\nLugar\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nTeatro\nMadrid\nLugar\nObjeto\nMadrid\nMuseo\nLugar\nObjeto\nRedes Semánticas\nSuceso-ver\nVer-?\nX?\nInst\nAgente\nMadrid\nMuseo\nObjeto\nLugar\nCONSULTA: ¿quién vió un museo en Madrid?\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nEQUIPARACIÓN 1:\nVer-? = Ver-1\nX? = Pepe\nEQUIPARACIÓN 2:\nVer-? = Ver-3\nX? = María\n",
-  "speaker": "SYSTEM",
-  "uuid": "2372c073-1dfe-4643-8c95-17792ae3d3e8"
-}

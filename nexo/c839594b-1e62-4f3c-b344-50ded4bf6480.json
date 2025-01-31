@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 4._methodologies-Concpt-REEng.pdf: Página 22\nOntological Engineering \n©Asunción Gómez-Pérez,\nExample of a Logical Pattern: \nN-Ary Relations\n•\nIn Semantic Web languages such as RDF and OWL, a property is a binary relation. \nIn some cases, the natural and convenient way to represent certain situations is to link \nan individual to more than just one individual or value by means of n-ary relations.\n•\nOne solution recommended by the W3C Semantic Web Best Practices and \nDeployment Working Group (SWBPD) is to introduce a new class for the relation. \n•\nThe solution resides in creating a new class and n new object properties to represent \nan n-ary relation. An instance of the relation linking the n individuals is then an \ninstance of this class. \nGeneral Information \nName \nN-ary Relation: New Class \nIdentifier \nLP-NR -01 \nType of Component \nLogical Pattern (LP) \n",
-  "speaker": "SYSTEM",
-  "uuid": "c839594b-1e62-4f3c-b344-50ded4bf6480"
-}

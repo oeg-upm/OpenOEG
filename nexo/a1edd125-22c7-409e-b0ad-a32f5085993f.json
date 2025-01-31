@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Sensores.pdf: Página 13\nOntologías (2)\n• WISNO\n• Ontología dividida en dos partes con diferente granularidad\n• Parte más granular para el análisis de los datos\n• Parte menos granular para procesamiento de alto nivel\n• Contiene reglas en SWRL para el procesamiento\n• Sensor Hierarchy Ontology y Sensor Data Ontology\n• Reutilizan GML, SWE, SensorML y Ontosensor\n• Basadas en los estándares ISO 19115 y IEEE 1451\n• SHO para modelar sensores en sí mismos\n• SDO para modelar la información procedente de los mismos\n• Permite “Extension Plugins Ontologies” facilitado con SUMO\n• Ontología de Avancha\n• Destinada a la descripción del estado de sensores para \npredecir el estado de la red y adaptar su comportamiento\n• Centrada principalmente en los sensores en sí mismos\n",
-  "speaker": "SYSTEM",
-  "uuid": "a1edd125-22c7-409e-b0ad-a32f5085993f"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Metodolog%C3%ADa-1-v1%28asun%29.pdf: Página 35\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n38\nOntological Engineering\nOntology Specification: \nIdentify Requirements\n Input: a set of ontological needs\n Objective:\nidentifying\nthe\nontology\nrequirements\n Techniques:\nwriting\nthe\nrequirements\nin\nnatural language in the form of the so-called\ncompetency questions (CQs)\n Tools:\nmind\nmap\ntools,\nexcel,\nand\ncollaborative tools (e.g., Cicero)\n Output: a list of competency questions written\nin Natural Language and a set of answers for\nthe CQs\n Approaches:\n\nTop-Down:\nComplex\nquestions\nare\ndecomposed in simple ones.\n\nBottom-Up:\nSimple\nquestions\nthat\nare\norganised to form complex ones.\n\nMiddle out: Mix approach between top-down\nand bottom-up.\n",
-  "speaker": "SYSTEM",
-  "uuid": "33de49cf-3f58-463b-a25a-bf5010ad450a"
-}

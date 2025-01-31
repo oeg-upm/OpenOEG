@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OOPSandBabelnet.pdf: Página 8\nPitfall Catalogue classification by technique and cardinality \n8 \n\t\r  \nCardinality\t\r  \n0..N\t\r  \nCould\t\r  appear\t\r  more\t\r  than\t\r  \nonce\t\r  \nP02,\t\r  P04,\t\r  P05,\t\r  P06,\t\r  P08,\t\r  P11,\t\r  \nP13,\t\r  P19,\t\r  P24,\t\r  P25,\t\r  P26,\t\r  P27,\t\r  \nP28,\t\r  P29,\t\r  P33,\t\r  P34,\t\r  P35\t\r  \n\t\r  \nP07,\t\r  P21\t\r  \nP40\t\r  \nP12,\t\r  P20,\t\r  P30,\t\r  \nP31,\t\r  P32\t\r  \t\r  \n0..1\t\r  \nAppears\t\r  at\t\r  most\t\r  once\t\r  \n\t\r  \nP10\t\r  \n\t\r  \nP22\t\r  \nP36,\t\r  P37,\t\r  P38,\t\r  P39\t\r  \nP03\t\r  \nStructural\t\r  pa3ern\t\r  \nbased\t\r  \nLexical\t\r  content\t\r  \nanalysis\t\r  \nOther\t\r  characteris<cs\t\r  \nTechnique\t\r  \nP05. Defining wrong \ninverse relationships \nP07. Merging \ndifferent concepts \nin the same class \nP37. Ontology not \navailable \nP30. Missing \nequivalent classes \n",
-  "speaker": "SYSTEM",
-  "uuid": "0842bceb-246c-4b0c-a5ed-41c1ddffc32b"
-}

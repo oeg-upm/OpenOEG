@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OEG_Status_report_Software_March_2022.pdf: Página 28\nOpen Science, Software and AI: A year at the Ontology Engineering Group. March, 2022\nNamed Entity Recognition for Software (TFGx2)\n28\nCan we extract additional context from READMEs?\n-\nE.g., installation instructions for Unix/Windows\n-\nHardware requirements and versions\n-\nLibrary and OS versions\n-\nFunding\nEnhanced KG\nhttps://github.com/oeg-upm/ner4soft/ \nPablo Calleja\nMarco Santucci (NER)\nAndres Cardozo (RE)\nRequirements (Unix)\nCPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz\nGPU: NVIDIA GTX1060\npython 2.7:\n-\npytorch == 0.3.1\n-\nnumpy\n-\nopencv\nNER\nRelation \nExtraction\nNER4Soft\n+\n",
-  "speaker": "SYSTEM",
-  "uuid": "733adac2-acf1-4e0b-aff0-49ad7a26d36d"
-}

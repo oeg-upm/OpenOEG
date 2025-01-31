@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Muppets_2-_Language_Models.pptx: Diapositiva {17}\nSome problems:\n\nSame vector for a word regardless the context, and context matters\n\nWord embeddings learn about words and relations but not about ‘language’\n",
-  "speaker": "SYSTEM",
-  "uuid": "19e39293-8cf5-4621-9475-4da257c590a5"
-}

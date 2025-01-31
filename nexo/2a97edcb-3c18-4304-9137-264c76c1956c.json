@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GeneralOntologies2013.pdf: Página 26\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work \n26 \nTIME MODELING. OPTIONAL EXTENSIONS (II) \nOpen intervals. Sometimes, the interval end points might be or not included in the interval. For example, [1985, \n1986) is an interval left closed and right open. \nDistinction of proper intervals. A proper interval is that whose extremes are different is called proper. Thus, for \nexample, [1985, 1986] is a proper interval, however, [1985, 1985] is not. Sometimes, the interval end points \nmight be or not included in the interval. For example, [1985, 1986) is an interval left closed and right open. \n1985 \n1986 \n1985 \n1986 \n1985 \n1986 \nExamples of proper intervals \n1985 \nExamples of non proper interval \nLeft point \nRight point \n",
-  "speaker": "SYSTEM",
-  "uuid": "2a97edcb-3c18-4304-9137-264c76c1956c"
-}

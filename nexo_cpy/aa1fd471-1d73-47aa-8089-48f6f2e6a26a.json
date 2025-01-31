@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Muppets_2-_Language_Models.pptx: Diapositiva {22}\n15% of tokens in the input are Masked\n80% replaced with [MASK]\n10% with a random Word\n10% with the original Word \n\nWhy?\n100% of Mask tokens -> the model is only optimized for masked words\n90% of mask and 10% of random -> the observation is never correct\n90% of mask and 10% of original -> the model copy the original embedding\n",
-  "speaker": "SYSTEM",
-  "uuid": "aa1fd471-1d73-47aa-8089-48f6f2e6a26a"
-}

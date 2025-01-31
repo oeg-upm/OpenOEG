@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 87\nTableaux Algorithm — Example\nTest satisﬁability of ∃S.C ⊓∀S.(¬C ⊔¬D) ⊓∃R.C ⊓∀R.(∃R.C)} where R is\na transitive role\nw\nx\ny L(y) = {C, ∃R.C, ∀R.(∃R.C)}\nL(x) = {C, (¬C ⊔¬D), ¬D}\nz L(z) = {C, ∃R.C, ∀R.(∃R.C)}\nR\nS\nR\nL(w) = {∃S.C, ∀S.(¬C ⊔¬D), ∃R.C, ∀R.(∃R.C)}\nblocked\nConcept is satisﬁable: T corresponds to model\nReasoning with Expressive Description Logics – p. 7/27\n",
-  "speaker": "SYSTEM",
-  "uuid": "328efa0c-1501-4b1d-a828-6912f9b182c6"
-}

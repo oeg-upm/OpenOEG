@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2._Ontologias-en.pdf: Página 17\n©Asunción Gómez-Pérez\n21/11/2007 14:39 - 17\nPrimitivas necesarias para modelizar\nconocimientos disjuntos en taxonomías\nclass-Partition: a set of disjoint classes\nDisjoint:  Defines the set of classes in the partition as subclasses of the parent class. \nThis classification does not necessarily to be complete. \nExhaustive-Disjoint: Defines the set of classes in the partition as subclasses of the parent class. \nThis classification is complete.\n",
-  "speaker": "SYSTEM",
-  "uuid": "2830e0cb-eca6-4f20-8c20-d34b55d1c27f"
-}

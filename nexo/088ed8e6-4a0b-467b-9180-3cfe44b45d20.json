@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/LDStats \n\nIr a LinkedData\nSome statistics\nInput:\nhttp://ckan.net\nhttp://semantic.ckan.net/\nhttp://km.aifb.kit.edu/projects/btc-2011/\nhttp://sparql.sindice.com/\nOutput:\nlang stats\nlinks between resources in different languages\ninjection data for the lemonn tools?\nvocabularies most used? al estilo de los mondeca guys and LOV?",
-  "speaker": "SYSTEM",
-  "uuid": "088ed8e6-4a0b-467b-9180-3cfe44b45d20"
-}

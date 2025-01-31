@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: B%C3%9ASQUEDA.pdf: Página 98\n98\nALGORITMO AO*\n1. Crear un grafo de búsqueda G que contenga el nodo inicial i\nAsociar a i un coste g(i) = h(i)\nsi  i es nodo terminal etiquetar como RESUELTO\n2. Hasta que i esté etiquetado como RESUELTO\n3. Calcular un grafo parcial G’, con los arcos que parten de i\n4. Seleccionar cualquier nodo hoja, no terminal de G’, llamarlo n\n5. Desarrollar n generando todos sus sucesores y colocarlos en G\ncomo sucesores de n\nA cada sucesor de n, que no este en G, asociarle el valor h que le\ncorresponda\nEtiquetar como RESUELTO cualquiera de estos sucesores que\nsean nodos terminales\n",
-  "speaker": "SYSTEM",
-  "uuid": "4f3c40d1-80b5-4be2-8131-f5659373fad4"
-}

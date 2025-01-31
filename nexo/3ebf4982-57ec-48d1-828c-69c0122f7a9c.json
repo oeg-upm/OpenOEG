@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL_Curso20122013.pdf: Página 17\n17 \nCurso Biblioteca Nacional. 21-25th November 2011 \n© Raúl García Castro et al. \nIndex \n•  Introduction \n•  Graph patterns \n•  Restricting values and solutions \n•  SPARQL query forms \n•  Hands-on \n•  SPARQL 1.1 \n \n33 \nCurso Biblioteca Nacional. 21-25th November 2011 \n© Raúl García Castro et al. \nExercise \n• Objective \n•  Understand how to perform SPARQL queries \n• Tasks \n•  Perform a set of SPARQL queries over a sample ontology \n•  Browse to: \n•  http://my.computer.ip:8080/openrdf-workbench \n•  Select repository GP_InMemoryRDFS \n•  Select the “Query” option from the left menu \n34 \n",
-  "speaker": "SYSTEM",
-  "uuid": "3ebf4982-57ec-48d1-828c-69c0122f7a9c"
-}

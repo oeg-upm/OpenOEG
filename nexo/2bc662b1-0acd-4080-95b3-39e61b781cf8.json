@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 25\n© O. Corcho, R.García-Castro, O. Muñoz-García\n25\nRDF and RDF Schema\nRDF (and other W3C Recommendations) and URIs\n•\nA set of URIs is sometimes known as a vocabulary\n–\nThe RDF Vocabulary \n•\nThe set of URIs used to describe the RDF concepts: rdf:Property, \nrdf:Resource, rdf:type, etc.\n–\nThe RDFS Vocabulary \n•\nThe set of URIs used in describing RDF Schema: rdfs:Class, rdfs:domain, \netc.\n–\nThe ‘Person’ Vocabulary \n• person:hasColleague, person:Person, person:Employee, etc.\noeg:Oscar\noeg:Asun\noeg:Raúl\n“http://www.fi.upm.es/”\nperson:hasHomePage\n“Oscar Corcho García”\nperson:hasName\nperson:hasColleague\nperson:hasColleague\n",
-  "speaker": "SYSTEM",
-  "uuid": "2bc662b1-0acd-4080-95b3-39e61b781cf8"
-}

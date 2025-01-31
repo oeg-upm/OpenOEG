@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Fpriyatna-oeg-201403.pdf: Página 5\nBackground & Related Work\n5\nTitle\n•Chebotko\n•Elliot\n•R2O\n•D2R\n•Ontop\n•Unbehauen\n•Garrote\nIntroduction\nQuery Translation\nEvaluation\nConclusion\n●TriplesMap -> RDF Triples\n●LogicalTable: Base Table or SQL Query\n●SubjectMap -> subject\n●PredicateObjectMap\n–\nPredicateMap -> predicate\n–\nObjectMap -> object\n–\nRefObjectMap: join\nR2RML\nQuery Translation in \nTriples Stores\nQuery Translation in \nRDB2RDF\n",
-  "speaker": "SYSTEM",
-  "uuid": "afdabb66-d3b9-412f-aad6-6c5e9cd4490b"
-}

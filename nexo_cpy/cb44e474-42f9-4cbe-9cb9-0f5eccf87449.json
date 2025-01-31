@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 56\nWhat is SWRL? (I) \n•\nSWRL is an acronym for Semantic Web Rule Language.\n•\nSWRL is intended to be the rule language of the Semantic Web.\n•\nSWRL is based on OWL: all rules are expressed in terms of OWL\nSWRL is based on OWL: all rules are expressed in terms of OWL\nconcepts (classes, properties, individuals, literals…).\n•\nSWRL is a combination of: OWL DL, OWL Lite, and RuleML.\n•\nSWRL extends OWL by means of including Horn-like rules.\n© O. Corcho, MC Suárez de Figueroa Baonza\n111\nOWL and SWRL\nWhat is SWRL? (II) \nSWRL rules describes:\nBody (Antecedent) Ö Head (Consequent)\nd\nd\nd\nd b\nBody and Head are composed by one or more atoms.\nIf Body is Empty, it implies true.\nIf Head is Empty, it implies that the Body is false.\nAtoms can be: C(x), P(x,y), sameAs(x,y).\n© O. Corcho, MC Suárez de Figueroa Baonza\n112\nOWL and SWRL\nExamples:\nPerson(?p) ^ hasSibling(?p, ?s) ^ Man(?s) -> hasBrother(?p, ?s)\nPerson(Fred) ^ hasSibling(Fred, ?s) ^ Man(?s) -> hasBrother(Fred, ?s)\n",
-  "speaker": "SYSTEM",
-  "uuid": "cb44e474-42f9-4cbe-9cb9-0f5eccf87449"
-}

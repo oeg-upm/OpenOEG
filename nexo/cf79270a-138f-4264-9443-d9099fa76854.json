@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: PlanetData_SIMON_OEGPresentation_oct16.pdf: Página 4\nIntroduction\n⚫\nOrigins of Linked Stream Data\n⚫\nExtracting information from data stream is complex: \nheterogeneity, rate of generation, volume, \nprovenance,…\n⚫\nChallenges\n⚫\nC1. Scalable processing of user queries over RDF \nstreams\n⚫\nC2. Continuous transmission of data increases latency\nSource: http://webnotations.com\n",
-  "speaker": "SYSTEM",
-  "uuid": "cf79270a-138f-4264-9443-d9099fa76854"
-}

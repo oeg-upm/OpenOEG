@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GeneralOntologies-v3_%28mariano%29.pdf: Página 57\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work\n57\nEXAMPLES\nDo the Nordic Countries and the EU have parts \nin common?\nDo Belgium and Luxemburg belong to common \norganizations?\nWhich are the countries, provinces, cities, \ntowns, etc. of Benelux?\nWhich are the countries of Benelux?\nDoes Avelina Vidal perform in Madrid?\nWhich provinces of the Netherlands do not \nbelong to Holland?\nWhich is the capital of the country?\nDo the Nordic Countries and the EU overlap?\nDo Belgium and Luxemburg underlap?\nWhich are the proper parts of Benelux?\nWhich are the direct parts of Benelux?\nDoes Avelina Vidal perform in some part of Madrid?\nWhich provinces of the Netherlands are \ndisjoint with Holland?\nisCapitalOf\nisPartOf\n",
-  "speaker": "SYSTEM",
-  "uuid": "9973dfb2-d35c-4891-aab3-866ada1b0a3a"
-}

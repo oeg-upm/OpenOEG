@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: MariaNavas_STLab_Research_Stay.pptx: Diapositiva {11}\nCorpus of legal documents from three different courts (ECJ, ECHR, USC) annotated using the TimeML standard.\n\nTwo sets of annotations: StandardTimeML and LegalTimeML (were just dates related to facts are tagged)\n\nAnalysis of particularities with regard to temporal dimensions.\n\nEvaluation of 10 state of the art temporal taggers on legal documents.",
-  "speaker": "SYSTEM",
-  "uuid": "e622f91c-7857-451a-947e-699de582f504"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: MpovedaMondeca24July2013.pdf: Página 5\nAutomatic detection, debugging and visualization \n5 \nJena API: http://jena.sourceforge.net/ \nJava EE: http://www.oracle.com/technetwork/java/javaee/overview/index.html \nHTML: http://www.w3.org/html/wg/ \nJSP: http://www.oracle.com/technetwork/java/javaee/jsp/index.html \n \nCSS: http://www.w3.org/Style/CSS/ \nVapour: http://validator.linkeddata.org/vapour  \nprefix.cc: http://prefix.cc/ \nTriple Checker: http://graphite.ecs.soton.ac.uk/checker/  \nGoogle Charts: https://developers.google.com/chart/?hl=es \nLOV \nSPARQL \nEndpoint \nGood Practices and Pitfalls Detection \n[URI, namespace, prefix] \nGP1 \nGP2 \nGP3 \nGP4 \nGP5 \nGP6 \nP36 \nP37 \nP38 \nP39 \nP40 \nVisualization \nGeneration \nCSV file \nData for each \nvocab in LOV \nHTML file \n• \nGrid \n• \nTable \nVapour + PURL \nadaptation \nprefix.cc \nTriple \nChecker  \nHTML parsers \nare too smart \nprefix.cc peculiarities \nRDF parser automatic \nURI resolution \n",
-  "speaker": "SYSTEM",
-  "uuid": "a4c18a47-edbd-46da-ae35-555665b455b3"
-}

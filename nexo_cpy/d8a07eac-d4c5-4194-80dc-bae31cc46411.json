@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Vidal.Sep19.pdf: Página 34\nPage 34\n●\nBenchmark:\n○\nLife Science Linked Open Data (LSLOD)[15]\n○\n10 RDF Data Source\n○\n10 Simple Queries\n■\nUNION, OPTIONAL, DISTINCT\n■\n3 - 8 triple patterns\n■\n2 - 4 star-shaped sub-queries\nExperimental Setup\n#triples\n#subjects\n#predicates\n#objects\nRDF file size\n96.10 M\n8.32 M\n742\n27.47 M\n16.0 GB\n15] A. Hasnain, Q. Mehmood, S. Sana e Zainab, M. Saleem, C. Warren, D. Zehra, S. Decker, and D. \nRebholz-Schuhmann. Biofed: federated query processing over life sciences linked open data. Journal of \nBiomedical Semantics, 8(1):13, Mar 2017. \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "d8a07eac-d4c5-4194-80dc-bae31cc46411"
-}

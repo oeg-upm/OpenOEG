@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Semantic_Sensor_Networks_%28short_overview%29.pdf: Página 2\nIntroduction & Scope\n2\nSemantic Integration Streaming Data Sources\nDevelopment of an integrated \ninformation space where new sensor \nnetworks can be easily discovered and \nintegrated with existing ones and \npossibly other data sources (e.g., \nhistorical databases)\n0\n20\n40\n60\n80\n100\n1er\ntrim.\n3er\ntrim.\nEste\nOeste\nNorte\nsensor networks\nlegacy \ndata sources\nsemantic data integration and querying\nthin applications (mashups)\nregistries\nmiddleware\nRapid development of flexible and \nuser-centric decision support \nsystems that use data from \nmultiple autonomous \nindependently deployed sensor \nnetworks and other applications.\n",
-  "speaker": "SYSTEM",
-  "uuid": "c7a46532-8d9f-44d7-b176-994dc11cf476"
-}

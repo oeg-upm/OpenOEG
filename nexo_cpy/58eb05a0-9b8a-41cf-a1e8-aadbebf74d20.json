@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Modelado_Conceptual_y_Compromisos_Ontol%C3%B3gicos_en_Humanidades.pdf: Página 8\nSubjetividad\nCopyright © 2018 César González-Pérez\n8\nb: Edificio\nDirección =  San Roque,   \nEstado = Bueno\nEdificio\nDirección: 1 Texto\nEstado: 0..1 enum EstadoDeConservación\nb: Edificio\nDirección =  San Roque,   \nEstado $Alicia = Bueno\nb: Edificio\nDirección =  San Roque,   \nEstado $Ayuntamiento = Malo\nb: Edificio\nDirección =  San Roque,   \nEstado $Vecinos = Aceptable\nb: Edificio\nDirección =  San Roque,   \nEstado = Bueno\nb: Edificio\nDirección =  San Roque,   \nEstado = Malo\nb: Edificio\nDirección =  San Roque,   \nEstado = Aceptable\nVecinos\nAyuntamiento\nAlicia\n*\nperspectivas\nCualificación de predicación\n",
-  "speaker": "SYSTEM",
-  "uuid": "58eb05a0-9b8a-41cf-a1e8-aadbebf74d20"
-}

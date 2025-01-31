@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RDF%28S%29-SPARQL-Pr%C3%A1ctica.pdf: Página 6\n•6\nRDF Reification\n• RDF statements about other RDF statements\n•\n“Raúl believes that Oscar’s birthdate is on Feb 2nd, 1976 and that \nhis e-mail address is ocorcho@fi.upm.es”\noeg:Raúl\noeg:Oscar\n“ocorcho@fi.upm.es”\n02/02/1976\nperson:hasEmailAddress\nmodal:believes\nperson:hasBirthDate\n• RDF Reification\n•\nAllows expressing beliefs (and other modalities)\n•\nAllows expressing trust models, digital signatures, etc.\n•\nAllows expressing metadata about metadata\n11\nMain value of a structured value\n• Sometimes one of the values of a structured value is \nthe main one\n• The weight of an item is 2.4 kilograms \n• The most important value is 2.4, which is expressed with \nrdf:value\n• Scarcely used\nproduct:Item1\nproduct:hasWeight\nproduct:Item1\n2.4\nunits:kilogram\nrdf:value\nunits:hasWeightUnit\n12\n",
-  "speaker": "SYSTEM",
-  "uuid": "1efb768c-a994-48dc-8eeb-355740bb80bc"
-}

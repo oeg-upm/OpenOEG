@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Vidal.Sep19.pdf: Página 54\nPage 54\nExperimental Study - Set Up\n• Benchmark: 50 queries against DBpedia (v. 2014).\n-\nTen queries in five different knowledge domains:\n \nHistory, Life Sciences, Movies, Music, and Sports.\n• Implementation details:\n-\nHARE is implemented in Python 2.7.6,\n-\nThe crowd is reached via CrowdFlower.\n• Crowdsourcing configuration:\n-\nFour different RDF triples per task, 0.07 US$ per task.\n-\nAt least three judgments were collected per task.\n• Total RDF triple patterns crowdsourced: 502\n• Total answers collected from the crowd: 1,609\n",
-  "speaker": "SYSTEM",
-  "uuid": "ae3fb3e7-a8c9-4b4e-ae75-18399634d43f"
-}

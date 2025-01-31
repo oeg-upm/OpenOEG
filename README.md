@@ -17,3 +17,5 @@ Modificar el fichero omnianalisis.py modificando las rutas necesarias, ajustando
 Modificar el fichero pineconeupload.py y chat modificando las rutas necesarias, ajustando el fichero donde se encuentra el la llave de Pinecone, como la ruta del nexo. Modificar el nombre del index_name si se desea.
 En caso de usar ollama revisar que se tiene instalado y que se tiene descagrado el embedder que se pretenda usar.
 En caso de usar LMStudio asegurarse que a la hora de ejecutar se tiene el servidor local activado con el puerto y nombre del embedder correcto.
+
+En chat actualizar

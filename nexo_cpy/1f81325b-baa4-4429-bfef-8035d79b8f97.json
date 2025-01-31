@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ODPs-v6.pdf: Página 19\n22\n22\nExample 1\nWe are going to model the following problem within the Anatomy \nOntology: \n\nThe Knee is part of the Leg\n\nThe Front of the Knee is part of the Knee\n\nThe Front of the Knee also forms part of the Leg \n\nThe same for other parts of the body\nThe Content Pattern for modelling a Part-Whole Relation (CP-PW-01) was \nreused to structure the different parts of the body and the relation among them. \n",
-  "speaker": "SYSTEM",
-  "uuid": "1f81325b-baa4-4429-bfef-8035d79b8f97"
-}

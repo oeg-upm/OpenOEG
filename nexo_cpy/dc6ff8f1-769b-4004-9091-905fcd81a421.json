@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 20\nDescription Logics Reasoning with Tableaux\ni\ni\nf\ni\nf\ni fi\n© O. Corcho, MC Suárez de Figueroa Baonza\n39\nOWL and SWRL\nUse tableaux algorithms to determine whether the following formulae are satisfiable or not\nExercise 1:\n∃R.(∃R.D) ∧∃S.¬D ∧∀S.(∃R.D)\nExercise 2:\n∃R.(C∨D) ∧∀R.¬C ∧¬∃R.D\nDescription Logics Reasoning\nDevelop a sample ontology in the domain of people, pets, vehicles, and newspapers\n- Understand the basic reasoning mechanisms of description logics\nSubsumption\nAutomatic classification: an ontology built collaboratively\nInstance classification\n© O. Corcho, MC Suárez de Figueroa Baonza\n40\nOWL and SWRL\nInstance classification\nDetecting redundancy\nConsistency checking: unsatisfiable restrictions in a Tbox (are the classes coherent?)\n",
-  "speaker": "SYSTEM",
-  "uuid": "dc6ff8f1-769b-4004-9091-905fcd81a421"
-}

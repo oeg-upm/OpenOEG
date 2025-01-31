@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/LinearRoad \n\nContents\n[\nhide\n]\n1\nCQL Implementation\n2\nOntology\n3\nMappings\n4\nQueries\n5\nData Generation with MITSIMLab\n6\nSTREAM Installation\n7\nNotes\nCQL Implementation\n\nOntology\n\nThe following OWL ontology was developed to model the Linear Road domain:\nhttp://delicias.dia.fi.upm.es/~aleon/ontology/linearroad.owl\nMappings",
-  "speaker": "SYSTEM",
-  "uuid": "5e210068-210e-4836-9a34-2269f4585390"
-}

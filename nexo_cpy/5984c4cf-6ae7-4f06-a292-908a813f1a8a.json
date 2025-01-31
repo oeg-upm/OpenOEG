@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ejercicios.pdf: Página 11\nEnunciados de Marcos \n______________________________________________________________________ \n______________________________________________________________________ \nAsunción Gómez Pérez.  Facultad de Informática. Universidad Politécnica de Madrid. \n11 \nc. (1,5 Puntos) Añadir los Valores Activos adecuados en la jerarquía deducciones (sin modificar las \npropiedades) para calcular el total de deducciones a partir del procedimiento Calcular \nDeducciones($Persona.Deducciones.Total). \n \nCalcular Deducciones($Persona.Deducciones Total) \n \n \nBEGIN \n \nCrear Marco Instanciado Deducciones($Persona.Deducciones.Donación) \n \nCrear Marco Instanciado Deducciones($Persona.Deducciones.Hijo) \n \nCrear Marco Instanciado Deducciones($Persona.Deducciones.Vivienda) \n \n$Persona.Deducciones.Deducción Hijo \n \n$Persona.Deducciones.Deducción Donaciones \n \n$Persona.Deducciones.Deducción Vivienda \nEND \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "5984c4cf-6ae7-4f06-a292-908a813f1a8a"
-}

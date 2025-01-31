@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 04_OntologyLanguages_RDF%28S%29.pdf: Página 5\nSemantic Network. Basic elements\n•\nNodes\n–\nThey represent entities or concepts, or values\n•\nEdges\nEntity/Concept\nValue\n•\nEdges\n–\nThey represent properties or relations\n•\nThe semantics (mapping to the real world) depends on the tags \nused for nodes and edges\n•\nThere is no predefined KR vocabulary\nNode\nNode\nproperty/relation\n© O. Corcho, R.García-Castro, O. Muñoz-García\n9\nRDF and RDF Schema\nThere is no predefined KR vocabulary\n–\nAlthough sometimes there are structural edges\nEntity\nConcept\ninstanceOf\nConcept\nConcept\nsubclassOf\nSemantic networks. Example\n•\nPaul and John are persons\n•\nEl Prado is a museum\n•\nPaul knows that John visited El Prado in Madrid\n© O. Corcho, R.García-Castro, O. Muñoz-García\n10\nRDF and RDF Schema\n",
-  "speaker": "SYSTEM",
-  "uuid": "4fe1926d-707e-4c93-b9a2-8d400b003528"
-}

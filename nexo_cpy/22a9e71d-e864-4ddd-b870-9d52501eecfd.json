@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Helio.pdf: Página 28\nSet your title here in Slide Master Options\nHelio current status\n28\nSpecification \nElements \nImplemented \nHelio Specification \nConnector \nFederatedSparqlConnector, \nGetConnector, \nLocalFileConnector, \nTwitterConnector, \nURLConnector \nDatasource \nCsvDatasource, \nHtmlDatasource, \nJsonDatasource, \nRDFDatasource, \nTextDatasource, \nXmlDatasource \nTranslator \nHelio Virtualizer \nLinking \nHelio Linker \nRML*  \n(proof of concept) \nConnector \nLocalFileConnector \nDatasource \nJsonDatasource \nTranslator \nHelio Virtualizer \nLinking \nHelio Linker \n",
-  "speaker": "SYSTEM",
-  "uuid": "22a9e71d-e864-4ddd-b870-9d52501eecfd"
-}

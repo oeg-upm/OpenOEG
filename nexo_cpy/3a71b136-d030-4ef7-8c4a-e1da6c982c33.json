@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Hiroaki_Yamada_talk_Jan19.pdf: Página 29\nIssue Topic Identification \nagreement metric\n• We report !\"#$%$, the number of spans agreeing \nbetween annotators, averaged over annotators\n• &: set of annotators.\n• !': number of agreeing spans (60% by characters).\n• ()!*( + : number of spans annotated by annotator +.\nagr ITI(i) =\nas\nspans(i)\nagr ITI =\nP\ni2A agr ITI(i)\n|A|\n30\n",
-  "speaker": "SYSTEM",
-  "uuid": "3a71b136-d030-4ef7-8c4a-e1da6c982c33"
-}

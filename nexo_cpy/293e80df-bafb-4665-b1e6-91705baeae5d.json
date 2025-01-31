@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 53\nTable of Contents\n1.\nAn introduction to Description Logics\n2.\nWeb Ontology language (OWL)\n2.\nWeb Ontology language (OWL)\n2.1. OWL primitives\n2.2. Reasoning with OWL\n3.\nOWL Development Tools: Protégé\n3.1 Basic OWL edition\n3.2 Advanced OWL edition: restrictions, disjointness, etc.\n© O. Corcho, MC Suárez de Figueroa Baonza\n105\nOWL and SWRL\n4.\nOWL management APIs\n4.1 An example of an OWL-based application\n5.\nSWRL\nApplication Architecture\nClient Side\nWeb Browser\nXHTML\nCSS\nServer Side\nApplication Tier\nJSLT\nJSP\nXHTML\nCSS\nHTTP\nJena Java API\n© O. Corcho, MC Suárez de Figueroa Baonza\n106\nOWL and SWRL\nServer Side\nSemantic Tier\nOWL DL (Ontology)\nRDF (Instances)\n",
-  "speaker": "SYSTEM",
-  "uuid": "293e80df-bafb-4665-b1e6-91705baeae5d"
-}

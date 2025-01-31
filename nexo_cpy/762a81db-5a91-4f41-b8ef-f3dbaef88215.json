@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Carlos%27_Tasks/JoWSPlanning \n\nPlanning for Journal of Web Semantics\n\nGoal of the paper: present a survey of the current approaches for federating queries to a set of SPARQL endpoints?\nGoal of the paper: present the SparqlDQP approach for accessing ditributed RDF data repositories via SPARQL endpoints.\nFinish pending issues of SparqlDQP\nWrite the paper",
-  "speaker": "SYSTEM",
-  "uuid": "762a81db-5a91-4f41-b8ef-f3dbaef88215"
-}

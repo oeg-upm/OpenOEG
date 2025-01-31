@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion-2013.pdf: Página 35\nPlanificación \n \n \nBúsqueda del plan en STRIPS \nQUITAR (A, B) \nsujeto (C) \nlibre (B) ^ sujeto (C) \nPONER (C, B) \nen-mesa (A) \nR \nencima (A, B) \nlibre (A) \nbrazo-libre \nencima (A, B) ^ libre (A) ^ brazo-libre \nQUITAR (A, B) \nsujeto (A) \nlibre (B) ^ sujeto (A) \nPONER (A, B) \nen-mesa (A) \nR \n",
-  "speaker": "SYSTEM",
-  "uuid": "f4f03746-2c18-441f-a840-464e44dc8f00"
-}

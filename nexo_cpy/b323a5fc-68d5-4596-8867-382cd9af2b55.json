@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 52\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nChunk 4. Formalisation in DL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncat\ndog\ndog\nhasPet\nperson\ndogOwner\ndog\nlikes\nperson\ndogLike\ncat\nhasPet\nperson\ncatOwner\ncat\nlikes\nperson\ncatLike\nanimal\nhasPet\nperson\npetOwner\nhasPet\nperson\nr\nanimalLove\nanimal\ntiger\nanimal\ncat\nanimal\nduck\nanimal\npartOf\neats\nanimal\neats\nanimal\nvegetarian\neats\nanimal\nisPetOf\npet\n.\n;\n.\n.\n;\n.\n.\n)\n3\n(\n;\n;\n)\n.\n(\n.\n.\n.\n.\n",
-  "speaker": "SYSTEM",
-  "uuid": "b323a5fc-68d5-4596-8867-382cd9af2b55"
-}

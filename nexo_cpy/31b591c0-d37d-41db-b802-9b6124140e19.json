@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RedesBayesianas_Introducci%C3%B3n.pdf: Página 15\nEl Teorema de Bayes\nSi un paciente tiene la enfermedad E, entonces un test T resulta\npositivo con probabilidad 0.95. Si la enfermedad no está\npresente el test es positivo con probabilidad 0.03. Si la\nprobabilidad de sufrir la enfermedad es 0.01, ¿Cual es la\nprobabilidad de que un paciente con un test positivo sufra la\nenfermedad?\nConocemos P(T +|E) y las probabilidades P(T +|¬E),P(E) y\nqueremos la probabilidad P(E|T+). Es como invertir la\nprobabilidad condicionada.\nSi {Hi}i∈I es una colección de sucesos disjuntos dos a\ndos y cuya unión es el suceso seguro (U).\nP(Hj|B) = P(Hj∩B)\nP(B)\n= P(B|Hj).P(Hj)\nP(B)\n=\nP(B|Hj).P(Hj)\n∑i∈I P(B|Hi)P(Hi)\nUna Introducción a las Redes Bayesianas– p.13/??\n",
-  "speaker": "SYSTEM",
-  "uuid": "31b591c0-d37d-41db-b802-9b6124140e19"
-}

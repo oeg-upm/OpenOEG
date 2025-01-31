@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Usefulnessofontologiestomodelitlaw.pdf: Página 13\nQ2: requirements\n31 December 2017\n13\nRequirement\nWeight\nModelling\nModelling capability\nDomain modelling\nMust\nModularity and architecture\nMust\nNorm representation\nMust\nEpistemological expressiveness\nShould\nModelling productivity\nTemplates\nShould\nSpecification management\nCould\nReuse of existing objects\nShould\nGraphical UI support to define objects \nMust\nCentral modelling tool holding all objects\nShould\nGraphical UI support to define diagrams\nShould\nSharing\nPublishing\nMust\nExtraction mechanism to produce documentation\nMust\nQuality of delivered documentation artifacts\nShould\nReuse by inferance engines\nWon´t\nMaintaining\nSupport for versioning\nShould\nVersions comparison\nCould\nRollback\nCould\n",
-  "speaker": "SYSTEM",
-  "uuid": "faac415e-8b32-481d-a372-4c1eecd224a5"
-}

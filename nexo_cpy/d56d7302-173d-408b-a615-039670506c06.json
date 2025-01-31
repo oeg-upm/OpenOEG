@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISSGC08.pdf: Página 35\n©<Miembro Grupo>\n36\nUNICORE\n• Uniform Interface to Computing Resources\n• UNICORE is a Grid middleware that provides seamless, \nsecure, and intuitive access to distributed Grid resources\n– Grid resources: supercomputers or clusters systems\n• Submitting a job\n– Client establishes a SSL connection with the UNICORE gateway\n– XUUDB checks the user\n– UNICOREX send the job to TSI\n• TSI (Target System Interface)\n– Executes the job\n",
-  "speaker": "SYSTEM",
-  "uuid": "d56d7302-173d-408b-a615-039670506c06"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Hiroaki_Yamada_talk_Jan19.pdf: Página 36\nFRAMING Linking Error analysis\n• Error analysis\n• We manually analyzed overlap of non-agreed \ndestination spans (those which had overlap lower than \n80%), in order to establish whether the overlap is \nmeaningful (e.g, a reformulation). \n• We found that in 48 cases out of 128 errors, there was \nmeaningful overlap in the destination spans. \n• If we were to consider these error links as agreed, \nFRAMING linking agreement would rise to 0.788.\n→Annotators potentially naturally and principally agree \nto a high degree on FRAMING Linking.\n37\n",
-  "speaker": "SYSTEM",
-  "uuid": "4b4752c3-6016-4efd-a3b1-875c6d28bcf7"
-}

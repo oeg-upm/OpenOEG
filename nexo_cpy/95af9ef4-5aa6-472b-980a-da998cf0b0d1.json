@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 4._methodologies-Espec-OL.pdf: Página 27\nOntological Engineering \n©Asunción Gómez-Pérez,\nOntology Specification. Group CQs\nObjective: To classify the CQs into different groups or \ncategories. \nOutput: A classification of the set of CQs.\nRecommended Techniques: \n Card Sorting (manual).\n Clustering NL sentences (automatic).\n Information Extraction (automatic).\nRecommended Tools: \n If the card sorting technique is used, then MindMap\nTools or Cicero Tool (for distributed teams).\n",
-  "speaker": "SYSTEM",
-  "uuid": "95af9ef4-5aa6-472b-980a-da998cf0b0d1"
-}

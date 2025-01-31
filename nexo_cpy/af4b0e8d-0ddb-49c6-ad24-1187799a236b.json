@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Espa%C3%B1aVirtual10032011 \n\nContents\n[\nhide\n]\n1\nTareas 7.2\n2\nTarea 2.3\n3\nTarea 1.4\n4\nTarea 7.1\nTareas 7.2\n\nTarea 1. Mecanismo de extracción de semántica a partir de anotaciones\n.\n- Copia de seguridad de todas las bases de datos del trabajo en España Virtual.\n- Inicio del proceso de restauración de bases de datos de Sem4Tags en el servidor de Deimos.\nTarea 2. Procesado de fuentes de información no semántica ya existentes\n.\nTarea 3. Modelo de anotación híbrido\n.\nTarea 2.3\n\n- Configuración de la infraestructura para cloud privado. Detectados errores en el virtualizador KVM debido a la diferencia entre arquitectura del SO y el servidor (32 vs. 64 bits).\n- Redacción del documento H8.\nTarea 1.4\n\nTarea 7.1\n\n- Difusión GeoLinkedData\n- Generación de links entre datos GeoLinked Data y dataset WoD\n- Visualización WMS en GeoLinkedData",
-  "speaker": "SYSTEM",
-  "uuid": "af4b0e8d-0ddb-49c6-ad24-1187799a236b"
-}

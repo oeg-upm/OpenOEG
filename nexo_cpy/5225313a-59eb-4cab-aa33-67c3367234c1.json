@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Enabling_ontology-based_Streaming_Data_Access2.pdf: Página 7\nBackground – Querying Relational Data Streams\n7\nEnabling  Ontology-based Access to Streaming Data Sources\nStreaming Data\nSTREAM\nAurora/Borealis\nCougar\nTinyDB\nSNEE\ne1\ne2\ne1\ne2\ne3\ne2\ne1\ne3\ne1\ne4\nt\nt+1\nt+2\nt+3\nt+4\nt+5\nWINDOW [tnow TO tnow-2]\nSLIDE 1\nTransform infinite sequence \nof tuples to bounded bag\nWindow-to-Stream operators: \nconvert stream of windows to \nstream of tuples\n...\n...\nCQL\nSNEEql\nTinyQL\nQuery engines\nQuery languages\nEvent Streams\nAcquisitional Streams\n",
-  "speaker": "SYSTEM",
-  "uuid": "5225313a-59eb-4cab-aa33-67c3367234c1"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: GATE(v3-ele_and).pdf: Página 35\nCar example\n• Instances\n• Cars\n• Attributes\n• Color, Brand, Prize\n• Class\n• Category\nAnnotations in Gate\n• Instances: Annotations \n• Token, Lookup, Organization\n• Attributes: Annotation \nFeatures \n• Token.string, Token. Root, \nToken.category(POS), \nLookup.majorType, etc.\n• Class: Annotation Feature\n• Entity.type = Person?\nSupervised classification\nMachine Learning\n“California Governor Schwarzenegger proposes deep cuts”\nToken.String=“California”\nLookup.majorType=“Location \n” \nToken.String=“California”\nLookup.majorType=“Location \n”\nLookup.majorType\n=“Job”\nLookup.majorType\n=“Job”\nToken.category=“Verb \n” \nToken.category=“Verb \n”\nEntity.type=?\nEntity.type=?\n",
-  "speaker": "SYSTEM",
-  "uuid": "de74afae-b98f-4479-a69c-1b6ecd022980"
-}

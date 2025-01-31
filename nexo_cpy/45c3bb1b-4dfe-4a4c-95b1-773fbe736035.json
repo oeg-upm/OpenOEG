@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_OWL.pdf: Página 18\n© O. Corcho, MC Suárez de Figueroa Baonza\n18\nOWL and SWRL\nChunk 1. Formalisation in DL\n⊥\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n)\n.\n(\n)\n.\n(\n)\n.\n.(\n.\n.\n.\n.\nplant\npartOf\nplant\nanimal\npartOf\nanimal\nsheep\npartOf\nbrain\neats\ncow\nmadCow\nleaf\neats\nanimal\ngiraffe\ngrass\neats\nanimal\nsheep\nbone\neats\ndog\ntree\npartOf\nleaf\nplant\ntree\nplant\ngrass\n",
-  "speaker": "SYSTEM",
-  "uuid": "45c3bb1b-4dfe-4a4c-95b1-773fbe736035"
-}

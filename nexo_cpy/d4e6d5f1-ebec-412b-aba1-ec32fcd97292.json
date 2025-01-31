@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 06_NonStandardOWLReasoning_ModularisationAndDebugging.pdf: Página 25\nRoot Unsatisfiable Classes\n• How do we know which unsatisfiable classes to focus\non?\n• Example: the TAMBIS ontology\ncontains 144 unsatisfiable classes\n• How do we know where to start?\n• The satisfiability of one class may depend on the satisfiability\nof another class\n• The tools show unsatisfiable class names in red\n25\n",
-  "speaker": "SYSTEM",
-  "uuid": "d4e6d5f1-ebec-412b-aba1-ec32fcd97292"
-}

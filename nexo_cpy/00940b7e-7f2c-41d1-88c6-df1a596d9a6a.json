@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 3._TI-Intro-RC-II-v1%28asun%29.pdf: Página 8\nIntroducción a la Representación de Conocimientos\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nLógicas Descriptivas\n•\nClasificación automática realizada por el motor de inferencias del lenguaje\n•\nEn tiempo de Ejecución\nSer vivo\nInvertebrado\nVertebrado\nPerro\nPlanta\nGato\nClasificación \nautomática\nSubclass of\nSer vivo\nVertebrado\nInvertebrado\nSubclass of\nPlantas\nSubclass of\nSubclass of\nSubclass of\nTiempo diseño\nPerro\nGato\n",
-  "speaker": "SYSTEM",
-  "uuid": "00940b7e-7f2c-41d1-88c6-df1a596d9a6a"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 43\nPROLEG semantics a la ASP\nThe deﬁnition of PROLEG program:\n• A rule is a Horn clause of the form H ⇐B1, ..., Bn.\n• An exception is an expression of the form exception(H, E) where\nH, E are atoms.\n• A program P is a pair ⟨H, E⟩where H is a set of rules and E is a\nset of exceptions.\n43\n",
-  "speaker": "SYSTEM",
-  "uuid": "6fcb9fce-3831-48ee-ba52-13daadeacc4e"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 05_OWL.pdf: Página 11\n© O. Corcho, MC Suárez de Figueroa Baonza\n15\nOWL 2\nDL constructors and DL languages\n{Colombia, Argentina, México, ...} Æ MercoSur countries\n≤2 hasChild.Female, ≥1 hasParent.Male\nOther:\nConcrete datatypes:  hasAge.(<21)\nTransitive roles: hasChild* (descendant)\nRole composition: hasParent o hasBrother (uncle)\nOWL1 is SHOIN(D+)\nOWL2 is SROIQ(D+)\n",
-  "speaker": "SYSTEM",
-  "uuid": "94c5ce9c-dedb-44f4-a74a-48dfe9e8ba9f"
-}

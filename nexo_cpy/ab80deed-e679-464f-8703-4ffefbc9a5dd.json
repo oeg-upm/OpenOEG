@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/LinkeddataServerHowTo \n\nSeveral tools are now available for publishing linked data\n[1\n]. Each tool will requires a different server configuration. In this\nHOWTO\nwe explain how to setup a\nLinux based Linked Data server\nfollowing the approach taken by\nDBpedia\n(\nPubby\n+\nVirtuoso\n).\nRequirements\n\nLinux based OS.\nSun JRE installed, version 1.5 or up is recommended.",
-  "speaker": "SYSTEM",
-  "uuid": "ab80deed-e679-464f-8703-4ffefbc9a5dd"
-}

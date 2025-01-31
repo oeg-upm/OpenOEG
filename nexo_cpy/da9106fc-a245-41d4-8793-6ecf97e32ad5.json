@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/NLPinLD \n\nIr a LinkedData\nRole of NLP in LD\n\nNLP plays an important role to reach \"usuarios de a pie\".\nTo this end, it is important to provide methods, techniques and tools for adding this additional layer on top of LOD.\nEither we can reuse existing tools, e.g., PowerAqua; or create new ones by adapting existing services, e.g. OpenCalais, Zemanta, etc.\nHow to do it\n\nHigh level overview",
-  "speaker": "SYSTEM",
-  "uuid": "da9106fc-a245-41d4-8793-6ecf97e32ad5"
-}

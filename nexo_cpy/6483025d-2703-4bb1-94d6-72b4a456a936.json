@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Restricciones.pdf: Página 11\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nRestricciones\nIdea Intuitiva del algoritmo de Waltz\nEstado Inicial\nX = {a, b, c}\nY = {a, b, c}\nZ = {a, b, c}\nEstado 1\nX = {a, b}\nY = {b, c}\nZ = {a, b}\nX=a\nX=b\nFiltrado\nEstado 2\nX = a\nY = b\nZ = {a, b}\nEstado 1\nZ=a\nZ=b\nSolución 1\nX = a\nY = b\nZ = a\nSolución 2\nX = a\nY = b\nZ = a\nEstado 3\nX = b\nY = {b, c}\nZ = {a, b}\n.....\n.....\nFiltrado\nFiltrado\nR = {R1, R2, ...., Rm}\ntratar Ri\ntratar valores\n",
-  "speaker": "SYSTEM",
-  "uuid": "6483025d-2703-4bb1-94d6-72b4a456a936"
-}

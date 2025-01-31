@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWS_-_04_-_OntologyTools.pdf: Página 17\n©O. Corcho\n17\nOntological Engineering\nCopyright © 2005, The University of Manchester\nWhat does this mean?\n•\nWe have created a restriction: hasBase PizzaBase\non Class Pizza as a necessary condition\n►“If an individual is a member of this class, it is necessary that it \nhas at least one hasBase relationship with an individual from the \nclass PizzaBase”\nPizza\nPizzaBasehasBasehasBasehasBasehasBase\n►“Every individual of the Pizza class must have at least one base \nfrom the class PizzaBase”\n",
-  "speaker": "SYSTEM",
-  "uuid": "8cbc2e46-e36c-49fc-9dec-a20cf9814590"
-}

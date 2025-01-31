@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 02_RDF%28S%29.pdf: Página 1\n1 \nSpeaker:  Raúl García Castro \n rgarcia@fi.upm.es \nCurso Biblioteca Nacional \nMadrid, Spain \n21-25th November 2011 \nRDF and RDF Schema \nRaúl García-Castro, Óscar Corcho  \nOntology Engineering Group \nUniversidad Politécnica de Madrid, Spain  \n© Raúl García Castro et al. \nIndex \n•  Overview \n•  RDF \n-  Introduction \n-  RDF components \n-  Serializing RDF \n-  Hands-on \n•  RDF Schema \n-  Introduction \n-  Main RDF-S components \n-  Serializing RDF-S \n-  Hands-on \n-  RDF(S) Limitations \n-  Hands-on \n•  Reasoning \n-  Reasoning with RDF \n-  Reasoning with RDF-S \n•  RDF(S) management APIs \n2 \n",
-  "speaker": "SYSTEM",
-  "uuid": "e0e1c3a3-223c-4abc-9b6a-d6b8933b964a"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 49\nATHENS 2010 \n© Raúl García Castro et al. \nOWL (1) \nFebruary 2004 \nWeb Ontology Language \nBuilt on top of RDF(S) \nThree layers: \n-  OWL Lite \n-  A small subset of primitives \n-  Easier for frame-based tools to transition to \n-  OWL DL \n-  Description logic \n-  Decidable reasoning \n-  OWL Full \n-  RDF extension, allows metaclasses \nSeveral syntaxes: \n-  Abstract syntax \n-  Manchester syntax \n-  RDF/XML \n49 \n",
-  "speaker": "SYSTEM",
-  "uuid": "434b23c0-cf70-4501-9e43-68a7e911b7a0"
-}

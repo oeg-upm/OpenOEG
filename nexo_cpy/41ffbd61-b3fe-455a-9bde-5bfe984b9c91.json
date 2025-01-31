@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas-II.pdf: Página 40\nSistemas de Producción\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSeleccionar la regla más general\nSi las instanciaciones de las reglas tienen elementos de condición iguales \nse selecciona la regla que  tenga menos elementos de condición \nRi: Si (Paciente $x) ^ (Fiebre $x)  Entonces  (Enfermo $x)\nRj: Si (Paciente $x) ^ (Fiebre $x)  ^ (Manchas Rojas $x) Entonces  (Varicela $x)\nEn este caso, Ri\n",
-  "speaker": "SYSTEM",
-  "uuid": "41ffbd61-b3fe-455a-9bde-5bfe984b9c91"
-}

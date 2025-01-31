@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Marcos.pdf: Página 42\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nMarcos\nHerencia Simple\n• Existe una única forma de recorrer la taxonomía  (árbol)\n• Cada marco en la taxonomía sólo tiene un único padre\n• Se hereda el valor de aquél MC que esté más cercano\nMC Mamífero\nPiel: pelo\nMC Perro\nLadra: si\nMI Tucky. \nSubclass-of\nInstance-of\n¿ladra Tucky? Sí\nElefante\nColor: gris\nElefante Real\nColor: blanco\nClyde\nColor: ??\nInstancia\nSubclase\n¿Color de clyde? blanco\n",
-  "speaker": "SYSTEM",
-  "uuid": "c4542fb9-b90b-46bb-a036-6aa23327e859"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Planificacion.pdf: Página 34\nPlanificación\nBúsqueda del plan en STRIPS\nlibre (B)\nsujeto (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nQUITAR (A, B)\nsujeto (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nQUITAR (C, B)\nsujeto (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nSe llevan a cabo los pasos \nanteriores recursivamente hasta \nque el estado actual satisfaga las \ncondiciones del estado inicial\n",
-  "speaker": "SYSTEM",
-  "uuid": "aff37d5b-b246-4caa-8055-d9b60c4879bb"
-}

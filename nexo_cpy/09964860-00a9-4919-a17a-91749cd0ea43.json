@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 41\n•  Concatenate property paths, Arbitrary Length paths, \netc. \n•  E.g. names of people Tim Berners-Lee transitively \nco-authored papers with… \nSELECT DISTINCT ?N   \n WHERE {<http://dblp…/Tim_Berners-Lee>,  \n        (^foaf:maker/foaf:maker)+/foaf:name ?N \n       }  \n \n49 \nOntological Engineering Group \nProperty Path expressions \n",
-  "speaker": "SYSTEM",
-  "uuid": "09964860-00a9-4919-a17a-91749cd0ea43"
-}

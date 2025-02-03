@@ -17,12 +17,11 @@ import time
 
 class WikiAllPageScraper:
     def __init__(self, username, password, geckodriver_path, output_file="./tfg/textos/paginas.txt"):
-        # Configuración de opciones de Firefox
+
         self.output_file = output_file
         self.username = username
         self.password = password
 
-        # Configuración del navegador
         firefox_options = Options()
         firefox_options.add_argument("--headless")
         firefox_options.add_argument("--no-sandbox")
@@ -41,7 +40,7 @@ class WikiAllPageScraper:
         self.driver.find_element(By.ID, "wpLoginAttempt").click()
         time.sleep(3)
 
-        # Verifica si la autenticación fue exitosa
+        
         return "Especial:Entrar" not in self.driver.current_url
 
     def scrape_and_save_urls(self, urls_to_scrape):

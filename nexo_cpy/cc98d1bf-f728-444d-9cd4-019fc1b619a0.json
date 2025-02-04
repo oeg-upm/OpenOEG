@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 97\n© O. Corcho\n73\nOntological Engineering\n1. Pre-coordinated delivery: classifier as compiler\n•\nDevelop an ontology\n–\nA classifier can be used to detect and correct inconsistencies\n•\nClassify the ontology\n•\nCommit classifier results to a pre-coordinated ontology\n•\nDeliver it \n–\nIn OWL-Lite or RDFS\n•\nUse RDQL, SPARQL, or your favourite RDF(S) query tool\nAssert (“Commit”) changes\ninferred by classifier\n",
+  "speaker": "SYSTEM",
+  "uuid": "cc98d1bf-f728-444d-9cd4-019fc1b619a0"
+}

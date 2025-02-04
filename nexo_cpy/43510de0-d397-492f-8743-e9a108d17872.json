@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: DevTools.pdf: Página 16\n<project name=\"install-tomcat-6.0.16\">\n<target name=\"install\">\n<unzip src=\"${net.sf.mojo.DevTools.installFile}\"     \ndest=\"${net.sf.mojo.DevTools.installTo}\" >\n…\n</unzip> \n</target> \n</project>\nAdministrar « DevTools » : Herramientas\nProyecto POM – instalación personalizada\n \nMás que una simple descompresión\n \n \nScript ANT.\n",
+  "speaker": "SYSTEM",
+  "uuid": "43510de0-d397-492f-8743-e9a108d17872"
+}

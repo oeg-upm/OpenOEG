@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 27\nTable of Contents\n1.\nAn introduction to Description Logics\n2.\nWeb Ontology language (OWL)\n2.\nWeb Ontology language (OWL)\n2.1. OWL primitives\n2.2. Reasoning with OWL\n3.\nOWL Development Tools: Protégé\n3.1 Basic OWL edition\n3.2 Advanced OWL edition: restrictions, disjointness, etc.\n© O. Corcho, MC Suárez de Figueroa Baonza\n53\nOWL and SWRL\n4.\nOWL management APIs\n4.1 An example of an OWL-based application\n5.\nSWRL\nNamed Classes (I)\nAn ontology contains classes – indeed, the main building blocks of an\nOWL ontology are classes.\nAn empty ontology contains one class called Thing.\nOWL classes are interpreted as sets of individuals or sets of objects.\nThe class Thing is the class that represents the set containing all\nindividuals.\nBecause of this all classes are subclasses of Thing.\n© O. Corcho, MC Suárez de Figueroa Baonza\n54\nOWL and SWRL\n",
+  "speaker": "SYSTEM",
+  "uuid": "a47fa094-3403-48f6-a655-8b93a71f86b7"
+}

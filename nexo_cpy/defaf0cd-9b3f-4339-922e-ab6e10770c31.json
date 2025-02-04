@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 92\n© O. Corcho\n68\nOntological Engineering\nInteresting results (III). Instance classification and \nredundancy detection\nAn animal lover is a person who has at least three pets\nWalt is a person who has pets called Huey, Louie and Dewey.\n)\n,\n(\n)\n,\n(\n)\n,\n(\n)\n3\n(\nDewey\nWalt\nhasPet\nLouie\nWalt\nhasPet\nHuey\nWalt\nhasPet\nperson\nWalt\nhasPet\nperson\nr\nanimalLove\n\n\n\n\nWe obtain: \nWalt is an animal lover\nWalt is a person is redundant\nr\nanimalLove\nWalt \n",
+  "speaker": "SYSTEM",
+  "uuid": "defaf0cd-9b3f-4339-922e-ab6e10770c31"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 24\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nFormalización en lógica de predicados de primer orden                                                                        \nMariano Fernández López\nDeducción (III)\nUna de las opciones a la hora de utilizar formas normales es las cláusulas de Horn\n•¿Qué es una cláusula? Es una disyunción de cualquier número de fórmulas atómicas\nafirmadas o negadas\n•Las cláusulas de Horn se caracterizan por tener uno y sólo un átomo afirmado y\ncualquier número de átomos negados\nPor ejemplo:\nP,\nQ P,\nR PQ\n• No todas las fórmulas se pueden transformar en cláusulas de Horn\n",
+  "speaker": "SYSTEM",
+  "uuid": "f7e82932-f9d7-4540-bf27-46c89ad898f0"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 9\n© O. Corcho, R.García-Castro, O. Muñoz-García\n9\nRDF and RDF Schema\nSemantic Network. Basic elements\n•\nNodes\n–\nThey represent entities or concepts, or values\n•\nEdges\n–\nThey represent properties or relations\n•\nThe semantics (mapping to the real world) depends on the tags \nused for nodes and edges\n•\nThere is no predefined KR vocabulary\n–\nAlthough sometimes there are structural edges\nEntity/Concept\nNode\nNode\nproperty/relation\nValue\nEntity\nConcept\ninstanceOf\nConcept\nConcept\nsubclassOf\n",
+  "speaker": "SYSTEM",
+  "uuid": "3a37519f-731c-4cbf-a841-5e09ca9c88a2"
+}

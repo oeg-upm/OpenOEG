@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA.pdf: Página 127\n127\nReglas de recuperación de valores.-\nSon las que regulan la obtención del valor de un \nnodo a partir de los valores conocidos de sus \nnodos sucesores. Las más utilizadas son:\nminimax:\nnegamax: es una forma de implementar el     \nminimax sólo con nodos MAX. Consiste en \nnegar el valor f(n) de todos los nodos sucesores \nde cada nodo y calcular el       máximo en todos \nlos niveles.\n",
+  "speaker": "SYSTEM",
+  "uuid": "f51d3685-4ae3-4081-9c2d-64daedcfbaea"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: MGPGLD-v3.pdf: Página 27\nGeoLinkedData - URI design\n• Base URI\nhttp://linkeddata.es/\nhttp://geo.linkeddata.es/\n• TBox URIs\nhttp://geo.linkeddata.es/ontology/{concept|property}\nhttp://geo.linkeddata.es/ontology/Provincia\n• ABox URIs\nhttp://geo.linkeddata.es/resource/{r. type}/{r. name}\nhttp://geo.linkeddata.es/resource/Provincia/Madrid\n27\nSpecification\n",
+  "speaker": "SYSTEM",
+  "uuid": "54e3e515-5d3e-498e-a632-1080821ad398"
+}

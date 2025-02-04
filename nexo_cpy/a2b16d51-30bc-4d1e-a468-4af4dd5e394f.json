@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SparqlDQPGrupo.pdf: Página 41\nSparqlDQP Features\n• Adapted SPARQL grammar for distributed SPARQL\n• SELECT ?dbpedia.person FROM dbpedia WHERE {...}\n• Query plan similar to SQL query plans\n• SQL optimisations can be applied to them\n• Current Optimisers\n• Query Normaliser\n• Partitioner\n• RDF Table Scan Implosion\n• Automatic creation of data workflows \n• Distribution across the OGSA-DAI nodes\n",
+  "speaker": "SYSTEM",
+  "uuid": "a2b16d51-30bc-4d1e-a468-4af4dd5e394f"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Integrator_UseCase.pdf: Página 3\nCCO Data: Storm Detection\nSchema\nlocations (location:varchar, \n           storm_threshold:float)\nenvdata_boscombe (timestamp:timestamp,\n    DateTime:datetime, Lat:float,\n    Lon:float, Hs:float, HMax:float,\n    Tp:float, Tz:float, Sprp:float,\n    Dirp:float, TSea:float)\nQuery to detect storm\nevents:\nSELECT l.location, w.Hs, w.HMax\nFROM   wave w, locations l\nWHERE  w.location = l.locaction AND\n       (w.Hs >= l.storm_threshold OR\n        w.HMax >= l.storm_threshold)\nRequires view wave to be created.\nQuery could be extended to ensure \nthat it was not a one-off event.\n",
+  "speaker": "SYSTEM",
+  "uuid": "19b9aea3-bae3-4128-9d3c-015de4f12f70"
+}

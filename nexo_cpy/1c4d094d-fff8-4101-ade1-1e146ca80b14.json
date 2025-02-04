@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_1_-_Intro-Sweb.pdf: Página 15\n©Asunción Gómez-Pérez\n- 15\nTravel\nrdfs:Literal\nrdfs:Class\nCompany-name\nsingleFare\nunits:currencyQuantity\nrdfs:range\nrdfs:range\nrdfs:domain\nrdfs:domain\nrdf:Type\ndepartureDate\nrdfs:domain\ntime:Date\nrdfs:range\narrivalDate\nrdfs:range\nrdfs:domain\nrdf:Property\nrdf:Type\nrdf:Type\nrdf:Type\nrdf:Type\nRDF\nRDFS\nIB-4321\n“Iberia”\n500 euros\n10/11/2005\nsingleFare\ndepartureDate\narrivalDate\nCompany-name\nrdf:Type\nrdf:Type\nrdf:Type\nrdf:Type\n",
+  "speaker": "SYSTEM",
+  "uuid": "1c4d094d-fff8-4101-ade1-1e146ca80b14"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 24\n1. Pre-coordinated delivery: classifier as compiler\n•\nDevelop an ontology\n–\nA classifier can be used to detect and correct inconsistencies\n•\nClassify the ontology\n•\nCommit classifier results to a pre-coordinated ontology\nAssert (“Commit”) changes\ninferred by classifier\n© O. Corcho, MC Suárez de Figueroa Baonza\n47\nOWL and SWRL\n•\nDeliver it \n–\nIn OWL-Lite or RDFS\n•\nUse RDQL, SPARQL, or your favourite RDF(S) query tool\n2. Post Coordination: classifier as a service\n•\nLogic based ontologies act as a conceptual lego\n–\nModularisation/Normalisation is needed to make them easier to maintain\nhand\ngene\nextremity\nbody\nacute\nchronic\ncell\nprotein\ni f\ni\ninflammation\nLung\nexpression\n© O. Corcho, MC Suárez de Figueroa Baonza\n48\nOWL and SWRL\nabnormal\nnormal\nischaemic\ndeletion\nbacterial\npolymorphism\ninfection\n",
+  "speaker": "SYSTEM",
+  "uuid": "d4746fa7-af9b-43cc-82a2-7d9dc556af7f"
+}

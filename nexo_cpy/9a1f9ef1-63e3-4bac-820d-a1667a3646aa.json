@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Fpriyatna-oeg-20141002.pdf: Página 6\nR2RML Example\nDEPTNO\nDNAME\nLOC\n10\nAPPSERVER\nNEW \nYORK\n<http://data.example.com/department/10> rdf:type ex:Department.\n<http://data.example.com/department/10> ex:name \"APPSERVER\".\n<http://data.example.com/department/10> ex:location \"NEW YORK\".\nDEPT\n<TriplesMapDept>\nrr:logicalTable [ rr:tableName \"DEPT\" ];\nrr:subjectMap [ \nrr:template “http://data.example.com/department/{DEPTNO}”;\nrr:class ex:Department; ];\nrr:predicateObjectMap [ \nrr:predicateMap [ rr:constant ex:name;] \nrr:objectMap [ rr:column “DNAME”; ];\nrr:predicateObjectMap [ \nrr:predicateMap [ rr:constant ex:location; ] \nrr:objectMap [ rr:column “LOC”; ] \n]; .\n",
+  "speaker": "SYSTEM",
+  "uuid": "9a1f9ef1-63e3-4bac-820d-a1667a3646aa"
+}

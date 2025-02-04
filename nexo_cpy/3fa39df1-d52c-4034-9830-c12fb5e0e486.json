@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Triplify \n\nGaV approach.\nMaps RDF types to SQL queries.\nThe projection of the results must provide an identifier and use RDF property names (e.g. rdfs:label) as column names.\nForeign-key columns can be mapped as object properties by specifying a range class which is assumed to be map to a query. With this information, Triplify will automatically generate the joins.\nCallback functions can be registered to process data returned by the DB.\nContents\n[\nhide\n]\n1\nConfiguation Notes\n2\nExamples\n2.1\nERM Database\n3\nReferences\nConfiguation Notes\n\nMake sure that you deploy triplify on a directory named\ntriplify\nFor instance, putting the triplify php files in /var/www/triplify/erm will not work, but /var/www/erm/triplify will.\nExamples\n\nERM Database\n\nRDF data\n(only works if Alex's computer is turned on)\nTriplify configuration\nReferences\n\nTriplify - Lightweight Linked Data Publication from Relational Databases, submitted to WWW 2009",
+  "speaker": "SYSTEM",
+  "uuid": "3fa39df1-d52c-4034-9830-c12fb5e0e486"
+}

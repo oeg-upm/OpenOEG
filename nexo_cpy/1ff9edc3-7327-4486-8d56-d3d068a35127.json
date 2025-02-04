@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion.pdf: Página 51\nPlanificación\nBúsqueda del plan en STRIPS\nLEVANTAR (C)\nlibre (B) ^ sujeto (C)\nPONER (C, B)\nen-mesa (A)\nR\nSe ejecuta el operador, pues sus \nprecondiciones se dan en el estado E3\nA\nB\nC\nEstado E3\nA\nB\nC\nLEVANTAR (C)\nPLAN = QUITAR (A, B), DEJAR (A), LEVANTAR (C)\n",
+  "speaker": "SYSTEM",
+  "uuid": "1ff9edc3-7327-4486-8d56-d3d068a35127"
+}

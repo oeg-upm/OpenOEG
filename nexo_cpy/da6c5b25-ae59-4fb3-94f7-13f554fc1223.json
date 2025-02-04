@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Espa%C3%B1aVirtual24022011 \n\nContents\n[\nhide\n]\n1\nTareas 7.2\n2\nTarea 2.3\n3\nTarea 1.4\n4\nTarea 7.1\nTareas 7.2\n\nTarea 1. Mecanismo de extracción de semántica a partir de anotaciones\n.\n-- Entregable H8\n-- Se intentó realizar la instalación de Sem4Tags en la máquina de virtual de Deimos pero no se encontraron las herramientas de la base de datos Postgres.\nTarea 2. Procesado de fuentes de información no semántica ya existentes\n.\nTarea 3. Modelo de anotación híbrido\n.\nTarea 2.3\n\n- Configuración de la infraestructura para cloud privado. Solucionados problemas de login con usuario administrador de OpenNebula\n- Redacción del documento H8\nTarea 1.4\n\nTarea 7.1\n\n- Redacción Entregable H8",
+  "speaker": "SYSTEM",
+  "uuid": "da6c5b25-ae59-4fb3-94f7-13f554fc1223"
+}

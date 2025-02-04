@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Maven-Artifactory.pdf: Página 5\nIntroducción a Maven 4/5\nsrc/main/java → código fuente\nsrc/main/resources → recursos \ndel código fuente\nsrc/test/java → código de test\nsrc/test/resources → recursos \ndel código de test\ntarget → compilados, informes y \nentregables (paquetizaciones)\npom.xml → fichero de configuración \nque describe el proyecto, sus \ndependencias y su ciclo de vida de \nconstrucción personalizado\n",
+  "speaker": "SYSTEM",
+  "uuid": "da1bd92a-dadc-4448-8f05-81f5defcec2d"
+}

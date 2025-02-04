@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GeneralOntologies-v3_%28mariano%29.pdf: Página 58\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work\n58\nHEURISTICS TO ANALYZE AND TRANSFORM THE CQs AND ADD \nLINKING AXIOMS AND RULES FOR TIME MODELING\nCondition that satisfies  the CQs of the ontology \nCase \nAction to carry out \nCT1) We have ignored which are the extremes of the \ntemporal entity returned by the CQ. \nTime points \nIntroduce a linking axiom to time \npoints. \nCT2) We have ignored which are the extremes of the \ntemporal entity returned by the CQ. \nTime intervals \nIntroduce a linking axiom to time \nintervals. \n \nWhen does concert c begin?\nWhen is concert series s held?\nConcert\nTimePoint\nbegins\nConcert\nSeries\nTimePoint\nisHeld\n",
+  "speaker": "SYSTEM",
+  "uuid": "4fea2027-60f8-4c49-bca3-1b1c0fb701cf"
+}

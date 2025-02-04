@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion-2013.pdf: Página 53\nPlanificación \n \n \nBúsqueda del plan en STRIPS \nLEVANTAR (C) \nlibre (B) ^ sujeto (C) \nPONER (C, B) \nen-mesa (A) \nR \nA \nB \nC \nEstado E4 \nlibre (B) ^ sujeto (C) \nPONER (C, B) \nen-mesa (A) \nR \nLas condiciones son ciertas en el estado E4 \n",
+  "speaker": "SYSTEM",
+  "uuid": "840bbb38-7587-473d-9444-f7044898ac7a"
+}

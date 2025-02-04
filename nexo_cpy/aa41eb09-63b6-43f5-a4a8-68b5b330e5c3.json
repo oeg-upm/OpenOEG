@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Presentacion_OEG26-02-2014.pdf: Página 23\n23\nMotif Catalog\nData-Oriented Motifs\n \nData Retrieval\n \nData Preparation\n \n \nFormat Transformation\nInput Augmentation\nand Output Splitting\n \n \nData Organisation \n \nData Analysis\n \nData Curation/Cleaning\n \nData Moving\n \nData Visualisation\nWorkflow-Oriented Motifs\n \nIntra-Workflow Motifs\n \n \nStateful (Asynchronous) Invocations\n \n \nStateless (Synchronous) Invocations\n \n \nInternal Macros\n \n \nHuman Interactions\n \nInter-Workflow Motifs\n \n \nAtomic Workflows\n \n \n Composite Workflows \n \n \nWorkflow Overloading\n \n \nOntology Purl: http://purl.org/net/wf-motifs\n",
+  "speaker": "SYSTEM",
+  "uuid": "aa41eb09-63b6-43f5-a4a8-68b5b330e5c3"
+}

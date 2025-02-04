@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OEG-KG.pdf: Página 8\nOEG-KG (Call for Participation)\nsystems.csv\nprojects.csv\npapers.csv\npersons.csv\nskill.csv ?\nevents.csv ?\nconferences.csv\njournals.csv\ntalks.csv\nWhatever, be \nflexible here\nOntology\nEngineering\nMapTran\nEngine\nInstances/\nVKG\nSELECT ?x\nWHERE {\n  ?x ...\n}\nQuery\nTransl.\nQuestions in natural language:\n“Papers supported by MobileAge”\n“All tools and its creator”\n“Core A conferences in 2019”\n“Tools compatible with my system”\nNLP\ndocs\nNER\n",
+  "speaker": "SYSTEM",
+  "uuid": "8018d951-dc6e-4402-833f-7dc413f77938"
+}

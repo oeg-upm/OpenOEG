@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Redes_Semanticas-v1.pdf: Página 24\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nRDFS: RDF Schema\n•\nW3C Recommendation\n•\nRDF Schema extends RDF to enable talking about classes of\nresources, and the properties to be used with them.\n– Class definition: rdfs:Class, rdfs:subClassOf\n– Property definition: rdfs:subPropertyOf, rdfs:range, rdfs:domain\n– Other primitives: rdfs:comment, rdfs:label, rdfs:seeAlso, \nrdfs:isDefinedBy\n•\nMetaclasses: Classes can be instances of other classes\n•\nRDF Schema provides the means to describe application specific\nRDF vocabularies.\n•\nRDFS vocabulary adds constraints on models, e.g.:\n– ∀x,y,z type(x,y) and subClassOf(y,z) →type(x,z)\nXML\nRDF\nRDFS\nOWL\nRDF(S)\n",
+  "speaker": "SYSTEM",
+  "uuid": "4365c6e8-ace2-4e8b-81bb-72b6fe984a84"
+}

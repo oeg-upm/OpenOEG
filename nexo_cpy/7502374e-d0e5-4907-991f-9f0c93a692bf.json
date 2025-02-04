@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 3\n© O. Corcho, R.García-Castro, O. Muñoz-García\n3\nRDF and RDF Schema\nTable of Contents\n1.\nAn introduction to knowledge representation formalisms \n30’\n2.\nResource Description Framework (RDF)  \n \n30’\n2.1. RDF primitives\n2.2. Reasoning with RDF\n3.\nRDF Schema  \n \n \n \n \n30’\n3.1 RDF Schema primitives\n3.2 Reasoning with RDFS\n4.\nRDF(S) management APIs \n \n \n \n60’\n5.\nRDF(S) query languages: SPARQL \n \n \n45’\n6.\nAn example of an RDF(S)-based application \n \n25’\n",
+  "speaker": "SYSTEM",
+  "uuid": "7502374e-d0e5-4907-991f-9f0c93a692bf"
+}

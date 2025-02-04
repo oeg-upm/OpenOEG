@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 55\nApplication to Penal Code(continued)\nWe could represent these general rules and exceptions in PROLEG.\nguilty(X,Y,murder)\n<=\nintention_of_killing(X,Y),\nkilling_act(X,Y),\ndied(Y).\ninsane(X)\n<=\npsychiatric_test_insanity(X).\nself_defense(X,Y) <=\nimminent_infringement(Y,X),\nunlawful_infringement(Y,X),\ndefense_action_appropriate(X,Y).\nand exceptions as:\nexception(guilty(X,Y,murder),insane(X)).\nexception(guilty(X,Y,murder),self_defense(X,Y)).\nexception(imminent_infringement(Y,X),\nintention_of_attack(X,Y)).\n55\n",
+  "speaker": "SYSTEM",
+  "uuid": "649caa66-f947-4043-9b06-86c3e28af920"
+}

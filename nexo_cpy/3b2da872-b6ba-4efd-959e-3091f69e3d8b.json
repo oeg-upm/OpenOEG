@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Planificacion.pdf: Página 75\nPlanificación\nPasar-caja (r,c,r´,o)\nPrecondiciones: sujeta (r,c), libre (r´), en-oficina \n(r,o), en-oficina (r´,o)\nAñadidos: libre (r), sujeta (r´,c)\nBorrados: libre (r´), sujeta (r,c)\n",
+  "speaker": "SYSTEM",
+  "uuid": "3b2da872-b6ba-4efd-959e-3091f69e3d8b"
+}

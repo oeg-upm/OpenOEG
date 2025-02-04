@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Guidelines.pdf: Página 27\nProblem NLAP SOSWPI\nSumOfSomWithPropertyInheritance\nMisunderstanding of subproperty relation\nR1⊆R2, C1⊆∃R1.C2, C1⊆∃R2.C3, Disj(C2,C3) \n27\nModelos de Razonamiento. Oscar Corcho\nC2\nC3\nC1 ?\nR2\nR1\n",
+  "speaker": "SYSTEM",
+  "uuid": "e2aa3839-3ac1-43c2-af10-d896730531f4"
+}

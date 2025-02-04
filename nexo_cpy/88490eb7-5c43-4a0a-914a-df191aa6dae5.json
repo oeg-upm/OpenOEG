@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 32\nInverse Properties\nEach object property may have a corresponding inverse property.\nIf some property links individual a to individual b, then its invers property ling individual\nb to individual a.\nCreating inverse properties in the pizza example: isIngredientOf\nCreating inverse properties in the pizza example: isIngredientOf.\n© O. Corcho, MC Suárez de Figueroa Baonza\n63\nOWL and SWRL\nOWL Object Properties Characteristics (I)\nOWL allows the meaning of properties to be enriched through the\nuse of property characteristics.\nFunctional Properties\nInverse Functional Properties\nTransitive Properties\nSymmetric Properties\nAntisymetric Properties\nReflexive Properties\nI\nfl\ni\nP\nti\n© O. Corcho, MC Suárez de Figueroa Baonza\n64\nOWL and SWRL\nIrreflexive Properties\n",
+  "speaker": "SYSTEM",
+  "uuid": "88490eb7-5c43-4a0a-914a-df191aa6dae5"
+}

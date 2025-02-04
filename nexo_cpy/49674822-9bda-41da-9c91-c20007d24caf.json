@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Vidal.Sep19.pdf: Página 22\nPage 22\nAdaptivity in Federated Query Processing\nQuery Engines able to:\n● Change their behavior by learning the behavior of data \nproviders\n●  Receive and exploit information from the environment\n●  Use up-to-date information to change their behavior\n●  Keep iterating over time to adapt their behavior based on \nthe environment conditions\n",
+  "speaker": "SYSTEM",
+  "uuid": "49674822-9bda-41da-9c91-c20007d24caf"
+}

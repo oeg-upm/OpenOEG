@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Semantic_Integration_Sensor_Networks_%28short_overview%29.pdf: Página 11\n11\nQuery\nreconciliation\nq\nqr\nQuery\ncanonisation\nQc\nDistributed\nQuery\nProcessing\nData \ndecanonisation\nData \nreconciliation\nd\ndr\nDc\nClient\nO-O mapping\nR2O mappings\nSPARQLSTR (Og) \nSPARQLSTR (O1 O2 On) \nSNEEql (S1 S2 Sn) \nSNEEql’ (S1 S2 Sn) \n[tuplel1 l2 l3]\n[tripleO1 O2 On]\n[tripleOg]\nSemantic Integrator\nOntology-based Streaming Data Access\n11\nSemantic Integration Streaming Data Sources\n",
+  "speaker": "SYSTEM",
+  "uuid": "89151d2d-43bb-4d0e-a0a2-f1dd444bb24c"
+}

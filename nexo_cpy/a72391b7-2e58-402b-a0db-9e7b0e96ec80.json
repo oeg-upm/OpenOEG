@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 61\nWord2Vec, more relationships\nsimilarity is the basis of many associations that Word2vec can learn\nthe learned vectors can be visualized after dimensionality reduction \n(as t-SNE)\ncertain directions in the induced vector space specialize towards \ncertain semantic relationships\ne.g. male-female, gender and even country-capital relationships\n61\n",
+  "speaker": "SYSTEM",
+  "uuid": "a72391b7-2e58-402b-a0db-9e7b0e96ec80"
+}

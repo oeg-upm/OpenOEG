@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: LPS_BIGGER-09.03.2017.pdf: Página 11\nAlso…\n• Optimal size if the corpus for training (5k~7,5k)\n• Comparison to other corpora available (TASS, just\nfor polarity)\n• Creation of new sentilexicons:\n• Using TF-IDF for finding sector-dependent emotional words\n(fresquita for beverages).\n• Manual examination (for low-populated emotions)\n• Division in sectors/emotions\n• Test of different thresholds.\n• Cascade classification (the best of each classifier!). \nProblems:\n• Time restriction.\n• Several posible orders, different for each emotion.\n11\n",
+  "speaker": "SYSTEM",
+  "uuid": "9354320f-4252-4f66-aa03-e73014b95e2e"
+}

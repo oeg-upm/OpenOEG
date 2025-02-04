@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_OWL.pdf: Página 39\n© O. Corcho, MC Suárez de Figueroa Baonza\n39\nOWL and SWRL\nDescription Logics Reasoning\nDevelop a sample ontology in the domain of people, pets, vehicles, and newspapers\n- Understand the basic reasoning mechanisms of description logics\nSubsumption\nAutomatic classification: an ontology built collaboratively\nInstance classification\nDetecting redundancy\nConsistency checking: unsatisfiable restrictions in a Tbox (are the classes coherent?)\n",
+  "speaker": "SYSTEM",
+  "uuid": "105fc0ef-a5c2-4d0b-ae3e-5167275672fc"
+}

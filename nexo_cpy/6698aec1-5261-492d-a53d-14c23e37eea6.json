@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Restricciones.pdf: Página 9\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nRestricciones\nAlgoritmo de Waltz\nAsignar valores iniciales a las variables\nSí\nSe poda la rama al no encontrar \nvalores que satisfagan\nla restricción\nDominios \nvacíos de \nvariables\nCambian los \ndominios de \nlas variables\nSí\nConjunto de posibles \nsoluciones válidas\nNo\nFiltrar los dominios de las variables:\n(aplicar restricciones en el mismo orden)\nR = {R1, R2, ...., Rm}\ntratar Ri\ntratar valores\nPropagación\n(Continua la exploración \nfijando el valor \nde una variable)\nNo\nX=a\nX=b\nE1\n",
+  "speaker": "SYSTEM",
+  "uuid": "6698aec1-5261-492d-a53d-14c23e37eea6"
+}

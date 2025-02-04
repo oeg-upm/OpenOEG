@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWS_-_03_-_OntologyLanguages.pdf: Página 28\n© O. Corcho\n28\nOntological Engineering\nQuery 1: \nSELECT N \nFROM {N} rdf:type {sti:Event} \nUSING NAMESPACE sti=<http://www.ontogrid.net/StickyNote#>\nQuery 2: \nSELECT N \nFROM {N} rdf:type {sti:Event}; sti:involves {sti:OscarCorcho} \nUSING NAMESPACE sti=<http://www.ontogrid.net/StickyNote#>\nQuery 3: \nSELECT N \nFROM {N} rdf:type {sti:Event}; sti:involves {M} rdf:type {sti:Professor} \nUSING NAMESPACE sti=<http://www.ontogrid.net/StickyNote#>\nRDF querying\n",
+  "speaker": "SYSTEM",
+  "uuid": "2f4bf495-d0d0-40a2-9945-9614e4469a04"
+}

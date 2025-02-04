@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RDF%28S%29-SPARQL-Pr%C3%A1ctica.pdf: Página 18\n•18\n@prefix foaf:  <http://xmlns.com/foaf/0.1/> .\n:a\nfoaf:name\n\"Alice\"\nBlank node labels in query results\n_:a  foaf:name\nAlice  .\n_:b\nfoaf:name\n\"Bob\" .\nPREFIX foaf:   <http://xmlns.com/foaf/0.1/>\nSELECT ?x ?name\nWHERE  { ?x foaf:name ?name }\nx  \nname\n_:c\n\"Alice\"\n_:d\n\"Bob\"\nx  \nname\n_:r\n\"Alice\"\n_:s\n\"Bob\"\n=\n35\nGroup graph pattern\nPREFIX foaf:    <http://xmlns.com/foaf/0.1/>\nSELECT ?name ?mbox\nWHERE  { { ?x foaf:name ?name . }\n{ ?x foaf:mbox ?mbox . }\n{ ?x foaf:mbox ?mbox . }\n}\nSELECT ?x\nWHERE {}\nPREFIX foaf:    <http://xmlns.com/foaf/0.1/>\nSELECT ?name ?mbox\nWHERE  { { ?x foaf:name ?name . }\n{ ?x foaf:mbox ?mbox . FILTER regex(?name, \"Smith\")}\n}\n36\n",
+  "speaker": "SYSTEM",
+  "uuid": "b0bd2fc8-2119-4e7c-8bb4-60fbfae28a1d"
+}

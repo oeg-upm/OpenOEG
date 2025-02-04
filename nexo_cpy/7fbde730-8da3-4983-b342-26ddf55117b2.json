@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01.Introduction.pdf: Página 36\n©Asunción Gómez-Pérez \n- 36 \nThe four principles (Tim Berners Lee, 2006) \n1. \nUse URIs as names for things \n2. \nUse HTTP URIs so that \npeople can look up those \nnames.  \n3. \nWhen someone looks up a \nURI, provide useful \ninformation, using the \nstandards (RDF*, SPARQL)  \n4. \nInclude links to other URIs, \nso that they can discover \nmore things.  \n•  http://www.w3.org/\nDesignIssues/\nLinkedData.html \n36 \nhttp://www.ted.com/talks/tim_berners_lee_on_the_next_web.html \n",
+  "speaker": "SYSTEM",
+  "uuid": "7fbde730-8da3-4983-b342-26ddf55117b2"
+}

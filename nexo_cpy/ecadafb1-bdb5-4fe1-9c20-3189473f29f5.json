@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Designing_a_Text_Classification_System_using_Statistical_NLP.pdf: Página 6\nApproaches for text classification \nAdvantages \n•\nHighly Precise \n•\nRules can be interpreted \n•\nThere exists some tools allowing rule \nprocessing:  \n \n \nDisadvantages \n•\nDoes not scale \n•\nKnowledge acquisition: \n– Writing rules is a tough work \n– Time-consuming task \n•\nManaging rules is not a trivial task  \n•\nDoes not have ability to learn \nRule-based \n \nif ( u.match(^<InterrogativePronoun> word+ <SystemObject>) )  \n \nreturn “MapaFuncional”  \n \nRules are written by specialists (e.g. Computational linguistic) in collaboration with \nDomain experts \n",
+  "speaker": "SYSTEM",
+  "uuid": "ecadafb1-bdb5-4fe1-9c20-3189473f29f5"
+}

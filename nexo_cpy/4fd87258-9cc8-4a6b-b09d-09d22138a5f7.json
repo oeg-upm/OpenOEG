@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Helio-no_animations.pdf: Página 20\nSet your title here in Slide Master Options\nApplications\n20\n▪\nTFM\no\nBlockchain (2018-2019)\n• https://github.com/oeg-upm/helio-plugins/tree/master/ethereum-conn\nector\n▪\nTFG\no\nTaxons (2018-2019)\n• https://github.com/oeg-upm/helio-plugins/tree/master/rml-connector\no\nSemantic Sensors deployment (2019-2020)\n• https://github.com/oeg-upm/helio-plugins/tree/master/mqtt-connector\nMQTT Broker\n<<push data>>\nHelio\nRDF \npublisher\n<<reads>>\nRaspberry Board\nSPARQL\nResources\nDataset\nWifi \nAccess\nSensor’s Board\n",
+  "speaker": "SYSTEM",
+  "uuid": "4fd87258-9cc8-4a6b-b09d-09d22138a5f7"
+}

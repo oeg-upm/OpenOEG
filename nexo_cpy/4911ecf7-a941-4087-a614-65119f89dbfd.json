@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 48\nRestrictions and Boolean Class Constructors\n© O. Corcho, MC Suárez de Figueroa Baonza\n95\nOWL and SWRL\nExercise\nCreate a Meaty Pizza.\nCreate a Vegeterian Pizza which have no meat and no fish toppings\n© O. Corcho, MC Suárez de Figueroa Baonza\n96\nOWL and SWRL\nCreate a Vegeterian Pizza, which have no meat and no fish toppings.\nCreate a Real Italian Pizza, which only have bases that are ThinandCrispy.\nCreate a subclass of Named Pizza with a topping of Mozzarela.\n",
+  "speaker": "SYSTEM",
+  "uuid": "4911ecf7-a941-4087-a614-65119f89dbfd"
+}

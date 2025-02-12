@@ -10,7 +10,7 @@ Consiste en dos módulos: el módulo de análisis y el módulo de chat. El módu
 
 ### Instalación
 
-Es necesario tener una cuenta en Pinecone https://www.pinecone.io/ y anotar la key asociada a la cuenta. Si tienes cuenta de Google puedes usarla para loggearte. No hace falta la versión de pago de Pinecone, con la versión gratis es suficiente. 
+Es necesario tener una cuenta en Pinecone https://www.pinecone.io/ y anotar la key asociada a la cuenta que se puede obtener en https://docs.pinecone.io/guides/get-started/quickstart. Si tienes cuenta de Google puedes usarla para loggearte. No hace falta la versión de pago de Pinecone, con la versión gratis es suficiente. 
 
 Clonar el repositiorio.
 

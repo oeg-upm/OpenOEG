@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologies-TheoreticalAspects.pdf: Página 26\n©Asunción Gómez-Pérez\n26\nClasses and Class Hierarchy (I)\n Classes represent concepts in the domain and not the words that denote these \nconcepts.\n Synonyms for the same concept do not represent different classes\n Classes as unary predicates—questions that have one argument.\n For example, “Is this object a wine?”\n By contrast binary predicates (or slots)—questions that have two arguments.  \nFor example, “Is the flavor of this wine strong?” “What is the flavor of this \nwine?”\n A subclass of a class represents a concept that is a “kind of” the concept that the \nsuperclass represents.\n",
+  "speaker": "SYSTEM",
+  "uuid": "9a49f758-6c59-4b35-a1f7-b77cd6c4349c"
+}

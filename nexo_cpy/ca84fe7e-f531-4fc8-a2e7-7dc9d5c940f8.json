@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OEG_Status_report_Software_March_2022.pdf: Página 16\nOpen Science, Software and AI: A year at the Ontology Engineering Group. March, 2022\nSoftware Description Ontology\n16\nExtending:\n●\nSchema.org/Codemeta (software metadata)\n●\nW3C Data Cubes (Contents of inputs and outputs)\n●\nNASA QUDT (Units)\n●\nDockerPedia (Software images)\n●\nScientific Variables Ontology (Standard Variables)\nhttps://w3id.org/okn/o/sd\nGarijo, D., Osorio, M., Khider, D., Ratnakar, V., & Gil, Y. (2019, September). OKG-Soft: An open knowledge graph with machine readable scientific \nsoftware metadata. In 2019 15th International Conference on eScience (eScience) (pp. 349-358). IEEE.\n",
+  "speaker": "SYSTEM",
+  "uuid": "ca84fe7e-f531-4fc8-a2e7-7dc9d5c940f8"
+}

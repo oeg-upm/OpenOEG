@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2019-07-18-Lefrancois-Seminar.pptx: Diapositiva {14}\n<#TriplesMap2>\n  rr:logicalTable <#DeptTableView>;\n  rr:subjectMap [\n    rr:template \"http://data.example.com/department/{DEPTNO}\"; \n    rr:class ex:Department;\n   ];\n  rr:predicateObjectMap [ \n    rr:predicate ex:name; \n    rr:objectMap [ rr:column \"DNAME\" ]; \n   ]; \n  rr:predicateObjectMap [ \n    rr:predicate ex:location; \n    rr:objectMap [ rr:column \"LOC\" ]; \n   ]; \n  rr:predicateObjectMap [ \n    rr:predicate ex:staff; \n    rr:objectMap [ rr:column \"STAFF\" ]; \n  ]. ",
+  "speaker": "SYSTEM",
+  "uuid": "d59abc95-2661-4a7a-8a7d-897bcf5e0e3c"
+}

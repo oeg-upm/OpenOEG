@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologies%26multilinguality%40wiki_24-01-08.pdf: Página 42\n©Guadalupe Aguado de Cea\n42\nAdvantages and disadvantages\n• Advantages: \n– Including as much linguistic information as wished is possible\n– Linguistic elements within one language or across languages can be \nlinked. \n– Nuances or differences between languages can be reported and \nformalized at the terminological layer \n– Relevant information as, e.g., the provenance of the linguistic elements, \ncan also be included. \n– Ontology development expertise is not necessary for linguists and \ndomain experts to access the terminological layer in a distributed \nenvironment.\n• Disadvantages: \n– Some language specificities could be lost, unless captured in language \nspecific ontology modules, i.e., in the conceptual layer, or in the \nlinguistic model, i.e., at the terminological layer.\n",
+  "speaker": "SYSTEM",
+  "uuid": "0c6cb71d-0166-4a2d-b25e-f25ae03d5e06"
+}

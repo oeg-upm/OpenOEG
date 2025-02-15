@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Neon_2008_d2.2.2.pdf: Página 68\nPage 68 of 124\nNeOn Integrated Project EU-IST-027595\nTable 4.5: Pattern for Re-engineering a Classiﬁcation Scheme which follows the\nsnowﬂake data model(continued)\nSlot\nValue\nExample\nOUTPUT: Designed Ontology\nGeneral\nThe generated ontology will be based on the lightweight ontology architectural pattern\n(AP-LW-01)[SFBG+07]. Each classiﬁcation scheme item group (i.e. entity) is mapped to a\nclass. An ad-hoc binary relation is deﬁned between the new classes according to the\nsemantics of the relation between super-ordinate and sub-ordinate classiﬁcation scheme\nitems. Each classiﬁcation scheme item included on an entity is mapped to an instance of\nthe entity class. The semantics of the relationship between sub-ordinate and super-ordinate\ninstances are mapped to an ad-hoc binary relation instance.\nGraphical Representation\n(UML) General Solution\nOntology\n(UML) Example Solution\nOntology\nPROCESS: How to Re-engineer\n",
+  "speaker": "SYSTEM",
+  "uuid": "f84973a1-db5a-47d5-b156-10034f0dedc8"
+}

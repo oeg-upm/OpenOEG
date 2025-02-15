@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 26\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \n$x = D no es posible porque B es distinto de C \nEquiparación de Variables (I) \n$x = C ↔ eq. 1 \n \n$x = 3 ↔ eq.2 \nUna variable que aparece una sola vez en una regla se equipara con cualquier  \nvalor que ocupe la misma posición en un elemento de la M.T. \nR1: Si  (A $x    B) Entonces ..... \nMT: (A C B) (A 3 B) (A D  C) \n2 Equiparaciones de la misma regla \nConjunto Conflicto ={R1 (A C B) R1 (A 3 B)} \n",
+  "speaker": "SYSTEM",
+  "uuid": "5e50bd87-ad1f-40e8-9b09-ce4cb0b9b873"
+}

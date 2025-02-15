@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RC_L%C3%B3gicaFormalYL%C3%B3gicaDescriptiva.pdf: Página 11\nRepresentación de Conocimientos: Lógica Formal y Lógica Descriptiva\nSintaxis (II)\n1. Términos\n- Un símbolo de constante es un término\n- Un símbolo de variable es un término\n- Si f es un símbolo de función, y t1, t2, ..., tn son \ntérminos, entonces f(t1, t2, ..., tn) es un término\nFormalización en lógica de predicados de primer orden                                                                        \nMariano Fernández López\nEjemplo:\nf    (                  x,                       a,                           g(                      y )  )\nTérmino\n(símbolo\nde variable)\nTérmino\n(símbolo\nde constante)\nSímbolo\nde función\nTérmino\nTérmino\nSímbolo\nde función\nTérmino\n(símbolo\nde variable)\n",
+  "speaker": "SYSTEM",
+  "uuid": "13235084-898f-458c-b80d-462c872d0342"
+}

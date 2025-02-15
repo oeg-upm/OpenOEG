@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA-2011.pdf: Página 96\nALGORÍTMO A*\nBASE DE REGLAS\nR1. ~($B$) →($B)\nR2. ~($C$) →($C)\nR3. ~($D$) →($D)\nR4. ~($E$) →($E)\nR5. ($B$), ($C$), ($D$), ($E$), ~(A$A) →($A)\nR6. (A$A) →FIN\n",
+  "speaker": "SYSTEM",
+  "uuid": "95699c5d-0f78-4204-8742-6ed2a0dc903f"
+}

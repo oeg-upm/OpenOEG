@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SPARQL_Streams.pdf: Página 4\nC-SPARQL Issues\nDefinition\nNo declaration of stored/streaming parts\nWindows\nOutput type: bag of triples annotated with \n                        ts, index\nPhysical window\nTriple does not contain all information about an answer\nRedefine to output number of answers?\nAggregates\nNormally used to condense information\nNot consistent with SPARQL 1.1 proposal\nSPARQL 1.1 more \"SQL-like\"\nC-SPARQL language\nRegister query + evaluation periodicity\nSee SPARQL 1.1 SERVICE additions\n",
+  "speaker": "SYSTEM",
+  "uuid": "7db99ac4-bf97-4a29-92f4-a3a36d9e0615"
+}

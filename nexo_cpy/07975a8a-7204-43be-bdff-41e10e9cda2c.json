@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 3.RDF%28S%29.pdf: Página 6\n• 6 \nTypes of URIs \n \n•  Thing-URIs, Hash URIs or URIRefs (Unique \nResource Identifiers References) \n• \nA URI and an optional Fragment Identifier separated from the URI by the \nhash symbol ‘#’ \n• \nhttp://www.ontology.org/people#Person \n• \npeople:Person \n•  Source URIs or Slash URIs can also be used, as in \nFOAF: \n• \nhttp://xmlns.com/foaf/0.1/Person \nCorrespondence between thing-URI and source-URI \nUser Agent \nWeb Server \nhttp://www.polleres.net/foaf.rdf#me \nhttp://www.polleres.net/foaf.rdf  \nHTTP \nGET \nRDF \n",
+  "speaker": "SYSTEM",
+  "uuid": "07975a8a-7204-43be-bdff-41e10e9cda2c"
+}

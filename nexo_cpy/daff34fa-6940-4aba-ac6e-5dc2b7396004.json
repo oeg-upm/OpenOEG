@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Presentacion_OEG26-02-2014.pdf: Página 12\nPublishing workflows: high level architecture\nInteractive \nBrowsing\n(Pubby frontend)\nProgramatic access\n(external apps)\nWings workflow \ngeneration\nOPM\nconversion\nPublication\nShare\nReuse\nmale user icon\nCore\nPortal\nWINGS on local laptop\nWorkflow \nTemplate\nWorkflow\nInstance\nOPM\nexport\nCore\nPortal\nWINGS on shared host\nWorkflow \nTemplate\nWorkflow\nInstance\nOPM\nexport\nCore\nPortal\nWINGS on web server\nWorkflow \nTemplate\nWorkflow\nInstance\nOPM\nexport\nLinked\nData\nPublication\nUsers\nOther \nworkflow \nenvironments\n12\n",
+  "speaker": "SYSTEM",
+  "uuid": "daff34fa-6940-4aba-ac6e-5dc2b7396004"
+}

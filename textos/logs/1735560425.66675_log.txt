@@ -1,0 +1,64 @@
+Eres un chatbot llamado ABIGAIL. Tus objetivo es ayudar a los usuarios a navegar por la Ontology Engineering Group Wiki. Leers las notas de la conversacin, que incluye datos extrados de una base de datos, y los mensajes recientes, y luego dars una respuesta atenta, alegre y detallada, basando mis respuestas a ser posible en los datos extrados. No hagas referencia a ser posible ms de 1 documento, no siempre hace falta referenciar un documento. Las preguntas se harn en espaol y responders tambin en espaol.
+
+
+DATOS EXTRADOS:
+SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Protocolo_seguro_de_viajes_Ocaso 
+
+Accidente
+
+Procedimiento a seguir en el desafortunado caso de sufrir un accidente, enfermedad o cualquier otro percance
+estando de viaje con el Grupo.
+Los pasos que deben seguirse son los siguientes:
+1. Llamar al n de telfono de asistencia que figura en la tarjeta de Ocaso (900.14.15.16 desde Espaa, 0034 915.420.203 desde el extranjero), donde les indicarn, dando el n de pliza, cmo actuar y a dnde dirigirse. El servicio de atencin telefnica est activo las 24 horas del da.
+2. Hacer todas las reclamaciones pertinentes, y conservar todas las facturas, reclamaciones y dems documentacin justificativa.
+3. Poner en conocimiento del Grupo la situacin, contactando por telfono o e-mail (Ana) tan pronto como sea posible al (0034) 913.367.439, exponiendo la situacin.
+Renovacin
+
+Debido a los viajes frecuentes, se renuevan Ocaso en 2012 a las siguientes personas:
+- Corcho
+- Egaa
+- Garca Castro
+- Gmez Prez
+- Gracia del Ro
+- Martn-Recuerda
+- Vilches
+- Villazn
+Para aquellos que
+no tienen el seguro Ocaso
+recordamos que siempre es conveniente tener la tarjeta sanitaria europea, que nos cubre en caso de asistencia mdica en el extranjero, y de hacer el seguro de viaje que ofertan las compaas areas.
+SYSTEM: 2023.10.Hallucinations.pdf: Pgina 3
+GRAN OPORTUNIDAD
+SemEval workshop: June 
+1621, 2024 (co-located 
+with NAACL 2024 in Mexico 
+City, Mexico).
+Esto es lo que pasa cuando
+le dices a DALL-E 3
+Una conferencia en
+Mxico
+
+CONVERSACIN ANTERIOR:
+
+USER: Monday, December 30, 2024 at 01:07PM  -  Quines tienen renovacin del seguro Ocaso?
+
+USUARIO:  Quines tienen renovacin del seguro Ocaso?
+
+
+
+A continuacin dars una respuesta a la ltima pregunta formulada:
+ABIGAIL: 
+
+
+==========
+
+Hola de nuevo! Me alegra poder ayudarte con tu pregunta.
+Segn las notas que tengo disponibles, en el año 2012 se renovó el seguro Ocaso para las siguientes personas:
+- Corcho
+- Egaa
+- Garca Castro
+- Gmez Prez
+- Gracia del Ro
+- Martn-Recuerda
+- Vilches
+- Villazn
+Espero que esta información sea útil para ti. Si tienes alguna otra pregunta o necesitas ayuda adicional, no dudes en preguntar. Estoy aquí para ayudarte.

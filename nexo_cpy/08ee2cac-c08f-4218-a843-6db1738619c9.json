@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_RDF%28S%29.pdf: Página 24\nAnother example\nevent1\nevent2\nlocal_event\nevent\nrdf:type\nrdf:type\n/\n/\nevent3\nevent4\nPersonal_event\nevent5\nrdf:type\nrdf:type\nrdf:type\ninvolves\ninvolves\n15/05/2006\n16/05/2006\n15/05/2006\n© O. Corcho, R.García-Castro, O. Muñoz-García\n49\nRDF and RDF Schema\nresearcher\nprofessor\nCaroleGoble\nOscarCorcho\nPinarAlper\nrdf:type\nrdf:type\nrdf:type\ninvolves\ninvolves\nevent\nthing\nsubClassOf\nlocal_event\nevent\nPersonal_event\nperson\nsubClassOf\nsubClassOf\nsubClassOf\ninvolves\n© O. Corcho, R.García-Castro, O. Muñoz-García\n50\nRDF and RDF Schema\nresearcher\nprofessor\nsubClassOf\nsubClassOf\n",
+  "speaker": "SYSTEM",
+  "uuid": "08ee2cac-c08f-4218-a843-6db1738619c9"
+}

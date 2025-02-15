@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologies.pdf: Página 31\n©Asunción Gómez-Pérez\n31\nCommon Modelling Errors\nP1. Creating polysemous elements\nP2. Creating synonyms as classes\nP3. Creating the relationship “is” instead of using \n“subclassOf”, “instanceOf” or “sameIndividual”\nP4. Creating unconnected ontology elements\nP5. Defining wrong inverse relationships\nP6. Including cycles in the hierarchy \nP7. Merging different concepts in the same class\nP8. Missing annotations\nP9. Missing basic information\nP10. Missing disjointness\nP11. Missing domain or range in properties\nP12. Missing equivalent properties\nP13. Missing inverse relationships\nP14. Misusing “allValuesFrom”\nP15. Misusing “not some” and “some not”\nP16. Misusing primitive and defined classes \nP17. Specializing too much a hierarchy\nP18. Specifying too much the domain or the range \nP19. Swapping intersection and union\nP20. Swapping Label and Comment\nP.21 Using a miscellaneous class\nP22. Using different naming criteria in the ontology\nP23. Using incorrectly ontology elements\nP24. Using recursive definition\n",
+  "speaker": "SYSTEM",
+  "uuid": "419bbc0b-b04a-4cf0-a7bc-b8141b57b4f1"
+}

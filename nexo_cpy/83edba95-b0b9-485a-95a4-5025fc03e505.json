@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 35\nAntisymmetric Properties\nIf a property is antisymmetric, and the property relates individual\na to individual b then individual b cannot be related to individual a\nvia the property.\nisChildOf is antisymmetric\n© O. Corcho, MC Suárez de Figueroa Baonza\n69\nOWL and SWRL\nReflexive Properties\nA property is said to be reflexive when the property must relate\nindividual a to itself.\nknows is reflexive\n© O. Corcho, MC Suárez de Figueroa Baonza\n70\nOWL and SWRL\n",
+  "speaker": "SYSTEM",
+  "uuid": "83edba95-b0b9-485a-95a4-5025fc03e505"
+}

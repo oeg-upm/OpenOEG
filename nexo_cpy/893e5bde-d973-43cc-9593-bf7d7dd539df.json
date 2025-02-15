@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 16\n© O. Corcho, R.García-Castro, O. Muñoz-García\n16\nRDF and RDF Schema\nDescription Logics. Basic elements\n•\nA subset of first order logic with good reasoning properties\n•\nAutomatic classification\nLiving Being\nInvertebrate\nVertebrate\nDog\nPlant\nCat\nAutomatic \nClassification\nSubclass of\nLiving Being\nVertebrate\nInvertebrate\nSubclass of\nPlant\nSubclass of\nSubclass of\nSubclass of\nFrame-based design\nDog\nCat\n",
+  "speaker": "SYSTEM",
+  "uuid": "893e5bde-d973-43cc-9593-bf7d7dd539df"
+}

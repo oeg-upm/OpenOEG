@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01.03_NonStandardOWLReasoning_ModularisationAndDebugging.pdf: Página 13\n13 \nRoot Unsatisfiable Classes \n•  How do we know which unsatisfiable classes to focus \non? \n•  Example: the TAMBIS ontology  \ncontains 144 unsatisfiable classes \n•  How do we know where to start? \n•  The satisfiability of one class may depend on the satisfiability \nof another class \n•  The tools show unsatisfiable class names in red \n25 \nRoot Unsatisfiable Classes \n•  A class whose satisfiability depends on another class \nis known as a derived unsatisfiable class \n•  An unsatisfiable class that is not a derived \nunsatisfiable class is a root unsatisfiable class \n•  Root unsatisfiable classes should be examined and \nfixed first \n26 \n",
+  "speaker": "SYSTEM",
+  "uuid": "66b23743-ab58-4e26-9980-1e4b7ff46010"
+}

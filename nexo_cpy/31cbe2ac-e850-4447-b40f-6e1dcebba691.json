@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: MGPGLD-v3.pdf: Página 47\nData Cleansing\n47\nGeneration\n• To find possible errors, identified by Hogan et al.\n• http-level issues, such as accessibility and derefencability, \ne.g., HTTP URIs return 40x/50x errors\n• reasoning issues such as namespace without vocabulary, \ne.g., rss:item term invented\n• malformed/incompatible datatypes, e.g., “true” as xsd:int\n• To fix the identified errors\n",
+  "speaker": "SYSTEM",
+  "uuid": "31cbe2ac-e850-4447-b40f-6e1dcebba691"
+}

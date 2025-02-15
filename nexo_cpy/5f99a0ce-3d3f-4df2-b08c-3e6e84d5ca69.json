@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 02_RDF%28S%29.pdf: Página 9\n9 \n© Raúl García Castro et al. \nMain value of a structured value \n•  Sometimes one of the values of a structured value is \nthe main one \n-  The weight of an item is 2.4 kilograms  \n-  The main value is 2.4, which is expressed with rdf:value \n•  Scarcely used \n17 \nproduct:Item1 \n      \nproduct:hasWeight \n“2.4”^^xsd:float \nrdf:value \nunits:Kilogram \nunits:hasWeightUnit \n© Raúl García Castro et al. \nRDF vocabulary summary \nClasses \nProperties \nIndividuals \nClassification \nrdf:Property \nrdf:type \nContainers \nrdf:Bag \nrdf:_1, rdf:_2, rdf:_3… \nrdf:Seq \nrdf:Alt \nCollections \nrdf:List \nrdf:first \nrdf:nil \nrdf:rest \nReification \nrdf:Statement \nrdf:subject \nrdf:predicate \nrdf:object \nValues \nrdf:XMLLiteral \nrdf:value \n18 \n",
+  "speaker": "SYSTEM",
+  "uuid": "5f99a0ce-3d3f-4df2-b08c-3e6e84d5ca69"
+}

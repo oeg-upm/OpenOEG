@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologies%26multilinguality%40wiki_24-01-08.pdf: Página 7\n©Guadalupe Aguado de Cea\n7\nFrom software localization to ontology localization:\nSimilarities\n• Internationalization:\n– Lexical content : characters and symbols handled by the computer \n(ASCII encoding, UNICODE, etc.) \n– Grammatical content: characters, syntactic structures and symbols \nused in certain ontology languages (RDF(S), OWL)\n– Representation paradigm layer: frames, semantic networks, DL,\n(Ontologies)\n• Localization:\n– Lexical-terminological content: terms or words used to name \nontology elements.\n– Conceptual content: conceptualization decisions: granularity, \nexpresiveness, perspective, etc., mainly in domain ontologies.\n– Pragmatic content: final result of the model (GUI, etc.)\n",
+  "speaker": "SYSTEM",
+  "uuid": "df5131c2-e1d0-4cc8-9777-b65894fb51a9"
+}

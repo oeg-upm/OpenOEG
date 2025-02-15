@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Reglas.pdf: Página 3\n3\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nIndice\n1.\nArquitectura de los Sistemas de Producción\n2. Base de Hechos\n3. Base de Reglas\n4. Estrategia de Control\n4.1. Ciclo de Funcionamiento\n4.2.  Encadenamientos\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nArquitectura de los Sistemas de Producción\nBases de Hechos\nMemoria de Trabajo\nRepresenta conocimientos\nsobre el problema\nEstrategia de Control\nMotor de Inferencias\nMáquina deductiva\nRazona con el conocimiento\ndel problema y sobre su solución\nBases de Reglas\nProducciones\nRepresenta conocimientos\nsobre la solución del problema\nSP: 〈BH, BR, EC〉\n",
+  "speaker": "SYSTEM",
+  "uuid": "c0a386e3-d098-449c-834d-12307901301b"
+}

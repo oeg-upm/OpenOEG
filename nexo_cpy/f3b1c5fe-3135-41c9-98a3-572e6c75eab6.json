@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Sparqlex.pdf: Página 20\nOther Queries\n• Describe the resource whose label is Madrid\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nDESCRIBE ?x WHERE { ?x rdfs:label \"Madrid\". }\n",
+  "speaker": "SYSTEM",
+  "uuid": "f3b1c5fe-3135-41c9-98a3-572e6c75eab6"
+}

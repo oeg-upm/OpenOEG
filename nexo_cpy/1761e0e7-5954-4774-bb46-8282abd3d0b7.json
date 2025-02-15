@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03_RDF%28S%29.pdf: Página 30\nSample resulting ontology\nSpatialThing\nNumeroHabitantes\nLugarTuristico\nEstablecimiento\nLugarDeInteres\nLugar\nLocalidad\nVilla\nPueblo\nCiudad\nDireccionPostal\nrdfs:Literal\nSituadoEn\nrdfs:Literal\nCalle\nProvincia\nDireccion\nNumero\n© O. Corcho, R.García-Castro, O. Muñoz-García\n61\nRDF and RDF Schema\nLugarTuristico\nPalacio\nIglesia\nErmita\nCatedral\nEstablecimiento\nHotel\nHostal\nAlbergue\n",
+  "speaker": "SYSTEM",
+  "uuid": "1761e0e7-5954-4774-bb46-8282abd3d0b7"
+}

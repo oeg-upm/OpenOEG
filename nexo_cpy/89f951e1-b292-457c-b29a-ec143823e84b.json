@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ODPs-v6.pdf: Página 21\n24\n24\nExample 3\nWe are going to model the following problem within the Anatomy \nOntology: \n\nA person can be a patient at a certain point in time and visitor at \nanother point in time \n\nA person can play different roles in the Hospital Personnel\nThe Agent Role Content Pattern (CP-AR-01) has been reused to model the \ndifferent roles that a person can have in a hospital setting.\n",
+  "speaker": "SYSTEM",
+  "uuid": "89f951e1-b292-457c-b29a-ec143823e84b"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SparqlDQPGrupo.pdf: Página 39\nConclusions\n• Created a OGSA-DAI resource for accessing RDF \ndata\n• Created a Sparql query processor\n• Which distributes and optimises queries\n• Used equivalence with SQL operators\n• A complete set of test must be performed\n• Found problems using blank nodes\n• For optimising Sparql queries is mandatory to \nunderstand the semantics of Sparql\n• Organisations: Two different ways of working\n• EPCC: production focused\n• NeSC: research/academic focused\n",
+  "speaker": "SYSTEM",
+  "uuid": "25cdec9b-81a7-4eaa-9517-6569936b11b5"
+}

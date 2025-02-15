@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 01.03_NonStandardOWLReasoning_ModularisationAndDebugging.pdf: Página 5\n5 \nContents \n•  Modularisation \n•  Scenarios for modularisation \n•  Modularisation for import/reuse \n•  Scenario and a working cycle \n•  Properties of the modularisation algorithms \n•  Module coverage \n•  Safety \n•  Modularisation in OWL with Protégé \n•  Debugging \n•  Root and derived unsatisfiable classes \n•  Laconic and precise justifications \n•  Debugging in OWL with Protégé \n9 \nScenario and main factors to be considered \n•  Import/reuse a part of external knowledge bases \n•  How much of Animals and Buildings do we need? \n•  Coverage: Import everything relevant for the chosen terms. \n•  Economy: Import only what’s relevant for them. \n10 \n",
+  "speaker": "SYSTEM",
+  "uuid": "ddd430f2-eed1-453b-b649-ebe2e7c0e345"
+}

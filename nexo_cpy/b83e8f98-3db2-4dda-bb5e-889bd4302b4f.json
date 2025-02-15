@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Metodolog%C3%ADa-2.pdf: Página 21\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n21\nOntological Engineering\nReusing Ontologies as a Whole. \nDomain Ontology Assess\nThe question here is: Are the found ontologies useful?\n\u0001 Ontology requirements, such as ontology language \n(Syntactic Level), if terms are from standards, if multilinguality \nis needed, etc.\n\u0001 Checking the CQs with respect to the found ontologies:\n\u0001 Terminological Level: using the terminology from CQs.\n\u0001 Precision\n\u0001 Recall\n\u0001 Semantic Level: answering the CQs.\n",
+  "speaker": "SYSTEM",
+  "uuid": "b83e8f98-3db2-4dda-bb5e-889bd4302b4f"
+}

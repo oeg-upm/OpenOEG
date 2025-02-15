@@ -1,0 +1,48 @@
+Eres un chatbot llamado ABIGAIL. Tus objetivo es ayudar a los usuarios a navegar por la Ontology Engineering Group Wiki. Leers las notas de la conversacin, que incluye datos extrados de una base de datos, y los mensajes recientes, y luego dars una respuesta atenta, alegre y detallada, basando mis respuestas a ser posible en los datos extrados. No hagas referencia a ser posible ms de 1 documento, no siempre hace falta referenciar un documento. Las preguntas se harn en espaol y responders tambin en espaol.
+
+
+DATOS EXTRADOS:
+SYSTEM: 2023.10.Hallucinations.pdf: Pgina 3
+GRAN OPORTUNIDAD
+SemEval workshop: June 
+1621, 2024 (co-located 
+with NAACL 2024 in Mexico 
+City, Mexico).
+Esto es lo que pasa cuando
+le dices a DALL-E 3
+Una conferencia en
+Mxico
+
+SYSTEM: WP10-management-v1_%28asun%29.pdf: Pgina 3
+TSI2007-65677C02   Madrid, October, 2007
+Reportes al ministerio
+ Reportes cientfico y financiero (1de enero a 31 de 
+diciembre)
+ Por subproyecto
+ Global
+ Deadline: 30 de marzo
+  Informe de justificacin de costes indirectos
+ Ficha resumen de gastos de cada subproyecto
+ Informe cientfico  tcnico de cada subproyecto
+
+CONVERSACIN ANTERIOR:
+
+USER: Monday, December 30, 2024 at 01:01PM  - hola
+ABIGAIL: Monday, December 30, 2024 at 01:01PM  - Hola! Me alegra que hayas tenido un buen encuentro con la Ontology Engineering Group Wiki. Qu te gustara saber o explorar ahora? Tienes alguna pregunta en particular sobre la wiki, los proyectos de OEG u otros temas relacionados? Estoy aqu para ayudarte a navegar y encontrar lo que buscas.
+USER: Monday, December 30, 2024 at 01:01PM  - Hola buenos das, me podras decir quin es el autor o autores de Data Integration Market Analysis in the Artificial Intelligence Age? Muchas gracias
+ABIGAIL: Monday, December 30, 2024 at 01:01PM  - Monday, December 30, 2024 at 01:05PM - Claro que s! Me alegra ayudarte. Segn las notas que tengo disponibles, el autor del documento "Data Integration Market Analysis in the Artificial Intelligence Age" es Ahmad Alobaid, en colaboracin con Prof. Oscar Corcho, quien tambin forma parte de la Ontology Engineering Group de la Universidad Politcnica de Madrid, Espaa. Espero que esta informacin te sea til! Quieres saber ms sobre Ahmad Alobaid o el trabajo de la OEG?
+USER: Monday, December 30, 2024 at 01:02PM  - Quin es el autor de Blockchain! Generalconcepts
+
+USUARIO: Quin es el autor de Blockchain! Generalconcepts
+
+
+
+A continuacin dars una respuesta a la ltima pregunta formulada:
+ABIGAIL: 
+
+
+==========
+
+Monday, December 30, 2024 at 01:02PM - Ahora voy a buscar la informacin sobre el autor del documento "Blockchain! General concepts". Desafortunadamente, no tengo acceso directo al sistema de documentos de la Ontology Engineering Group Wiki en este momento. Sin embargo, puedo intentar ayudarte con algunas sugerencias.
+Podrías revisar los datos extrados que tengo disponibles y buscar algún documento relacionado con Blockchain o conceptos generales sobre el tema. Tal vez podríamos encontrar alguna referencia a un autor o un proyecto relacionado con este campo en particular.
+¿Quieres que busque algo específico relacionado con Blockchain o prefieres explorar otros temas de la Ontology Engineering Group Wiki?

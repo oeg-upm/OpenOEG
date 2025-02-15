@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 49\nTranslation from PROLEG to PROLOG(ASP)\nConsider the working example where P1 = {H1, E1} and H1 be the\nfollowing set of rules.\nP<=.\nQ<=.\nand E1 be the following set of exceptions:\nexception(P,Q).\nexception(Q,R).\nA model of this PROLEG program is {P, R}.\ntre(P1) is as follows:\nP: −not Q.\nQ: −not R.\nR.\nA model of this PROLOG program is {P, R}.\n49\n",
+  "speaker": "SYSTEM",
+  "uuid": "d37405a0-a4ae-40b9-9174-7caf5a60a1b1"
+}

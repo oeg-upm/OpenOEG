@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: OWL.pdf: Página 36\nIrreflexive Properties\nIf a property is irreflexive, it can be described as a property that\nrelates an individual a to individual b, where individual a and\nindividual b are not the same.\nisMotherOf is irreflexive\n© O. Corcho, MC Suárez de Figueroa Baonza\n71\nOWL and SWRL\nExercise\nModelling that a pizza has only one pizza base; and that if a pizza topping has\ningredients then the pizza itself contains also such ingredients\n© O. Corcho, MC Suárez de Figueroa Baonza\n72\nOWL and SWRL\ningredients, then the pizza itself contains also such ingredients.\n",
+  "speaker": "SYSTEM",
+  "uuid": "b7373218-56a7-47b9-a9e9-0cafb394c964"
+}

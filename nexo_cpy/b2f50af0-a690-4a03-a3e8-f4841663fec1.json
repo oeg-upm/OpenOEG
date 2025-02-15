@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Ontologias-Multilingualidad.pdf: Página 20\n©\n20\nInterfaz: Visualización del contenido\nde forma multilingüe\n• BC es multilingüe\n– La aplicación consulta a la BC\n– La interfaz muestra el contenido en el idioma seleccionado\n• BC es monolingüe\n– La aplicación consulta a la BC\n– Se utiliza un  sistema de traducción (recurso multilingüe)\n– La interfaz muestra la traducción\n• Interfaz similar en ambos casos a visualización de \nmensajes\n",
+  "speaker": "SYSTEM",
+  "uuid": "b2f50af0-a690-4a03-a3e8-f4841663fec1"
+}

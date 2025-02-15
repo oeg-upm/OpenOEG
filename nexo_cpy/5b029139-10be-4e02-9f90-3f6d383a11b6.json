@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: PlanetData_SIMON_OEGPresentation_oct16.pdf: Página 12\nConclusions and future work\nConclusions\n⚫\nWe have addressed challenges C1 (scalability) and \nC2 (transmission)\n⚫\nCatalogue of Storm-based operators to parallelize query \nprocessing over RDF streams.\n⚫\nNew format for RDF stream compression called ERI.\n⚫\nChallenge C3 (integration) involves storage of \nhistorical data and the deployment of batch and \nserving layers OR the migration to a more general \nsystem, e.g. Apache Spark. \nFuture work\n⚫\nFinish the implementation of RDF query operators\nTest the parallelization of a set of common queries\n",
+  "speaker": "SYSTEM",
+  "uuid": "5b029139-10be-4e02-9f90-3f6d383a11b6"
+}

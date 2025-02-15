@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 3._TI-Fundamentos-Ontolog%C3%ADas.pdf: Página 15\n©Asunción Gómez-Pérez\n09/01/2025 12:19 - 16\nComponents of an Ontology\nConcepts  are organized in\nRelations\nFunctions\nAxioms\nAxioms\nInstances\nR: C1 x C2 x ... x Cn-1 x Cn\nF: C1 x C2 x ... x Cn-1 -->  Cn\nElements\nSentences which are always true\nSubclass-of: Concept 1 x Concept2\nConnected to: Component1 x Component2\nMother-of: Person -->  Women\nPrice of a used car: Model x Year x Kilometers --> Price\nGruber, T. A translation Approach to portable \nontology specifications. Knowledge Acquisition. \nVol. 5. 1993. 199-220.\ntaxonomies\ntaxonomies\n",
+  "speaker": "SYSTEM",
+  "uuid": "56cca216-0e4b-4663-94d4-ad55183b144c"
+}

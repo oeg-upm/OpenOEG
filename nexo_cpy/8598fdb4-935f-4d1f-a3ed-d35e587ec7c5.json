@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 03.Vocabularios-LD_v5.pdf: Página 34\n35 \nvcard:Name\nvcard:url\nvcard:email\n- vcard:given-name\n- vcard:family-name\nowl:Thing\nvcard:n\nvcard:VCard\noeg:Asun\nasun@fi.upm.es\nvcard:email\nhttp://oeg-upm.net/\nvcard:url\nvcard:given-name\nvcard:family-name\n“Asunción”\n“Gómez”\noeg:AsunName\nvcard:n\ninstanceOf\ninstanceOf\ninstanceOf\ninstanceOf\nFOAF \nvCard \noeg : Asun \nfoaf : Person \nfoaf : Document \n- foaf : firstName \n- foaf : surname \nowl : Thing \nfoaf : mbox \nfoaf : Agent \nfoaf : Group \nfoaf : Organization \n- foaf : familyname \nfoaf : homepage \nasun @ fi . upm . es \nfoaf : mbox \nhttp :// oeg - upm . net / \nfoaf : homepage \nfoaf : firstName \nfoaf : surname \n“Asunción” \n“Gómez-Pérez” \ninstanceOf \ninstanceOf \ninstanceOf \n",
+  "speaker": "SYSTEM",
+  "uuid": "8598fdb4-935f-4d1f-a3ed-d35e587ec7c5"
+}

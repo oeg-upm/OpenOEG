@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: GeneralOntologies-v3_%28mariano%29.pdf: Página 66\nBased on Mariano Fernández-López, Asunción Gómez-Pérez and Mª Carmen Suárez Figuereoa’s work\nMULTI-FCA ANALYSIS. REUSE COST\n\u0001 \nReuse Cost. It refers to the estimate of the cost (economic and temporal) needed for the reuse of the \ncandidate ontology. In this case, the following criteria should be analyzed: \n\u0002 \nReuse Economic Cost. It refers to the estimate of the economic cost needed for accessing and \nusing the candidate ontology. If the candidate ontology has any type of license, then the cost of \nacquisition and/or exploitation should be taken into account. \n\u0002 \nReuse Time Required. It refers to the estimate of the time required for accessing the candidate \nontology. If the candidate ontology is accessible in slow servers or in servers with bad \nconnectivity, the time spent in accessing should be considered. \nPossible values: low (the worst result) = 0,\nunknown = [1],\nmedium = [1],\nor high (the best result) = [1, 2].\n",
+  "speaker": "SYSTEM",
+  "uuid": "a369d468-3e76-42ec-8650-ca2a1ff84a59"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ISWC13jmora.pdf: Página 44\nIntroduction\nState of the art\nAnalysis\nResults\nConclusions\nReferences\nCONCLUSIONS I\nA benchmark should consider how the input represents reality wrt:\nqueries\nsyntax (SELECT, COUNT, MAX, ...)\nexpressiveness (CQ, UCQ, comparisons, arithmetic operations, ...)\nshape (star shaped, linear, cyclic, ...)\nsize (number of atoms, number of clauses, triples...)\nontologies\nexpressiveness (from DL-LiteR to...)\nshape (ﬂat, hierarchical, cyclic ...)\nsize (number of concepts, properties, individuals, ...)\nAdditional information\nmappings\nABox dependencies / EBox\ncaching for several queries\njmora@fi.upm.es\nEvaluating OBDA query rewriting\nBoadilla - October 10, 2013\n14 / 17\n",
+  "speaker": "SYSTEM",
+  "uuid": "35c72e07-5bb0-4a15-8d55-0ee5c8e21f72"
+}

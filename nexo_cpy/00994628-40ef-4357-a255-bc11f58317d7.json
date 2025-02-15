@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: SparqlDQPGrupo.pdf: Página 21\nOptimisers\n• Configuration file in which the existing optimisers are \ndefined\n• Executed in a specific order\n• Currently running\n• Query normaliser\n• Partitioning Optimiser\n• RDF Table Scan implosion optimiser\n• RDF Table Scan implosion optimiser\n• Merges the initial RDF scan, select and project\n",
+  "speaker": "SYSTEM",
+  "uuid": "00994628-40ef-4357-a255-bc11f58317d7"
+}

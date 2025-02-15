@@ -1,0 +1,9 @@
+documentosnexo/
+documentosnexo_cpy/
+nexo/
+nexo_cpy/
+textos/logs/*.txt
+config.yaml
+config2.yaml
+src/__pycache__/
+ollama==0.5.1

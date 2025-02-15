@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA.pdf: Página 64\n64\nALGORÍTMO A*\nBASE DE HECHOS\nLa ciudad A\nBASE DE REGLAS\nR1. ~($B$) →($B)\nR2. ~($C$) →($C)\nR3. ~($D$) →($D)\nR4. ~($E$) →($E)\nR5. ($B$), ($C$), ($D$), ($E$), ~(A$A) →($A)\nR6. (A$A) →FIN\n",
+  "speaker": "SYSTEM",
+  "uuid": "bb0eeb0b-37f8-4c06-b28b-1458b80543e1"
+}

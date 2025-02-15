@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 58\nATHENS 2010 \n© Raúl García Castro et al. \nInteresting results (II). Instance classification \nA pet owner is a person who has animal pets \nOld ladies must have some animal as pets and all their pets are cats. \nHas pet has domain person and range animal   \nMinnie is a female, elderly, who has a pet called Tom. \nWe obtain:  \n     Minnie is a person \n     Hence, Minnie is an old lady \n     Hence, Tom is a cat \n58 \n",
+  "speaker": "SYSTEM",
+  "uuid": "e8f54407-08f2-4d92-a981-a246e7ac6a5b"
+}

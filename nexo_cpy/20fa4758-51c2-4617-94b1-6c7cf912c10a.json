@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 05_OWL.pdf: Página 91\n© O. Corcho, MC Suárez de Figueroa Baonza\n71\nOWL 2\nExistential Restrictions (III)\nAdding two restrictions to say that a MargheritaPizza has the\ntoppings MozzarellaTopping and TomatoTopping.\nIf something is a member of the class MargheritaPizza it is necessary for it to be a\nmember of: the class NamedPizza, the anonymous class of things that are linked to at\nleast one member of the class MozzarellaTopping via the property hasTopping, and the\nanonymous class of things that are linked to at least one member of the class\nTomatoTopping via the property hasTopping.\nProtege 3.4\n",
+  "speaker": "SYSTEM",
+  "uuid": "20fa4758-51c2-4617-94b1-6c7cf912c10a"
+}

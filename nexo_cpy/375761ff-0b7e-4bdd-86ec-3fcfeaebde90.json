@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ATHENS_2010_-_Ontology_Languages.pdf: Página 23\nATHENS 2010 \n© Raúl García Castro et al. \nRDFS: RDF Schema \n• \nW3C Recommendation \n• \nRDF Schema extends RDF to enable talking about classes of \nresources, and the properties to be used with them \n-  Class definition: rdfs:Class, rdfs:subClassOf \n-  Property definition: rdfs:subPropertyOf, rdfs:range, rdfs:domain \n-  Other primitives: rdfs:comment, rdfs:label, rdfs:seeAlso, \nrdfs:isDefinedBy \n• \nRDFS vocabulary adds constraints on models, e.g.: \n-  ∀x,y,z type(x,y) and subClassOf(y,z) → type(x,z) \nex:Person \nex:Oscar \nrdfs:subClassOf \nex:Animal \nrdf:type \n23 \n",
+  "speaker": "SYSTEM",
+  "uuid": "375761ff-0b7e-4bdd-86ec-3fcfeaebde90"
+}

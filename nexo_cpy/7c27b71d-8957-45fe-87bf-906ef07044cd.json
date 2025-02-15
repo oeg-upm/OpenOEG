@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: RDF%28S%29-SPARQL-Pr%C3%A1ctica.pdf: Página 24\n•24\n@prefix  foaf:  <http://xmlns.com/foaf/0.1/> .\n_:a    foaf:name\n\"Alice\" .\n_:a    foaf:mbox\n<mailto:alice@example.org> .\nSPARQL query forms: CONSTRUCT\nPREFIX foaf:    <http://xmlns.com/foaf/0.1/>\nPREFIX vcard:   <http://www.w3.org/2001/vcard-rdf/3.0#>\nCONSTRUCT\n{ <http://example.org/person#Alice> vcard:FN ?name }\nWHERE       { ?x foaf:name ?name }\n@prefix vcard: <http://www.w3.org/2001/vcard-rdf/3.0#> .\n<http://example.org/person#Alice> vcard:FN \"Alice\" .\nQuery result:\n47\nSPARQL query forms: ASK\n@prefix foaf:       <http://xmlns.com/foaf/0.1/> .\n_:a  foaf:name       \"Alice\" .\n_:a  foaf:homepage   <http://work.example.org/alice/> .\n:b\nfoaf:name\n\"Bob\"\n_:b  foaf:name       Bob  .\n_:b  foaf:mbox       <mailto:bob@work.example> .\nPREFIX foaf:    <http://xmlns.com/foaf/0.1/>\nASK\n{ ?x foaf:name\n\"Alice\" }\nyes\nQuery result:\n48\n",
+  "speaker": "SYSTEM",
+  "uuid": "7c27b71d-8957-45fe-87bf-906ef07044cd"
+}

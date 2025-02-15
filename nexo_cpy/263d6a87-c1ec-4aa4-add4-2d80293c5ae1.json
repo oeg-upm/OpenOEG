@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: 2.RDF%28S%29.pdf: Página 36\n• 36 \nIndex \n•  An introduction to knowledge representation \nformalisms  \n•  Resource Description Framework (RDF) \n•  RDF primitives \n•  Reasoning with RDF \n•  RDF Schema \n•  RDF Schema primitives \n•  Reasoning with RDFS \n•  RDF(S) Management APIs \n71 \nSample RDF APIs \n• \nRDF libraries for different languages:  \n• \nJava, Python, C, C++, C#, .Net, Javascript, Tcl/Tk, PHP, Lisp, Obj-C, \nProlog, Perl, Ruby, Haskell \n• \nList in http://esw.w3.org/topic/SemanticWebTools \n• \nUsually related to a RDF repository \n• \nMultilanguage: \n• \nRedland RDF Application Framework (C, Perl, PHP, Python and Ruby):  \n http://www.redland.opensource.ac.uk/ \n• \nJava: \n• \nJena: http://jena.sourceforge.net/ \n• \nSesame: http://www.openrdf.org/ \n• \nPHP: \n• \nRAP - RDF API for PHP: http://www4.wiwiss.fu-berlin.de/bizer/rdfapi/ \n• \nPython: \n• \nRDFLib: http://rdflib.net/ \n• \nPyrple: http://infomesh.net/pyrple/ \n72 \n",
+  "speaker": "SYSTEM",
+  "uuid": "263d6a87-c1ec-4aa4-add4-2d80293c5ae1"
+}

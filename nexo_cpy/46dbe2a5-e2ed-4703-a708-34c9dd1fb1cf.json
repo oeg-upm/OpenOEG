@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: ReReNORAthens.v1-boris.pdf: Página 39\nClassification Scheme Data Models (I)\nPatterns for Re-engineering Classification Schemes\n•\nPath Enumeration Data Model is defined as \na model that stores for each node the path (as \na string) from the root to the node. \n•\nAdjacency  List is a recursive structure for \nhierarchy representations that comprises a list \nof nodes with a linking column to their parent \nnodes\nnodes.\nWater area\n1\n2\nWater area\n20000\nEnvironmental \narea\nJurisdiction \narea\nFishing\nStatistical area\n3\n1\n2\nWater area\n20000\nEnvironmental \narea\nJurisdiction \narea\nFishing\nStatistical area\n20000.21000\n20000.24020\n20000.22000\nInland/marine\n20000.21000.21001\n3\n21000\n24020\n22000\nInland/marine\n21001\nOcean\n21002\nNorth/South/\nEquatorial\n21003\nFAO statistical \narea\n22001\nAreal \ngrid system\n22002\nFAO statistical area\n20000.22000.22001\nAreal grid system\n20000.22000.22002\nOcean\n20000.21000.21002\nNorth/South/\nEquatorial\n20000.21000.21003\n39\n21003\n22001\n22002\n20000.21000.21003\n",
+  "speaker": "SYSTEM",
+  "uuid": "46dbe2a5-e2ed-4703-a708-34c9dd1fb1cf"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Control_de_versiones_con_Subversion_v1.2.pdf: Página 10\n4.3.\nCiclo de trabajo t´ıpico con Subversion\n1. Actualizar la copia local con el contenido del repositorio.\nsvn update\n2. Realizar cambios sobre los ﬁcheros de la copia local.\nsvn add\nsvn delete\nsvn copy\nsvn move\n3. Examinar los cambios realizados y comparar la copia local con el reposi-\ntorio.\nsvn status\nsvn diﬀ\nsvn revert\n4. En caso de que el repositorio haya cambiado, mezclar los cambios del\nmismo en la copia local.\nsvn merge\nsvn resolved\n5. Actualizar los cambios realizados localmente en el repositorio.\nsvn commit\n4.4.\nDescripci´on b´asica de los comandos del ci-\nclo de trabajo t´ıpico\nEsto es una descripci´on MUY b´asica de los comandos anteriores. Normal-\nmente se requerir´a usar alguna que otra opci´on de los comandos. La referen-\ncia completa de los comandos con todas las opciones se puede encontrar en:\nhttp://svnbook.red-bean.com/svnbook/book.html#svn-ch-9.\n4.4.1.\nsvn update\nActualiza la copia local.\nsvn update [<PATH>]\n9\n",
+  "speaker": "SYSTEM",
+  "uuid": "74a91359-5d55-455e-aae6-cd47b5fbc8d0"
+}

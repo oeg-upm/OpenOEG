@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/SpanishTerminology \n\nA collection of useful spanish technical terms in our work area.\nEnglish\nSpanish\nDefinition\nData Mining\nMinería de datos\nGrid\n?\nSchema\nEsquema\nMapping\n?\nDereference\n?\nSPARQL Endpoint\n?\nCustomize\nAdaptar a los requisitos de ...\nDatabase View\nVista ?\nSubsumption\n?\nSatisfiability\nSatisfabilidad ?\nConjunctive Query (CQ)\n?\n???\nUnion of Conjunctive Query (UCQ)\n?\n???\nQuery Rewriting\n?\nconverting CQ into UCQ using Ontology ??\nQuery Transformation\n?\nconverting CQ into SQL using mapping ??\nQuery Answering\n?\nQuery Rewriting + Query Transformation ???\nQuery Planing\n?\n???",
+  "speaker": "SYSTEM",
+  "uuid": "0f87ac1c-07a3-4968-8b65-ee4d3c5bb32c"
+}

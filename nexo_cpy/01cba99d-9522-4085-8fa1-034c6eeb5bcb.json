@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Control_de_versiones_con_Subversion_v1.2.pdf: Página 7\n3.3.\nCambiando la copia de trabajo local\nEl comando ”svn switch”permite cambiar la copia de trabajo local de una\nrama a otra.\nEj. Si estamos trabajando en el c´odigo actual del proyecto y queremos cam-\nbiar a la rama ”mi-rama-prueba”:\nsvn info | grep URL\nURL: http://svn.example.com/repos/prueba/trunk\nsvn switch http://svn.example.com/repos/prueba/branches/mi-rama-prueba\nsvn info | grep URL\nURL: http://svn.example.com/repos/prueba/branches/mi-rama-prueba\n6\n",
+  "speaker": "SYSTEM",
+  "uuid": "01cba99d-9522-4085-8fa1-034c6eeb5bcb"
+}

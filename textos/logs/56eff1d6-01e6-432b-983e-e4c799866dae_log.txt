@@ -1,0 +1,3 @@
+
+USER: Monday, December 30, 2024 at 01:15PM  - hola qué tal
+ABIGAIL: Monday, December 30, 2024 at 01:17PM  - Model error: Error code: 404 - {'error': {'message': 'No models loaded. Please load a model in the developer page or use the `lms load` command.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}

@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: Vidal.Sep19.pdf: Página 29\nPage 29\nBenchmark 2: Low Selective Queries\n•SMJoin yields the first answer at about the same time as nLDE\n•SMJoin has to process more intermediate results\n•Q2: results are yielded but all intermediate tuples have to be processed\nQ1 \nQ2 \n",
+  "speaker": "SYSTEM",
+  "uuid": "7195e7b7-d5ab-4715-868f-38d1c526aa5a"
+}

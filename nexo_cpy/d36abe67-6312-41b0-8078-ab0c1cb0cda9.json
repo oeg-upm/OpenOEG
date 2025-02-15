@@ -1,0 +1,5 @@
+{
+  "message": "SYSTEM: B%C3%9ASQUEDA_grado-2013.pdf: Página 96\nCaso \nde Γ  \nCondiciones satisfechas \npor el estado (n,s,h)  \nAcción  de Γ  \n \n \n3 \n \n \nSi s = ACTIVO y n es \nun nodo terminal  \nIntroducir n delante de todos \nlos estados ESTUDIADOS de \nABIERTA con menor h \n(n, ESTUDIADO, min{h,f(n)}). \nSi existen empates se \nordenan de izquierda a \nderecha como aparecen en el \nárbol  \n \n4 \n \nSi s = ESTUDIADO, n \n= MAX y n tiene \nhermanos sin \nestudiar  \nAñadir al principio de \nABIERTA el siguiente \nhermano de n (ni\n+1,ACTIVADO,h) con  \nh(ni) = h(ni+1) y BORRAR n \n",
+  "speaker": "SYSTEM",
+  "uuid": "d36abe67-6312-41b0-8078-ab0c1cb0cda9"
+}

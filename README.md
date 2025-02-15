@@ -29,3 +29,25 @@ Para ejecutar el módulo de análisis ejecutar el script omnianalisis.py desde e
 
 Para ejecutar el módulo de chat ejecutar el script chat.py desde el mismo directorio. Desde la terminal se le dará el prompt al usuario donde podrá escribir su pregunta, para enviarla simplemente pulsará enter. Para salir de este escribir como pregunta únicamente una q y pulsar enter.
 
+El fichero yaml llamado config
+
+config:
+  credentials:
+    oeg:
+      password: contraseña de la OEG
+      username: usuario de la OEG
+    pinecone:
+      key: key de pinecone
+      indexname: nombre del índice de Pinecone. Tener en cuenta que no todos los nombres sirven, no se pueden usar mayúsuculas ni caracteres especiales que no sean guión. 
+  options:
+    new: Escribir únicamente True o False, dependiendo de si se quiere usar la versión en español (True) o no (False).
+  paths:
+    driver: ruta al driver (por defecto geckodriver está en bin)
+  embedder:
+    old: nombre del embedder de la versión en inglés
+    new: nombre del embedder de la versión en español
+  model:
+    modelname: nombre del modelo a usar
+    host: dirección de host del modelo a usar (http://localhost:1234/v1 en la versión local)
+    api_key: key del modelo si es que tiene (lm-studio por defecto en la versión local)
+

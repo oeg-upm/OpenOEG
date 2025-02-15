@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/ODESeW_Buenas_Practicas \n\nReducir el uso de iteradores:\nSi se itera muchas veces sobre un mismo conjunto, es conveniente realizar todos los calculos en un solo <c:forEach>.\nIncluir en sesion variables que se utilizan repetidamente en varias peticiones.\nUtilizar las relaciones inversas en vez de utilizar filtros a una instancias destino concreto.",
-  "speaker": "SYSTEM",
-  "uuid": "5612f80d-3f6d-4c35-b43d-04d9e613b90a"
-}

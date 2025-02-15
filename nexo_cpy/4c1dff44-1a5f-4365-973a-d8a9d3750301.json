@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISWC13jmora.pdf: Página 19\nIntroduction\nState of the art\nAnalysis\nResults\nConclusions\nReferences\nDIMENSIONS\nExpressiveness in tests: traditionally DL-LiteR\nMost expressive logic in the intersection of all systems\nSystems that handle more expressive logics cannot show their full potential\nExpressiveness lost in translation to Datalog\nHow expressive are the ontologies for OBDA?\nConsequences of not covered expressiveness on precision and completeness\nOutput complexity: apples, oranges and pears\nHow to compare UCQs and Datalog programs?\nCharacteristics of the system that is going to execute them\nInput complexity: treat with care\nWhat kind of queries can be processed?\nWhat kind of queries do we want to process?\nAdditional inputs: to each one its own\nEBox, cache of previous queries, etc.\nComparison among systems and comparison with RealityTM\njmora@fi.upm.es\nEvaluating OBDA query rewriting\nBoadilla - October 10, 2013\n10 / 17\n",
-  "speaker": "SYSTEM",
-  "uuid": "4c1dff44-1a5f-4365-973a-d8a9d3750301"
-}

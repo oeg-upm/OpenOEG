@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Metodolog%C3%ADa-2.pdf: Página 16\n© A. Gómez Pérez, M.C. Suárez-Figueroa, B. Villazón\n16\nOntological Engineering\nReusing Common Ontologies. \nOntology Selection\n•\nChecking which temporal properties \nare needed for answering the \nCompetency questions\na.\nWhen the job seeker completed \nhis/her first degree?\nb.\nIs the job seeker older than 30 \nyears?\nc.\nHow much time did the job seeker \nspend completing his/her first \ndegree? \nd.\nHow long is the duration of the \ncontract?\ne.\nWhich job offers were posted in last \n24 hours?\nf.\nWhich job offers were posted in last \n7 days?\nDifferent temporal \ngranularities\nConcatenation of \nintervals\nExplicit modeling of \nproper intervals\nDistinction between \nopen and closed \nintervals\nConvex and non \nconvex intervals\nRelations between \ntime intervals\nAbsolute and Relative \nTime\nTime Interval\nTime Points\nb, c\na,d,f,g\na\na,d,f,g\na,d,f,g\nh\ni\nStep 5. Select a common ontology:\n",
-  "speaker": "SYSTEM",
-  "uuid": "59432fe5-b002-4f26-9e7e-8b283ef80b07"
-}

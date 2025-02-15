@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: NicolasMayo2018.pdf: Página 55\nTwo implementations\nRegular\n▶Rules are represented in SHACL\n▶Behaviour is code-based\n▶Reasoning is based on a regular SPARQL engine\nSHACL\n▶Rules and conditions are represented in SHACL\n▶Coded behaviour is generic\n▶Reasoning is based on a SHACL engine\n",
-  "speaker": "SYSTEM",
-  "uuid": "6185a505-46a3-4df5-8e77-bc316c82bf5a"
-}

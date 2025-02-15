@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Re-engineer_NOR.pdf: Página 34\nInput: Non-Ontological Resource\n•\nA non-ontological resource holds a term-based thesaurus which \nfollows the record-based model.\n•\nA thesaurus represents the knowledge of a domain with a \ncollection of terms and a limited set of relations between them. \n•\nThe record-based data model is a denormalized structure, it uses \na record for every term with the information about the term, such \nas synonyms, broader, narrower and related terms.\nPR-NOR Example\n34\nTerm\nBT\nNT\nRT\nUF\nTerm1\nBTTerm1\nNTTerm1\nNTTerm2\nTerm2\nUFTerm1\nTerm2\nBTTerm2\nNTTerm3\nNTTerm4\nRTerm3\nRTerm4\nRTerm5\n© A Method for Re-engineering Non-Ontological Resources for Building Ontologies \nBoris Villazón-Terrazas, Mari Carmen Suárez Figueroa\n",
-  "speaker": "SYSTEM",
-  "uuid": "1151c257-37a2-4fb8-8415-c297aac22212"
-}

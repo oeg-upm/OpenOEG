@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 43\n•  Can be used for some ontological inference (well \nknown since [Perez et al. 2008]  \n•  E.g. Find all Beers in the Beer ontology \nPREFIX beer: <http://www.purl.org/net/ontology/beer#> \nPREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> \nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> \nSELECT ?beer \nFROM <http://www.purl.org/net/ontology/beer> \nWHERE { \n   ?beer rdf:type/rdfs:subClassOf* beer:Beer . \n} \n51 \nOntological Engineering Group \nPath expressions \n",
-  "speaker": "SYSTEM",
-  "uuid": "e0086825-ce44-4add-bd95-5d7ca3cf8aa6"
-}

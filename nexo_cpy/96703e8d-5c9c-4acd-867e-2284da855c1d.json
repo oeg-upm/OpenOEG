@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 47\nPreparing the evaluation execution \nPreparing the execution request context (II) \nESWC 2011, 29/05/2011 \n47 \n<v1:RegisterExecutionRequestContext  \n   xmlns:v1=\"http://www.seals-project.eu/resources/res/engine/registry/wsdl/v1\"> \n  <v1:executionRequestId>urn:erq:6ba7b810-9dad-11d1-80b4-00c04fd430c7</v1:executionRequestId> \n  <v1:evaluationDescriptionId>urn:ed:6ba7b810-9dad-11d1-80b4-00c04fd430c7</v1:evaluationDescriptionId> \n  <v1:computingResource> \n    <v1:computingResourceId>tool</v1:computingResourceId> \n    <v1:computingResourceLocation>127.0.0.1</v1:computingResourceLocation> \n  </v1:computingResource> \n</v1:RegisterExecutionRequestContext> \nRegisterExecutionRequestContext  \nPayload \n",
-  "speaker": "SYSTEM",
-  "uuid": "96703e8d-5c9c-4acd-867e-2284da855c1d"
-}

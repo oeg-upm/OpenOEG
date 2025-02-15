@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ATHENS-Applications-v5-boris.pdf: Página 62\nConceptMap definition\nBNF:\nBNF:\n<conceptmap-def\nname=\"Customer\">\n/\nExample:\nExample:\n<identified-by> Table key </identified-by>\n<uri-as> operation </uri-as>\n<applies-if> condition </applies-if>\n<joins-via> expression </joins-via>\n<documentation>description\n</documentation>\n<documentation>description …</documentation>\n<described-by>attributes,relations</described-by>\n</conceptmap-def>\n62\n",
-  "speaker": "SYSTEM",
-  "uuid": "4447d81e-3313-4a19-85f3-9387e0c2fcb3"
-}

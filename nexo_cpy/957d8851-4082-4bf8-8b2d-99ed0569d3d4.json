@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas.pdf: Página 13\n13\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nEstrategia de Control: Fases\n1. Selección\n1.1. Restricción\n1.2. Equiparación\n1.3. Resolución del Conjunto Conflicto\n2. Acción o ejecución\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nPermite elegir aquellas reglas que conducen a la solución del problema,\nal comparar cada una de las condiciones de las reglas \ncon el estado actual de la Memoria de trabajo\nEl resultado de la equiparación es el conjunto conflicto, formado por\nel conjunto de posibles reglas instanciadas que se pueden ejecutar.\nEquiparación\n•\nEquiparación de constantes\n•\nEquiparación de Variables\n",
-  "speaker": "SYSTEM",
-  "uuid": "957d8851-4082-4bf8-8b2d-99ed0569d3d4"
-}

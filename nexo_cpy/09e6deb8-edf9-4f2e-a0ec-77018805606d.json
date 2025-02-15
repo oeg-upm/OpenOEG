@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01a.FormalismosRepresentaci%C3%B3n.pdf: Página 9\nSemantic networks. Example. Solution \n•  Paul and John are persons \n•  El Prado is a museum \n•  Paul knows that John visited El Prado in Madrid \n Know_1\n \n \n                   \n  Visit_1    \nObject \n \n        Agente \nVoice \nJohn \nActive \nPresent \nPaul \nTense \nAgent \nEl Prado \nObject \nMadrid \n Place \nPast \nTense \nActive \nVoice \nMuseum \nPerson \ninstanceOf \ninstanceOf \ninstanceOf \n",
-  "speaker": "SYSTEM",
-  "uuid": "09e6deb8-edf9-4f2e-a0ec-77018805606d"
-}

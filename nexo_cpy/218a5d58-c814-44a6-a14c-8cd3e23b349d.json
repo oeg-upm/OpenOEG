@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas-II.pdf: Página 33\nSistemas de Producción\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nRi: (A $x) ~ (B $x)\n...\nMT: (AC) (BD) (AB) (AA) (BA)\nEq1: $x = C :\n(AC)\n(BC)\nVálida\nCierto\nFalso\nCierto\nCierto\nEq2: $x = B\n(AB)\n(BB)\nVálida\nCierto\nFalso\nCierto\nCierto\n",
-  "speaker": "SYSTEM",
-  "uuid": "218a5d58-c814-44a6-a14c-8cd3e23b349d"
-}

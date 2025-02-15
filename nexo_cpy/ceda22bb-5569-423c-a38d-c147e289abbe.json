@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Ontolog%C3%ADasGC.pdf: Página 4\n©Asunción Gómez-Pérez \n03/10/2011 22:23 - 4 \nThe knowledge Sharing Initiative \n“Building new Knowledge Based Systems today usually entails constructing new \nknowledge  bases from scratch. It could instead be done by assembling reusable components. \nSystem developers would then only need to worry about creating the specialized knowledge and  \nreasoners new to the specific task of their systems. This new system would interoperate with \nexisting systems, using them to perform some of  its reasoning. In this way, \ndeclarative knowledge, problem-solving techniques, and reasoning services could all \nbe shared between systems. This approach would facilitate building bigger and better systems \ncheaply. The infraestructure to support such sharing and reuse would lead to greater  \nubiquity of these systems, potentially transforming the knowledge industry ...” \nNeches, R.; Fikes, R.; Finin, T.; Gruber, T.; Patil, R.; Senator, T.; Swartout, W.R. Enabling Technology for Knowledge Sharing.  \nAI Magazine. Winter 1991. 36-56. \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "ceda22bb-5569-423c-a38d-c147e289abbe"
-}

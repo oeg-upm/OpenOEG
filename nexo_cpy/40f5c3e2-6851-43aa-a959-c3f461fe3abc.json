@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 03_SPARQL.pdf: Página 20\n•  SPARQL semantics \n•  [Perez et al. 2006] (pre-dates the spec) [Perez et al. 2009]  \n•  SPARQL equivalences \n•  also in [Perez et al. 2006],[Perez et al. 2009] \n•  More in [Schmidt et al. 2010] \n•  SPARQL expressivity \n•  Reducible to datalog with negation [Polleres 2007] \n•  Other way around also works [Angles &Gutierrez 2008] \n•  Proposed Extensions \n•  Aggregates [Polleres et al. 2007] \n•  Property Paths [Alkhateeb et al. 2009], [Perez et al. 2008] \n26 \nOntological Engineering Group \nAcademic works around SPARQL \n",
-  "speaker": "SYSTEM",
-  "uuid": "40f5c3e2-6851-43aa-a959-c3f461fe3abc"
-}

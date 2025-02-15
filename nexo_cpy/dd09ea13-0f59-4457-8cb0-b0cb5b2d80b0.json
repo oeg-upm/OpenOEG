@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 7\nDescription Logics Formalisation\n© O. Corcho, MC Suárez de Figueroa Baonza\n13\nOWL and SWRL\nDevelop a sample ontology in the domain of people, pets, vehicles, and newspapers\n- Understand how to formalise knowledge in description logics\nChunk 1. Formalize in DL\n1. Concept definitions:\nGrass and trees must be plants. Leaves are parts of a tree but there are other parts of a tree\nthat are not leaves. A dog must eat bones, at least. A sheep is an animal that must only eat \ngrass. A giraffe is an animal that must only eat leaves. A mad cow is a cow that eats brains \ng\ng\ny\nthat can be part of a sheep.\n2. Restrictions:\nAnimals or part of animals are disjoint with plants or parts of plants.\n3. Properties:\nEats is applied to animals. Its inverse is eaten_by.\n4. Individuals:\n© O. Corcho, MC Suárez de Figueroa Baonza\n14\nOWL and SWRL\nTom.\nFlossie is a cow.\nRex is a dog and is a pet of Mick.\nFido is a dog.\nTibbs is a cat.\n",
-  "speaker": "SYSTEM",
-  "uuid": "dd09ea13-0f59-4457-8cb0-b0cb5b2d80b0"
-}

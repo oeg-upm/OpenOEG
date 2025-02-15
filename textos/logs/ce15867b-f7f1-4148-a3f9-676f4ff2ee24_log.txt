@@ -1,8 +1,0 @@
-
-USER: Thursday, November 07, 2024 at 02:38PM  - Hola, dime todo lo que sepas sobre los plazos del protocolo de viajes
-ABIGAIL: Thursday, November 07, 2024 at 02:38PM  - Hola, no te preocupes. No hay información específica sobre plazos para el protocolo de viajes en nuestra base de datos actualizada hasta el momento. Sin embargo, parece que estabas interesado en saber más al respecto. 
-La conversación anterior menciona una serie de fechas relacionadas con la implementación y evaluación del proyecto LinkedData:
-- Del 15 de marzo al 30 de marzo: se realizará la implementación.
-- Del 1 de abril al 15 de abril: se evaluarán los resultados y se harán mejoras según sea necesario.
-- A partir del 15 de abril, se dedicará tiempo a redactar un paper sobre el proyecto.
-Espero que esta información te ayude. Si tienes alguna pregunta o necesitas más detalles sobre algún aspecto específico, no dudes en preguntar.

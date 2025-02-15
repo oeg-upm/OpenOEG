@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas.pdf: Página 19\n19\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nInstanciación de una Regla\n•\nPar formado por una regla y los elementos de MT que hacen cierta la regla\n•\nUna regla, en un ciclo de la BC, puede tener cero, una o N instanciaciones\nEjemplo anterior: 2 instanciaciones \nConjunto Conflicto ={ Ri (AC) Ri, (AB)}\nRi: (A $x) ~ (B $x) →...\nMT: (AC) (BD) (AB) (AA) (BA)\nEq1: $x = C :\nEq2: $x = B\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nSistemas de Producción\nHipótesis del Mundo Cerrado\nSupone que es falso todo lo que no se encuentra en la MT al equiparar la regla.\n",
-  "speaker": "SYSTEM",
-  "uuid": "600489e6-310c-4365-8c35-ed7fdafd7c72"
-}

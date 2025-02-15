@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 11\nChunk 3. Formalisation in DL\n⊆\nn\npublicatio\nmagazine\n∀\n⊆\n∪\n∩\n⊆\n⊆\n⊆\n⊆\n⊆\ntabloid\nreads\nn\nwhiteVanMa\ntabloid\nbroadsheet\nn\npublicatio\nnewspaper\ntabloid\nredTop\nbroadsheet\nadsheet\nqualityBro\nnewspaper\ntabloid\nnewspaper\nbroadsheet\n.\n)\n(\n© O. Corcho, MC Suárez de Figueroa Baonza\n21\nOWL and SWRL\n⊆⊥\n∩\n⊆\nbroadsheet\ntabloid\nChunk 4. Formalisation in DL\nΤ\n∃\n⊆\nΤ\n∃\n≡\neats\nanimal\nisPetOf\npet\n.\n.\n∃\n∩\n≡\n∃\n∩\n≡\n∃\n∩\n≡\n∃\n∩\n≡\n∃\n∩\n≡\n≥\n∩\n≡\n⊆\n⊆\n⊆\n∃\n¬\n∀\n∩\n¬\n∀\n∩\n≡\ndog\nhasPet\nperson\ndogOwner\ndog\nlikes\nperson\ndogLike\ncat\nhasPet\nperson\ncatOwner\ncat\nlikes\nperson\ncatLike\nanimal\nhasPet\nperson\npetOwner\nhasPet\nperson\nr\nanimalLove\nanimal\ntiger\nanimal\ncat\nanimal\nduck\nanimal\npartOf\neats\nanimal\neats\nanimal\nvegetarian\n.\n;\n.\n.\n;\n.\n.\n)\n3\n(\n;\n;\n)\n.\n(\n.\n.\n© O. Corcho, MC Suárez de Figueroa Baonza\n22\nOWL and SWRL\n⊆⊥\n∩\n∃\n∩\n∃\n∩\ncat\ndog\ndog\nhasPet\nperson\ndogOwner\ndog\nlikes\nperson\ndogLike\n.\n;\n.\n",
-  "speaker": "SYSTEM",
-  "uuid": "c86c1a7b-6fe1-494b-96f2-83fda50a847f"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: II-Redes_Sem%C3%A1nticas-v3.pdf: Página 5\nRedes Semánticas \nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez, O. Corcho\nRepresentando Acciones: Reificación\nPepe vió el museo del Prado\nSuceso\nSubclase_de\nPepe\nMuseo\nEl Prado\nInstancia\nObjeto\nMadrid\nLugar\nPasado\nTiempo\nActiva\nVoz\nver_1\nSuceso_ver\nInstancia\nAgente\nSuceso_Sabe\nr\nSubclase_d\ne\nSaber_1\nObjeto\nInstancia\nVoz\nActiva\nPresent\ne\nLuis\nTiempo\nAgente\nLuis sabe que\n",
-  "speaker": "SYSTEM",
-  "uuid": "4b4c1f30-973e-454c-9777-c9cc1647d730"
-}

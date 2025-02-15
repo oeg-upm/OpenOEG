@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: RedesBayesianas_Introducci%C3%B3n.pdf: Página 10\nProbabilidad\nLa probabilidad como medida de certeza, no presenta ninguno\nde estos problemas.\nPuedo tener P(Gripe|Fiebre) =0.9,P(Gripe|Fiebre,Otitis) =0.1.\nPresenta otro: necesito una distribución de probabilidad conjunta.\nSi tengo 30 variables, X1,...,Xn y cada una de ellas, Xi,\ntoma dos posibles valores {ai,ai}, entonces necesitamos\npartir de las probabilidades de todas las combinaciones\n(x1,x2,...,xn),\nxi ∈{ai,ai}\nSi n = 30, necesitamos 230 valores, pero inicialmente\nsolemos disponer de unas cuantas probabilidades\ncondicionadas.\nUna Introducción a las Redes Bayesianas– p.8/??\n",
-  "speaker": "SYSTEM",
-  "uuid": "7b6b7b51-7853-4b5e-9ea5-099c28e318b7"
-}

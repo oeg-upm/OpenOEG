@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 3.RDF%28S%29.pdf: Página 4\n• 4 \n• \nAlso known as “triples” \n• \n[Subject, Predicate, Object] \n• \n“Raúl is a member of the Ontology Engineering Group” \n• \n[Raúl, is member of, Ontology Engineering Group] \n• \n“Raúl’s full name is Raúl García Castro” \n• \n[Raúl, has full name, Raúl García Castro] \n• \n“Raúl was born on 26 December 1975” \n• \n[Raúl, was born, 26 December 1975] \n• \n“The Ontology Engineering Group web page is http://www.oeg-upm.net/” \n• \n[Ontology Engineering Group, has web page, http://www.oeg-upm.net/] \n \nRDF statements \n7 \nis member of \nRaúl \nOntology Engineering Group \nRaúl \nRaúl García Castro \nhas full name \nRaúl \n26 December 1975 \nhas birth date \nhas web page \nOntology Engineering Group \nhttp://www.oeg-upm.net/ \nRaúl \nRaúl \nRaúl \nOntology Engineering Group \nOntology Engineering Group \nRDF graphs \n•  RDF graphs are sets of triples \n8 \nis member of \nRaúl \nOntology Engineering Group \nRaúl García Castro \nhas full name \n26 December 1975 \nhas birth date \nhas web page \nhttp://www.oeg-upm.net/ \n",
-  "speaker": "SYSTEM",
-  "uuid": "23276a74-8e8c-4e80-bd47-bd6db9a96bd1"
-}

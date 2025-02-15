@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Semantic_Annotation_of_Subject_Columns_in_Tabular_Datasets.pdf: Página 25\nSemantic Annotation of Subject Columns in Tabular Datasets\nConclusion and Future Work\n25\n“We can perform semantic labeling without \ncontext and external linguistic resources, \nand yet reach high precision and recall.”\nFuture work:\n1. Find the optimal balancing factor\n2. Use advanced entity-linking\n",
-  "speaker": "SYSTEM",
-  "uuid": "fa29989a-19fa-4370-b7d0-8947c5befb4b"
-}

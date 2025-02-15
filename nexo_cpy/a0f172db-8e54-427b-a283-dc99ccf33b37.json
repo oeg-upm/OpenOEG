@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Vidal.Sep19.pdf: Página 51\nPage 51\nHARE: A Hybrid Query Engine\nCrowd\n●\nCompleteness model to estimate dataset \ncompleteness\n●\nCrowd knowledge bases to capture crowd \nanswers about missing data \n●\nQuery engine that combines knowledge in \nknowledge bases and estimates from the \ncompleteness model to decompose and \nplan sub-query execution\n●\nMicrotask manager that exploits metadata \nto crowdsource subqueries as microtasks \nand update the knowledge bases \naccording to the crowd answers\nM. Acosta, E. Simperl, F. Flöck, M.-E. Vidal: HARE: A Hybrid SPARQL Enhancing answer completeness of SPARQL queries via \ncrowdsourcing. J. Web Sem. 45: 41-62 (2017)\nSource Selection & Query Decomposition\nHybrid Execution  Strategies \n Crowd Microtask Manager \nQuery Optimizer\nSPARQL Query Q\n",
-  "speaker": "SYSTEM",
-  "uuid": "a0f172db-8e54-427b-a283-dc99ccf33b37"
-}

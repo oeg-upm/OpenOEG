@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas-II-v3-asun.pdf: Página 46\nSistemas de Producción \nFacultad de Informática. Universidad Politécnica de Madrid \nAsunción Gómez Pérez \nClasificación de los SP \nSistemas dirigidos por el antecedente (hacia delante): \n \nSi el antecedente es verdad, el consecuente se procesa y se actúa sobre la MT \nEC: encadenamiento hacia delante \n \nSistemas dirigidos por el consecuente (hacia atrás): \n \nDemostrar un determinado consecuente probando recursivamente sus antecedentes \na) Un antecedente es cierto si está en la BH del sistema \nb) Si el antecede no está en la BH, se busca si es consecuente de alguna regla y se prueban recursivamente los \nantecedentes de dicha regla \nc) Si no se dan las situaciones a) y b), entonces se supone la hipótesis del mundo cerrado.  \n \n",
-  "speaker": "SYSTEM",
-  "uuid": "e9a73462-3d51-4bde-83d4-deedbd45acb5"
-}

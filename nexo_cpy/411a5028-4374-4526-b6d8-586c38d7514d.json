@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 12\nChunk 5. Formalisation in DL\nvehicle\ndrives\nperson\ndriver\nadult\ndriver\n∃\n∩\n≡\n⊆\n.\n)\n.\n.(\n.\n)\n.\n.(\n.\n.\nvan\ndrives\nperson\nvanDriver\npany\nhaulageCom\npartOf\nworksFor\ntruck\ndrives\nperson\nckDriver\nhaulageTru\npany\nhaulageCom\npartOf\npany\nhaulageCom\nworksFor\nke\nhaulageWor\nlorry\ndrives\nperson\nr\nlorryDrive\nvehicle\ndrives\nperson\ndriver\n∃\n∩\n≡\n∃\n∃\n∩\n∃\n∩\n≡\n∃\n∪\n∃\n≡\n∃\n∩\n≡\n∃\n∩\n≡\n© O. Corcho, MC Suárez de Figueroa Baonza\n23\nOWL and SWRL\n)\n.(\n.\nvan\nwhiteThing\ndrives\nman\nn\nwhiteVanMa\nbus\ndrives\nperson\nbusDriver\n∩\n∃\n∩\n≡\n∃\n∩\n≡\nTable of Contents\n1.\nAn introduction to Description Logics\n2.\nWeb Ontology language (OWL)\n2.\nWeb Ontology language (OWL)\n2.1. OWL primitives\n2.2. Reasoning with OWL\n3.\nOWL Development Tools: Protégé\n3.1 Basic OWL edition\n3.2 Advanced OWL edition: restrictions, disjointness, etc.\n© O. Corcho, MC Suárez de Figueroa Baonza\n24\nOWL and SWRL\n4.\nOWL management APIs\n4.1 An example of an OWL-based application\n5.\nSWRL\n",
-  "speaker": "SYSTEM",
-  "uuid": "411a5028-4374-4526-b6d8-586c38d7514d"
-}

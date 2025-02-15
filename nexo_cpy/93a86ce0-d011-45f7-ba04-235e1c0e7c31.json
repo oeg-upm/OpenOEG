@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: DevTools.pdf: Página 5\nEtapas en la instalación con DevTools\n\nEtapa 1 : el bootstrap\n\nDescarga del bootstrap desde un servidor web remoto\n\nDistribución compuesta de:\nUn JDK\nUna distribución de MAVEN\nUn cliente SVN\n\nSe descomprime\nDentro una carpeta nombrada e:/bootstrap-myproject\nCon un log e:/bootstrap-myproject.log\nEstación de \ntrabajo\nThe Apache HTTP Server Project\n",
-  "speaker": "SYSTEM",
-  "uuid": "93a86ce0-d011-45f7-ba04-235e1c0e7c31"
-}

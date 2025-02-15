@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 4_2010-2011_RDF%28S%29.pdf: Página 37\n•37\nHands-on\n• Read an ontology in RDF(S) from two files:\n• GP_Santiago.rdf (conceptualization)\n• GP_Santiago.rdfs (instances)\n• Write the class hierarchy of the ontology, including the \ninstances of each class:\nClass Practica2:MedioTransporte \nClass Practica2:Tren \nClass Practica2:Bicicleta \nInstance Practica2:GP_Santiago_Instance_70 \nClass Practica2:Automovil \nClass Practica2:AutoBus \nClass Practica2:APie \nClass Practica2:InfraEstructuraTransporte \nClass Practica2:ViaFerrea \nClass Practica2:Sendero \nClass Practica2:Carretera \nInstance Practica2:A6 \n...\nRDF and RDF Schema\nOscar Corcho, Raúl García-Castro, Oscar Muñoz-García \n({ocorcho,rgarcia,omunoz}@fi.upm.es)\nUniversidad Politécnica de Madrid\nAcknowledgements: Axel Polleres, Mariano Fernández-López\nWork distributed under the license Creative Commons Attribution-\nNoncommercial-Share Alike 3.0\n",
-  "speaker": "SYSTEM",
-  "uuid": "4e4c8908-b865-4703-8eca-a54e2cbc061e"
-}

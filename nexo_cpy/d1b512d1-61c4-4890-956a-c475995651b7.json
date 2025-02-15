@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 10\nChunk 1. Formalisation in DL\n⊆\n⊆\nplant\ntree\nplant\ngrass\n∃\n∩\n∃\n∩\n≡\n∀\n∩\n⊆\n∀\n∩\n⊆\n∃\n⊆\n∃\n⊆\n)\n.\n.(\n.\n.\n.\n.\nsheep\npartOf\nbrain\neats\ncow\nmadCow\nleaf\neats\nanimal\ngiraffe\ngrass\neats\nanimal\nsheep\nbone\neats\ndog\ntree\npartOf\nleaf\np\n© O. Corcho, MC Suárez de Figueroa Baonza\n19\nOWL and SWRL\n⊆⊥\n∃\n∪\n∩\n∃\n∪\n)\n.\n(\n)\n.\n(\nplant\npartOf\nplant\nanimal\npartOf\nanimal\nChunk 2. Formalisation in DL\nk d\nadult\nperson\nelderly\ncompany\npany\nhaulageCom\ncompany\nbusCompany\nvehicle\ntruck\nvehicle\nlorry\nvehicle\ncar\nvehicle\nbus\nvehicle\nbicycle\n∩\n⊆\n⊆\n⊆\n⊆\n⊆\n⊆\n⊆\n⊆\n;\n;\n;\n;\n;\ncat\nhasPet\nanimal\nhasPet\noldLady\nelderly\nfemale\nperson\noldLady\nadult\nperson\ngrownUp\nadult\nfemale\nperson\nwoman\nadult\nmale\nperson\nman\nyoung\nperson\nkid\n∀\n∩\n∃\n⊆\n∩\n∩\n≡\n∩\n≡\n∩\n∩\n≡\n∩\n∩\n≡\n∩\n≡\n.\n.\n© O. Corcho, MC Suárez de Figueroa Baonza\n20\nOWL and SWRL\nhasParent\nhasFather\nhasParent\nhasMother\nadult\nyoung\n⊆\n⊆\n⊆⊥\n∩\n",
-  "speaker": "SYSTEM",
-  "uuid": "d1b512d1-61c4-4890-956a-c475995651b7"
-}

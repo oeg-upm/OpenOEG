@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 13_LDGeneration.pdf: Página 25\n18/12/12 \n25 \nWorkspace components \n•  A project holds the following information: \n•  All URI prefixes which are used in the project. \n•  A list of data sources \n•  A list of linking tasks \n•  A data source holds all information that is needed by \nSilk to retrieve entities from it: \n  \n49 \nWorkspace components: Linking Tasks \n•  A linking task consists of the following elements: \n•  Metadata \n•  A link specification \n•  Positive and negative reference links \n50 \n",
-  "speaker": "SYSTEM",
-  "uuid": "8c74973a-ad8c-4e45-89ca-48c255c567ca"
-}

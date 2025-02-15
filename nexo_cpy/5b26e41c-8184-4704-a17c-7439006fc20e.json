@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISSGC08.pdf: Página 45\n©<Miembro Grupo>\n46\nSystem 4 Submit job file\nType = \"Job\";\nJobType = \"Normal\";\nExecutable = \"startGen4.sh\";\nEnvironment = {\"CLASSPATH=./gfal.jar:./gint.jar\",“\nLD_LIBRARY_PATH=.:$LD_LIBRARY_PATH\",\n\"LCG_GFAL_VO=gilda\",\"LCG_RFIO_TYPE=dpm\"};\nArguments = \" 0 0 10 4 10000 aliserv6.ct.infn.it \nlfn:/grid/gilda/valeria/2000pillar.dat /gilda/issgc07/\";\nStdOutput = \"sample.out\";\nStdError = \"sample.err\";\nInputSandbox = {\"startGen4.sh\",\"gint.jar\",\"gfal.jar\",\n\"libGFalFile.so\"};\nOutputSandbox = {\"sample.err\",\"sample.out\", \"sample.log\"};\nRequirements = Member(\"GLITE-3_0_0“\n,other.GlueHostApplicationSoftwareRunTimeEnvironment);\n",
-  "speaker": "SYSTEM",
-  "uuid": "5b26e41c-8184-4704-a17c-7439006fc20e"
-}

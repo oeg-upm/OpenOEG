@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Protege-Pizzas-v5.pdf: Página 19\n© O. Corcho, MC Suárez de Figueroa Baonza\n19\nOWL and SWRL\nIrreflexive Properties\nIf a property is irreflexive, it can be described as a property that\nrelates an individual a to individual b, where individual a and\nindividual b are not the same.\nisMotherOf is irreflexive\n",
-  "speaker": "SYSTEM",
-  "uuid": "05652fe4-6660-4978-8d4f-494d555b0f1d"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Designing_a_Text_Classification_System_using_Statistical_NLP.pdf: Página 29\nAPI \nJAVA API \nArchitecture of a Text Classification \nSystem \nClassifier \nLearning & \nEvaluation \nDocument \n& Feature \nMgr \nCorpus \nBooster \nData Access \nRestFul Web Service \nWEKA \nFreeling \nJENA \nIndexing \nJava \nSerialization \nLocal RDF \nRepository \nMapDB  \nLucene Index \nFile System \nClassify \nText \nGUI \nGenerate  \nCorpus \nProcess \nCorpus \nGet \nFeatures \nTrain  and Evaluate \nClassifier \nRegular \nusers \nSystem  \nadministrators \nCommand line program \n     Developed \n     Third party lib. \n     External App. \n",
-  "speaker": "SYSTEM",
-  "uuid": "638ea6f4-d1fd-4044-a888-bfe196cd9046"
-}

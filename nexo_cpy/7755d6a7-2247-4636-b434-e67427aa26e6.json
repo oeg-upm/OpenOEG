@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Fpriyatna-oeg-20141002.pdf: Página 34\nQRP Problem\nApproach Step 4 \n(P2)\nP2 = SELECT ?s ?p ?o WHERE {\n  ?st a rdf:Statement .  \n  ?st rdf:Statement#rdf:subject ?s .\n  ?st rdf:Statement#rdf:predicate ?p .  \n  ?st rdf:Statement#rdf:object ?o .}\n",
-  "speaker": "SYSTEM",
-  "uuid": "7755d6a7-2247-4636-b434-e67427aa26e6"
-}

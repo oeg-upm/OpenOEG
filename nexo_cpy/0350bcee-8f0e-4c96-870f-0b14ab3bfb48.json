@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/Servidor_grafias \n\nContents\n[\nhide\n]\n1\ninfo\n2\nParticionado\n3\nServidor\n4\nMySQL (or other) Databases\n5\nAdministracion\n6\nEnvironment\n7\nServicios\ninfo\n\nService tag: 5WQXN4J\nequipo: grafias.dia.fi.upm.es\nIP: 138.100.15.188\nDell Precision WorkStation T3400\nIntel core 2 Duo con 8 Gb RAM. HD 500 Gb\nParticionado\n\nParticion nativa dell (utilities)\n94 Gb en C (windows 7 x64)\n371 Gb en E\nServidor\n\nrdesktop\n.....\nMySQL (or other) Databases\n\nAdministracion\n\nto be added, config, backup strategy.....\nEnvironment\n\nif needed....\nServicios\n\nAñadir aqui las instalaciones/configuraciones\nTodos los instaladores de los servicios instalados en el servidor se encuentran en E:Software",
-  "speaker": "SYSTEM",
-  "uuid": "0350bcee-8f0e-4c96-870f-0b14ab3bfb48"
-}

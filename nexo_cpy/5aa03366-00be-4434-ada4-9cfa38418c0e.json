@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 01_RDF%28S%29.pdf: Página 86\n© O. Corcho, R.García-Castro, O. Muñoz-García\n86\nRDF and RDF Schema\nQuery types\n•\nSelection and extraction\n–\n“Select all the essays, together with their authors and their authors’ names”. \n–\n“Select everything that is related to the book ‘Bellum Civille’” \n•\nReduction: we specify what it should not be returned\n–\n“Select everything except for the ontological information and the book translators”\n•\nRestructuring: the original structure is changed in the final result\n–\n“Invert the relationship ‘author’ by ‘is author of’”\n•\nAggregation\n–\n“Return all the essays together with the mean number of authors per essay”\n•\nCombination and inferences\n–\n“Combine the information of a book called ‘La guerra civil’ and whose author is \nJulius Caesar with the book whose identifier is ‘Bellum Civille’”\n–\n“Select all the essays, together with its authors and author names”, including also \nthe instances of the subclasses of Essay.\n–\n“Obtain the relationship ‘coauthor’ among persons who have written the same \nbook”.\n",
-  "speaker": "SYSTEM",
-  "uuid": "5aa03366-00be-4434-ada4-9cfa38418c0e"
-}

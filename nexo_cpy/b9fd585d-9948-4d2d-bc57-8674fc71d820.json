@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Marcos-II-asun.pdf: Página 23\nMarcos\nPropiedades en Marcos\nDe clase\nSon Atributos del concepto o clase\nSe definen y rellenan en el marco clase\nEl valor es el mismo para todas las entidades del conjunto\nLos marcos instanciados utilizando herencia acceden a los valores de estas propiedades\nLos marcos instanciados utilizando herencia acceden a los valores de estas propiedades\nDe Instancia\nAtributos específicos de cada instancia\nSe definen en el marco clase\nSe rellenan en el marco instanciado\nEn cada instancia puede tomar un valor diferente\nPrecedidas del símbolo (*)\nFacultad de Informática. Universidad Politécnica de Madrid\n© Asunción Gómez Pérez\nPrecedidas del símbolo (*) \n",
-  "speaker": "SYSTEM",
-  "uuid": "b9fd585d-9948-4d2d-bc57-8674fc71d820"
-}

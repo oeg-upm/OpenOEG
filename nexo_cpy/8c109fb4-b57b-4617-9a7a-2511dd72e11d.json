@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: KGEOntologies_2021.pdf: Página 17\nAn Ontology-Based Deep Learning Approach for Triple Classification with Out-of-Knowledge-Base Entities\nStep 4: Embedding composition\n17\nThings to consider…\n1.\nDimensionality restrictions\n2.\nTrade-off between general and specific information\n𝑑𝑇= KGE model\n𝑑𝑂= ontological information\n𝑑𝑀=entity embedding\n𝑑𝑇= 𝑑𝑂+ 𝑑𝑀\nConcatenation\nAverage\nWeighted Average\nDimensionality restriction\nInformation trade-off\nDimensionality restriction\nInformation trade-off\nDimensionality restriction\nInformation trade-off\n+\n=\n0,5\n0,5\n𝑑𝑇= 𝑑𝑂= 𝑑𝑀\n𝑑𝑇= 𝑑𝑂= 𝑑𝑀\n+\n=\nλ\n(1-λ)\n",
-  "speaker": "SYSTEM",
-  "uuid": "8c109fb4-b57b-4617-9a7a-2511dd72e11d"
-}

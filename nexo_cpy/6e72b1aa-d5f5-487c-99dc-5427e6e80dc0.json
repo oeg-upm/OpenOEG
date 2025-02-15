@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Garc%C3%ADaEtAl_CKCaR09.pdf: Página 15\nDisambiguation Approach\n•\nThe algorithm selects among a set of candidate DBpedia \nresources, the one that describe better the meaning of an \nambiguous tag according to its context. \n•\nThe candidate DBpedia resources and the tag context are \nrepresented as vectors using a common vocabulary.\n•\nThe common vocabulary is  the union of the most frequent terms in each \nwikipedia page related to each Dbpedia resource.\n•\nThe tag context vector is compared against each DBpedia \nresource vector using the cosine of the angle as similarity \nmeasure.\n•\nThe most similar DBpedia entry is selected as the one \nrepresenting the meaning of the analyzed tag\n15\n",
-  "speaker": "SYSTEM",
-  "uuid": "6e72b1aa-d5f5-487c-99dc-5427e6e80dc0"
-}

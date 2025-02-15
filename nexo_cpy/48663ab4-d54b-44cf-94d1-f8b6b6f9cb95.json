@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Deep_learning_applications_OEG.pdf: Página 59\nWord2Vec, methods \nWord2Vec is similar to an autoencoder\nbut not trained against the input words \nfor reconstruction…\nit trains words against other words that neighbor them \nin the input corpus\nwell trained if similar words are close to each other in \nthat space\n2 methods or flavors:\nContinuous bag of words (CBOW)\nuse context to predict a target word \nfrom ('the cat sits on the'), predicts ‘mat’\ngood for smaller datasets (entire context as one observation)\nSkip-gram\nuse word to predict a target context\nfrom(mat'), predicts ‘the cat sits on the’\ngood for larger datasets (each context-target pair as a new \nobservation)\n59\n",
-  "speaker": "SYSTEM",
-  "uuid": "48663ab4-d54b-44cf-94d1-f8b6b6f9cb95"
-}

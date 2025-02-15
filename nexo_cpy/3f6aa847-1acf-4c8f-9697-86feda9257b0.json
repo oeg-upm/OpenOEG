@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentaci%C3%B3n_Everis.v1.pdf: Página 12\nExperimentación – RGAB: Ejemplos de uso (I)\n Descubrimiento de recursos publicados\nRepository Service\nRepositoryAccess\nRepositoryFactory\nRepository\nDescription\nClass Service\nClassAccess\nClass\nDescription\nRepository Selector \nService\nRepositorySelectorAccess\nRepositorySelectorFactory\nRepository \nSelector\nDescription\nGT4 Java WS Core \nContainer\nClient\nRDF(S) \nResource\nGetRepositoryListRequest(\n)\nGetRepositoryListResponse(\n  repository-name*\n)\n12\nMiguel Esteban Gutiérrez\n",
-  "speaker": "SYSTEM",
-  "uuid": "3f6aa847-1acf-4c8f-9697-86feda9257b0"
-}

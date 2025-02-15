@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: PROLEGintro_eng_long.pdf: Página 34\nPROLEG\n(PROlog based LEGal reasoning support system)\n• We implement the JUF theory by using logic programming tech-\nnology.\n• We call the system PROLEG (PROlog based LEGal reasoning\nsupport system).\n• PROLEG rulebase consists of the following expression.\n– A rule of the form of Horn clauses (without negation as failure):\nH ⇐B1, ..., Bn.\n– An exception is an expression of the form exception(H, E)\nwhere H, E are atoms each of which is the head of rule.\nThis expresses a rebuttal of H by E.\n• PROLEG factbase consists of the records of activities and judge’s\nconﬁdence over basic facts.\n• The above expressions ﬁt lawyer’s understanding of civil code nicely.\n34\n",
-  "speaker": "SYSTEM",
-  "uuid": "097b592b-e030-47eb-b0ac-36aa8448199a"
-}

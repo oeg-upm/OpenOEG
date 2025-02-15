@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Reglas-II.pdf: Página 46\nSistemas de Producción\nFacultad de Informática. Universidad Politécnica de Madrid\nAsunción Gómez Pérez\nEquiparación\nProblemas al añadir y borrar\nR1: Si (envío $e $origen $destino) ^ (dia-entrega $e hoy ) ^ (coste $e $coste) \nEntonces Añadir (coste $e $coste + 1000)\nBase de Reglas\nBase de Hechos\n( envío E-1 Madrid Barcelona)\n(dia-entrega E-1 hoy)\n(coste  E-1   700)\nEstrategia de Control\nCiclo 1: \n$e= E1\n$origen = Madrid\n$destino = Barcelona\n$coste = 700\n( envío E-1 Madrid Barcelona)\n(dia-entrega E-1 hoy)\n(coste  E-1   700)\n(coste  E-1  1700)\nError: El coste del envío es único\nSolución: modificar la regla \n",
-  "speaker": "SYSTEM",
-  "uuid": "a3c6f1f2-5b52-401d-b2a2-7d6fd2e409d0"
-}

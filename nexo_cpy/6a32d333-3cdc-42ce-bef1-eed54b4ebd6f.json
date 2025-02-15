@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 2._Ontolog%C3%ADas-TI.pdf: Página 16\n©Asunción Gómez-Pérez\n09/01/2025 12:19 - 16\nModelling disjoint knowledge\nclass-Partition: a set of disjoint classes\nDisjoint:  Defines the set of classes in the partition as subclasses of the parent class. \nThis classification does not necessarily to be complete. \nExhaustive-Disjoint: Defines the set of classes in the partition as subclasses of the parent class. \nThis classification is complete.\n",
-  "speaker": "SYSTEM",
-  "uuid": "6a32d333-3cdc-42ce-bef1-eed54b4ebd6f"
-}

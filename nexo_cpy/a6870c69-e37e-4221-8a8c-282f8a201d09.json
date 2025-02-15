@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: ISSGC08.pdf: Página 31\n©<Miembro Grupo>\n32\nDesktop Grids\n• Resource Donors and Users\n– if U ~ D => generic Grid model\n– if U >> D => service Grid model\n– if U << D => desktop Grid model\n• Generic Grids\n– Anyone can donate resources, heterogeneity, run own applications\n• Service Grids\n– Push Model\n– Guaranteed service\n– Many users: anyone can use the assigned resources for running their \nown applications\n",
-  "speaker": "SYSTEM",
-  "uuid": "a6870c69-e37e-4221-8a8c-282f8a201d09"
-}

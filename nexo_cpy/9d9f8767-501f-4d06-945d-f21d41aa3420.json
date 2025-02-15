@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Digging_into_the_SEALS_Platform_v4.pdf: Página 22\nIntroduction \nEvaluation scenario (II) \n• Evaluation description, continued: \n– Structure of the test data consumed: \n \n \n \n \n \n \n \nNOTE:  \n•\nThe conf namespace prefix maps to http://www.seals-project.eu/ontologies/ConformanceTestSuite.owl# \n•\nThe individuals (tests and items) are defined in the namespace http://www.seals-project.eu/Conformance/metadata.rdf# \n–\nConformance tests individuals are named with the dc:identifier value \nESWC 2011, 29/05/2011 \n22 \nseals:Suite \nconf:ConformanceTest \nseals:hasSuiteItem \nseals:DataItem \nseals:hasDataItem \nconf:hasLanguage  (RDFS,  \nOWL_Lite, OWL_DL, or \nOWL_Full) \ndc:identifier \nseals:hasComponentType (source) \nseals:isLocatedAt \ndc:identifier \nseals:SuiteItem \nxsd:string \n",
-  "speaker": "SYSTEM",
-  "uuid": "9d9f8767-501f-4d06-945d-f21d41aa3420"
-}

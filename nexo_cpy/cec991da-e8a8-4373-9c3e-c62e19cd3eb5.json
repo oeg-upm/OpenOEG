@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Restricciones.pdf: Página 6\nFacultad de Informática. Universidad Politécnica de Madrid\n©Asunción Gómez Pérez\nRestricciones\nDominios de las Variables\nX1 = {V11, V12, ... V1i}\nX2 = {V21, V22, ... V2j}\n...\nXn = {Vn1, Vn2, ... Vnm}\nRestricciones\nR = {R1, R2, .... Rn}\nEstado Inicial\nX1=  {V11}\nX2 = {V21, V22}\nMotor de Inferencias\n(Algoritmo de Waltz)\nConjunto de posibles soluciones válidas:\n{{X1=V11, X2=V21, X3=V31, ....} {X1=V12, X2=V22, X3=V32, ....}}\n",
-  "speaker": "SYSTEM",
-  "uuid": "cec991da-e8a8-4373-9c3e-c62e19cd3eb5"
-}

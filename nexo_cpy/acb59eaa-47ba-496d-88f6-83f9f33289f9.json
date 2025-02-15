@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: OWL.pdf: Página 34\nTransitive Properties\nIf a property is transitive, and the property relates individual a to\nindividual b, and also individual b to individual c, then we can infer\nthat individual a is related to individual c via the property.\nhasAncestor is transitive\n© O. Corcho, MC Suárez de Figueroa Baonza\n67\nOWL and SWRL\nSymmetric Properties\nIf a property is symmetric, and the property relates individual a to\nindividual b then individual b is also related to individual a via the\nproperty.\nhasSibling is symmetric\n© O. Corcho, MC Suárez de Figueroa Baonza\n68\nOWL and SWRL\n",
-  "speaker": "SYSTEM",
-  "uuid": "acb59eaa-47ba-496d-88f6-83f9f33289f9"
-}

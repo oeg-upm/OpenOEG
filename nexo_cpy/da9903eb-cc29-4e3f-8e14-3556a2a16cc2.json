@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: KGEOntologies_2021.pdf: Página 25\nAn Ontology-Based Deep Learning Approach for Triple Classification with Out-of-Knowledge-Base Entities\nPhase 2: Ontology introduction\n25\nFor WN11, the homonym ontology is applied\nFor FB13, two ontologies are considered: its\ncorresponding ontology (Google KG’s) ontology and \nthe DBpedia Ontology\nOntology classes are encoded using the same\nWord2Vec model as the entities\nOntology vectors are generated using weighted\naverage\nOntological-information vectors remain static\nthroughout training\n",
-  "speaker": "SYSTEM",
-  "uuid": "da9903eb-cc29-4e3f-8e14-3556a2a16cc2"
-}

@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Re-engineer_NOR-_EVERIS%28v3-boris%29.pdf: Página 4\n4\nClassification Scheme Data Models\n•\nPath Enumeration Data Model is defined as a model \nthat stores for each node the path (as a string) from \nthe root to the node. \n•\nAdjacency  List is a recursive structure for hierarchy \nrepresentations that comprises a list of nodes with a \nlinking column to their parent nodes.\n•\nSnowflake Data Model is a normalized structure for \nhierarchy representations. For each hierarchy level a \nentity is created. In this model each hierarchy node has \na column linked to its parent node.\n•\nFlattened Data Model, is a denormalized structure.  \nThe hierarchy is represented with an entity where \neach hierarchy level is stored on a different column. \n1\n2\n3\n",
-  "speaker": "SYSTEM",
-  "uuid": "eed266f9-ccb7-4e27-8c5b-3b77ed3a9733"
-}

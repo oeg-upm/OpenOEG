@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: Presentacion_OEG26-02-2014.pdf: Página 27\n27\nChallenges: Common workflow fragment detection\n[Holder et al 1994]: Substructure Discovery in the SUBDUE System L. B. Holder, D. J. Cook, and S. Djoko. AAAI \nWorkshop on Knowledge Discovery, pages 169-180, 1994.\n•Given a collection of workflows, which are the most common fragments?\n•Common sub-graphs among the collection \n•Sub-graph isomorphism (NP-complete)\n•We use the SUBDUE algorithm [Holder et al 1994] (hierachical clustering)\n•Graph Grammar learning\n•The rules of the grammar are the workflow fragments\n•Graph based hierarchical clustering\n•Each cluster corresponds to a workflow fragment\n•Iterative algorithm with two measures for compressing the graph:\n•Minimum Description Length (MDL)\n•Size\n•Current tests with PAFI (http://glaros.dtc.umn.edu/gkhome/pafi/overview) \nongoing.\n",
-  "speaker": "SYSTEM",
-  "uuid": "d752f2a4-aa1c-4588-a9d8-ac1ff63c77bc"
-}

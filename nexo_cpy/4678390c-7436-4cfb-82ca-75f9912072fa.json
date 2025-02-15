@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: NOR2O%28v1-boris%29.pdf: Página 6\nDescription\n2. prnor.xml for describing the transformation between \nthe NOR elements and the ontology elements. It has \nonly one section\n- PRNOR section, that includes the description \nof the transformations from the NOR schema \ncomponents (e.g., schema entities, atributes and \nrelations) into ontology elements (e.g., classes, \nobject properties, datatype properties, and \nindividuals). Additionally it indicates the \ntransformation approach, e.g., TBox, ABox, or \nPopulation.\n6\n",
-  "speaker": "SYSTEM",
-  "uuid": "4678390c-7436-4cfb-82ca-75f9912072fa"
-}

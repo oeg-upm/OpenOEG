@@ -1,5 +1,0 @@
-{
-  "message": "SYSTEM: 07_Applications.pdf: Página 39\nSatellite Image Processing\n•\nGeographically distributed organizations\n•\nGeographically distributed organizations\n•\nOrganizations send plans to the Envisat\n•\nEnvisat has Instruments on board that \ntake “pictures”\n•\nEnvisat sends back information to the \nEarth\nUSE CASE DIMENSION:\n•\n1 planning file (DMOP) is generated per planning day\n–\nParameters for instrument  operation (taking pictures)\np\n(\ng p\n)\n–\nParameters for the satellite general configuration.\n–\nMacroCommands (MCMD’s): translation from planning\n•\nFor each DMOP file:\n–\nHundreds of planning activities per instrument  and \ninstrument mode\n–\nHundreds of Product files are generated per instrument and \ninstrument mode\n–\nEach product file corresponds with a planning activity\nAnalysis needs to be carried out \non the existence, contents and \ncorrelation of these files\n",
-  "speaker": "SYSTEM",
-  "uuid": "a6538049-6c16-4c4a-949e-3cfd8f2e951d"
-}

@@ -5,3 +5,4 @@ python-pptx==1.0.2
 comtypes==1.4.8
 PyMuPDF==1.24.13
 pinecone==5.0.1
+ollama==0.5.1

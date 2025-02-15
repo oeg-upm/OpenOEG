@@ -1,10 +1,10 @@
 config:
   credentials:
     oeg:
-      password: 
-      username: 
+      password: password
+      username: username
     pinecone:
-      key: 
+      key: key
       indexname: oeg-testing
   options:
     new: False

@@ -33,23 +33,25 @@ Para ejecutar el módulo de chat ejecutar el script chat.py desde el mismo direc
 
 El fichero yaml llamado config
 
+```yaml
 config:
   credentials:
     oeg:
-      password: contraseña de la OEG
-      username: usuario de la OEG
+      username: "usuario de la OEG"
+      password: "contraseña de la OEG"
     pinecone:
-      key: key de pinecone
-      indexname: nombre del índice de Pinecone. Tener en cuenta que no todos los nombres sirven, no se pueden usar mayúsuculas ni caracteres especiales que no sean guión. 
+      key: "key de Pinecone"
+      indexname: "nombre del índice de Pinecone"  # Solo se permiten letras minúsculas y guiones (-)
   options:
-    new: Escribir únicamente True o False, dependiendo de si se quiere usar la versión en español (True) o no (False).
+    new: true  # Escribir True para la versión en español, False para la versión en inglés
   paths:
-    driver: ruta al driver (por defecto geckodriver está en bin)
+    driver: "ruta/al/driver"  # Por defecto, geckodriver está en bin
+    libreoffice: "ruta/a/libreoffice"
   embedder:
-    old: nombre del embedder de la versión en inglés
-    new: nombre del embedder de la versión en español
+    old: "nombre del embedder en inglés"
+    new: "nombre del embedder en español"
   model:
-    modelname: nombre del modelo a usar
-    host: dirección de host del modelo a usar (http://localhost:1234/v1 en la versión local)
-    api_key: key del modelo si es que tiene (lm-studio por defecto en la versión local)
-
+    modelname: "nombre del modelo a usar"
+    host: "http://localhost:1234/v1"  # Dirección del modelo (por defecto en versión local)
+    api_key: "key del modelo"  # Si el modelo requiere autenticación (por defecto lm-studio en local)
+```

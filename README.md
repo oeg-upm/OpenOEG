@@ -20,7 +20,7 @@ Crear en la carpeta textos tres ficheros llamados username_oeg.txt, password_oeg
 
 Para Selenium, instalar el driver asociado al navegador que se pretende usar, siguiendo la guía de su página https://pypi.org/project/selenium/ y especificar la ruta del ejecutable en omnianalisis.py. El proyecto se ha probado en Firefox con geckodriver aunque debería funcionar con otros.
 
-Descargar e instalar LibreOffice https://es.libreoffice.org/descarga/libreoffice/ usando la versión correspondiente a su sistema operativo.
+Descargar e instalar LibreOffice https://es.libreoffice.org/descarga/libreoffice/ usando la versión correspondiente a su sistema operativo y luego especificar la ruta a soffice (en la versión de windows sería al fichero soffice.exe)
 
 En caso de usar ollama revisar que se tiene instalado y que se tiene descargado el embedder que se pretenda usar.
 En caso de usar LMStudio asegurarse se tiene instalado el embedder que se pretende usar y que a la hora de ejecutar cualquiera de los dos módulos se tiene el servidor local encendido con el puerto y nombre del embedder correcto. La versión de nomic usada viene por defecto en la instalación de LM Studio, si no descargar manualmente.

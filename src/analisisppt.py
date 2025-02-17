@@ -1,4 +1,4 @@
-from pineconeupload import PineconeUploader
+from src.pineconeupload import PineconeUploader
 from pptx import Presentation
 import os
 

@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.firefox.options import Options
 from bs4 import BeautifulSoup
-from pineconeupload import PineconeUploader
+from src.pineconeupload import PineconeUploader
 import time
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 #from langchain_community.vectorstores.utils import filter_complex_metadata

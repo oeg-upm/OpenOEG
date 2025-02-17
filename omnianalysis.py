@@ -1,9 +1,10 @@
-from analisisppt import PPTXProcessor
-from pdfanalysis import PDFProcessor
-from ppttopdf import PPTtoPDFConverter
-from analisiswiki import WikiAnalysis
-from scapingpaginas import WikiAllPageScraper
-from getdocuments import WikiDownloader
+from src.analisisppt import PPTXProcessor
+from src.pdfanalysis import PDFProcessor
+#from ppttopdf import PPTtoPDFConverter
+from src.analisiswiki import WikiAnalysis
+from src.scapingpaginas import WikiAllPageScraper
+from src.getdocuments import WikiDownloader
+from src.ppttopttx import PPTtoPPTXConverter
 import yaml
 #Dando los datos de usuario y las rutas descarga todo
 #Para cambiar la base de datos, ver el fichero de pineconeupload
@@ -22,6 +23,7 @@ with open('config2.yaml', 'r') as yaml_file:
 
 username = config["config"]["credentials"]["oeg"]["username"]
 password = config["config"]["credentials"]["oeg"]["password"]
+libreoffice_path = config["config"]["paths"]["libreoffice"]
 
 paginas_path = "./textos/paginas.txt"
 presentaciones_link_path = "./textos/enlaces_presentaciones.txt"
@@ -68,12 +70,15 @@ miWikiDownloader.close()
 
 
         
-miPDFconverter = PPTtoPDFConverter(documents_path)
+#miPDFconverter = PPTtoPDFConverter(documents_path)
+miPPTXConverter= PPTtoPPTXConverter(documents_path, libreoffice_path)
 miPPTXProcessor= PPTXProcessor(documents_path)
 miPDFProcessor= PDFProcessor(documents_path)
 
-miPDFconverter.convert_to_pdf()
-miPDFconverter.close()
+
+#miPDFconverter.convert_to_pdf()
+#miPDFconverter.close()
+miPPTXConverter.convert_to_pttx()
 
 miPPTXProcessor.analyze_and_upload()
 miPDFProcessor.analyze_and_upload()

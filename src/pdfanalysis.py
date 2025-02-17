@@ -1,6 +1,6 @@
 import os
 import pymupdf 
-from pineconeupload import PineconeUploader
+from src.pineconeupload import PineconeUploader
 import json
 
 def json_to_str(json_obj):

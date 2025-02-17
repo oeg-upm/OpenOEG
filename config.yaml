@@ -10,6 +10,7 @@ config:
     new: False
   paths:
     driver: /bin/geckodriver.exe
+    libreoffice: 
   embedder:
     old: nomic-embed-text-v1.5
     new: jina/jina-embeddings-v2-base-es

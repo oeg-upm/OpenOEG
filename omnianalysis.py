@@ -2,7 +2,7 @@ from src.analisisppt import PPTXProcessor
 from src.pdfanalysis import PDFProcessor
 #from ppttopdf import PPTtoPDFConverter
 from src.analisiswiki import WikiAnalysis
-from src.scapingpaginas import WikiAllPageScraper
+from scrapingpaginas import WikiAllPageScraper
 from src.getdocuments import WikiDownloader
 from src.ppttopttx import PPTtoPPTXConverter
 import yaml

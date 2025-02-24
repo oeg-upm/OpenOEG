@@ -16,7 +16,7 @@ Clonar el repositiorio.
 
 Con pip instalar requirements.txt.
 
-Crear en la carpeta textos tres ficheros llamados username_oeg.txt, password_oeg.txt y key_pinecone.txt donde estén el nombre de usuario del OEG, la contraseña del OEG y la clave del usuario en pinecone respectivamente.
+Modificar el fichero config.yaml de la manera que se indica al final.
 
 Para Selenium, instalar el driver asociado al navegador que se pretende usar, siguiendo la guía de su página https://pypi.org/project/selenium/ y especificar la ruta del ejecutable en omnianalisis.py. El proyecto se ha probado en Firefox con geckodriver aunque debería funcionar con otros.
 
@@ -53,5 +53,5 @@ config:
   model:
     modelname: "nombre del modelo a usar"
     host: "http://localhost:1234/v1"  # Dirección del modelo (por defecto en versión local)
-    api_key: "key del modelo"  # Si el modelo requiere autenticación (por defecto lm-studio en local)
+    api_key: "lm-studio"  # Si el modelo requiere autenticación (por defecto lm-studio en local)
 ```

@@ -5,3 +5,5 @@ python-pptx==1.0.2
 PyMuPDF==1.24.13
 pinecone==5.0.1
 ollama==0.5.1
+beautifulsoup4==4.12.3
+langchain==0.3.11

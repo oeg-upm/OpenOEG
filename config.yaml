@@ -9,7 +9,7 @@ config:
   options:
     new: False
   paths:
-    driver: /bin/geckodriver.exe
+    driver: driver-path
     libreoffice: 
   embedder:
     old: nomic-embed-text-v1.5

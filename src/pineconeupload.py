@@ -43,8 +43,8 @@ class PineconeUploader:
         
             self.index_name = "oegdb-testting2"
             self.client = OpenAI(
-            base_url="http://localhost:1234/v1",
-            api_key="lm-studio"
+            base_url=config["config"]["model"]["host"],
+            api_key=config["config"]["model"]["api_key"]
             )
             
             self.model = "nomic-embed-text-v1.5" #revisar eso y el nº de tokens

@@ -31,7 +31,15 @@ Para ejecutar el módulo de análisis ejecutar el script omnianalisis.py desde e
 
 Para ejecutar el módulo de chat ejecutar el script chat.py desde el mismo directorio. Desde la terminal se le dará el prompt al usuario donde podrá escribir su pregunta, para enviarla simplemente pulsará enter. Para salir de este escribir como pregunta únicamente una q y pulsar enter.
 
-El fichero yaml llamado config
+
+NOTAS IMPORTANTES: En la versión actual PARA INSERTAR DATOS EN PINECONE (es decir, el script de omnianalisis.py)
+
+La versión 'old' usa el embedder por medio de LMStudio
+La versión 'new' usa el embedder por medio de Ollama
+
+Para HACER CONSULTAS (es decir, el script de chat.py) únicamente se puede usar LM Studio actualmente, así que es necesario tener el modelo cargado ahí y que el servidor esté encendido
+
+El fichero yaml llamado config se presenta a continuación:
 
 ```yaml
 config:
@@ -48,10 +56,10 @@ config:
     driver: "ruta/al/driver"  # Por defecto, geckodriver está en bin
     libreoffice: "ruta/a/libreoffice"
   embedder:
-    old: "nombre del embedder en inglés"
-    new: "nombre del embedder en español"
+    old: "nombre del embedder de LMStudio (para probar con embedders en inglés)"
+    new: "nombre del embedder de Ollama (para probar con embedders en español)"
   model:
-    modelname: "nombre del modelo a usar"
+    modelname: "nombre del modelo a usar en LM Studio"
     host: "http://localhost:1234/v1"  # Dirección del modelo (por defecto en versión local)
     api_key: "lm-studio"  # Si el modelo requiere autenticación (por defecto lm-studio en local)
 ```

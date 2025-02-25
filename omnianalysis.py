@@ -2,7 +2,7 @@ from src.analisisppt import PPTXProcessor
 from src.pdfanalysis import PDFProcessor
 #from ppttopdf import PPTtoPDFConverter
 from src.analisiswiki import WikiAnalysis
-from scrapingpaginas import WikiAllPageScraper
+from src.scrapingpaginas import WikiAllPageScraper
 from src.getdocuments import WikiDownloader
 from src.ppttopttx import PPTtoPPTXConverter
 import yaml
@@ -17,7 +17,7 @@ def open_file(filepath):
 #password = open_file('./textos/password_oeg.txt')
 
 
-with open('config2.yaml', 'r') as yaml_file:
+with open('config.yaml', 'r') as yaml_file:
     config = yaml.safe_load(yaml_file)
 
 

@@ -51,7 +51,7 @@ config:
       key: "key de Pinecone"
       indexname: "nombre del índice de Pinecone"  # Solo se permiten letras minúsculas y guiones (-)
   options:
-    new: False  # Escribir True para la versión en español, False para la versión en inglés
+    new: False  # Escribir True para la versión de Ollama, False para la versión de LM Studio
   paths:
     driver: "ruta/al/driver"  # Por defecto, geckodriver está en bin
     libreoffice: "ruta/a/libreoffice"

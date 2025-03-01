@@ -15,7 +15,7 @@ def open_file(filepath):
 
 
 class WikiAnalysis:
-    def __init__(self, username, password, geckodriver_path, paginas_file='./tfg/textos/paginas.txt', presentaciones_file = "./tfg/textos/enlaces_presentaciones.txt"):
+    def __init__(self, username, password, geckodriver_path, paginas_file='./textos/paginas.txt', presentaciones_file = "./textos/enlaces_presentaciones.txt"):
         # Configuración de opciones de Firefox
         firefox_options = Options()
         firefox_options.add_argument("--headless")

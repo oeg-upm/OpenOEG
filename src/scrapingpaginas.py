@@ -16,7 +16,7 @@ import time
 #Saca todas las páginas de una wiki utilizando la página especial de AllPages
 
 class WikiAllPageScraper:
-    def __init__(self, username, password, geckodriver_path, output_file="./tfg/textos/paginas.txt"):
+    def __init__(self, username, password, geckodriver_path, output_file="./textos/paginas.txt"):
 
         self.output_file = output_file
         self.username = username

@@ -18,12 +18,12 @@ Con pip instalar requirements.txt.
 
 Modificar el fichero config.yaml de la manera que se indica al final.
 
-Para Selenium, instalar el driver asociado al navegador que se pretende usar, siguiendo la guía de su página https://pypi.org/project/selenium/ y especificar la ruta del ejecutable en omnianalisis.py. El proyecto se ha probado en Firefox con geckodriver aunque debería funcionar con otros.
+Para Selenium, instalar el driver asociado al navegador que se pretende usar, siguiendo la guía de su página https://pypi.org/project/selenium/ y especificar la ruta del ejecutable en el fichero config. El proyecto se ha probado en Firefox con geckodriver aunque debería funcionar con otros.
 
-Descargar e instalar LibreOffice https://es.libreoffice.org/descarga/libreoffice/ usando la versión correspondiente a su sistema operativo y luego especificar la ruta a soffice (en la versión de windows sería al fichero soffice.exe)
+Descargar e instalar LibreOffice https://es.libreoffice.org/descarga/libreoffice/ usando la versión correspondiente a su sistema operativo y luego especificar la ruta a soffice (en la versión de windows sería al fichero soffice.exe).
 
-En caso de usar ollama revisar que se tiene instalado y que se tiene descargado el embedder que se pretenda usar.
-En caso de usar LMStudio asegurarse se tiene instalado el embedder que se pretende usar y que a la hora de ejecutar cualquiera de los dos módulos se tiene el servidor local encendido con el puerto y nombre del embedder correcto. La versión de nomic usada viene por defecto en la instalación de LM Studio, si no descargar manualmente.
+En caso de usar Ollama revisar que se tiene instalado y que se tiene descargado el embedder que se pretenda usar.
+En caso de usar LMStudio asegurarse se tiene instalado el embedder que se pretende usar o el modelo de lenguaje y que a la hora de ejecutar cualquiera de los dos módulos se tiene el servidor local encendido con el puerto y nombre del embedder correcto. 
 
 ### Uso
 
@@ -32,12 +32,16 @@ Para ejecutar el módulo de análisis ejecutar el script omnianalisis.py desde e
 Para ejecutar el módulo de chat ejecutar el script chat.py desde el mismo directorio. Desde la terminal se le dará el prompt al usuario donde podrá escribir su pregunta, para enviarla simplemente pulsará enter. Para salir de este escribir como pregunta únicamente una q y pulsar enter.
 
 
-NOTAS IMPORTANTES: En la versión actual PARA INSERTAR DATOS EN PINECONE (es decir, el script de omnianalisis.py)
+## NOTAS IMPORTANTES:
+
+En la versión actual PARA INSERTAR DATOS EN PINECONE (es decir, el script de omnianalisis.py):
 
 La versión 'old' usa el embedder por medio de LMStudio
 La versión 'new' usa el embedder por medio de Ollama
 
-Para HACER CONSULTAS (es decir, el script de chat.py) únicamente se puede usar LM Studio actualmente, así que es necesario tener el modelo cargado ahí y que el servidor esté encendido
+Para HACER CONSULTAS (es decir, el script de chat.py):
+
+Únicamente se puede usar LM Studio actualmente, así que es necesario tener el modelo cargado ahí y que el servidor esté encendido
 
 El fichero yaml llamado config se presenta a continuación:
 

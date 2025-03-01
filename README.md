@@ -41,7 +41,7 @@ La versión 'new' usa el embedder por medio de Ollama
 
 Para HACER CONSULTAS (es decir, el script de chat.py):
 
-Únicamente se puede usar LM Studio actualmente, así que es necesario tener el modelo cargado ahí y que el servidor esté encendido
+Únicamente se puede usar LM Studio actualmente, así que es necesario tener el modelo y embedder cargado ahí y que el servidor esté encendido
 
 El fichero yaml llamado config se presenta a continuación:
 

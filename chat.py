@@ -9,7 +9,7 @@ import yaml
 from pinecone import Pinecone, ServerlessSpec
 
 
-with open('config2.yaml', 'r') as yaml_file:
+with open('config.yaml', 'r') as yaml_file:
     config = yaml.safe_load(yaml_file)
 
 

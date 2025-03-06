@@ -54,7 +54,13 @@ class PDFProcessor:
             
             
             #res = ""
-            document = pymupdf.open(fichero)
+            
+            try:
+                document = pymupdf.open(fichero)
+            except Exception as e:
+                print(f"Error al abrir el archivo: {e}")
+                continue  # O alguna acción alternativa para continuar
+                
             metadata = os.path.basename(fichero) + " metadatos " + self.get_metadata(document)
             text_content = self.extract_text(document, os.path.basename(fichero))
             

@@ -6,6 +6,7 @@ from time import time,sleep
 from uuid import uuid4
 import datetime
 import yaml
+import ollama
 from pinecone import Pinecone, ServerlessSpec
 
 
@@ -16,6 +17,12 @@ with open('config.yaml', 'r') as yaml_file:
 mi_model =  config["config"]["model"]["modelname"]
 mi_model_emb = config["config"]["embedder"]["old"]
 index_name = config["config"]["credentials"]["pinecone"]["indexname"]
+new = config["config"]["options"]["new"]
+
+if new:
+    mi_nexo_path = "./nexo/jina/"
+else:
+    mi_nexo_path = "./nexo/nomic/"
 
 def open_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as infile:
@@ -50,15 +57,28 @@ def get_embedding(text, rol):
    
    # las de sistema search_document:
    # las de usuario search_query:
-   
-   if rol == "USER":
-        return client.embeddings.create(input = ["search_query: "+text], model=mi_model_emb).data[0].embedding 
+   if new:
+        text = text.replace("\n", " ")
+            
+        if rol == "USER":
+            text= "search_query: "+text
+                
+        elif rol == "SYSTEM":
+            text = "search_document: "+text
+                
+        else: #ASSISTANT
+            text = text
+        return ollama.embeddings(model="jina/jina-embeddings-v2-base-es", prompt=text)["embedding"]
     
-   elif rol == "SYSTEM":
-       return client.embeddings.create(input = ["search_document: "+text], model=mi_model_emb).data[0].embedding 
-   
-   else: #ASSISTANT
-        return client.embeddings.create(input = [text], model=mi_model_emb).data[0].embedding 
+   else:
+        if rol == "USER":
+            return client.embeddings.create(input = ["search_query: "+text], model=mi_model_emb).data[0].embedding 
+                
+        elif rol == "SYSTEM":
+            return client.embeddings.create(input = ["search_document: "+text], model=mi_model_emb).data[0].embedding 
+            
+        else: #ASSISTANT
+            return client.embeddings.create(input = [text], model=mi_model_emb).data[0].embedding 
 
 client = OpenAI(
     
@@ -109,10 +129,10 @@ def check_nexo(results):
     result = list()
     for m in results['matches']:
         try:
-            info = load_json('./nexo/%s.json' % m['id']) #TODO cambie por nexo2
+            info = load_json(mi_nexo_path + '%s.json' % m['id']) #TODO cambie por nexo2
             result.append(info)
         except:
-            print("Parece que " + './nexo/%s.json' % m['id'] + " no esta" )
+            print("Parece que " + mi_nexo_path+'%s.json' % m['id'] + " no esta" )
             continue
     #ordered = sorted(result, key=lambda d: d['time'], reverse=False)  # sort them all chronologically
     messages = [i['message'] for i in result]

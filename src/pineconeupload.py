@@ -31,9 +31,9 @@ class PineconeUploader:
         
         
         if new:
-            self.index_name = "oegdb-testing"
+            self.index_name = config["config"]["credentials"]["pinecone"]["indexname"]
         
-            self.nexo_path = "./nexo_cpy/"
+            self.nexo_path = "./nexo/jina/"
             os.makedirs(self.nexo_path, exist_ok=True)
             self.pc = Pinecone(api_key = config["config"]["credentials"]["pinecone"]["key"])
             
@@ -41,15 +41,15 @@ class PineconeUploader:
             self.index = self._setup_pinecone_index()
         else:
         
-            self.index_name = "oegdb-testting2"
+            self.index_name = config["config"]["credentials"]["pinecone"]["indexname"]
             self.client = OpenAI(
             base_url=config["config"]["model"]["host"],
             api_key=config["config"]["model"]["api_key"]
             )
             
-            self.model = "nomic-embed-text-v1.5" #revisar eso y el nº de tokens
+            self.model = config["config"]["embedder"]["old"] #revisar eso y el nº de tokens
             
-            self.nexo_path = "./nexo/"
+            self.nexo_path = "./nexo/nomic/"
             os.makedirs(self.nexo_path, exist_ok=True)
             self.pc = Pinecone(api_key = config["config"]["credentials"]["pinecone"]["key"])
             
@@ -70,7 +70,7 @@ class PineconeUploader:
                 
             else: #ASSISTANT
                 text = text
-            return ollama.embeddings(model="jina/jina-embeddings-v2-base-es", prompt=text)["embedding"]
+            return ollama.embeddings(model=config["config"]["embedder"]["new"], prompt=text)["embedding"]
     
     
            else:

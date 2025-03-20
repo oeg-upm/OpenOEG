@@ -41,7 +41,7 @@ La versión 'new' usa el embedder por medio de Ollama
 
 Para HACER CONSULTAS (es decir, el script de chat.py):
 
-Únicamente se puede usar LM Studio actualmente, así que es necesario tener el modelo y embedder cargado ahí y que el servidor esté encendido
+Se puede usar tanto Ollama como LMStudio. Tener en cuenta la opción 'new' para la elección.
 
 El fichero yaml llamado config se presenta a continuación:
 
@@ -64,6 +64,7 @@ config:
     new: "nombre del embedder de Ollama (para probar con embedders en español)"
   model:
     modelname: "nombre del modelo a usar en LM Studio"
+    modelnamellama: "nombre del modelo a usar en Ollama"
     host: "http://localhost:1234/v1"  # Dirección del modelo (por defecto en versión local)
     api_key: "lm-studio"  # Si el modelo requiere autenticación (por defecto lm-studio en local)
 ```

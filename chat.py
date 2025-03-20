@@ -13,11 +13,16 @@ from pinecone import Pinecone, ServerlessSpec
 with open('config.yaml', 'r') as yaml_file:
     config = yaml.safe_load(yaml_file)
 
-
-mi_model =  config["config"]["model"]["modelname"]
-mi_model_emb = config["config"]["embedder"]["old"]
-index_name = config["config"]["credentials"]["pinecone"]["indexname"]
 new = config["config"]["options"]["new"]
+
+if new:
+    mi_model =  config["config"]["model"]["modelnamellama"]
+    mi_model_emb = config["config"]["embedder"]["new"]
+else:
+    mi_model =  config["config"]["model"]["modelname"]
+    mi_model_emb = config["config"]["embedder"]["old"]
+index_name = config["config"]["credentials"]["pinecone"]["indexname"]
+
 
 if new:
     mi_nexo_path = "./nexo/jina/"
@@ -68,7 +73,7 @@ def get_embedding(text, rol):
                 
         else: #ASSISTANT
             text = text
-        return ollama.embeddings(model="jina/jina-embeddings-v2-base-es", prompt=text)["embedding"]
+        return ollama.embeddings(model=mi_model_emb, prompt=text)["embedding"]
     
    else:
         if rol == "USER":
@@ -96,26 +101,34 @@ def text_completion(prompt, engine=mi_model):
     
     while True:
         try:
-            response = client.chat.completions.create(
-                                messages=[
-                                    {
-                                        "role": "user",
-                                        "content": prompt,
-                                    }
-                                ],
-                                model=engine,
-                            )
-            
-            
-            text = response.choices[0].message.content
-            #text = response['choices'][0]['text'].strip()
-            #print("\n"+text+"\n")
-            text = re.sub('[\r\n]+', '\n', text)
-            text = re.sub('[\t ]+', ' ', text)
-            #filename = '%s_log.txt' % time()
-            #if not os.path.exists('./textos/logs'):
-            #    os.makedirs('./textos/logs')
-            #save_file('./textos/logs/%s' % filename, prompt + '\n\n==========\n\n' + text)
+                
+            if new:
+                response = ollama.chat(mi_model, messages=[{"role": "user", "content": prompt}])
+                
+                text = response["message"]["content"]
+                text = re.sub('[\r\n]+', '\n', text)
+                text = re.sub('[\t ]+', ' ', text)                
+            else:
+                response = client.chat.completions.create(
+                                        messages=[
+                                            {
+                                                "role": "user",
+                                                "content": prompt,
+                                            }
+                                        ],
+                                        model=engine,
+                                    )
+                
+                
+                text = response.choices[0].message.content
+                    #text = response['choices'][0]['text'].strip()
+                    #print("\n"+text+"\n")
+                text = re.sub('[\r\n]+', '\n', text)
+                text = re.sub('[\t ]+', ' ', text)
+                    #filename = '%s_log.txt' % time()
+                    #if not os.path.exists('./textos/logs'):
+                    #    os.makedirs('./textos/logs')
+                    #save_file('./textos/logs/%s' % filename, prompt + '\n\n==========\n\n' + text)
             return text
         except Exception as oops:
             retry += 1

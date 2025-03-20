@@ -16,5 +16,6 @@ config:
     new: jina/jina-embeddings-v2-base-es
   model:
     modelname: meta-llama-3.1-8b-instruct
+    modelnamellama: mistral
     host: http://127.0.0.1:1234
     api_key: lm-studio

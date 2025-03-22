@@ -8,6 +8,7 @@ config:
       indexname: oeg-testing
   options:
     new: False
+    eval: True
   paths:
     driver: driver-path
     libreoffice: libreoffice-path

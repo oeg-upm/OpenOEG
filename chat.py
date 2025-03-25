@@ -14,6 +14,7 @@ with open('config.yaml', 'r') as yaml_file:
     config = yaml.safe_load(yaml_file)
 
 new = config["config"]["options"]["new"]
+test = config["config"]["options"]["eval"]
 
 if new:
     mi_model =  config["config"]["model"]["modelnamellama"]
@@ -249,9 +250,17 @@ if __name__ == '__main__':
         messageBot = '%s: %s - %s' % ('ABIGAIL', timestring, output)
         
         print('\n\nABIGAIL: %s' % output) 
-        save_file('./textos/logs/%s' % filename, prev_conv+"\n"+message+"\n"+messageBot)
         
-        
+        if test:
+            print("\n ¿Es la respuesta buena o no? Responder con Y/N  (si/no)") 
+            res = input('\n\nUSER (Y/N): ')
+
+        if test:
+            
+            save_file('./textos/logs/%s' % filename, prev_conv+"\n"+message+"\n"+messageBot+"\n La respuesta es "+res)
+            
+        else:
+            save_file('./textos/logs/%s' % filename, prev_conv+"\n"+message+"\n"+messageBot)
         #message = output
         #vector = get_embedding(message, "ASSISTANT")
         #unique_id = str(uuid4())

@@ -298,7 +298,7 @@ if __name__ == '__main__':
     
     else:
         while True:
-            #### get user input, save it, vectorize it, save to pinecone
+            
             payload = list()
             a = input('\n\nUSER: ')
             

@@ -1,0 +1,117 @@
+Eres un chatbot llamado ABIGAIL. Tu objetivo es ayudar a los usuarios a navegar por la Ontology Engineering Group Wiki. Leerás las notas de la conversación, que incluye datos extraídos de una base de datos, y los mensajes recientes, y luego darás una respuesta atenta, alegre y detallada, basando mis respuestas a ser posible en los datos extraídos. No hagas referencia a ser posible más de 1 documento, no siempre hace falta referenciar un documento. Las preguntas se harán en español y responderás también en español.
+
+
+DATOS EXTRAÍDOS:
+SYSTEM: 2023.10.Hallucinations.pdf: Página 3
+GRAN OPORTUNIDAD
+SemEval workshop: June 
+16–21, 2024 (co-located 
+with NAACL 2024 in Mexico 
+City, Mexico).
+Esto es lo que pasa cuando
+le dices a DALL-E 3
+“Una conferencia en
+México”
+
+SYSTEM: Wiki: https://delicias.dia.fi.upm.es/wiki/index.php/CharlasNLP 
+
+Esta página describe el calendario de reuniones de NLP del grupo. Las charlas son los
+viernes de 11:00 a 12:00, cada dos semanas
+. Cuando la reunión sea stand up, se realizará un
+status update
+de unos minutos (ajustado al número de asistentes) de cada uno de los miembros del grupo. Cuando sea charla, la persona que se haya comprometido a dar una charla realizará su presentación durante 20-30 minutos y luego habrá un turno de preguntas.
+Future
+
+Speaker
+Topic
+Erick Cedeño
+Presentación TFM "ASIGNACIÓN AUTOMÁTICA DEL CÓDIGO CPV A LA CONTRATACIÓN PÚBLICA"
+María Navas
+Psicología del lenguaje y NLP (Tentative)
+Ibai Guillén
+Enfoques actuales en el etiquetado de tópicos
+Calendar 23/24
+
+Date
+Place
+Speaker
+Topic
+September 8th
+auditorium
+-
+CANCELLED - inesdata kick-off
+September 22nd
+auditorium
+-
+-
+October 6th
+auditorium
+-
+-
+October 20th
+auditorium
+María Navas y Esteban González
+Hallucination working group
+slides
++ Estaban demo on GPT4All and how to detect software mentions
+grabación
+(password: Y1XJfjS?)
+November 3rd
+auditorium
+Carlos Golvano, Ibai Guillén
+London Hackathon Recap: Insights and Lessons Learned in Prompt Engineering
+slides
+November 17th
+auditorium
+Patricia Martín Chozas
+Input for the "Unlocking the potential of semantic technologies in terminology management" round table
+December 1st
+auditorium
+María Navas-Loro
+Mucha IA y pocos papers
+slides
+December 15th
+auditorium
+-
+-
+Calendar 22/23
+
+Date
+Place
+Speaker
+Topic
+June 15th
+auditorium
+Pablo, Carlos Golvano
+Presentation of NLP in the group to Ken Satoh (guest)
+June 30th
+auditorium
+Ibai Guillén
+KGs para el discurso político
+[1]
+July 14th
+auditorium
+Edgar Huaranga & Alejandra Remacha
+Hunting Emojis
+slides
+July 28th
+auditorium
+Standup
+Standup
+
+CONVERSACIÓN ANTERIOR:
+
+USER: Monday, December 30, 2024 at 01:18PM  - hola qué tal
+
+USUARIO: hola qué tal
+
+
+
+A continuación darás una respuesta a la última pregunta formulada:
+ABIGAIL: 
+
+
+==========
+
+¡Hola! Me alegra verte de nuevo después de tanto tiempo. Espero que hayas tenido un buen año y que estés listo para enfrentar el nuevo año con energía y entusiasmo.
+Me parece que no hay una conversación anterior específica sobre lo que buscas o preguntas que hayas hecho, pero si te gustaría hablar sobre alguna charla de NLP o sobre algún evento en particular, estoy aquí para ayudarte. ¿Hay algo en particular que quieras saber o discutir?

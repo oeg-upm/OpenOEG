@@ -8,13 +8,15 @@ import datetime
 import yaml
 import ollama
 from pinecone import Pinecone, ServerlessSpec
+import csv
+from src.evaluador import evaluar_respuestas
 
 
-with open('config.yaml', 'r') as yaml_file:
+with open('config2.yaml', 'r') as yaml_file: #TODO
     config = yaml.safe_load(yaml_file)
 
 new = config["config"]["options"]["new"]
-test = config["config"]["options"]["eval"]
+eval = config["config"]["options"]["eval"]
 
 if new:
     mi_model =  config["config"]["model"]["modelnamellama"]
@@ -54,7 +56,12 @@ def save_json(filepath, payload):
 def timestamp_to_datetime(unix_time):
     return datetime.datetime.fromtimestamp(unix_time).strftime("%A, %B %d, %Y at %I:%M%p %Z")
 
-
+def guardar_texto(textos, ruta_csv):
+    with open(ruta_csv, mode='w', newline='', encoding='utf-8') as archivo:
+        writer = csv.writer(archivo)
+        for texto in textos:
+            writer.writerow([texto])
+            
 # Revisar esto https://huggingface.co/nomic-ai/nomic-embed-text-v1.5
 # para RAG 
  
@@ -157,6 +164,53 @@ def check_nexo(results):
 #TODO https://delicias.dia.fi.upm.es/wiki/index.php/Charlas
 
 
+def evaluate(a):
+    
+
+        timestamp = time()
+        timestring = timestamp_to_datetime(timestamp)
+        message = '%s: %s - %s' % ('USER', timestring, a)
+    
+    
+        vector = get_embedding(message, "USER")
+        results = index.query(vector=vector, top_k=convo_length)
+        wiki_data = check_nexo(results)  # results should be a DICT with 'matches' which is a LIST of DICTS, with 'id'
+        
+        
+        
+        #filename = unique_conv_id+'_log.txt' 
+        if not os.path.exists('./textos/logs'):
+            os.makedirs('./textos/logs')
+        
+        #prev_conv = open_file('./textos/logs/%s' % filename)
+        #save_file('./textos/logs/%s' % filename, prev_conv+"\n"+message)
+        
+        prev_conv = open_file('./textos/logs/%s' % filename)
+        
+        
+        #print("\n\nSoy las conversacion previa, a ver que hay aquí \n \n")
+        #print(prev_conv)
+        #print("\n \n")
+        
+        #print("\n\nSoy los datos, a ver que hay aquí \n \n")
+        #print(wiki_data)
+        #print("\n \n") 
+    
+        
+        prompt = open_file('./textos/contexto.txt').replace('<<DATOS>>', wiki_data).replace('<<CONVERSACIÓN>>', prev_conv).replace('<<MENSAJE>>', a) #puede que sea demasiado largo, mirar
+        #print(prompt)
+        
+        
+        output = text_completion(prompt) #prompt
+        timestamp = time()
+        timestring = timestamp_to_datetime(timestamp)
+        
+        messageBot = '%s: %s - %s' % ('ABIGAIL', timestring, output)
+        
+        save_file('./textos/logs/%s' % filename, prev_conv+"\n"+message+"\n"+messageBot)
+
+        return output
+
 if __name__ == '__main__':
     convo_length = 2 # se puede cambiar
     #openai.api_key = open_file('./openaiapikey.txt')
@@ -191,81 +245,75 @@ if __name__ == '__main__':
     
         # index.upsert -> echarle un ojo
     
-    while True:
-        #### get user input, save it, vectorize it, save to pinecone
-        payload = list()
-        a = input('\n\nUSER: ')
+    
+    if eval:
         
-        if (a == "q"):
-            #save_json('./nexo/%s.json' % unique_id, metadata)
-            break
-        
-        
-        
-        timestamp = time()
-        timestring = timestamp_to_datetime(timestamp)
-        message = '%s: %s - %s' % ('USER', timestring, a)
-       
-       
-        vector = get_embedding(message, "USER")
-        #unique_id = str(uuid4())
-        #metadata = {'speaker': 'USER', 'time': timestamp, 'message': message, 'timestring': timestring, 'uuid': unique_id}
-        #save_json('./nexo2/%s.json' % unique_id, metadata)
-        #payload.append((unique_id, vector))
-        #### search for relevant messages, and generate a response
-        results = index.query(vector=vector, top_k=convo_length)
-        wiki_data = check_nexo(results)  # results should be a DICT with 'matches' which is a LIST of DICTS, with 'id'
-        
-        
-        
-        #filename = unique_conv_id+'_log.txt' 
-        if not os.path.exists('./textos/logs'):
-            os.makedirs('./textos/logs')
-        
-        #prev_conv = open_file('./textos/logs/%s' % filename)
-        #save_file('./textos/logs/%s' % filename, prev_conv+"\n"+message)
-        
-        prev_conv = open_file('./textos/logs/%s' % filename)
-        
-        
-        #print("\n\nSoy las conversacion previa, a ver que hay aquí \n \n")
-        #print(prev_conv)
-        #print("\n \n")
-        
-        #print("\n\nSoy los datos, a ver que hay aquí \n \n")
-        #print(wiki_data)
-        #print("\n \n") 
-       
-        
-        prompt = open_file('./textos/contexto.txt').replace('<<DATOS>>', wiki_data).replace('<<CONVERSACIÓN>>', prev_conv).replace('<<MENSAJE>>', a) #puede que sea demasiado largo, mirar
+        csv_file_path = './textos/goldstandard.csv'
 
-        #print(prompt)
-        
-        
-        #### generate response, vectorize, save, etc
-        output = text_completion(prompt) #prompt
-        timestamp = time()
-        timestring = timestamp_to_datetime(timestamp)
-        
-        messageBot = '%s: %s - %s' % ('ABIGAIL', timestring, output)
-        
-        print('\n\nABIGAIL: %s' % output) 
-        
-        if test:
-            print("\n ¿Es la respuesta buena o no? Responder con Y/N  (si/no)") 
-            res = input('\n\nUSER (Y/N): ')
 
-        if test:
-            
-            save_file('./textos/logs/%s' % filename, prev_conv+"\n"+message+"\n"+messageBot+"\n La respuesta es "+res)
-            
-        else:
-            save_file('./textos/logs/%s' % filename, prev_conv+"\n"+message+"\n"+messageBot)
-        #message = output
-        #vector = get_embedding(message, "ASSISTANT")
-        #unique_id = str(uuid4())
-        #metadata = {'speaker': 'ABIGAIL', 'time': timestamp, 'message': message, 'timestring': timestring, 'uuid': unique_id}
-        #save_json('./nexo2/%s.json' % unique_id, metadata)
-        #payload.append((unique_id, vector))
-        #index.upsert(payload)
+        preguntas = []
+        respuestasCSV = []
+        respuestasModelo = []
+
+        with open(csv_file_path, mode='r', newline='', encoding='utf-8') as file:
+            reader = csv.reader(file)
+
+            for row in reader:
+                
+                joined_row = ' '.join(row)
+                
+                if ';' in joined_row:
+                    pregunta, respuesta = joined_row.split(';', 1)
+                    preguntas.append(pregunta.strip())
+                    respuestasCSV.append(respuesta.strip())
+                else:
+                    
+                    preguntas.append(joined_row.strip())
+                    respuestasCSV.append("")
+
+        #hacemos preguntas
         
+        #print("PREGUNTAS:")
+        #for q in preguntas:
+        #    print("-",q)
+        #
+        #print("\nRESPUESTAS:")
+        #for r in respuestasCSV:
+        #    print("-", r)
+        #
+        
+        for pregunta in preguntas:
+            
+            respuestasModelo.append(evaluate(pregunta))
+        
+        guardar_texto(respuestasModelo, './textos/respuestasModelo.csv')
+        
+        res = evaluar_respuestas(respuestasCSV=respuestasCSV,respuestasLLM=respuestasModelo)
+
+        
+        
+        print("\n Se ha generado CSV con las respuetas del modelo y los resultados son: \n")
+        for key, value in res.items():
+            print(f"{key}: {value}")
+    
+    else:
+        while True:
+            #### get user input, save it, vectorize it, save to pinecone
+            payload = list()
+            a = input('\n\nUSER: ')
+            
+            if (a == "q"):
+                #save_json('./nexo/%s.json' % unique_id, metadata)
+                break
+            
+            
+            print('\n\nABIGAIL: %s' % evaluate(a)) 
+            
+            #message = output
+            #vector = get_embedding(message, "ASSISTANT")
+            #unique_id = str(uuid4())
+            #metadata = {'speaker': 'ABIGAIL', 'time': timestamp, 'message': message, 'timestring': timestring, 'uuid': unique_id}
+            #save_json('./nexo2/%s.json' % unique_id, metadata)
+            #payload.append((unique_id, vector))
+            #index.upsert(payload)
+            

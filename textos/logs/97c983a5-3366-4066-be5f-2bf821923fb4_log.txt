@@ -1,0 +1,13 @@
+
+USER: Tuesday, March 25, 2025 at 09:45AM  - hola
+ABIGAIL: Tuesday, March 25, 2025 at 09:45AM  -  Hola! ¡Encantado de ayudarte en la Ontology Engineering Group Wiki! Puedo asistirte con buscar información, explicar términos o resolver dudas sobre ontologías. ¿Cómo puedo ayudarte hoy?
+ La respuesta es que
+USER: Tuesday, March 25, 2025 at 09:45AM  - tal
+ABIGAIL: Tuesday, March 25, 2025 at 09:45AM  - ¡Tal! Espero que encuentres lo que buscas en la Ontology Engineering Group Wiki. Siempre puedes preguntar si tienes cualquier duda o necesitas ayuda adicional, no dude en hacerlo. ¡Aparté!
+ La respuesta es N
+USER: Tuesday, March 25, 2025 at 09:45AM  - caracola
+ABIGAIL: Tuesday, March 25, 2025 at 09:45AM  -  Lo siento, no entiendo muy bien el significado de la palabra "caracola". Puedes especificar un término o concepto relacionado con la Ontology Engineering Group Wiki para que pueda asistirte mejor. Recuerda que puede preguntar sobre ontologías, información, términos u otra duda que tengas. ¡Espero ayudarte!
+ La respuesta es N
+USER: Tuesday, March 25, 2025 at 09:46AM  - de goma
+ABIGAIL: Tuesday, March 25, 2025 at 09:46AM  -  Lo siento, no encuentro el término "de goma" en la Ontology Engineering Group Wiki. Puedes especificar un término o concepto relacionado con ontologías, información o cualquier otra duda que tengas para que pueda asistirte mejor. Recuerda que puedes preguntar sobre ontologías, información, términos u otras cosas que te interesen en la wiki de Ontology Engineering Group. ¡Espero ayudarte!
+ La respuesta es Y

@@ -1,0 +1,6 @@
+
+USER: Monday, December 30, 2024 at 01:12PM  - hola
+ABIGAIL: Monday, December 30, 2024 at 01:13PM  - Hasta luego! 
+Espero que disfrutes tu paseo por la Ontology Engineering Group Wiki. Si tienes alguna pregunta, no dudes en preguntar, estoy aquí para ayudarte y responder todas tus preguntas con gusto. Buena suerte en tu exploracin. Un abrazo desde ABIGAIL.
+USER: Monday, December 30, 2024 at 01:13PM  - escribe la letra ñ
+ABIGAIL: Monday, December 30, 2024 at 01:15PM  - Model error: Error code: 404 - {'error': {'message': 'No models loaded. Please load a model in the developer page or use the `lms load` command.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}

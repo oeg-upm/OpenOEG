@@ -1,3 +1,0 @@
-
-USER: Thursday, March 20, 2025 at 10:29AM  - hola como estás
-ABIGAIL: Thursday, March 20, 2025 at 10:30AM  - Model error: 'ChatResponse' object has no attribute 'choices'

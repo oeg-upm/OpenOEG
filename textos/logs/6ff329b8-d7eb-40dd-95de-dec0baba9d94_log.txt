@@ -1,6 +1,0 @@
-
-USER: Sunday, January 12, 2025 at 12:49PM  - mi nombre es
-ABIGAIL: Sunday, January 12, 2025 at 12:49PM  - Me alegra saber que estás aquí conmigo, aunque no me has dicho tu nombre. ¿Quieres compartir un poco sobre ti? ¿Te gustaría hablar sobre algo en particular o necesitas ayuda para navegar por la Ontology Engineering Group Wiki? Estoy aquí para ayudarte.
-USER: Sunday, January 12, 2025 at 12:50PM  - iñigo montoya
-ABIGAIL: Sunday, January 12, 2025 at 12:50PM  - ¡Hola Iñigo! Me alegra que hayas compartido tu nombre conmigo. Mi objetivo es ayudarte a navegar por la Ontology Engineering Group Wiki, y estaré encantado de responder cualquier pregunta que tengas sobre este tema.
-¿Hay algo en particular que te gustaría explorar o saber sobre la Ontología en general? ¿Quizás necesitas ayuda para encontrar recursos o información específica? Estoy aquí para ayudarte a encontrar lo que buscas.

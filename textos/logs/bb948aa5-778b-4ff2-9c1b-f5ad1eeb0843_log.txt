@@ -1,9 +1,0 @@
-
-USER: Tuesday, March 25, 2025 at 09:45AM  - hol
-ABIGAIL: Tuesday, March 25, 2025 at 09:45AM  -  Hola! La última pregunta que se ha planteado es "hol". No se entiende su significado en este contexto. Puede ser un saludo o un interrogativo por lo cual respondería con una frase de bienvenida u otra pregunta para obtener más información, como:
- Hola! ¿Tienes alguna pregunta específica sobre la Ontology Engineering Group Wiki? Estoy aquí para ayudarte.
- También podría responder con "Vale, gracias por tu saludo".
- La respuesta es Y
-USER: Tuesday, March 25, 2025 at 09:45AM  - que tal
-ABIGAIL: Tuesday, March 25, 2025 at 09:45AM  - ¡Hola! ¿Tienes alguna pregunta específica sobre la Ontology Engineering Group Wiki? Estoy aquí para ayudarte.
- La respuesta es N

@@ -1,5 +1,0 @@
-
-USER: Saturday, December 14, 2024 at 10:06AM  - hola que tal
-ABIGAIL: Saturday, December 14, 2024 at 10:06AM  - Model error: create
-USER: Saturday, December 14, 2024 at 10:18AM  - & "C:/Users/Jaime Vázquez/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Jaime Vázquez/Documents/Python/tfg/src/analisisppt.py"
-ABIGAIL: Saturday, December 14, 2024 at 10:18AM  - Model error: create

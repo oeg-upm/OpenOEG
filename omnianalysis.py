@@ -58,7 +58,7 @@ else:
     miWikiAnalysis.scrape_pages()
         
 miWikiAnalysis.close()
-        
+  
 if not miWikiDownloader.login():
     print("Error en el inicio de sesión")      
 else:
@@ -66,9 +66,9 @@ else:
     urls = miWikiDownloader.load_urls_from_file(presentaciones_link_path)
     miWikiDownloader.download_files_from_urls(urls)
     
-miWikiDownloader.close()
+miWikiDownloader.close() 
 
-
+print("Ya descargué")
         
 #miPDFconverter = PPTtoPDFConverter(documents_path)
 miPPTXConverter= PPTtoPPTXConverter(documents_path, libreoffice_path)

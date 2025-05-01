@@ -5,7 +5,7 @@ config:
       password: password
     pinecone:
       key: key
-      indexname: oeg-testing
+      indexname: name
   options:
     new: False
     eval: True
@@ -13,10 +13,7 @@ config:
     driver: driver-path
     libreoffice: libreoffice-path
   embedder:
-    old: nomic-embed-text-v1.5
+    old: nomic-embed-text
     new: jina/jina-embeddings-v2-base-es
   model:
-    modelname: meta-llama-3.1-8b-instruct
-    modelnamellama: mistral
-    host: http://127.0.0.1:1234
-    api_key: lm-studio
+    modelname: mistral

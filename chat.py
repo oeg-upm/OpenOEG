@@ -1,5 +1,4 @@
 import os
-from openai import OpenAI
 import json
 import re
 from time import time,sleep
@@ -12,17 +11,18 @@ import csv
 from src.evaluador import evaluar_respuestas
 
 
-with open('config2.yaml', 'r') as yaml_file: #TODO
+with open('config.yaml', 'r') as yaml_file: #TODO
     config = yaml.safe_load(yaml_file)
 
 new = config["config"]["options"]["new"]
 eval = config["config"]["options"]["eval"]
+mi_model =  config["config"]["model"]["modelname"]
 
 if new:
-    mi_model =  config["config"]["model"]["modelnamellama"]
+    
     mi_model_emb = config["config"]["embedder"]["new"]
 else:
-    mi_model =  config["config"]["model"]["modelname"]
+    
     mi_model_emb = config["config"]["embedder"]["old"]
 index_name = config["config"]["credentials"]["pinecone"]["indexname"]
 
@@ -70,35 +70,20 @@ def get_embedding(text, rol):
    
    # las de sistema search_document:
    # las de usuario search_query:
-   if new:
-        text = text.replace("\n", " ")
-            
-        if rol == "USER":
-            text= "search_query: "+text
-                
-        elif rol == "SYSTEM":
-            text = "search_document: "+text
-                
-        else: #ASSISTANT
-            text = text
-        return ollama.embeddings(model=mi_model_emb, prompt=text)["embedding"]
+   
+   text = text.replace("\n", " ")
+        
+   if rol == "USER":
+       text= "search_query: "+text
+           
+   elif rol == "SYSTEM":
+       text = "search_document: "+text
+           
+   else: #ASSISTANT
+       text = text
+       
+   return ollama.embeddings(model=mi_model_emb, prompt=text)["embedding"]
     
-   else:
-        if rol == "USER":
-            return client.embeddings.create(input = ["search_query: "+text], model=mi_model_emb).data[0].embedding 
-                
-        elif rol == "SYSTEM":
-            return client.embeddings.create(input = ["search_document: "+text], model=mi_model_emb).data[0].embedding 
-            
-        else: #ASSISTANT
-            return client.embeddings.create(input = [text], model=mi_model_emb).data[0].embedding 
-
-client = OpenAI(
-    
-    base_url=config["config"]["model"]["host"],
-    api_key=config["config"]["model"]["api_key"]
-)
-
 
 def text_completion(prompt, engine=mi_model):
     max_retry = 5
@@ -109,34 +94,11 @@ def text_completion(prompt, engine=mi_model):
     
     while True:
         try:
-                
-            if new:
-                response = ollama.chat(mi_model, messages=[{"role": "user", "content": prompt}])
-                
-                text = response["message"]["content"]
-                text = re.sub('[\r\n]+', '\n', text)
-                text = re.sub('[\t ]+', ' ', text)                
-            else:
-                response = client.chat.completions.create(
-                                        messages=[
-                                            {
-                                                "role": "user",
-                                                "content": prompt,
-                                            }
-                                        ],
-                                        model=engine,
-                                    )
-                
-                
-                text = response.choices[0].message.content
-                    #text = response['choices'][0]['text'].strip()
-                    #print("\n"+text+"\n")
-                text = re.sub('[\r\n]+', '\n', text)
-                text = re.sub('[\t ]+', ' ', text)
-                    #filename = '%s_log.txt' % time()
-                    #if not os.path.exists('./textos/logs'):
-                    #    os.makedirs('./textos/logs')
-                    #save_file('./textos/logs/%s' % filename, prompt + '\n\n==========\n\n' + text)
+            response = ollama.chat(mi_model, messages=[{"role": "user", "content": prompt}])
+            
+            text = response["message"]["content"]
+            text = re.sub('[\r\n]+', '\n', text)
+            text = re.sub('[\t ]+', ' ', text)                
             return text
         except Exception as oops:
             retry += 1
@@ -285,17 +247,25 @@ if __name__ == '__main__':
         for pregunta in preguntas:
             
             respuestasModelo.append(evaluate(pregunta))
+            print("Pregunta "+ pregunta+  " ejecutada")
         
         guardar_texto(respuestasModelo, './textos/respuestasModelo.csv')
         
         res = evaluar_respuestas(respuestasCSV=respuestasCSV,respuestasLLM=respuestasModelo)
 
-        
+        with open("./textos/metrics.txt", 'w', encoding='utf-8') as archivo:
+            for clave, valor in res.items():
+                archivo.write(f"{clave}: {valor}\n")
         
         print("\n Se ha generado CSV con las respuetas del modelo y los resultados son: \n")
         for key, value in res.items():
             print(f"{key}: {value}")
-    
+
+        
+        
+        
+        
+        
     else:
         while True:
             

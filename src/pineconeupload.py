@@ -1,5 +1,4 @@
 from pinecone import Pinecone, ServerlessSpec
-from openai import OpenAI
 import ollama
 from uuid import uuid4
 import json
@@ -30,36 +29,23 @@ class PineconeUploader:
     def __init__(self):
         
         
+    
+        self.index_name = config["config"]["credentials"]["pinecone"]["indexname"]
+
         if new:
-            self.index_name = config["config"]["credentials"]["pinecone"]["indexname"]
-        
             self.nexo_path = "./nexo/jina/"
-            os.makedirs(self.nexo_path, exist_ok=True)
-            self.pc = Pinecone(api_key = config["config"]["credentials"]["pinecone"]["key"])
-            
-            
-            self.index = self._setup_pinecone_index()
         else:
-        
-            self.index_name = config["config"]["credentials"]["pinecone"]["indexname"]
-            self.client = OpenAI(
-            base_url=config["config"]["model"]["host"],
-            api_key=config["config"]["model"]["api_key"]
-            )
-            
-            self.model = config["config"]["embedder"]["old"] #revisar eso y el nº de tokens
-            
             self.nexo_path = "./nexo/nomic/"
-            os.makedirs(self.nexo_path, exist_ok=True)
-            self.pc = Pinecone(api_key = config["config"]["credentials"]["pinecone"]["key"])
-            
-            
-            self.index = self._setup_pinecone_index()
+        os.makedirs(self.nexo_path, exist_ok=True)
+        self.pc = Pinecone(api_key = config["config"]["credentials"]["pinecone"]["key"])
+        
+        
+        self.index = self._setup_pinecone_index()
         
     
     
     def get_embedding(self, text, rol):
-           if new:
+           
             text = text.replace("\n", " ")
             
             if rol == "USER":
@@ -70,29 +56,23 @@ class PineconeUploader:
                 
             else: #ASSISTANT
                 text = text
-            return ollama.embeddings(model=config["config"]["embedder"]["new"], prompt=text)["embedding"]
-    
-    
-           else:
-            text = text.replace("\n", " ")
+                
+            if new:
             
-            if rol == "USER":
-                return self.client.embeddings.create(input=["search_query: "+text], model = self.model).data[0].embedding 
-            elif rol == "SYSTEM":
-                return self.client.embeddings.create(input=["search_document: "+text], model = self.model).data[0].embedding 
-            else: #ASSISTANT
-                return self.client.embeddings.create(input=[text], model = self.model).data[0].embedding 
+                return ollama.embeddings(model=config["config"]["embedder"]["new"], prompt=text)["embedding"]
+            else:
+                return ollama.embeddings(model=config["config"]["embedder"]["old"], prompt=text)["embedding"]
     
     def _setup_pinecone_index(self):
         """Crea el índice en Pinecone si no existe, y lo devuelve."""
         
         if self.index_name not in self.pc.list_indexes().names():
             self.pc.create_index(
-                name=self.index_name,
-                dimension=768,
-                metric="euclidean",
-                spec=ServerlessSpec(cloud='aws', region='us-east-1')
-            )
+                    name=self.index_name,
+                    dimension=768,
+                    metric="euclidean",
+                    spec=ServerlessSpec(cloud='aws', region='us-east-1')
+                )
             
         return self.pc.Index(self.index_name)
     

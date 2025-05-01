@@ -22,26 +22,21 @@ Para Selenium, instalar el driver asociado al navegador que se pretende usar, si
 
 Descargar e instalar LibreOffice https://es.libreoffice.org/descarga/libreoffice/ usando la versión correspondiente a su sistema operativo y luego especificar la ruta a soffice (en la versión de windows sería al fichero soffice.exe).
 
-En caso de usar Ollama revisar que se tiene instalado y que se tiene descargado el embedder que se pretenda usar.
-En caso de usar LMStudio asegurarse se tiene instalado el embedder que se pretende usar o el modelo de lenguaje y que a la hora de ejecutar cualquiera de los dos módulos se tiene el servidor local encendido con el puerto y nombre del embedder correcto. 
+Por último, comprobar que Ollama se tiene instalado y operativo y que se tiene descargado los embedder y modelo que se pretenda usar.
 
 ### Uso
 
 Para ejecutar el módulo de análisis ejecutar el script omnianalisis.py desde el directorio donde se haya clonado. Tardará unos minutos en ejecutarse y al finalizar habrá un mensaje de fin.
 
-Para ejecutar el módulo de chat ejecutar el script chat.py desde el mismo directorio. Desde la terminal se le dará el prompt al usuario donde podrá escribir su pregunta, para enviarla simplemente pulsará enter. Para salir de este escribir como pregunta únicamente una q y pulsar enter.
+Para ejecutar el módulo de chat ejecutar el script chat.py desde el mismo directorio. Si el modo de evaluación no está activado, desde la terminal se le dará el prompt al usuario donde podrá escribir su pregunta, para enviarla simplemente pulsará enter. Para salir de este escribir como pregunta únicamente una q y pulsar enter.
+Si el modo de evaluación está activado (eval: True) se buscará un csv en la carpeta 'textos' llamado 'goldstandard.csv', del que se extraerán las preguntas a evaluar. Luego se generará en la misma carpeta un txt con las métricas y un csv llamado 'respuestasModelo.csv' con las repeuestas generadas por si se quieren comprobar manualmente. Las métricas también serán impresas por pantalla cuando acabe la ejecución.
 
 
 ## NOTAS IMPORTANTES:
 
-En la versión actual PARA INSERTAR DATOS EN PINECONE (es decir, el script de omnianalisis.py):
+Si se quiere probar los resultados en español y luego en inglés se recomienda utilizar dos índices distintos para no mezclar, por eso también existen carpetas distintas dentro de nexo con ese propósito. Revisar en ese caso el indexname antes de ejecutar omnianalisis.
 
-La versión 'old' usa el embedder por medio de LMStudio
-La versión 'new' usa el embedder por medio de Ollama
-
-Para HACER CONSULTAS (es decir, el script de chat.py):
-
-Se puede usar tanto Ollama como LMStudio. Tener en cuenta la opción 'new' para la elección.
+Es importante revisar siempre tanto al ejecutar chat como omnianalisis la opción new para asegurarse con cuál embedder se va a hacer y qué nexo se va a comprobar.
 
 El fichero yaml llamado config se presenta a continuación:
 
@@ -55,17 +50,14 @@ config:
       key: "key de Pinecone"
       indexname: "nombre del índice de Pinecone"  # Solo se permiten letras minúsculas y guiones (-)
   options:
-    new: False  # Escribir True para la versión de Ollama, False para la versión de LM Studio
-    eval: True  # Escribir True para evaluar, False para no hacerlo
+    new: False  # Escribir True para utilizar el embedder new (español), False para utilizar el embedder false (nomic)
+    eval: True  # Escribir True para evaluar, False para no hacerlo, es decir, para hablar con el modelo
   paths:
     driver: "ruta/al/driver"  # Por defecto, geckodriver está en bin
     libreoffice: "ruta/a/libreoffice"
   embedder:
-    old: "nombre del embedder de LMStudio (para probar con embedders en inglés)"
-    new: "nombre del embedder de Ollama (para probar con embedders en español)"
+    old: "nombre del embedder en inglés (nomic)"
+    new: "nombre del embedder en español (jina)"
   model:
     modelname: "nombre del modelo a usar en LM Studio"
-    modelnamellama: "nombre del modelo a usar en Ollama"
-    host: "http://localhost:1234/v1"  # Dirección del modelo (por defecto en versión local)
-    api_key: "lm-studio"  # Si el modelo requiere autenticación (por defecto lm-studio en local)
 ```

@@ -14,7 +14,7 @@ class PPTXProcessor:
         archivos_pptx = [archivo for archivo in os.listdir(self.pptx_dir) if archivo.lower().endswith('.pptx')]
         return archivos_pptx
 
-    def extract_text(self, fichero):
+    def extract_text(self, fichero, charleados):
         """Extrae texto de las diapositivas de un archivo .pptx y organiza el contenido."""
         presentation = Presentation(os.path.join(self.pptx_dir, fichero))
         textos = []
@@ -28,8 +28,15 @@ class PPTXProcessor:
                 
                         for text in divided_texts:
                             #self.pcuploader.upload_text("Wiki: "+pagina  + " \n\n"+text, rol="SYSTEM") 
-                        
-                            texto_formateado = f"{fichero}: Diapositiva {{{slide_number}}}\n{text}"
+
+                            #print(fichero)
+                            
+                            if fichero in charleados: #TODO revisar esto
+                                
+                                texto_formateado = " ".join(charleados[fichero])+ f" {fichero}: Diapositiva {{{slide_number}}}\n{text}" 
+                            
+                            else:
+                                texto_formateado = f"{fichero}: Diapositiva {{{slide_number}}}\n{text}"
                             textos.append(texto_formateado)
         
         
@@ -50,12 +57,12 @@ class PPTXProcessor:
         return texts
     
     
-    def analyze_and_upload(self, rol="SYSTEM"):
+    def analyze_and_upload(self, charleados,rol="SYSTEM"):
         """Procesa todos los archivos .pptx en el directorio y sube el contenido extraído a Pinecone."""
         ficheros = self.list_pptx()
         res = ""
         for fichero in ficheros:
-            textos = self.extract_text(fichero)
+            textos = self.extract_text(fichero, charleados)
             if textos:  # Solo subir si hay textos válidos
                 """""
                 for texto in textos:

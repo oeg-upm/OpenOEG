@@ -83,9 +83,26 @@ def get_embedding(text, rol):
        text = text
        
    return ollama.embeddings(model=mi_model_emb, prompt=text)["embedding"]
-    
 
-def text_completion(prompt, engine=mi_model):
+
+def extraer_ultimos_mensajes(conversacion, n=2):
+    # Divide la conversación en bloques de mensajes (USER o ABIGAIL)
+    if not conversacion.strip():
+        return ''
+    
+    bloques = re.findall(r'(USER:.*?)(?=USER:|$)', conversacion, re.DOTALL)
+
+    # También incluye posibles respuestas de ABIGAIL después de cada USER
+    resultados = []
+    for bloque in bloques:
+        respuesta = re.search(r'(ABIGAIL:.*?)(?=USER:|$)', conversacion[conversacion.find(bloque) + len(bloque):], re.DOTALL)
+        if respuesta:
+            resultados.append(bloque.strip() + '\n' + respuesta.group().strip())
+    
+    # Devuelve los últimos n mensajes
+    return '\n\n'.join(resultados[-n:])
+
+def text_completion(prompt, mi_model, system_prompt):
     max_retry = 5
     retry = 0
     #p#rompt = prompt.encode(encoding='ASCII',errors='ignore').decode()
@@ -94,7 +111,15 @@ def text_completion(prompt, engine=mi_model):
     
     while True:
         try:
-            response = ollama.chat(mi_model, messages=[{"role": "user", "content": prompt}])
+            
+            
+            
+            response = ollama.chat(mi_model, messages=[{
+                'role': 'system',
+                'content': system_prompt,
+            },
+                                                       
+            {"role": "user", "content": prompt}])
             
             text = response["message"]["content"]
             text = re.sub('[\r\n]+', '\n', text)
@@ -134,8 +159,8 @@ def evaluate(a):
         message = '%s: %s - %s' % ('USER', timestring, a)
     
     
-        vector = get_embedding(message, "USER")
-        results = index.query(vector=vector, top_k=convo_length)
+        vector = get_embedding(a, "USER")
+        results = index.query(vector=vector, top_k=vectores_a_extraer)
         wiki_data = check_nexo(results)  # results should be a DICT with 'matches' which is a LIST of DICTS, with 'id'
         
         
@@ -149,21 +174,24 @@ def evaluate(a):
         
         prev_conv = open_file('./textos/logs/%s' % filename)
         
+        #ultimas = extraer_ultimos_mensajes(prev_conv, n=1)
         
+        #ultimas = ""
         #print("\n\nSoy las conversacion previa, a ver que hay aquí \n \n")
-        #print(prev_conv)
+        #print(ultimas)
         #print("\n \n")
         
-        #print("\n\nSoy los datos, a ver que hay aquí \n \n")
-        #print(wiki_data)
-        #print("\n \n") 
+        print("\n\nSoy los datos, a ver que hay aquí \n \n")
+        print(wiki_data)
+        print("\n \n") 
     
         
-        prompt = open_file('./textos/contexto.txt').replace('<<DATOS>>', wiki_data).replace('<<CONVERSACIÓN>>', prev_conv).replace('<<MENSAJE>>', a) #puede que sea demasiado largo, mirar
+        #prompt = open_file('./textos/contexto.txt').replace('<<DATOS>>', wiki_data).replace('<<CONVERSACIÓN>>', ultimas).replace('<<MENSAJE>>', a) #puede que sea demasiado largo, mirar
         #print(prompt)
+        sys_context = open_file('./textos/contexto.txt')
+
         
-        
-        output = text_completion(prompt) #prompt
+        output = text_completion(wiki_data + "\n\nA continuación darás una respuesta a la última pregunta formulada:\n\n" +a, mi_model, sys_context) #prompt
         timestamp = time()
         timestring = timestamp_to_datetime(timestamp)
         
@@ -174,7 +202,7 @@ def evaluate(a):
         return output
 
 if __name__ == '__main__':
-    convo_length = 2 # se puede cambiar
+    vectores_a_extraer = 2 # se puede cambiar
     #openai.api_key = open_file('./openaiapikey.txt')
     
     pc = Pinecone(

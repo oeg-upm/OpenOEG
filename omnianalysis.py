@@ -55,8 +55,11 @@ mi_scraper_all.close()
 if not miWikiAnalysis.login():
     print("Error en el inicio de sesión")
 else:
-    miWikiAnalysis.scrape_pages()
-        
+    mi_dict_charlas = miWikiAnalysis.scrape_pages()
+    #mi_dict_charlas = miWikiAnalysis.scrape_pages_charlas()
+    #print(mi_dict_charlas)
+
+
 miWikiAnalysis.close()
   
 if not miWikiDownloader.login():
@@ -70,17 +73,18 @@ miWikiDownloader.close()
 
 print("Ya descargué")
         
-#miPDFconverter = PPTtoPDFConverter(documents_path)
+#####  LEGADO miPDFconverter = PPTtoPDFConverter(documents_path)
 miPPTXConverter= PPTtoPPTXConverter(documents_path, libreoffice_path)
 miPPTXProcessor= PPTXProcessor(documents_path)
 miPDFProcessor= PDFProcessor(documents_path)
 
 
-#miPDFconverter.convert_to_pdf()
-#miPDFconverter.close()
+###### LEGADO miPDFconverter.convert_to_pdf()
+###### LEGADO miPDFconverter.close()
+
 miPPTXConverter.convert_to_pttx()
 
-miPPTXProcessor.analyze_and_upload()
-miPDFProcessor.analyze_and_upload()
+miPPTXProcessor.analyze_and_upload(mi_dict_charlas)
+miPDFProcessor.analyze_and_upload(mi_dict_charlas)
 
 print("\n\nFIN\n\n")

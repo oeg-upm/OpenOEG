@@ -35,14 +35,14 @@ class PDFProcessor:
     def divide_text(self, text):
         #texts = []
         
-        texts = RecursiveCharacterTextSplitter(chunk_size=8180, chunk_overlap=100).split_text(text) #https://medium.com/@vndee.huynh/build-your-own-rag-and-run-it-locally-langchain-ollama-streamlit-181d42805895
+        texts = RecursiveCharacterTextSplitter(chunk_size=7000, chunk_overlap=100).split_text(text) #https://medium.com/@vndee.huynh/build-your-own-rag-and-run-it-locally-langchain-ollama-streamlit-181d42805895
         # sacado de https://huggingface.co/jinaai/jina-embeddings-v2-base-es 
         # un poco menos para que entre lo la parte de get_embedding
         #texts = filter_complex_metadata(texts)
         
         return texts
     
-    def extract_text(self, document, file_name):
+    def extract_text(self, document, file_name, charleados):
         """Extrae el texto de cada página del PDF y lo guarda en una lista."""
         text_by_page = []
         for page_num in range(document.page_count):
@@ -54,14 +54,20 @@ class PDFProcessor:
                 divided_texts = self.divide_text(text)
                     
                 for text in divided_texts:
-                            
-                    texto_formateado = f"{file_name}: Página {{{page_num+1}}}\n{text}"
+                    
+                    
+                    if file_name in charleados:
+                        
+                        texto_formateado = " ".join(charleados[file_name])+f" {file_name}: Página {{{page_num+1}}}\n{text}"
+
+                    else:
+                        texto_formateado = f"{file_name}: Página {{{page_num+1}}}\n{text}"
                     text_by_page.append(texto_formateado)
             
             
         return text_by_page
 
-    def analyze_and_upload(self):
+    def analyze_and_upload(self, charleados):
         """Analiza y sube el contenido de cada PDF en el directorio a Pinecone."""
         ficheros = self.listar_pdf()
 
@@ -81,7 +87,7 @@ class PDFProcessor:
                 continue
                 
             metadata = os.path.basename(fichero) + " metadatos " + self.get_metadata(document)
-            text_content = self.extract_text(document, os.path.basename(fichero))
+            text_content = self.extract_text(document, os.path.basename(fichero), charleados)
             
             if not text_content:
                 print(f"Archivo omitido por no tener texto: {os.path.basename(fichero)}")

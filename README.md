@@ -50,7 +50,7 @@ config:
       key: "key de Pinecone"
       indexname: "nombre del índice de Pinecone"  # Solo se permiten letras minúsculas y guiones (-)
   options:
-    new: False  # Escribir True para utilizar el embedder new (español), False para utilizar el embedder false (nomic)
+    new: False  # Escribir True para utilizar el embedder new (español/jina), False para utilizar el embedder old (inglés/nomic)
     eval: True  # Escribir True para evaluar, False para no hacerlo, es decir, para hablar con el modelo
   paths:
     driver: "ruta/al/driver"  # Por defecto, geckodriver está en bin
@@ -59,5 +59,5 @@ config:
     old: "nombre del embedder en inglés (nomic)"
     new: "nombre del embedder en español (jina)"
   model:
-    modelname: "nombre del modelo a usar en LM Studio"
+    modelname: "nombre del modelo a usar (probado con mistral)"
 ```

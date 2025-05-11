@@ -5,6 +5,7 @@ from selenium.webdriver.firefox.options import Options
 from bs4 import BeautifulSoup
 from src.pineconeupload import PineconeUploader
 import time
+import csv
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 #from langchain_community.vectorstores.utils import filter_complex_metadata
 
@@ -52,7 +53,7 @@ class WikiAnalysis:
                 file.write(link + '\n')
 
     def divide_text(self, text):
-        #texts = []
+        #texts = [] https://delicias.dia.fi.upm.es/wiki/index.php/Charlas
         
         texts = RecursiveCharacterTextSplitter(chunk_size=8180, chunk_overlap=100).split_text(text) #https://medium.com/@vndee.huynh/build-your-own-rag-and-run-it-locally-langchain-ollama-streamlit-181d42805895
         # sacado de https://huggingface.co/jinaai/jina-embeddings-v2-base-es 
@@ -61,12 +62,105 @@ class WikiAnalysis:
         
         return texts
 
+    #def scrape_pages_charlas(self):
+    #    pagina = "https://delicias.dia.fi.upm.es/wiki/index.php/Charlas"
+    #    
+    #    self.driver.get(pagina)
+    #    time.sleep(2)   
+    #    soup = BeautifulSoup(self.driver.page_source, 'html.parser')
+    #    tables = soup.find_all('table') 
+    #
+    #    
+    #    for table in tables:
+    #        rows = table.find_all('tr')
+    #        for row in rows:
+    #            cols = row.find_all(['td', 'th'])
+    #            full_text = []
+    #            links_found = []
+    #            for col in cols:
+    #                text = col.get_text(separator=" ", strip=True)
+    #                link_tag = col.find('a')
+    #                if link_tag and link_tag.has_attr('href'):
+    #                    href = link_tag['href']
+    #                    if href.startswith('/'):
+    #                        href = "https://delicias.dia.fi.upm.es" + href
+    #                    links_found.append(href)
+    #                    
+    #                if href.startswith("https://delicias.dia.fi.upm.es/wiki/index.php/"):
+    #                    full_text.append(text)
+    #            if links_found:
+    #                # Guarda una línea por cada enlace encontrado, junto al resto del texto
+    #                for link in links_found:
+    #                    writer.writerow(['\t'.join(full_text), link])
+                        
+
+    def scrape_pages_charlas(self):
+        from bs4 import BeautifulSoup
+        import time
+
+        pagina = "https://delicias.dia.fi.upm.es/wiki/index.php/Charlas"
+        
+        self.driver.get(pagina)
+        time.sleep(2)   
+        soup = BeautifulSoup(self.driver.page_source, 'html.parser')
+        tables = soup.find_all('table') 
+        etiquetas = ["Date", "Place", "Speaker", "Topic"]
+        links_totales = []
+        mi_dict = {}
+
+        for table in tables:
+            rows = table.find_all('tr')
+            for row in rows:
+                cols = row.find_all(['td', 'th'])
+                texto_total = []
+                for col in cols:
+                    text = col.get_text(separator=" ", strip=True)
+                    link_tag = col.find('a')
+                    
+                    
+                    for i, etiqueta in enumerate(etiquetas):
+                        if len(texto_total) == i:
+                            texto_total.append(f"{etiqueta}: {text}")
+                            break  
+                        
+                    if link_tag and link_tag.has_attr('href'):
+                        href = link_tag['href']
+                        
+                        # Corrige si es http
+                        href = href.replace("http:", "https:")
+                        
+                        if href.startswith('/'):
+                            href = "https://delicias.dia.fi.upm.es" + href
+                        
+                        # Asegúrate de que sea un fichero válido
+                        if href.startswith("https://delicias.dia.fi.upm.es/wiki/") and href.endswith(('.ppt', '.pptx', '.pdf')):
+                            #print(href)
+                            nombre_fichero = href.split('/')[-1]
+                            if nombre_fichero.endswith('.ppt'):
+                                nombre_fichero = nombre_fichero.replace('.ppt', '.pptx')
+                            mi_dict[nombre_fichero] = texto_total
+                            links_totales.append(href)
+
+        return [links_totales, mi_dict]
+
+
+    
     def scrape_pages(self):
         """Recorre cada página, busca y guarda enlaces a presentaciones."""
         paginas = open_file(self.paginas_file)
         open(self.presentaciones_file, 'w').close()  # Limpia el archivo de enlaces previo
 
+        diccionario_charlas = {}
+        
         for pagina in paginas:
+            
+            if pagina == "https://delicias.dia.fi.upm.es/wiki/index.php/Charlas":
+                
+                par = self.scrape_pages_charlas()
+                diccionario_charlas = par[1]
+                self.save_links_to_file(par[0], self.presentaciones_file)
+                continue
+            
             self.driver.get(pagina)
             time.sleep(2)
 
@@ -77,7 +171,7 @@ class WikiAnalysis:
             if content_div:
                 useful_text = content_div.get_text(separator="\n", strip=True).replace("[\nedit\n]", "")
                 
-                
+                #TODO pagina de charlas especial https://delicias.dia.fi.upm.es/wiki/index.php/Charlas
                 
                 divided_texts = self.divide_text(useful_text)
                 
@@ -132,11 +226,13 @@ class WikiAnalysis:
                                       
                         
             if new_links:
-                self.save_links_to_file(new_links, self.presentaciones_file)
+                #self.save_links_to_file(new_links, self.presentaciones_file)
                 print(f"Enlaces guardados de {pagina}")
             else:
                 print(f"No se encontraron enlaces a presentaciones en {pagina}")
 
+        
+        return diccionario_charlas
     def close(self):
         """Cierra el navegador."""
         self.driver.quit()
